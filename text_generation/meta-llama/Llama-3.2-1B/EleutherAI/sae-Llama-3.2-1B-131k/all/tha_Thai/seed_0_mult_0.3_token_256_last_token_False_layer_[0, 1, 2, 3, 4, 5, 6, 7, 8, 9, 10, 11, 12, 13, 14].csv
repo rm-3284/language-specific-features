@@ -1,0 +1,795 @@
+seed,generated_text
+0,"Question:Write a Python code snippet to Check Extreme Weather Today: Temperature, Wind, Rain? for Students. Consider the Weather forecast for today and the weather forecast for the next two days and determine whether it is likely to rain or not today. Then, check the weather forecast for tomorrow and the weather forecast for the next two days and determine whether it is likely to rain or not tomorrow. If it is likely to rain today, check the weather forecast for tomorrow and the weather forecast for the next two days and determine whether it is likely to rain or not tomorrow. If it is likely to rain tomorrow, check the weather forecast for the next two days and determine whether it is likely to rain or not tomorrow. If it is likely to rain today, check the weather forecast for tomorrow and the weather forecast for the next two days and determine whether it is likely to rain or not tomorrow. If it is likely to rain tomorrow, check the weather forecast for the next two days and determine whether it is likely to rain or not tomorrow. If it is likely to rain today, check the weather forecast for tomorrow and the weather forecast for the next two days and determine whether it is likely to rain or not tomorrow. If it is likely to rain tomorrow, check the weather forecast for the next"
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 + d. Let u = s - -0.01. Which is the nearest to 0.1?  (a) 0.4  (b) u  (c) -0.3
+Answer:
+b<|end_of_text|>"
+2,"Question:
+Let q = -3.59 - -3. Let m = q - -0.01. Let w = m + -0.2. Which is the closest to 0.1?  (a) 1  (b) w  (c) -2
+Answer:
+b<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Let k = -0.2 + g. Let m = -0.3 + k. Which is the closest to 0.1?  (a) m  (b) -0.3  (c) -2/9
+Answer:
+c<|end_of_text|>"
+4,"Question:
+Let v = -0.02 - -0.07. Let m = 0.15 + v. Let g = m + -0.05. Which is the nearest to 2/3?  (a) g  (b) -3  (c) -1/4
+Answer:
+c<|end_of_text|>"
+5,"Question:
+Let a = 0.028 - 0.038. Let s = a - -0.01. Let v = -0.01 + s. Which is the closest to 0?  (a) 0.2  (v 0.5)
+Answer:
+a<|end_of_text|>"
+6,"def calculate_heart_rate(age, gender):
+    """"""Calculate the heart rate of a person based on their age and gender""""""
+    if gender =='male':
+        if age < 60:
+            heart_rate = 60
+        else:
+            heart_rate = 70
+    else:
+        if age < 60:
+            heart_rate = 60
+        else:
+            heart_rate = 70
+    return heart_rate
+<|end_of_text|>"
+7,# 2.5.5.5.3.2.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
+8,"Question:
+Let o be (-3)/((-6)/(-4)) + 0. Let s be (-2 - 1)*o/(-1). Suppose -s*u + 2*u - 18 = 0. What is the lowest common multiple of u and 18?
+Answer:
+72<|end_of_text|>"
+9,"Question:
+Let x be (-3)/((-9)/(-3))*3. Let y = 0.2 + -0.3. Which is the nearest to x?  (a) y  (b) 1/2  (c) -1/3
+Answer:
+a<|end_of_text|>"
+10,"Question:Create a Python script snippet that Determines Extreme Hygiene in Hotels: Cleaning和ดูแลทั่วไป for Beginners. Incorporate if/else or switch/case statement to handle various scenarios. Ensure your control flow is clear and readable. Provide detailed comments explaining your approach and any decisions made along the way.
+
+Solution:Here is a python program which determines extreme hygiene in hotels based on cleaning and hygiene standards. It uses if... else statement to check different conditions and perform corresponding actions depending upon them. 
+
+```python
+import pandas as well as smartsuit
+from smartsuite.tools.workflow_engine import WorkflowEngine
+# load data from CSV file
+df = smartsuit.load('https://www.google.com/search?q=extreme+hygiene+in+hotels&betw=0%7B%7D%7D')
+# create instance of smartsuite workflow engine
+we = WorkflowEngine()
+# loop through each row of the data
+for i in range(len(df)):
+    # get each record from the dataset
+    row = df[i]
+    # extract information from each column
+    name = row['hotel_name']
+    checkin = row['checkin']
+    checkout = row['checkout']
+    room_type = row"
+11,"Question: A 25-year-old woman presents to the emergency room with severe burning mouth symptoms. She has been using a mouthwash twice daily for the past 3 years. She has no other medical problems. On examination, she has severe burning mouth symptoms and her tongue is red and swollen. She has no other abnormalities. She has a history of taking a very high dose of vitamin A for 5 years. Which of the following is the most appropriate treatment?
+A. Vitamin A supplementation
+B. Vitamin A therapy
+C. Vitamin A withdrawal
+D. Vitamin A treatment
+Answer: A<|end_of_text|>"
+12,"Question:
+Let r = 0.5 + -0.3. Let f = 0.07 - r. Let z = -0.043 + f. Round z to 0 decimal digits.
+Answer:
+0<|end_of_text|>"
+13,"Question:
+Let h = -0.05 + 0.05. Let i = 0.07 + h. Let x = 0.074 + i. What is x rounded to one dp?
+Answer:
+0.1<|end_of_text|>"
+14,"Question:Design a C++ function snippet to Check Extreme Flossing: Types of Floss Needed for Different Teeth
+A. function check_extreme_flossing( teeth ) {
+B. function check_extreme_flossing( teeth ) {
+C. function check_extreme_flossing( teeth ) {
+D. function check_extreme_flossing( teeth ) {
+Answer: D<|end_of_text|>"
+15,"Question:
+Let y = -0.01 + 0.31. Let m = -0.5 - y. Let r = 0.05 - m. Which is the nearest to 0?  (a) -1/5  (b) 1/4  (c) r
+Answer:
+a<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.13. Let y = 0.01 + j. Let l be (-4)/(-14)*(-7 + (-3 - -1)). Which is the nearest to l?  (a) y  (b) 0.5  (c) 0.2
+Answer:
+c<|end_of_text|>"
+17,"Question:
+Let f = 0.013 - 0.023. Let x = -0.02 + f. Let i = x - -0.039999997. What is i rounded to seven dps?
+Answer:
+0.0000002<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3. Let i = 0.2 - y. Let u = i - -0.3. What is the closest to 1 in -3, u, 3?
+Answer:
+u<|end_of_text|>"
+19,"Question:Build a Java module that takes an array of numbers and returns the sum of all the even numbers in the array. If the array contains no even numbers, return 0.
+
+Solution:Write a function that takes an array of numbers and returns the sum of all the even numbers in the array. If the array contains no even numbers, return 0.
+
+```java
+public int getEvenNumberSum(int[] numbers) {
+    int sum = 0;
+    for (int i = 0; i < numbers.length; i++) {
+        if (numbers[i] % 2 == 0) {
+            sum += numbers[i];
+        }
+    }
+    return sum;
+}
+```<|end_of_text|>"
+20,"Question: Which of the following is a characteristic of the type of death in this case?
+A. Death by suffocation
+B. Death by drowning
+C. Death by hanging
+D. Death by burning
+Answer: A<|end_of_text|>"
+21,"Question:
+Let g = -0.1 + 0.3. Let y = 1.3 + g. Let k = 0.3 + y. Which is the closest to 0.1?  (a) -0.5  (b) k  (c) -2/3
+Answer:
+b<|end_of_text|>"
+22,"Question: Which of the following is a characteristic of an epidemic?
+A. It is a disease that is widely spread
+B. It is a disease that is not life threatening
+C. It is a disease that is not very common
+D. It is a disease that is not contagious
+Answer: D<|end_of_text|>"
+23,"Question: Which of the following is not a characteristic of atherosclerosis?
+A. Presence of thickened arterial wall
+B. Presence of smooth muscle proliferation
+C. Presence of fibrous tissue
+D. Presence of lipid deposits
+Answer: A<|end_of_text|>"
+24,"Question:Write a C++ code snippet to Determine Low Flossing Frequency: Correct Flossing Technique for Analysis for Professionals. Consider the Transparency and implement appropriate if/else or switch/case statements to handle different cases. No loops required.
+```
+if (transparency >= 0.7) {
+    //Low Flossing Frequency
+    if (flossing == 'F') {
+        if (frequency >= 3) {
+            //Correct Flossing Technique
+        } else {
+            //Floss more often
+        }
+    } else {
+        //Floss less often
+    }
+} else {
+    //Floss less often
+}
+```
+```
+if (transparency >= 0.7) {
+    //Low Flossing Frequency
+    if (flossing == 'F') {
+        if (frequency >= 3) {
+            //Correct Flossing Technique
+        } else {
+            //Floss more often
+        }
+    } else {
+        //Floss less often
+    }
+} else {
+    //Floss less often
+}
+``````````````````````````````````````````````````````````````````"
+25,"# -*- coding: utf-8 -*-
+""""""
+    This is a sample-based learning environment for the course
+    ""Machine Learning: From Data to Knowledge""
+    This is a sample-based learning environment for the course
+    ""Machine Learning: From Data to Knowledge""
+    This is a sample-based learning environment for the course
+    ""Machine Learning: From Data to Knowledge""
+    This is a sample-based learning environment for the course
+    ""Machine Learning: From Data to Knowledge""
+    This is a sample-based learning environment for the course
+    ""Machine Learning: From Data to Knowledge""
+    This is a sample-based learning environment for the course
+    ""Machine Learning: From Data to Knowledge""
+    This is a sample-based learning environment for the course
+    ""Machine Learning: From Data to Knowledge""
+    This is a sample-based learning environment for the course
+    ""Machine Learning: From Data to Knowledge""
+    This is a sample-based learning environment for the course
+    ""Machine Learning: From Data to Knowledge""
+    This is a sample-based learning environment for the course
+    ""Machine Learning: From Data to Knowledge""
+    This is a sample-based learning environment for the course
+    ""Machine Learning: From Data to Knowledge""
+    This is a sample"
+26,"Question:
+Let s = -4.25 + 0.25. Let x = 4.8 + s. Let p = x + 0.08. Which is the second biggest value?  (a) p  (b) -2/5  (c) 1/3
+Answer:
+a<|end_of_text|>"
+27,"Question:Design a Python function to check if a given number is a multiple of 3 and 5 at the same time. If so, return the number. Otherwise, return 0.
+```
+function checkMultipleOf3And5(int) {
+  if (int % 3 == 0 && int % 5 == 0) {
+    return int;
+  } else {
+    return 0;
+  }
+}
+```
+```
+function checkMultipleOf3And5(int) {
+  if (int % 3 == 0 && int % 5 == 0) {
+    return int;
+  } else {
+    return 0;
+  }
+}
+```
+```
+function checkMultipleOf3And5(int) {
+  if (int % 3 == 0 && int % 5 == 0) {
+    return int;
+  } else {
+    return 0;
+  }
+}
+```
+```
+function checkMultipleOf3And5(int) {
+  if (int % 3 == 0 && int % 5 == 0) {
+    return int;
+  } else {
+    return 0;
+  }
+}
+```
+```
+function checkMultipleOf3And5(int) {
+  if (int %"
+28,"Question:
+Let f = 0.05 - 0.05. Let i = 0.001 + -0.001. Let h be (-2)/(-6) + (-5)/6. Which is the closest to h?  (a) i  (b) f  (c) -1
+Answer:
+a<|end_of_text|>"
+29,"Question:Write a Julia code snippet to Update Low Fitness Center: Work Out Planning for Analysis for Experts? If you are interested in learning more about this topic, you can access the course here: https://www.udemy.com/course/learn-to-code-in-julia/ If you are interested in learning more about this topic, you can access the course here: https://www.udemy.com/course/learn-to-code-in-julia/ If you are interested in learning more about this topic, you can access the course here: https://www.udemy.com/course/learn-to-code-in-julia/ If you are interested in learning more about this topic, you can access the course here: https://www.udemy.com/course/learn-to-code-in-julia/
+If you are interested in learning more about this topic, you can access the course here: https://www.udemy.com/course/learn-to-code-in-julia/ If you are interested in learning more about this topic, you can access the course here: https://www.udemy.com/course/learn-to-code-in-julia/ If you are interested in learning more about this topic, you can access the course here: https://www.udemy.com/course/learn-to-code-in-julia/ If you are interested"
+30,"Question:
+Let y = -0.02 - -0.17. Let s = y - 0.15. Let u = s - -0.001. What is u rounded to 3 decimal points?
+Answer:
+0.001<|end_of_text|>"
+31,"Question:
+Let m = -1.07 + 0.07. Let i = 0.03 + m. Let x = -0.04 + i. Which is the nearest to x?  (a) 0.5  (b) -1/3  (c) 3/2
+Answer:
+b<|end_of_text|>"
+32,"Question:
+Let i = 0.036 - -0.164. Let x = 0.2 + i. Let g = x + -0.05. What is the smallest value in 2/9, g, -2?
+Answer:
+-2<|end_of_text|>"
+33,"def analyze_tributies(tributies):
+    """"""
+    Analyze the tributies of each tribe in the kingdom and determine the most important one.
+    If the tribe has more than one tributies, return the one with the highest value.
+    If the tribe has no tributies, return ""No tributies""
+    """"""
+
+    # Create an empty list to store the tributies
+    tributies_list = []
+
+    # Iterate through each tribe in the kingdom
+    for tribe in tributies:
+        # Get the name of the tribe
+        name = tribe[""name""]
+
+        # Get the value of each tributies
+        value = tribe[""value""]
+
+        # Add the name and value to the list
+        tributies_list.append([name, value])
+
+    # Sort the list of tributies based on the value
+    sorted_tributies = sorted(tributies_list, key=lambda x: x[1], reverse=True)
+
+    # Get the first element from the list
+    first_tributie = sorted_tributies[0]
+
+    # Get the second element from the list
+    second_tributie = sorted_tributies[1]
+
+   "
+34,"Question: Which of the following is not a feature of an infant with persistent hyperinsulinemia?
+A. Growth retardation
+B. Delayed pubertal stage
+C. Thirst
+D. Hyperglycemia
+Answer: A<|end_of_text|>"
+35,"Question:
+What is the smallest common multiple of 6 and 2?
+Answer:
+6<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -0.59. Let r = o + 0.041. Let i = -0.03 - r. What is the smallest value in 0.3, i, -1/4?
+Answer:
+-1/4<|end_of_text|>"
+37,"# List of members of the House of Representatives of Thailand (2011–2016)
+
+This is a list of members of the House of Representatives of Thailand (2011–2016) as appointed by the Constitution of the Kingdom of Thailand, including members of the Senate, members of the House of Representatives of Thailand, members of the House of Representatives of the United front, members of the House of Representatives of the United front, members of the House of Representatives of the United front, members of the House of Representatives of the United front, members of the House of Representatives of the United front, members of the House of Representatives of the United front, members of the House of Representatives of the United front, members of the House of Representatives of the United front, members of the House of Representatives of the United front, members of the House of Representatives of the United front, members of the House of Representatives of the United front, members of the House of Representatives of the United front, members of the House of Representatives of the United front, members of the House of Representatives of the United front, members of the House of Representatives of the United front, members of the House of Representatives of the United front, members of the House of Representatives of the United front, members of the House of"
+38,"Question:
+What is the common denominator of 3/10 and 89/12?
+Answer:
+60<|end_of_text|>"
+39,"Question:
+Let i = -0.06 + 0.07. Let x = -0.04 + i. Let m = 0.04 + x. What is the closest to 0 in 1/4, m, -0.3?
+Answer:
+m<|end_of_text|>"
+40,"# -*- coding: utf-8 -*-
+""""""
+Created on Thu 13 Aug 2018 11.19  PM
+@author: Nop_5
+""""""
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_squaredudit, r2
+import warnings
+warnings.filterwarnings('ignore')
+import math
+import sys
+import numpy.matlab
+import scipy
+from scipy.optimize import newton
+import warnings
+import numpy as np
+import pandas as pd
+import numpy.matlab
+import scipy
+from scipy.optimize import newton
+import warnings
+import numpy as np
+import pandas as pd
+import numpy.matlab
+import scipy
+from scipy.optimize import newton
+import warnings
+import numpy as np
+import pandas as pd
+import numpy.matlab
+import scipy
+from scipy.optimize import newton
+import warnings
+import numpy as np
+import pandas as pd
+import numpy.matlab
+import scipy
+from scipy.optimize import newton
+import warnings
+import numpy as np
+import pandas as pd
+import numpy.matlab
+import scipy
+from scipy.optimize import newton
+import warnings
+import numpy as np
+import pandas as pd
+import numpy.matlab
+"
+41,"Question:
+Let a = -8.5 + 8. Let q = a - -0.2. Let d = -0.048 + q. What is d rounded to 0 decimal digits?
+Answer:
+-1<|end_of_text|>"
+42,"Question:
+Let l = 0.13 - 0.1. Let s = -0.063 + l. Let f = s - -0.03999975. Round f to seven dps.
+Answer:
+-0.0000003<|end_of_text|>"
+43,"Question:
+Let k = -0.037 + 0.037. Let w = -0.01 - k. Let d = -0.06 - w. Which is the closest to -1?  (a) -0.4  (b) d  (c) -2/3
+Answer:
+a<|end_of_text|>"
+44,"Question:
+Let o = -2.1 + 2. Let s = 0.05 - 0.05. Let m = o - s. What is the closest to m in 0.4, -0.5, 0.3?
+Answer:
+-0.5<|end_of_text|>"
+45,"Question:
+Let x = 0.02 + 0.38. Let d = 0.36 + x. Let v = -0.3 - d. What is the closest to 2 in 3, v, 0.5?
+Answer:
+3<|end_of_text|>"
+46,"Question:Build a Java program that takes a list of numbers as input, and then iterates through each number and checks if it is a multiple of 3 or 5. If it is, print out the number. Otherwise, print out the number in a different way. For example, if the input is [3, 6, 9, 12], the output should be [3, 6, 9, 12].
+```
+void checkMultiple(int[] arr) {
+    for (int i = 0; i < arr.length; i++) {
+        if ((arr[i] % 3 == 0) || (arr[i] % 5 == 0)) {
+            System.out.println(arr[i]);
+        } else {
+            System.out.println(""x"");
+        }
+    }
+}
+```
+```
+void checkMultiple(int[] arr) {
+    for (int i = 0; i < arr.length; i++) {
+        if ((arr[i] % 3 == 0) || (arr[i] % 5 == 0)) {
+            System.out.println(arr[i]);
+        } else {
+            System.out.println(""x"");
+        }
+    }
+}
+```
+```
+void checkMultiple(int[] arr)"
+47,"# -*- coding: utf-8 -*-
+""""""
+Created on Tue Mar 13 15:49 2019
+
+@author: arun
+""""""
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import matplotlib.colors as colors
+import sys
+import os
+import json
+import pandas._libs._stats
+import matplotlib._imports
+import warnings
+warnings.filterwarnings('ignore')
+import numpy.ma.masked_equal
+import matplotlib.gridspec as gs
+import matplotlib.colors as _colors
+import matplotlib.colors as _colored
+import matplotlib.pyplot as plt
+from matplotlib.colors import ListedMap
+from matplotlib.colors import LinearTRANSPARENT
+from matplotlib.colors import LinearSpace
+from matplotlib.colors import LinearMap
+from matplotlib.colors import LinearizedLinearMap
+from matplotlib.colors import LinearizedLinearMap_1
+from matplotlib.colors import LinearizedLinearMap_2
+from matplotlib.colors import LinearizedLinearMap_3
+from matplotlib.colors import LinearizedLinearMap_4
+from matplotlib.colors import LinearizedLinearMap_5
+from matplotlib.colors import LinearizedLinearMap_6
+from matplotlib.colors import LinearizedLinearMap_7
+from matplotlib.colors import LinearizedLinearMap_8
+from matplotlib.colors import LinearizedLinearMap_9
+from matplotlib"
+48,"Question: Which of the following is the most common cause of death in this condition?
+A. Acquired microcephalic kinesis
+B. Acquired microcephalic kinesis with myokymia
+C. Acquired microcephalic kinesis with myokymia and myoglobinuria
+D. Acquired microcephalic kinesis with myokymia and myoglobinuria
+Answer: A<|end_of_text|>"
+49,"Question:Design a Python function to determine if a given number is a perfect number. A perfect number is a number equal to the sum of all its factors plus 1. For example, 6 is a perfect number because it is the sum of 1, 2, 3, 6,  respectively. A perfect number must be a positive integer. Write a function that takes an integer as input and returns true if it is a perfect number and false otherwise.
+```python
+def isPerfectNumber(number):
+    if number > 0:
+        for i in range(1,number+1):
+            if number % i == 0:
+                sum = 0
+                for j in range(1,i+1):
+                    if i % j == 0:
+                        sum += j
+                if sum == number:
+                    return True
+        return False
+    else:
+        return False
+```<|end_of_text|>"
+50,"Question:
+Let g = 0.2 + 0. Let h = 0.2 + g. Let i be 0/(1 - 0 - 0). Which is the nearest to i?  (a) h  (b) 0.4  (c) -0.5
+Answer:
+c<|end_of_text|>"
+51,"Question:
+Let w = -0.2 + 0.1. Let z = -0.3 - w. Let q = -0.2 + z. Which is the second smallest value?  (a) -3/7  (b) q  (c) -1
+Answer:
+a<|end_of_text|>"
+52,"def create_new_list(old_list):
+    """"""Create a new list that contains the first two elements of the original list, then add a third element to the end of the list""""""
+    new_list = [old_list[0], old_list[1], old_list[2]]
+    return new_list
+
+<|end_of_text|>"
+53,"Question:
+What is the common denominator of -59/66 and -77/138?
+Answer:
+1386<|end_of_text|>"
+54,"Question:
+Let u = -0.5 + 0.5. Let r = 0.05 - -0.45. Let k = r + u. What is the smallest value in k, -1/4, 2?
+Answer:
+-1/4<|end_of_text|>"
+55,"def get_first_letter(string):
+    """"""Returns the first letter of the given string.""""""
+    return string[0]
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 77/8 and 103/72?
+Answer:
+72<|end_of_text|>"
+57,"Question:
+Let w = -0.019 + 0.021. Let q = w + -0.02. Which is the nearest to 1?  (a) 2/3  (b) q  (c) -0.3
+Answer:
+a<|end_of_text|>"
+58,"def marketing_promo_code(brand, product):
+    """"""Return a marketing promo code for a product based on the brand and product""""""
+
+    if brand == ""Nike"" and product == ""Running Shoes"":
+        return ""NICEBANGBANG""
+    elif brand == ""Adidas"" and product == ""Running Shoes"":
+        return ""NICEBANGBANG""
+    elif brand == ""Puma"" and product == ""Running Shoes"":
+        return ""NICEBANGBANG""
+    else:
+        return ""NICEBANGBANG""
+<|end_of_text|>"
+59,"def find_non_prime_factors(n):
+    """"""Return a list of all factors of n that are not prime""""""
+    factors = []
+    for i in range(1, n+1):
+        if n % i == 0:
+            factors.append(i)
+    return factors
+<|end_of_text|>"
+60,"Question:
+Let a = -0.2 + 0.2. Let z = -0.7 + 0.5. Let f = z - a. What is the nearest to f in -0.3, 1, 2/3?
+Answer:
+-0.3<|end_of_text|>"
+61,"Question:
+Let l = -7.75 - -7.9. Let p = l + -0.15. Let x = -0.2 + p. What is the smallest value in 0.5, x, 0.2?
+Answer:
+x<|end_of_text|>"
+62,"Question:
+Let f = -0.4 - -0.3. Let a = f + 0.3. Let z = 0.014 + a. Round z to one decimal place.
+Answer:
+0.1<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.0270004. Round o to 6 decimal digits.
+Answer:
+0.000004<|end_of_text|>"
+64,"Question:
+Let q = -0.2 + 0.1. Let l = -0.1 + q. Let v = -0.2 + l. What is the closest to -1 in v, -0.4, 2?
+Answer:
+-0.4<|end_of_text|>"
+65,"Question:
+Let k = -0.066 + 0.067. Let p = k + -0.001. Let j = -0.019 - p. What is the smallest value in -0.5, j, 0.2?
+Answer:
+-0.5<|end_of_text|>"
+66,"Question:
+Let f = -1.3 + 0.8. Let d = -0.5 + f. Let h = d - -0.3. What is h rounded to zero decimal places?
+Answer:
+1<|end_of_text|>"
+67,"Question: Which of the following is not a characteristic of the first stage of metaplastic changes?
+A. Irregular margins
+B. Irregular shape
+C. Increased thickness
+D. Irregular texture
+Answer: A<|end_of_text|>"
+68,"Question:
+What is 3/50 of a litre in millilitres?
+Answer:
+60<|end_of_text|>"
+69,"Question:
+Let i = -0.046 + 0.041. Let a = 0.015 + i. Let m = -0.048 + a. What is the smallest value in m, 2, 0.3?
+Answer:
+0.3<|end_of_text|>"
+70,"Question: Which of the following is the best treatment for stage 3 of bladder carcinoma
+A. Radical cystectomy
+B. Radical cystectomy plus irradiation
+C. Radical cystectomy plus chemotherapy
+D. Radical cystectomy plus irradiation and chemotherapy
+Answer: D<|end_of_text|>"
+71,"Question:
+Let a = 0.035 + 0.165. Let r = -0.16 - a. Let i = r + 0.07. What is the smallest value in i, 0.5, -3/8?
+Answer:
+-3/8<|end_of_text|>"
+72,"Question:
+Let i = -0.4 + 0.3. Let d = 0.02 + -0.08. Let h = d - i. What is the closest to 1 in 1/2, h, 2?
+Answer:
+1/2<|end_of_text|>"
+73,"def update_ingredients(ingredients):
+    """"""Update the ingredients list with new information about the food.""""""
+
+    # Create a new list of ingredients with the same information as the original list
+    new_ingredients = ingredients.copy()
+
+    # Update the first ingredient with the new information
+    new_ingredients[0] = ""Apple""
+
+    # Update the second ingredient with the new information
+    new_ingredients[1] = ""Banana""
+
+    # Update the third ingredient with the new information
+    new_ingredients[2] = ""Mango""
+
+    return new_ingredients
+<|end_of_text|>"
+74,"def create_ingredient_list(ingredients):
+    """"""
+    Create a list of ingredients for a dish, where each ingredient is repeated twice.
+    For example, if the input is ['rice', 'beans', 'rice'], the output should be ['rice', 'beans', 'rice', 'beans']
+    """"""
+    ingredient_list = []
+    for ingredient in ingredients:
+        ingredient_list.append(ingredient)
+        ingredient_list.append(ingredient)
+    return ingredient_list
+
+<|end_of_text|>"
+75,"Question: A 3-year-old child presents with left-sided hearing loss and a redness of the skin around the ear. The hearing loss is unilateral and progressive. On examination, there is a redness of the skin around the ear with an open wound. On imaging, there is an osteochondroma on the left side. Which of the following is the most likely diagnosis?
+A. Scoliosis
+B. Encephalocentesis
+C. Myelogram
+D. Myeloencephalogram
+Answer: A<|end_of_text|>"
+76,"Question:
+Let y = 0.5 + -0.1. Let q = -0.4 + y. Let i = -0.2 + q. What is the closest to -1 in i, 0.4, -2/3?
+Answer:
+-2/3<|end_of_text|>"
+77,"def create_room_layout(room_size, room_type):
+    """"""Create a room layout based on the given room size and room type.
+
+    Args:
+        room_size: The size of the room in meters (e.g. 3.0)
+        room_type: The type of room (e.g. 'living room', 'bedroom', 'kitchen')
+
+    Returns:
+        A list of lists representing the room layout, with each sublist containing the position of each item in the room
+    """"""
+
+    # Define the dimensions of the room
+    room_width = room_size[0]
+    room_length = room_size[1]
+
+    # Define the position of each item in the room
+    item_position = []
+    if room_type == 'living room':
+        item_position.append([0, 0])
+        item_position.append([room_width, 0])
+        item_position.append([0, room_length])
+        item_position.append([room_width, room_length])
+    elif room_type == 'bedroom':
+        item_position.append([0, 0])
+        item_position.append([room_width, 0])
+        item_position.append([0, room_length])
+        item_position.append([room_width, room_length])
+    elif room_type == 'kitchen':
+"
+78,"Question: Which of the following is not a feature of the following condition?
+A. Intestinal obstruction
+B. Splanchnopleural effusion
+C. Splanchnopleural inflammation
+D. Splanchnopleural congestion
+Answer: A<|end_of_text|>"
+79,"Question:
+Let x = 0.023 - 0.02300158. Round x to seven decimal places.
+Answer:
+-0.0000016<|end_of_text|>"
+80,"Question:
+What is the third biggest value in -3, 0.2, 1/3, -1/7?
+Answer:
+-1/7<|end_of_text|>"
+81,"Question:
+Let o = -0.5 - -0.3. Let x = -0.2 - o. Let p = x - -0.3. Which is the nearest to p?  (a) -3  (b) -2/9  (c) -1/4
+Answer:
+b<|end_of_text|>"
+82,"Question:
+Let g = -0.036 + 0.136. Let v = g + -0.09. Let k = -0.09 + v. What is the closest to k in -2/7, 2/5, 1/3?
+Answer:
+-2/7<|end_of_text|>"
+83,"Question:
+What is the third biggest value in -1/3, -2/7, -0.1, 2/3?
+Answer:
+-2/7<|end_of_text|>"
+84,"def update_ingredients(ingredients):
+    """"""
+    Update the ingredients list with new ingredients
+    if the first ingredient is a fruit and the second ingredient is a vegetable
+    """"""
+    new_ingredients = []
+    for i in range(len(ingredients)):
+        if ingredients[i] == 'fruit' and ingredients[i+1] =='vegetable':
+            new_ingredients.append(ingredients[i+1])
+    return new_ingredients
+
+<|end_of_text|>"
+85,"def modify_list(my_list):
+    """"""Modify the elements of the list such that they are replaced by their respective position in the list.
+    For example, if the list is [1, 2, 3, 4, 5], the modified list should be [1, 2, 3, 4, 5]""""""
+    # Write your code here
+    for i in range(len(my_list)):
+        my_list[i] = i
+    return my_list
+<|end_of_text|>"
+86,"Question:Build a Python module snippet that Determines Extreme Weather Based on Weather Data. Incorporate if/else or switch/case statements to handle different weather conditions. Ensure your control flow is clear and readable by using comments.
+Solution:Here is a python program which determines extreme weather based on weather data. It uses if... else statement to check whether the temperature is above 35 degree Celsius or not. If it is then it will display ""Hot Weather"" else it will display ""Cold Weather"".<|end_of_text|>"
+87,"Question: The following is a characteristic of atherosclerosis
+A. Thickening of the arterial wall
+B. Intimal thickening
+C. Thrombus formation
+D. Sclerosis of the arterial wall
+Answer: B<|end_of_text|>"
+88,"Question:
+Let i = 0.1 - -0.09. Let s = -0.1 + i. Let m = -0.01 + s. Which is the closest to m?  (a) 0.1  (b) 2/5  (c) -3
+Answer:
+a<|end_of_text|>"
+89,"Question:
+Let g = -0.031 - 0.049. Let m = 0.18 - g. Let d = m - 0.068. What is d rounded to two dps?
+Answer:
+-0.07<|end_of_text|>"
+90,"def add_to_set_and_access_list(set_, list_):
+    """"""Add elements to a set and access elements from a list""""""
+
+    # Add elements to the set
+    set_.add('apple')
+    set_.add('banana')
+    set_.add('orange')
+
+    # Access elements from the list
+    for i in range(len(list_)):
+        if list_[i] == 'apple':
+            return list_[i]
+    return None
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 103 is divided by 43?
+Answer:
+30<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 0.2. Let h = -3.4 - -3. Let l = h + p. What is the smallest value in -2/7, l, 2?
+Answer:
+-2/7<|end_of_text|>"
+93,"Question:
+Let i = 0.019 - -0.291. Let j = 0.32 + i. Let f = -0.14 + j. Which is the closest to -1?  (a) f  (b) 2/7  (c) -3
+Answer:
+a<|end_of_text|>"
+94,"Question:Build a Julia function that takes an array of numbers and returns the sum of all the even numbers in the array. If the array is empty, return 0.
+```function sumEvenNumbers(arr) 
+  if(arr == undefined || arr == null || arr.length == 0){
+    return 0;
+  } 
+  var sum = 0;
+  for(var i = 0; i < arr.length; i++){
+    if((i % 2) == 0){
+      sum += arr[i];
+    }
+  }
+  return sum;
+}
+```
+<|end_of_text|>"
+95,"Question:
+Let o = 0.2 + 0.4. Let m = o - 0.3. Let j = 0.01 + m. Which is the closest to -1/3?  (a) 1  (b) j  (c) 0.2
+Answer:
+b<|end_of_text|>"
+96,"# -*- coding: utf-8 -*-
+""""""
+    This is a test for the function to find the maximum value of the given list
+    (i.e. find the maximum value of the given list)
+    This is a test for the function to find the maximum value of the given list
+    (i.e. find the maximum value of the given list)
+    This is a test for the function to find the maximum value of the given list
+    (i.e. find the maximum value of the given list)
+    This is a test for the function to find the maximum value of the given list
+    (i.e. find the maximum value of the given list)
+    This is a test for the function to find the maximum value of the given list
+    (i.e. find the maximum value of the given list)
+    This is a test for the function to find the maximum value of the given list
+    (i.e. find the maximum value of the given list)
+    This is a test for the function to find the maximum value of the given list
+    (i.e. find the maximum value of the given list)
+    This is a test for the function to find the maximum value of the given list
+    (i.e."
+97,"Question:
+Let j = 0.5 - -0.5. Let u = j + -1. Which is the closest to 1?  (a) 0.4  (b) u  (c) 0.3
+Answer:
+a<|end_of_text|>"
+98,"Question:
+Let a = -4.35 - -4.3. Let q = a + 0.15. Let f = q - -0.35. Which is the closest to -1?  (a) f  (b) 2/3  (c) -2
+Answer:
+a<|end_of_text|>"
+99,"def find_unique_elements(my_list):
+    """"""
+    Given a list of integers, find the unique elements in the list.
+    Return a list of the unique elements in the order they appear in the original list.
+    For example, if the input list is [1, 2, 3, 2, 1], the output list should be [1, 3].
+    """"""
+    unique_elements = []
+    for i in range(len(my_list)):
+        if my_list[i] not in unique_elements:
+            unique_elements.append(my_list[i])
+    return unique_elements
+
+<|end_of_text|>"

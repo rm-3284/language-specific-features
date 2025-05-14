@@ -1,0 +1,646 @@
+seed,generated_text
+0,"Question:
+Let f = -6 + 6. Suppose f = -0*i + i + 10. Suppose i = -3*w + 4*w + 4*j + 16, -j = w + 3. Calculate the remainder when w is divided by (-2)/((-6)/(-21)*1)?
+Answer:
+7<|end_of_text|>"
+1,"Question:
+Let d = 0.03 + -0.13. Let z = d + 0.1. Let u = z + -0.017999993. Round u to seven dps.
+Answer:
+0.0000006<|end_of_text|>"
+2,"Question:
+Let q = -3 + 5. Let x be (-10)/(-4)*(-8)/q. Let s be (-2)/((-4)/x)*(-4)/(-10). Which is the closest to s?  (a) -4  (b) 0.5  (c) -2/7
+Answer:
+c<|end_of_text|>"
+3,"Question:
+Let g be (-14)/((-28)/(-16))*((-100)/(-6))/((-6)/(-27)). Suppose -g*i = -17*i + 40. Let m be ((-4)/(-10))/(i/(-10)). Which is the closest to m?  (a) 0.4  (b) 0.5  (c) -0.3
+Answer:
+c<|end_of_text|>"
+4,"Question:
+Let v = -11.68 + 12. Let q = v + -0.52. Let z = q + 0.07. What is the closest to z in 2/3, -2, 3?
+Answer:
+2/3<|end_of_text|>"
+5,"Question:
+Let z = -0.028 - -0.038. Let s = z + -0.019999997. Round s to seven decimal points.
+Answer:
+0.000000002<|end_of_text|>"
+6,"def calculate_water_level(heights):
+    """"""
+    Calculate the water level based on the height of each step
+    
+    :param heights: list of height of each step
+    :return: water level
+    """"""
+
+    water_level = []
+    step_size = len(heights) // 100
+
+    for i in range(len(heights)):
+        if heights[i] < heights[i + step_size]:
+            water_level.append(heights[i])
+        else:
+            water_level.append(heights[i] + step_size)
+    return water_level
+
+<|end_of_text|>"
+7,"Question:
+What is the lowest common multiple of (-15)/((-180)/(-36))*(-35 + (-126)/(-21)) and 14?
+Answer:
+126<|end_of_text|>"
+8,"Question:
+Let x = -0.016 + 0.026. Let z = x - 0.019999984. What is z rounded to seven dps?
+Answer:
+0.0000006<|end_of_text|>"
+9,"Question:
+Let x be (-2)/((-6)/((-30)/(-4))). Suppose x*z = -2*z + 4*f + 10, -4*z = -f + 6. Let k be (-4)/((-32)/(-30))*z. What is the lowest common multiple of k and (-12)/((-8)/((-32)/(-6)))?
+Answer:
+120<|end_of_text|>"
+10,"Question: Which of the following drugs is used in treatment of generalized tonic-clonic seizure?
+A. Vigาราเทียมไอมินามูลดี
+B. Vigาราเทียมมูลดี
+C. Vigาราเทียมไอมีนมูลดี
+D. Vigาราเทียมมูลดี์
+Answer: D<|end_of_text|>"
+11,"Question: A patient presented with pain around mouth region with swelling around eye region. Which one of the following would be considered as investigation of choice?
+A. X-rays of mandible
+B. X-rays of maxilla
+C. X-rays of skull base
+D. X-rays of mandible and skull base
+Answer: B<|end_of_text|>"
+12,"Question:
+Let x = 0.011 + -0.061. Let f = x + 0.04899999999999999964. Round f to seven dps.
+Answer:
+0.0000001<|end_of_text|>"
+13,"Question:
+Let m = -0.05 + 0.05. Let z = m + -0.029999599. Round z to seven decimal digits.
+Answer:
+0.0000004<|end_of_text|>"
+14,"Question:
+Let d = 0.016 + -0.0218. Let z = d + 0.015599998. Round z to seven decimal places.
+Answer:
+0.0000001<|end_of_text|>"
+15,"Question:
+Let y = -0.01 + 0.31. Let m = y + -0.2. Let l = m + -0.099999993. Round l to seven dps.
+Answer:
+0.0000001<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.053. Let z = 0.046 + j. Let l = z + -0.001. Which is the closest to l?  (a) -2/3  (b) -5  (c) -2
+Answer:
+a<|end_of_text|>"
+17,"Question:
+Let u = 0.013 + 0.047. Let x = u + -0.05. Let i = x + 0.039999997. What is i rounded to seven dps?
+Answer:
+0.0000002<|end_of_text|>"
+18,"Question:
+Let y = 3 + -1. Suppose 4*p + 3*l = -0*l + 23, y*l = p - 13. Let q be (-1)/(p*(-3)/(-27)). Round q to the nearest ten.
+Answer:
+40<|end_of_text|>"
+19,"Question:
+Let p = 0.2 + -0.07. Let l = p + 0.13. Let m = l + -0.01. Which is the nearest to m?  (a) -0.2  (b) 0.3  (c) 0.5
+Answer:
+a<|end_of_text|>"
+20,"Question: Which of the following drugs is used in treatment of triglycerides >150 mg/dL?
+A. Fentanyl
+B. Dobutamide
+C. Dobutamide plus Fentanyl
+D. Fentanyl plus Dobutamide
+Answer: C<|end_of_text|>"
+21,"Question:
+Let g = -0.1 + 0.3. Let y = 1.999999522 + g. Round y to seven dps.
+Answer:
+0.0000005<|end_of_text|>"
+22,"Question: Which of the following drugs is used for prevention of relapse of HIV infection?
+A. Tritherapy
+B. Tritherapy plus AZT
+C. Tritherapy plus AZT plus NAPEED
+D. Tritherapy plus NAPEED plus AZT
+Answer: B<|end_of_text|>"
+23,"Question:
+Let r be ((-1)/(-2))/(15/(-30)). Let z be (-6)/(-21)*((-105)/r)/(-3). Suppose z*a = -2*a + 3600000. Round a to the nearest one hundred thousand.
+Answer:
+360000<|end_of_text|>"
+24,Question: The following drugs are used as treatment for chronic myelopองยองปอดหรือโรคการดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมยดดูอมย
+25,"Question:
+What is the common denominator of ((-8)/(-6))/(8/(-36)) and (-7)/((-12)/(-18))*((-18)/(-20))/((-6)/(-10))?
+Answer:
+20<|end_of_text|>"
+26,"Question:
+Let s = -4.25 + 0.25. Let x = s + 3. Let w = x + -0.35. Which is the closest to w?  (a) -2/7  (b) 0.1  (c) -1
+Answer:
+b<|end_of_text|>"
+27,"Question:
+Let p be (-2)/(4*(-1)/(-20)). Let f = p + -7. Suppose f*x = -x + 80. What is the greatest common factor of x and 32?
+Answer:
+16<|end_of_text|>"
+28,"Question:
+Let t = 0.05 + -0.05. Let i = t + 0.0499999966. What is i rounded to seven decimal places?
+Answer:
+0.000000003<|end_of_text|>"
+29,"Question:Write a Julia code snippet to Determine Extreme Clothing Cleanliness: Cleaning Outward Garments for Analysis for Experts details on how well they clean clothes based on their appearance without knowing their actual condition. Consider the context of an expert who needs to determine whether the clothes are clean or dirty based on their appearance. Provide relevant information about the factors that affect the appearance of clothes and how they determine whether they are clean or dirty based on their appearance.
+Solution:Here is some sample code written in Julia language that determines the level of cleaniness based on appearance without knowing the actual condition:
+```js
+// Define variables
+let appearance = ""clean""; // user inputted appearance
+let level_of_clean = """"; // determine level based on appearance
+let factors = [
+    {
+        factor_name:""cleanliness"", 
+        factor_value:""0""
+    },
+    {
+        factor_name:""color"", 
+        factor_value:""0""
+    },
+    {
+        factor_name:""stain"", 
+        factor_value:""0""
+    }
+]; // factors determining appearance
+for(i in range(len(factors))){
+    if(factors[i].factor_value==appearance){
+        level_of_clean=factors[i].factor_name;
+        break;
+    }
+}
+```
+In this case, factors determines"
+30,"Question:
+Let y = -0.02 + -0.18. Let s = y + 0.26. Let u = s + -0.00199738. Round u to seven decimal places.
+Answer:
+0.000002<|end_of_text|>"
+31,"Question:
+Let m = -1.07 + 0.07. Let w = m + 0.6. Let z = w + -0.599999991. Round z to seven dps.
+Answer:
+0.0000001<|end_of_text|>"
+32,"Question:
+Let i = 0.031 + -0.03100048. Round i to seven decimal points.
+Answer:
+-0.0000005<|end_of_text|>"
+33,"def analyze_water_quality(water_samples):
+    """"""
+    Analyze the water quality of each sample and determine if it is safe for consumption.
+    If the water quality is considered safe, print ""Water is safe for consumption""
+    Otherwise, print ""Water is not safe for consumption""
+    """"""
+    water_quality = []
+    for sample in water_samples:
+        if sample[""water_quality""] == ""good"":
+            water_quality.append(""safe"")
+        else:
+            water_quality.append(""unsafe"")
+    return water_quality
+<|end_of_text|>"
+34,"Question:
+Let x = -0.019 + 0.019999999987. What is x rounded to seven dps?
+Answer:
+0<|end_of_text|>"
+35,"Question:
+What is prob of picking 2 e when two letters picked without replacement from {e: 3, u: 1, v: 1, w: 1}?
+Answer:
+1/7<|end_of_text|>"
+36,"Question:
+Let u = 0.041 + -0.031. Let r = u + 0.01099974. Round r to seven dps.
+Answer:
+0.0000003<|end_of_text|>"
+37,"Question:Build a Java program that takes as input two numbers, compute their product, divide their product by their sum and display the result on screen.<|end_of_text|>"
+38,"Question:
+What is prob of picking 2 z when two letters picked without replacement from zzzzzzzzzzzzzzzzzzzzz?
+Answer:
+17/171<|end_of_text|>"
+39,"Question:
+Let t = -0.028 + 0.028000013. Round t to seven decimal digits.
+Answer:
+0.0000001<|end_of_text|>"
+40,"Question:
+Let i = 0.013 + -0.013591. Round i to four dps.
+Answer:
+0<|end_of_text|>"
+41,"Question:
+Let v = -8.5 + 8. Let q = v + -0.2. Let d = q + 0.3. What is the second biggest value in d, 2/17, -5?
+Answer:
+2/17<|end_of_text|>"
+42,"Question:
+Let l = -0.026 + 0.027999991. What is l rounded to seven decimal digits?
+Answer:
+0.0000001<|end_of_text|>"
+43,"Question:
+Let k = -0.037 + 0.037999999999999999999663. Round k to seven decimal digits.
+Answer:
+0.0000006<|end_of_text|>"
+44,"Question:
+Let k = -2.64 + 2.669999991. What is k rounded to seven dps?
+Answer:
+0.000000<|end_of_text|>"
+45,"Question:
+Let x = 0.02 + 0.38. Let d = x + -0.41. Let v = d + 0.40199837. What is v rounded to seven dps?
+Answer:
+0.0000016<|end_of_text|>"
+46,"Question:Build a Java program that determines whether a given number is equal to zero or not. If it is equal to zero, display the message ""Zero is equal to zero"" Otherwise display the message ""Zero is different from zero""
+Note: This is an example application which can be used as a template for your own application<|end_of_text|>"
+47,"def calculate_population_growth_rate(population_size):
+    """"""
+    Calculate the population growth rate based on population size
+    
+    Args:
+        population_size (int): The current population size
+    
+    Returns:
+        float: The population growth rate expressed as a percentage
+    
+    """"""
+    population_growth_rate = 0
+    
+    if population_size > 1000000:
+        population_growth_rate = ((1000000-population_size)*100)/(1000000)
+    else:
+        population_growth_rate = ((1000000-popower_population_size)*100)/(1000000)
+    
+    return population_growth_rate
+<|end_of_text|>"
+48,"Question:
+Let x = -2.5 + 2.4. Let z = x + -0.1. Let u = z + 0.0999999912. Round u to seven decimal places.
+Answer:
+0.000000<|end_of_text|>"
+49,"Question:Design a Java function snippet to Determine Extreme Weather Today based on Weather Forecast Data Structure If weather forecast shows rain today what would you do?
+A. Buy Rain Boots
+B. Go Shopping
+C. Take Off Clothes
+D. Sleep late
+Answer: D<|end_of_text|>"
+50,"Question:
+Let g = -0.028 + 0.028000012. Round g to six decimal points.
+Answer:
+0<|end_of_text|>"
+51,"Question:
+Let w = -0.017 + 0.0170008. Round w to six dps.
+Answer:
+0.000008<|end_of_text|>"
+52,"def create_list_of_products():
+
+    """"""Create a list of products that contain specific criteria""""""
+
+    products = [
+        {
+            ""product"": ""Socks"",
+            ""price"": ""$20"",
+            ""quantity"": ""100""
+        },
+        {
+            ""product"": ""Shoes"",
+            ""price"": ""$100"",
+            ""quantity"": ""100""
+        },
+        {
+            ""product"": ""Shampoo"",
+            ""price"": ""$30"",
+            ""quantity"": ""100""
+        }
+    ]
+
+    products_to_find = [
+        {
+            ""product"": ""Socks"",
+            ""price"": ""$20"",
+            ""quantity"": ""100""
+        }
+    ]
+
+    products_to_find = products_to_find.copy()
+    products_to_find.append(products_to_find.pop())
+    products_to_find.append(products_to_find.pop())
+    products_to_find.append(products_to_find.pop())
+
+    products_to_find = products_to_find.copy()
+    products_to_find.append(products_to_find.pop())
+    products_to_find.append(products_to_find.pop())
+    products_to_find.append(products_to_find.pop())
+
+    products_to_find = products_to_find.copy()
+    products_to_find.append(products_to_find.pop())
+    products_to_find.append(products_to_find.pop())
+    products_to_find.append(products_to_find.pop())
+
+"
+53,"Question:
+What is prob of picking 1 y and 1 q when two letters picked without replacement from yqqyqyqqyqyqqqyqqq?
+Answer:
+7/51<|end_of_text|>"
+54,"Question:
+Let u = -0.038 + 0.0364. Let r = u + 0.0016. Round r to two dps.
+Answer:
+0.01<|end_of_text|>"
+55,"def get_first_letter(string):
+    """"""Returns the first letter of the inputted string""""""
+    return string[0]
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of (-4)/(-18)*(-12)/(-16)*((-9)/(-6))/((-3)/(-27)) and (-1)/(6/(-8))*(-6)/(-4)?
+Answer:
+6<|end_of_text|>"
+57,"Question:
+Let w = -0.019 + 0.021. Let x = w + -0.00299799. Round x to seven decimal points.
+Answer:
+0.000002<|end_of_text|>"
+58,"def marketing_promotional_offer(promotional_offer):
+    """"""Create a marketing promotion offer for your business""""""
+    
+    # Create an array of promotional offers
+    offers = [
+        {""name"": ""Half price off products"", ""price"": ""$50""},
+        {""name"": ""Free shipping"", ""price"": ""$0""}
+    ]
+
+    # Check if the promotional offer is available for your business
+    if promotional_offer == ""Half price off products"":
+        return offers[0][""name""]
+    elif promotional_offer == ""Free shipping"":
+        return offers[1][""name""]
+    else:
+        return ""Invalid promotion offer""
+<|end_of_text|>"
+59,"Question:
+What is the remainder when 51 is divided by (-6)/(-21)*(-7 + (-30)/(-6))?
+Answer:
+5<|end_of_text|>"
+60,"Question:
+Let j = -0.046 + 0.04600368. Round j to six decimal points.
+Answer:
+0.000003<|end_of_text|>"
+61,"Question:
+Let l = -0.042 + 0.0479999999885. What is l rounded to seven dps?
+Answer:
+0.000000001<|end_of_text|>"
+62,"Question:
+Let f = -0.4 + 0.3. Let v = f + -0.3. Let z = v + 0.999999993. Round z to seven decimal places.
+Answer:
+0.0000001<|end_of_text|>"
+63,"Question:
+Let j = -0.027 + 0.027000001. Round j to seven decimal digits.
+Answer:
+0.000001<|end_of_text|>"
+64,"Question:
+Let q = -0.2 + 0.1. Let l = q + -0.00001631. Round l to six decimal places.
+Answer:
+-0.000016<|end_of_text|>"
+65,"Question:
+Let x = -0.066 + 0.067. Let p = x + -0.001. Let s = p + 0.00159999999999999962. What is s rounded to seven decimal places?
+Answer:
+0.0000006<|end_of_text|>"
+66,"Question:
+Let f = -1.2 + 0.8. Let z = -0.049999876 + f. Round z to seven decimal places.
+Answer:
+0.0000002<|end_of_text|>"
+67,"Question: Which is the preferred method of identification of HIV infected individual?
+A. HIV antigens detection
+B. HIV antibodies detection
+C. HIV RNA detection
+D. HIV ELISA detection
+Answer: D<|end_of_text|>"
+68,"Question:
+What is the remainder when 36 is divided by 17?
+Answer:
+12<|end_of_text|>"
+69,"Question:
+Let i = -0.037 + 0.037999991. Round i to seven dps.
+Answer:
+0.0000001<|end_of_text|>"
+70,"Question: Which of the following is the best treatment for stage III glaucoma?
+A. Trabectomy with insertion of drainage system
+B. Trabectomy with insertion of drainage system plus application of glaukowski implant
+C. Trabectomy with insertion of drainage system plus application of glaukowski implant plus application of PRK
+D. Trabectomy with insertion of drainage system plus application of glaukowski implant plus application of PRK plus application of PRK
+Answer: D<|end_of_text|>"
+71,"Question:
+Let l = 0.065 + 0.035. Let r = l + -0.1. Let i = r + 0.074999999999999. Round i to seven dps.
+Answer:
+0.0000001<|end_of_text|>"
+72,"Question:
+Let i = -0.012 + 0.0625. Let z = i + -0.05. Which is the nearest to z?  (a) 1/2  (b) 2/7  (c) -1
+Answer:
+b<|end_of_text|>"
+73,"def analyze_urbanization_data(data):
+    """"""
+    Analyze urbanization data for a specific area using nested conditional statements and basic loop operations
+    """"""
+    urban_area = data['urban_area']
+    population = data['population']
+    density = population / urban_area
+
+    if density >= 10000:
+        if population > 100000:
+            if urban_area == 'Bangkok':
+                return 'Very Urban'
+            elif urban_area == 'New Delhi':
+                return 'Urban'
+            else:
+                return 'Urban'
+        else:
+            if urban_area == 'Bangkok':
+                return 'Very Urban'
+            elif urban_area == 'New Delhi':
+                return 'Urban'
+            else:
+                return 'Urban'
+    else:
+        if population > 100000:
+            if urban_area == 'Bangkok':
+                return 'Very Urban'
+            elif urban_area == 'New Delhi':
+                return 'Urban'
+            else:
+                return 'Urban'
+        else:
+            if urban_area == 'Bangkok':
+                return 'Very Urban'
+            elif urban_area == 'New Delhi':
+                return 'Urban'
+            else:
+                return 'Urban'
+<|end_of_text|>"
+74,"def create_artwork(size):
+    """"""Create an artwork consisting of a series of pixels arranged in a specific pattern""""""
+    
+    # Define the colors and sizes of the pixels
+    colors = ['#FFFFFF', '#FFFFFF', '#FFFFFF']
+    sizes = [size, size, size]
+    
+    # Create an empty list to store the pixels
+    pixels = []
+    
+    # Loop through each color and size pair
+    for i in range(len(colors)):
+        # Create a new pixel with the current color and size
+        pixel = [colors[i], sizes[i]]
+        # Add the pixel to the list
+        pixels.append(pixel)
+    
+    # Return the list of pixels
+    return pixels
+
+<|end_of_text|>"
+75,"Question: A patient presents with severe diarrhea leading to weight loss of 15 kg. On examination he has bilateral pitting edema around the eyes and mouth. Which one of the following would be the best treatment regimen for this patient?
+A. Intravenous fluids plus antibiotics
+B. Intravenous fluids plus antibiotics plus insulin drip
+C. Intravenous fluids plus antibiotics plus insulin drip plus steroids
+D. Intravenous fluids plus antibiotics plus insulin drip plus steroids plus transfusion
+Answer: D<|end_of_text|>"
+76,"Question:
+Let y = 10.5 + -10. Let i = y + -0.499999876. What is i rounded to seven dps?
+Answer:
+0.0000001<|end_of_text|>"
+77,"def create_room_layout(room_size):
+    """"""Create a room layout based on the given room size""""""
+    
+    room_width = room_size[0]
+    room_length = room_size[1]
+    room_height = room_size[2]
+    
+    room_ceil = []
+    
+    if room_height == 0:
+        room_ceil.append(room_height)
+    else:
+        room_ceil.append(room_height / 2)
+    
+    room_ceil.append(room_height)
+    
+    room_floor = []
+    
+    if room_height == 0:
+        room_floor.append(room_height)
+    else:
+        room_floor.append(room_height / 2)
+    
+    room_floor.append(room_height)
+    
+    room_floor.append(room_height)
+    
+    return room_floor, room_ceil
+
+<|end_of_text|>"
+78,"Question: Which of the following drugs would be used for treatment of this condition?
+A. Ibuprofen
+B. Dexamphetamine
+C. Metformilin
+D. Acetylอดม้าชูยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโมลาร์ยูโม"
+79,"Question:
+Let x = 0.023 + -0.02300158. Round x to seven decimal places.
+Answer:
+-0.0000016<|end_of_text|>"
+80,"Question:
+What is the next term in -12, -25, -38, -51?
+Answer:
+-64<|end_of_text|>"
+81,"Question:
+Let x = -0.016 + 0.056. Let z = x + -0.03999959. What is z rounded to seven dps?
+Answer:
+0.0000005<|end_of_text|>"
+82,"Question:
+Let p = -0.025 + 0.025000067. What is p rounded to seven dps?
+Answer:
+0.000000068<|end_of_text|>"
+83,"Question:
+Let w = 0.017 + -0.017999997. Round w to six decimal digits.
+Answer:
+0<|end_of_text|>"
+84,"def update_medication_doses(medications):
+    """"""
+    Update the dosage of each medication based on its corresponding medication name and unit conversion factors
+    
+    Parameters:
+    medications (list): List of tuples containing medication name and unit conversion factors
+    
+    Returns:
+    updated_medications (list): List of tuples containing updated medication name and unit conversion factors
+    
+    """"""
+    
+    updated_medications = []
+    for medication in medications:
+        if medication[0] == 'Blood Pressure':
+            updated_medications.append((medication[0], medication[1]*0.001))
+        elif medication[0] == 'Blood Glucose':
+            updated_medications.append((medication[0], medication[1]*0.01))
+        elif medication[0] == 'Blood Transfusion':
+            updated_medications.append((medication[0], medication[1]*0.001))
+        elif medication[0] == 'Blood Replacement':
+            updated_medications.append((medication[0], medication[1]*0.001))
+        elif medication[0] == 'Blood Transfusion':
+            updated_medications.append((medication[0], medication[1]*0.001))
+        elif medication[0] == 'Blood Trans"
+85,"def modify_list_with_loops(my_list):
+    """"""Modify the elements of a list using a loop""""""
+    for i in range(len(my_list)):
+        if my_list[i] =='red':
+            my_list[i]='green'
+        elif my_list[i]=='yellow':
+            my_list[i]='purple'
+        else:
+            my_list[i]='red'
+    return my_list
+
+my_list = ['red', 'yellow', 'green', 'yellow']
+modify_list_with_loops(my_list)
+<|end_of_text|>"
+86,"Question:
+Let p = -0.08 + 0.03. Let z = p + 0.05. Let k = z + -0.00199999999999964. What is k rounded to seven decimal digits?
+Answer:
+0.000000001<|end_of_text|>"
+87,Question: The following is true about Pseudokเลป้าเล่อเล้าหรูุ๋งเสมอจมูอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอึดอ
+88,"Question:
+Let i = 0.1 + -0.09. Let s = i + 0.09199856. What is s rounded to seven decimal digits?
+Answer:
+0.0000014<|end_of_text|>"
+89,"Question:
+Let d = -0.031 + 0.03100094. Round d to seven decimal places.
+Answer:
+0.0000009<|end_of_text|>"
+90,"def add_to_set_if_statement(s):
+    """"""Add elements to a set based on whether they satisfy certain conditions""""""
+    my_set = set()
+    if s == True:
+        my_set.add(s)
+    else:
+        my_set.add(s)
+    return my_set
+<|end_of_text|>"
+91,"Question:
+What is the remainder when (-5)/((-10)/(-4))*(-6)/(-8)*-2 is divided by (-2)/((-4)/(-126)*(-6)/(-8))?
+Answer:
+7<|end_of_text|>"
+92,"Question:
+Let p = 2 + -1. Let x = p + 1. Let i = x + -1.00000869. Round i to seven dps.
+Answer:
+-0.0000087<|end_of_text|>"
+93,"Question:
+Let i = -0.016 + -0.083. Let j = i + 0.09999999999999999. Round j to seven decimal digits.
+Answer:
+0.000000<|end_of_text|>"
+94,"Question:
+Let v = -2.8 + 2.6. Let w = v + 0.2. Let y = w + 0.00000266. Round y to seven dps.
+Answer:
+0.0000026<|end_of_text|>"
+95,"Question:
+Let u = 0.068 + -0.068019. Round u to four dps.
+Answer:
+0<|end_of_text|>"
+96,"Question:
+Let f = 0.037 + -0.03799999999999999999999. Round f to seven dps.
+Answer:
+0<|end_of_text|>"
+97,"Question:
+Let j = 0.5 + -0.3. Let u = j + 0.068999998. What is u rounded to seven decimal digits?
+Answer:
+0.0000001<|end_of_text|>"
+98,"Question:
+Let p = -4.35 + 4. Let v = p + -0.05. Let s = v - -0.07. What is s rounded to zero dps?
+Answer:
+0<|end_of_text|>"
+99,"def complex_arithmetic_loop(n):
+    """"""
+    Write a function that takes an integer n as input and returns the product of all numbers from 1 to n,
+    including n itself, but without using the multiplication operator (*).
+
+    Example:
+    >>> complex_arithmetic_loop(3)
+    																																																																																																																																																						 _______________________________________________________________
+    _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ _________________________________________________________________ __________________________________"

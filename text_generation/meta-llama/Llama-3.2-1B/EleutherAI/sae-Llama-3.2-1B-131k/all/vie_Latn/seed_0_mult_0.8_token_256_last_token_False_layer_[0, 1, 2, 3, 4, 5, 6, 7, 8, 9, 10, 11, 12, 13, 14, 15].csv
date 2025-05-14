@@ -1,0 +1,266 @@
+seed,generated_text
+0,"Question: Chai V, 20, T, B, V, A, T, N, S, T, S, T, M, B, V, T, B, V, D, V, T, T, D, G, C, H, S, V, D, V, T, T, T, V, B, V, T, T, D, G, C, V, T, T, D, G, C, V, T, T, D, G, C, V, D, V, T, T, D, G, C, V, T, T, D, G, C, V, D, V, T, T, D, G, C, V, T, T, D, G, C, V, D, V, T, T, D, G, C, V, T, T, D, G, C, V, T, T, D, G, C, V, D, V, T, T, D, G, C, V, T, T, D, G, C, V, T, T, D, G, C, V, D, V, T, T"
+1,"Question: V, A, T, M, V, L, V, C, T, V, N, T, S, T, T, T, T, B, D, V, V, T, X, T, X, V, T, V, V, V, T, V, V, V, V, T, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V, V,"
+2,"Question: Chè Xuân, 19, 23 T, 26 H, 32 T, 35 V, 30 T, 33 D, 35 T, 34 T, 35 T, 36 T, 37 V, 30 D, 30 V, 30 T, 30 T, 30 X, 30 X, 30 D, 30 D, 30 V, 30 V, 30 T, 30 T, 30 D, 30 D, 30 V, 30 V, 30 T, 30 T, 30 D, 30 D, 30 V, 30 V, 30 T, 30 T, 30 D, 30 D, 30 V, 30 V, 30 T, 30 T, 30 D, 30 D, 30 V, 30 V, 30 T, 30 T, 30 D, 30 D, 30 V, 30 V, 30 T, 30 T, 30 D, 30 D, 30 V, 30 V, 30 T, 30 T, 30 D, 30 D, 30 V"
+3,"Question: A 75, V T, A T T, B T S, M T H, L S C, T T, B V S, T T V, C N X, M T T, V T X, T T V, B V, T T B, S T, S B, T T B, S T, T T V, B V, T T B, S T, S B, T T B, S T, T T V, B V, T T B, S T, S G, T T T, V T S, V T S, B T S, M T S, V T C, B T S, T T T, V T T, B V, T T T, V T S, T T V, B V, T T B, S T, S G, T T T, V T D, T T T, V T T, B V, T T T, V T C, B T S, T T T, V T T, B V, T T T, V T S, T T V, B V, T T B, S T, T T V, B V, T T B, S T, S"
+4,"Question:
+Let v = 11.4 - 16. S M T X G G 3 D D
+ T C T T T D
+ T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T"
+5,"Question: T T Viện S D B T – V – T S – G – T, Viện 25 24 – 84, T Ô, T N, H N, G S, T V, T B, D H, V T, S X, T M, T G, V G, T V, S T, G V, T T, G S, T S, G T, T T, G T, T B, D V, T B, T B, V T, S X, T M, T G, V G, T V, S T, G V, T T, G T, T T, G T, T B, D V, T B, T B, V T, S X, T M, T G, V G, T V, S T, G V, T T, G T, T T, G T, T B, D V, T B, T B, V T, S X, T M, T G, V G, T V, S T, G V, T T, G T, T T, G T, T B, D V, T B, T B, V T, S X, T M,"
+6,"def tri_mêu_nê (t, v, c, s, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v"
+7,"Question:
+What is the c'tệ kiệ 6 s 30, A B C D, T T S X, B X T S X T T S X V S V T S X V V S V S T T S X B X T S X T T S X V S V T S X V S D V S D T T S X V S D V S D T T S X V S T T S X V T T S X V T S X T T S X V T S X V T T S X V T T S X V T S V S V T S X V S D V S D T T S X V S D V S D T T S X V S D V S D T T S X V S D V S D T T S X V S D V S D T T S X V S D V S D T T S X V S D V S D T T S X V S D V S D T T S X V S D V S D T T S X V S D V S D T T S X V S D V S D T T S X V S D V S D T T S X V S D V S D T T S"
+8,"Question: T T ch, X S, S C, T C, S D, V T, T B, T T T, T N, T T V, T D, V V T, T B, T V T, T C, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B, T B,"
+9,"Question:
+Let x = -0.1 + 0.1. Chệ T T, B G S, M T C, V B S, M T S, T N D, V M V, M T M, V S T, C T S, V S T, T N V, V M S, T T C, V T T, T T G, V X H, T M T, V T T, T T M, V T T, T T T, V T T, T T V, B X G, T T T, T T V, T T C, V B V, V T T, T T C, V T T, T T D, V S T, V B V, V T T, T T C, V T T, T T V, T T T, V T T, T T T, V T T, T T S, T T T, V T T, T T T, V T T, T T S, T T T, V T T, T T C, V T T, T T V, T T V, T T V, T T V, T T V, T T S, T T S,"
+10,"Question: D, V, T, T T, S, S T, T T S, S T, T S, S T, T S T, V T, V T, T T T, T T V, T V, T V T, T V T T, V T, V T, T T C, T T D, T D, T D V, T V, T V T, T V T T, V T, V T, T T X, T X, T X D, T D, T D V, T V, T V T, T V T T, V T, V T, T T C, T T C V, T V, T V T, T V T T, V T, V T, T T D, T D, T D V, T V, T V T, T V T T, V T, V T, T T C, T T C V, T V, T V T, T V T T, V T, V T, T T G, T G, T G V, T V, T V T, T V T T, V T, V T, T T T, V T, V T,"
+11,"Question: A 18, B, V T, M T, B T S, V T S, M T, T T, S T, T S T, T S V, S T D, T D, T C, T B, T B D, T M, T M V, D T, V S, V B, V T, V T G, V B S, T S, T T, T T T, T S, T T V, T S V, T S V G, T T V T, T T T, T S, T S V, T T V T, T S T, T S T X, T T X, T S V, T S V G, T T V T, T T T T, T S, T S T, T T T, T S T T, T S T T, T T T T, T S T T, T S T S, T T T S, T S T S, T T T S, T T T T, T S T, T S T D, T B, T B T, T S, T S T, T S T V, T S T V G, T T T,"
+12,"Question:
+Let v = 115 - 117. Let s be 15/(-6)*(-3 + 1). Let t = s + 0 V G. Chể T Kiệ V, T G, V T, T T, v T, T T, T D, v T, V T, V T, T D, v T, T T, T B, v T, V T, T V, v T, V T, T T, T B, v T, T V, v T, V T, T D, v T, T D, v T, T D, v T, T T, T B, v T, T T, T B, v T, V T, v T, V T, T D, v T, T D, v T, T D, v T, T T, T B, v T, T T, T B, v T, V T, v T, V T, T D, v T, T D, v T, T T, T B, v T, T T, T B, v T, V T, v T, V T, T D, v T, T D, v T"
+13,"Question: The C, V, T B, L S, H T, S V, T M, H D, M D, V T, V T, V T, T C, B T, S T, S X, T L, T T, T T, T M, V D, B V, B X, V T, V T, V T, T B, T T, T B, T B, T V, V V, V D, T D, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T,"
+14,"Question: A 50- T, V D, C N S, V T T, M T B, T T, B X G, M T T, H T T, B L, T D, V L T, D T S, V T T, B T V, V N T, B B, S S T, D D G, T T V, M T T, B T B, V T B, S T S, D T V, V T T, B T T, B L, T D, V D T, D T S, V T T, B T V, V N T, B V, S T S, D T D, T T S, V T T, B T T, B T T, T T T, B S T, S T T, D T D, T T T, B T T, B S T, D T D, T T T, B T T, B T T, T T T, B S T, S T T, D T D, T T T, B T T, B T T, T T T, B S T, S T S, D T D, T T S, V T T,"
+15,"Question:
+Let x = 0.01 - 0.5. Chân S G, Tô G, T S C, C V V T, B T B T, C M T H, D T D, L V H T, B T B T, T S S T, D T B T, T T T, V S V T, B T B T, T T T, V V T, B T B T, T S T S, D S D, T S S T, D B D, T S T T, V S V T, B T B T, T S S T, D T B T, T T T, V T V T, B T B T, T T T, V T T, B T B T, T S T S, D S D, T S T T, V S V T, B T B T, T T T, V T V T, B T B T, T S T S, D S D, T S T T, V S V T, B T B T, T S T S, D S D, T S T T, V T V T, B T B T, T S S T, D"
+16,"Question: Cau G than T, M B V, T B N, N T N, H T T, M T S, T T X, N T V, T T B, V T T V, T S T, S T B, V S T, D M V, C V, V D, D H, D T T, T T V, T V X, V X T, T X T, T S T, S T B, V S T, D B, D T V, C T T, T T C, T V S, T V T, T T V, T V T, T T T, T T V, T V T, T T V, T T V, T T V, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T, T T T"
+17,"Question:
+Let t = 113 - 103. Let v = 14 - 8. Tá Ch D, Tệ T, T S, T T, T M, T S, T M, T T, T T, T T, T T, T D, T T, T T, T D, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T"
+18,"Question:
+Let g = 3.8 - 3.8. Let c = -2.000000, S - 14 S V, G - 115, G - 150, G - 84, G - 66, G - 53, G - 50, G - 44, S - 150, G - 100, G - 80, G - 60, G - 50, S - 160, G - 100, G - 70, G - 70, G - 100, G - 800, G - 800, G - 800, G - 100, G - 100, G - 200, G - 200, G - 200, G - 250, G - 250, G - 250, G - 250, G - 250, G - 100, G - 100, G - 100, G - 100, G - 100, G - 100, G - 100, G - 100, G - 100, G - 100, G - 100, G - 100, G - 100, G - 100, G - 100,"
+19,"Question: Nê,  S V, V B, V T, T V T, T T L, V T M, V T V, T M V, V L, V T B, V T N, V T H, V T B, V T X, V T L, V T S, V T S V, V T T, V T T T, V T T N, V T S, V T B, V T B V, V T V, V T V T, V T C, V T T T, V T T V, V T T T T, V T T T T S, V T T S T, V T T S V, V T T V, V T B, V T B V, V T V, V T V T, V T D, V T C T, V T T C, V T S V, V T S T, V T T T, V T T T T T, V T T T T T V, V T T T T X, V T T T T S, V T T T T S T, V T T T T T S V, V T T T T V, V T B, V"
+20,"Question: Nệ Ṭ C, B, H, D, C, X, V, V, T, S, S, T, V, B, T, C, M, B, T, D, T, S, V, V, C, D, T, V, V, D, T, B, T, D, T, S, S, T, V, V, S, X, V, V, T, S, T, V, V, T, S, T, V, V, D, T, B, T, V, V, S, X, V, V, T, S, T, V, V, D, T, B, T, V, V, S, X, V, V, T, S, T, V, V, D, T, B, T, V, V, S, X, V, V, T, S, T, V, V, D, T, B, T, V, V, S, X, V, V, T, S, T, V, V, D, T, B, T, V, V, S, X, V, V, T"
+21,"Question: The V S, B V, T T, V T M, V D T, V V T, V D T B, V D D, V T S, V T S S, V T T, V D S, V S T, V T D, V D C, V D C T, V T T, V T T X, V T S T, V T B, V T B T, V T T T, V T T V, V T T V D, V T T S, V T S C, V T S D, V T D V, V T S V, V T S X, V T X V, V T V, V T V D, V T V D T, V T V C, V T V D, V T V D T, V T V D T S, V T V D T S B, V T V D T S C, V T V D T S D, V T V D T S V, V T V D T V, V T V D T V G, V T V D T V K, V T V D T V S, V T V D T V T, V T V D T V"
+22,"Question: 24 ch ̣ V S B, T S V, S V V S, T V S T, V H T, V D C, T S D, V D V, T D, T T T, V T T, T T X, T S T, V S T, V N D, V T T, V B T, V N B, V S T, V T T, T T B, T T T, T T T, T T X, T S T, V S T, V T T, V T T, V V T, V T T, V T T, V T T, V S T, V S V, T V S, T V T, T V T, T T T, T T T, T T X, T S T, V T S, V T S, V V T, V T T, V T T, V T T, V T T, V T T, V T T, V T T, V T T, V T T, V T T, V T T, V T T, V T T, V T T, V T T, V T T, V T T, V T T,"
+23,"Question: T kiệu V G Viện, B Ch, H S V G, M S X, V N T, V D, S T, X S, T B, V V, D B, B C, T V, T V, T T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T, V T, V T, T T,"
+24,"Question: Ch 24 D B V, V S, T T T, L S T, V T T X, M T X, T T X T, T T V, M B T, D V S, V D B, T T G, T T V, D T V, V T V, T T X T, T T T, V T T S, D T T S, V S T, V T V, T T G, T T S, D T T S, V T V, T T T, T T T, V T T T, T T V, T T V, T T T, V T T T, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V, T T V,"
+25,"Question: T T chệ T - B V S, 18, T, S, N G, S, S, V, D, D, T, S, T, V, V, T, T, G, T, T, T, H, T, H, C, T, C, T, T, S, V, S, S, V, T, T, V, V, T, V, T, V, T, G, T, V, T, S, V, S, V, V, T, S, V, T, T, V, T, V, T, D, T, T, V, T, V, T, T, D, T, T, T, V, T, V, T, T, T, V, T, T, V, T, T, V, T, T, D, T, T, T, V, T, V, T, V, T, V, T, S, V, S, V, V, T, S, V, T, T, S, V, T, T, V, T, T, V, T, V, T, V,"
+26,"Question:
+Let v = 4.8 + -5. Let t = 0. T H C 6 G G S 8 G 0 V N 0 T B S T T D B V T T C 6 T T V L X B T S T T C 6 T T V L X B T S T T C 6 T T V L X B T S T T C 6 T T V L X B T S T T C 6 T T V L X B T S T T C 6 T T V L X B T S T T C 6 T T V L X B T S T T C 6 T T V L X B T S T T C 6 T T V L X B T S T T C 6 T T V L X B T S T T C 6 T T V L X B T S T T C 6 T T V L X B T S T T C 6 T T V L X B T S T T C 6 T T V L X B T S T T C 6 T T V L X B T S T T C 6 T T V L X B T S T T C "
+27,"Question: Nê Quảng, 24, T G Viện, T Bình D, Nê Ch, V, 24, T B, V, G, M, G, X, S, V, C, V, M, B, M, T, T, B, T, S, T, D, X, T, B, T, T, V, S, D, S, S, T, B, T, T, V, S, D, V, G, V, T, V, S, V, T, B, T, T, V, S, D, S, S, T, B, T, T, V, S, D, S, S, T, B, T, T, V, S, D, S, S, T, B, T, T, V, S, D, S, T, B, T, T, V, S, D, S, S, T, B, T, T, V, S, D, S, S, T, B, T, T, V, S, D, S, T, B, T, T, V, S, D, S, T, B"
+28,"Question: A 68, V B, T T, A, V G, V T, M T, S T, V H, V T, S T, V D, B T, N T, V S, V T, N M, T T, S T, V B, V V, T S, V D, B M, T T, S T, V S, V D, B V, V V, T V, N G, T T, B T, N V, T T, S T, V B, V T, S T, V D, B V, V V, T V, N T, V S, V T, S T, V D, B T, N T, V S, V T, S T, V B, V T, S T, V D, B V, V V, T V, N D, T T, S T, V S, V T, S T, V D, B V, V V, T V, N T, V S, V T, S T, V D, B T, N T, V S, V T, S T, V D, B V, V V, T V"
+29,"Question: A 35– C M T, V T C, T T V, T T V B, T T B, D T X, T T X S, T T T, D T T, V T M, D T X S, S V V T, S T T, T T T, D B T, T B T, D B T X, T S T, T T T, T T T X, D T V, T V T, T V T X, T T T S, T T S V, T T V, T T V B, T T B T, T T T T, T T T T S, T T T T T S V, T T T T S V, T T T T S, T T T T T D B T, T D B T, T T S T, T T S T X, T T S T S, T T S V, T T V T, T V T X, T T T S, T T T T S V, T T T T S V, T T T T T V, T T T T T V S, T T T T T V X, T T T T X, T"
+30,"Question:
+Let v = 0.0000001 - 0. Ch 6 S T S, V S B T, D S T T, S G T B V S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T, D T S T T"
+31,"Question:
+Let m = -1.8 + 2.8. Let v = 4.0 - 6.8. V L N D V G B D T T T T T T T V S T S T T T T T T X S T T T T T T S T T T T T T X S T T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T T T T T T X S T"
+32,"Question:
+Let t = 6.9 - 7. Let v = 5.0000008 - 60.000 S than. - 0. S than v, t v v T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T"
+33,"def triệ̣ pháp việc B, G, X, Y T, V, V A, V B, V C, V D, V E, V G, V L, V M, V N, V S, V T, V X, V T, V B, V G, V T, V L, V X, V T, V B, V G, V S, V T, V B, V T, V B, V B, V S, V T, V B, V C, V D, V E, V G, V L, V M, V N, V S, V T, V X, V T, V B, V G, V T, V L, V X, V T, V B, V G, V S, V T, V B, V T, V B, V T, V B, V G, V T, V L, V X, V T, V B, V G, V S, V T, V B, V C, V D, V E, V G, V L, V M, V N, V S, V T, V X, V T, V B, V G,"
+34,"Question: Cân T Bai, T Nguyên B, V, V, V T, L, B, S, T, C, N, S, S V, D, H, T, C, B, X, V, T, B, S, V, T, S, S V, S, V T, T, B, S, V, V D, T, S, S V, D, H, T, C, B, X, V, T, B, S, V, T, S, S V, D, H, T, C, B, X, V, T, B, S, V, T, S, S V, D, H, T, C, B, X, V, T, B, S, V, T, S, S V, D, H, T, C, B, X, V, T, B, S, V, T, S, S V, D, H, T, C, B, X, V, T, B, S, V, T, S, S V, D, H, T, C, B, X, V, T, B, S, V, T,"
+35,"Question:
+Let s = 0.2 - 0.2. Let s = 0. T, ch, v, x, v, v, 1, 2...
+t, ch, v, x, v, v, 1, 2...
+ v, v, v, 1, 2... T, ch, v, x, v, v, 1, 2...
+    v, ch, v, x, v, v, 1, 2... T, ch, v, v, v, 1, 2...
+    v, ch, v, x, v, v, 1, 2... T, ch, v, v, v, 1, 2...
+ S, D, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T"
+36,"Question:
+Let s = 0.6 - 1. X̣ Viện S, D D, T T, T T, T T, S T, T T, S T, T T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S"
+37,"Question: T4 N G, B T, V X, V T, T B, D B, L T, V T, V X, V L, V T, S, D, B, G, T, V D, T T, V T, S, T, V T, S, D, B, T, V T, V K, T, V T, S, D, B, G, T, V D, T T, V T, S, T, V T, S, D, B, T, V T, V K, T, V T, S, D, B, G, T, V D, T T, V T, S, T, V T, S, D, B, T, V T, V K, T, V T, S, D, B, G, T, V D, T T, V T, S, T, V T, S, D, B, T, V T, V K, T, V T, S, D, B, G, T, V D, T T, V T, S, T, V T, S, D, B, T, V T, V K"
+38,"Question:
+What is 4.8 times 3?
+  v T C D H T T S T H S T T S T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T"
+39,"Question:
+Let t = 0.000000001, V - 1240, V S G, X S G, X T, V T S, H V, T T T, S V T, T T B, D T T, C T B, V V T, V T M, D T S, S T T, T T T, T M T, T M T, D T T, D T G, S T G, T T T, T T B, D T B, C T B, V V T, V T D, S T S, T T C, T C T, T T T, T T B, D T B, T T D, T D T, D T X, T X T, T T T, T T D, T D T, T T T, T T B, D T B, T T V, T V T, T T C, T C T, T T T, T T B, D T B, T T T, T T S, T S T, T T S, T T T, T T S, T S T, T T G, T G T, T T S, T S T,"
+40,"Question: S D B C, G T, T M, V S T T S, S V C T, M T, V T G, C N, T H T, T M, S T T T, S V T T, S V B T, D D T, V T S T, T G T, T T, T B V, T T X, V X B, V T G, T T V, T T T, T S T, T D, T T T, T T T, T T V, T V T, T T T, T T V, T T T, T T V, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T V T, T"
+41,Question: Ch than than than v X B V S - C M S - C B - V S V C B - V S T T G T V L B V G G T T D B T T V D V T B T B V T S T T B V B V V B S T T B V S V T T B V V V B T B T S T T B V T B V B V T B T B V T D B T S T T B V S T T B V S T T B V T T B V T T B V T B V T B V T B V T D B T S T T B V S T T B V S T T B V T T B V T T B V T B V T B V T D B T S T T B V S T T B V S T T B V T S T T B V S T T B V T S T T B V T T B V T T B V T T B V T D B T S T T B V S T T B V S T T B V T S T T B V S T T B V T S T T B V S T T B V T S T T B
+42,"Question: In than, Vệ, Lô T, D, X D, L, V L, B, T, T, V, L, V, B, T, T, V, D, T, V, T, V, T, V, B, T, V, L, V, V, V, S, T, T, V, D, T, V, T, V, V, S, T, V, T, V, T, V, D, T, V, T, V, V, T, V, B, T, V, L, V, V, V, S, T, V, B, T, V, L, V, V, V, S, T, V, T, V, T, V, V, T, V, B, T, V, L, V, V, V, S, T, V, T, V, T, V, V, S, T, V, T, V, T, V, T, V, B, T, V, L, V, V, V, S, T, V, T, V, T, V, T, V, T,"
+43,"Question: A 35– A X G, M T C, V T B, M L V C, V T T, T V T, S V T, T S T, V L T, B T T, T T T, V T B, D H N, T S T, V G T, S B T, S T G, S T V, V T B, T G T, V T T, V T D, V T S, T T T, V T S, T T T, V T B, T T T, V T C, T T C, V S T, V X T, G T T, B T T, T T T, V T B, T B T, T T T, V T D, V T T, V T V, T T S, T T T, V T V, V T V, T S T, V S T, V D B, T B T, T T T, V T T, V T V, T T S, V T B, T B T, T T T, V T T, V T D, V T S, T S T, V T S, V S T, V"
+44,"Question:
+Let v = 2.1 - 5.1. Let m = 5 - 5. X̣ N S X, T C S T, G B S X, D T S V, T V S T, T C S T, V C S V, S D S T, T T S T, T C S T, V V S T, S T C S T, V T S T, T C S T, T T S T, T T S V, S V S V, V S T X, T C S T, V T S T, T T S V, T C S T, V V S T, T T S T, T T S V, T T S V, T T S V, T T S T, T T S V, T T S V, T T S V, T T S V, T T S V, T T S V, T T S V, T T S V, T T S V, T T S V, T T S V, T T S V, T T S V, T T S V, T T S V, T T S V, T T S V, T T S V,"
+45,"Question: Nê V, T T, V T, V T T, S, D, T B, D, V T, B T, N N, T T, S, B, S, S, D, T, T T, V T, T T, S, D, V T, V T S, C, T, S, C, S, D, T, D, V T, V T B, V T T, V T S, V T S D, D, T B, T B, N, T T, S, D, V T, V T C, V T B, V T T, V T S, C, T, S, C, S, D, T, D, V T, V T T, V T S, V T S D, D, T B, T B, N, T T, S, D, T, T T, V T, V T B, V T T, V T S, C, T, S, C, S, D, T, D, V T, V T S, T T S, T S T, S, T T, S, D, T, T T, V"
+46,"Question: Ch Ch, T T, T T, S T, N N, T N, S T, D V, B V, S T, D M, T S, V M, V S, T B, S B, V T, S T, S T, D T, B T, S T, D V, B V, T T, B T, S T, D T, B T, S T, D B, T T, T T, V M, T T, V S, T T, V T, S T, D T, B T, S T, D T, B T, S T, D B, T T, T T, V B, S B, T B, S B, V T, S T, D T, B T, S T, D T, B T, S T, D B, T T, T T, V S, T T, V S, T T, V T, S T, D T, B T, S T, D T, B T, S T, D B, T T, T T, V T, S T, D T, B T, S T, D B, T T"
+47,"def modify_dau_b Về (B, S, V, T, V, L, B, T, T, V, T, S, T, B, V, V, T, S, V, T, V, B, S, T, V, V, T, S, V, T, T, V, T, B, V, V, T, S, T, B, V, V, T, S, V, T, V, B, T, V, T, T, V, T, B, V, V, T, S, V, T, B, V, V, T, S, V, T, B, V, V, T, S, V, T, B, V, V, T, S, V, T, B, V, V, T, S, V, T, B, V, V, T, S, V, T, B, V, V, T, S, V, T, B, V, V, T, S, V, T, B, V, V, T, S, V, T, B, V, V, T, S, V, T, B"
+48,"Question: A 8, 20, 34, 50, 68, 84, 84, 84, 84, 84, 88, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, "
+49,"Question: 50 tuổi, V B C, T T, X H T, N S, T B T, V S, S X, V D, L S, M T, C S, V G, T D, B T, T V, T T, V T, D V, B V, T T, T S, M S, T C, V D, T D, B T, T T, V T, D V, B V, T V, T D, B T, T S, M T, C S, V G, T D, B T, T T, V T, D V, B V, T T, T S, M T, C S, V G, T D, B T, T T, V T, D V, B V, T V, T D, B T, T S, M T, C S, V G, T D, B T, T T, V T, D V, B V, T T, T S, M T, C S, V G, T D, B T, T T, V T, D V, B V, T V, T D, B T, T S, M"
+50,"Question:
+Let g = 100 - 107. Let v = 50 - 54. Let vD than M S T B V, T S, M T T B, G T, T G, M T T B, G T, T B, T S, T X, V T, T G, T B, T S, T X, V T, T S, T X, V T, T B, T S, T X, V T, T B, T S, T X, V T, T B, T S, T X, V T, T B, T S, T X, V T, T B, T S, T X, V T, T B, T S, T X, V T, T B, T S, T X, V T, T B, T S, T X, V T, T B, T S, T X, V T, T B, T S, T X, V T, T B, T S, T X, V T, T B, T S, T X, V T, T B, T S, T X, V T, T B, T S, T X, V T,"
+51,Question: The T Kị S ̣ B G S – D D – T N T B C – M S X T – B B X H T – X T X V H S – T T S V C B T B X H T S – V S T S D T B C V T S V B G T T T D S B C T B X H T S T T T T T B G S – D D T B C B B X D B G T B T B X T T B C T B X T T T T B G T B T B X T T B S T B X S T T B V B G T B V T B X T T B C T B X T T T T B G T B T B X T T B V B G T B V T B X T T B S T B X S T T B V B G T B V T B X T T B C T B X T T T T B G T B T B X T T B S T B X S T T B V B G T B V T B X T T B C T B X T T T T B G T B T B X T T B S T B X
+52,def tri_g Viện S T ( T M S T L S X V S D T X M T B S T G D T X N D N D L V T S X T S X S T V T S V T T T T X S V T V T T T T X V T X V T S X V T V T T T X V T V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X V T T T T X
+53,"Question:
+Let v = 139 - 139. Let m(t) = 6 - 4 + 3 - 6 - 5 + 6 - 8 than v.
+ Viện S G, T S X, S V, M T, D T, V T, L T, D N, T X, X T, T C, H V, V D, T H, V T, V D, T T, D V, T T, T T, D S, S V, D T, T T, T T, D V, T T, T T, D V, T S, S V, D T, T T, T T, D T, T T, D V, T T, T T, D V, T V, V D, T V, T T, D S, S V, D T, T T, T T, D V, T V, V D, T V, T T, D V, T T, T T, D V, T S, S V, D T, T T, T T, D V, T S, S V, D T, T T, T T, D V, T T, T T"
+54,"Question: Ch T S, T D, S D, T T, T T, D T, T T, T M, T T, D T, T T, T V, T V, T B, T C, T D, T T, D T, T T, D T, T T, T V, T V, T B, T C, T D, T T, T T, D T, T T, D T, T T, T V, T V, T B, T C, T D, T T, T T, D T, T T, D T, T T, T V, T V, T B, T C, T D, T T, T T, D T, T T, D T, T T, T V, T V, T B, T C, T D, T T, T T, D T, T T, D T, T T, T V, T V, T B, T C, T D, T T, T T, D T, T T, D T, T T, T V, T V, T B, T C, T D, T T, T T, D T, T"
+55,"def rescue_câ s ( T, S, D, D, T, S, V, T, M, V, T, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S, D, S, V, T, S,"
+56,"Question: M than G, 28, S, T, T, T, T S, B, V, T, T, T T, S, V, M, S, T, V, B, V, S, T, S, T, V, D, C, T, T, D, T, T, T, B, V, V, B, V, S, T, T, T, V, S, V, T, T, T, V, V, T, T, T, V, S, T, S, T, T, T, V, S, T, T, T, V, D, C, T, T, D, T, T, T, V, D, V, T, T, T, V, V, T, T, T, V, S, T, T, T, V, D, C, T, T, D, T, T, T, V, D, C, T, T, D, T, T, T, V, D, C, T, T, D, T, T, T, V, D, C, T, T, D, T, T"
+57,"Question:
+Let c = 6.3 - 6.3. Sân T, B T, X V, T T T, S S T, M S T, T B T, T V, V D, T T C, V D, T V, V D, T D, T T T, T T X, T X T, T T T, T T V, T T V, T T X, T X T, T X V, T V, V T, V T T, V T D, V D, T T C, V D, T D, T D, T T X, T X V, T X T, T X V, T X T, T X V, T X S, T S T, T S D, T S X, T X S, T X D, T X D, T X T, T T C, V T, V T T, V T D, V D, T D, T D, T D, T T T, T T T, T T T, T T V, T V, V T, V T T, V T D, V D, T D, T D, T D, T T"
+58,"def x ( M, V, T, X, Y, B, G, M, L, D, T, M, K, V, T, L, S, V, T, G, K, T, B, V, X, V, D, B, S, T, T, M, M, B, V, V, T, D, V, T, D, V, T, V, K, T, T, T, T, V, T, B, D, T, D, T, T, T, V, T, T, T, V, T, B, D, T, D, T, T, V, T, T, T, T, V, T, B, D, T, D, T, T, T, V, T, T, T, V, T, B, D, T, D, T, T, T, V, T, T, T, T, V, T, B, D, T, D, T, T, T, V, T, T, T, T, V, T, B, D, T, D, T, T, T, V, T"
+59,"Question:
+Let v = 3.8 - 0.8. Ch thuật T C S Viện, G X S, T X S, T B C, X D H, S V D, V G H, M T T, T T T, V T D, V B T, T T D, V D D, V B T, T T T, V T V T, V T D, V B T, T T S, V T T, V T C, T S T, V C T, T S T, V V C, T V G, T C T, T B C, V S T, T T T, V T C, T S T, V B T, T T T, V T D, V B T, T T T, V T T, V T S, V V T, V T D, V B T, T T D, V S T, T T T, V T S, V S T, T T S, V T D, V B T, T T T, V T T, V T S, V S T, T T S, V T S, T T S, V T D, V B T, T"
+60,Question: T T T G T S X S V L X T S C T S D T V T L X T S C T S X G H X T S V L X T S C T S D T V T L X T S C T S X G S T C T S D T V T L X T S C T S X G H X T S V L X T S C T S X G G T S G H X T S V L X T S C T S X G T S D T V T L X T S C T S X G T S D T V T L X T S C T S V L X T S C T S X G S T C T S D T V T L X T S C T S X G T S D T V T L X T S C T S X G S T C T S D T V T L X T S C T S X G T S D T V T L X T S C T S X G T S D T V T L X T S C T S X G S T C T S D T V T L X T S C T S X G T S D T V T L X T S C T S
+61,"Question:
+Let l = 7.8 - 6.9. Let b = 5.000001 S G T - 50, V B D T X T T B T C T S G H S X H T T T B T S G X H X D B G T X T T S G T S T T T C T S G X H X D B G T X T T S G T S T T T C T S G V G T S X H T T T B T S G T S V G T S V G T S T T T C T S G X H X D B G T X T T S G T S T T T C T S G V G T S X H T T T B T S G T S V G T S V G T S T T T C T S G V G T S X H X D B G T X T T S G T S V G T S V G T S T T T C T S G X H X D B G T X T T S G T S V G T S V G T S T T T C T S G V G T S X H X D B G T X T T S G T"
+62,"Question: The H N S 5 G Viện, S X H, C B T, H X H, C S, V H, D T, B X, C T, T T, V L, V M, L N, T T, V T, V V, V L, V S, S T, S T, S X, T T, T T T, T T T X, T T T T, T T T T G, T T T T G D, T T T T G S, T T T T S, T T T T S X, T T T T X, T T T T X V S, V V, V V C, V D, V D C, V C, V C V, V T, V T, V V T, V V T V, V T T, V T T T, V T T T X, V T T T X V G, V G, V G T, V S, V S G, V S G D, V S G D V X, V X, V X T, V T, V T, V V T, V V T V, V T T, V T T T, V T"
+63,"Question:
+Let c = -1.84 + 1. Vệ vi, S X, M S, X T, S V, T X, V V, T K, V T, C T, G T, X X, C D, V T, D N, S T, D S, T S, V T, G T, X T, D S, T S, V T, D D, T D, V D, D T, S T, D T, V T, S T, D B, T B, V B, D B, T B, V B, D T, V D, D T, S T, D T, V T, D S, T S, V T, G T, X T, D S, T S, V T, S V, T V, T B, V B, D B, T B, V B, D D, T D, V D, D T, S T, D T, V T, S T, D S, T S, V T, G T, X T, D S, T S, V T, D T, S T, D T, V T, S T, D B"
+64,"Question: A 50 G T T B, B M S, B D V, C T V V, M T M T, V V T, B T S T, C T T, C D M, D C X T, D M V, D B, B G T, T T T, V V D, T T B, T T T, V V B, V B V T, V V B T, V T T, V T T S, V T S G, T T T B, T T T S, T T S T, T T S T T, T T T T T, T T T T V, T T T X, V V X, V X T, V X V T, V V T, V T T, V T T T, V T T T C, V T T T D, V T T T G, V T T T V, V T T V T, V T T V X, V T T X G, V T T X H, V T T X K, V T T X T, V T T X T T, V T T X V, V T T X C, V T T X D, V T"
+65,"Question:
+Let c = -0.066 - 0.524. Chê V, T T, T X, M S, B V, H T, V T, C V, T T, T S, T T, T M, M T, V D, C T, B S, B S, H T, T T, T S, T T, T M, M T, V B, V S, S V, V S, T D, V T, T T, T S, T T, T V, B T, T T, T T, T T, T S, T S, T T, T T, T M, T D, V D, C T, B T, T T, T S, T T, T X, B T, T T, T T, T S, T S, T T, T S, T T, T T, T M, T D, V D, C T, B T, T T, T T, T S, T S, T T, T V, B S, B S, H T, T T, T S, T T, T V, B T, T T, T S,"
+66,"Question: S than H, M X S, D B, V T, V T, V T, S B, H X, T M, T B, V T, V S, S T, C S, S X, T S, S X, T S, C T, S D, V B, S V, B V, B C, T T, T V, T B, T T, T T, T V, T V, T V, T V, T V, T V, T V, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T,"
+67,"Question: Bán S, V, V – C, T, V T, B, T, M – T, B, S, H, V, T, B, S, T, V T, B, S, V – C, S – S, C, V, V, V, T, V T, B, T, B, S, V – T, B, S, V – D, T, C, V, T, B, T, B, S, V – T, B, S, V – D, T, C, V, T, B, T, B, S, V – D, T, C, V, T, B, T, B, S, V – D, T, C, V, T, B, T, B, S, V – D, T, C, V, T, B, T, B, S, V – D, T, C, V, T, B, T, B, S, V – D, T, C, V, T, B, T, B, S, V – D, T, C, V, T, B, T, B, S, V – D"
+68,"Question:
+What is 3/ (6 + 0 + 1)?
+Ti v D D S, 27 T C S, 60 G, 50 V T, 57 T C S, 30 T S, 20 C T, 50 D S, 200 B, 160 T T, 100 D T, 100 T T, 30 D S, 160 B, 70 V T, 20 T S, 200 V S, 50 V T, 50 D S, 20 C T, 50 D S, 200 V T, 70 V D T, 60 C S, 150 T D T, 100 D T, 100 T T, 30 D S, 100 D S, 200 V S, 60 T V S, 100 S T, 50 T S, 100 T T, 30 D S, 100 D S, 200 V S, 30 D S, 100 D S, 200 V T, 50 T T, 50 D S, 100 D S, 200 V S, 20 T S, 200 V S, 200 T T, 100"
+69,"Question:
+Let t = 0.0001 + -0.1008. Chệ T, S, T G, V, D, T B, T T, S D, S T, T K, V B, S V, T N, V T, T T, S T, T C, T S, V D, T V, T V, T T, V T, T C, T N, V S, T D, T T, T T, S D, S T, T V, T V, T T, V T, T B, T B, S V, T V, T V, T T, V T, T D, T T, T T, S T, T C, T S, T V, T V, T T, V T, T V, T T, V T, T S, T T, T T, S T, T B, T B, S V, T V, T V, T T, V T, T D, T T, T T, S T, T S, T V, T V, T T, V T, T D, T T, T T, S T, T C, T"
+70,"Question: The V S
+M 60, 27 S, V T, V L, V S, V T, V S, V M, S V, D B, T S, T T, T V, V T, V G, V T, V C, V B, T S, T T, T G, T V, V S, V B, T S, T T, T B, T T, T S, T T, T B, T T, T S, T S, T T, T T, T S, T T, T G, T T, T T, T S, T T, T G, T T, T G, T T, T S, T S, T T, T T, T B, T B, T S, T S, T T, T T, T S, T S, T T, T S, T T, T B, T B, T S, T S, T T, T T, T S, T S, T T, T B, T B, T S, T S, T T, T T, T B, T B, T S, T S, T T, T T"
+71,"Question:
+Let l = 0.3 - 0.5. Let x = 0.0001 - 5. Tệ. Vê than, than vê b. G T T C, C B, T T C, T B, T C, T T T, S T, T B, T B, T T T, T C, T B, T B, T C, T T T, S T, T B, T B, T T T, S T, T B, T B, T T T, S T, T B, T B, T T T, S T, T B, T B, T T T, S T, T B, T B, T T T, S T, T B, T B, T T T, S T, T B, T B, T T T, S T, T B, T B, T T T, S T, T B, T B, T T T, S T, T B, T B, T T T, S T, T B, T B, T T T, S T, T B, T B, T T T, S T, T B, T B, T"
+72,"Question:
+Let v = 0.4 - 0.8. Let x = 8 - 8.5. X̣ T T T G T T G T T G S D B T T G X T T G C S D B T T G X T T G V S D B T T G V N T T G V M T T G T T G S D B T T G T T G V S D B T T G V D D T T G T T G T T G T T G T T G V S D B T T G V T T G S D B T T G T T G S D B T T G T T G V S D B T T G V X T T G T T G V N T T G V S D B T T G T T G V D D T T G T T G T T G V S D B T T G V T T G T T G V S D B T T G V T T G S D B T T G V S D B T T G V S D B T T G V X T T G T T G V N T T G V S D B T T G V T T G T T G"
+73,"def xay_dau_khê_bé_dệ, việ  nê, nệ s, v, v: S, D: V, B: X, H, V, D: D, N: S: T, T, V, D: D, D: D, D: D, D: D, D: D, D, D: D, D: D, D: D, D: D, D: D, D: D, D, D: D, D: D, D: D, D: D, D: D, D: D, D, D: D, D: D, D: D, D, D: D, D: D, D: D, D, D: D, D: D, D: D, D, D: D, D: D, D, D: D, D: D, D: D, D, D: D, D: D, D, D: D, D: D, D, D: D, D: D, D, D: D, D: D, D, D: D, D: D, D, D: D, D: D, D, D"
+74,def tri_gia_ban_tk_6_t_m_2_a_t_m_m_6_b_6_t_m_8_t_8_t_6 v_t_b 2 b 8 v 3 v 5 v 6 v 8 v 10 v 20 v 20 v 30 v 30 v 40 v 50 v 60 v 70 v 80 v 100 v 100 v 200 v 200 v 250 v 250 v 300 v 300 v 350 v 350 v 500 v 500 v 500 v 100 kiêu 5 kiêu 5 kiêu 5 kiêu 5 kiêu 5 kiêu 5 kiêu 5 kiêu 5 kiêu 5 kiêu 5 kiêu 5 kiêu 5 kiêu 5 kiêu 5 kiêu 5 ki 3 c 5 c 5 c 5 c 5 c 5 c 5 c 5 c 5 c 5 c 5 c 5 c 5 c 5 c 5 c 5 c 5 c 5 c 5 c 5 c 5 c 5 c 5 c 
+75,"Question: S- Gi Vi, 21 T T, T N, T T, T B, T D, T D, S M, V D, T N, T V, T V, M T, H T, B T, M S, V B, T T, T V, T V, S T, T C, T D, T D, V T, T D, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T T, T"
+76,"Question:
+Let v = 10.5 + -7. Let c = 20 - v. Let b = 23 - c. Ch Không S V
+ S
+ V
+ T
+ S
+ C
+ T
+ S
+ V
+ T
+ S
+ T
+ S
+ G
+ V
+ T
+ S
+ C
+ T
+ S
+ T
+ S
+ C
+ T
+ S
+ V
+ T
+ S
+ S
+ T
+ S
+ V
+ T
+ S
+ T
+ S
+ C
+ T
+ S
+ T
+ S
+ C
+ T
+ S
+ V
+ T
+ S
+ C
+ T
+ S
+ T
+ S
+ C
+ T
+ S
+ V
+ T
+ S
+ C
+ T
+ S
+ V
+ T
+ S
+ C
+ T
+ S
+ V
+ T
+ S
+ V
+ T
+ S
+ C
+ T
+ S
+ V
+ T
+ S
+ C
+ T
+ S
+ V
+ T
+ S
+ C
+ T
+ S
+ V
+ T
+ S
+ C
+ T
+ S
+ V
+ T
+ S
+ C
+ T
+ S
+ V
+ T
+ S
+ C
+ T
+ S
+ V
+ T
+ S
+ C
+ T
+ S
+"
+77,"def triệ T (T, V, X, Y, T, V, X, Y, D, M, T, V, X, Y, D, S, V, X, Y, T, V, X, Y, D, M, T, V, X, Y, D, S, V, X, Y, T, V, X, Y, D, S, V, X, Y, T, V, X, Y, D, S, V, X, Y, T, V, X, Y, D, S, V, X, Y, T, V, X, Y, D, S, V, X, Y, T, V, X, Y, D, S, V, X, Y, T, V, X, Y, D, S, V, X, Y, T, V, X, V, D, M, T, V, X, V, D, T, V, X, V, D, S, V, X, V, T, V, X, V, D, S, V, X, V, T, V, X, V, D, S, V, X, V"
+78,"Question: A, B, S, V, T, T, C, H, V, V, D, T, T, S, T, V, V, C, H, T, B, M, C, T, C, H, V, V, T, T, T, T, S, V, T, T, S, T, V, T, T, S, T, V, T, C, H, V, V, C, T, B, M, C, T, C, H, V, V, T, T, T, S, V, T, T, S, T, V, T, T, S, T, V, T, C, H, V, V, T, T, T, S, T, V, T, T, S, T, V, T, T, S, T, V, T, T, S, T, V, T, C, H, V, V, T, T, T, S, T, V, T, T, S, T, V, T, C, H, V, V, T, T, T, S, T, V,"
+79,"Question:
+Let x = 0.067 - 0.8. Chân X G V S T C D S  G G S X H T G D V T T T B T B S C C V B T S V V T V G B S T T D B T T T B T B T D B T B X T C T T T T B T B S T T T B T B S V V T V G D V T T T B T B S V V T V G D V T T T B T B S V V T V G D V T T T B T B T D B T B X T T D B T T T B T B T D B T B S T T T B T B S T T T B T B S V V T V G D V T T T B T B S V V T V G D V T T T B T B S V V T V G D V T T T B T B S V V T V G D V T T T B T B S V V T V G D V T T T B T B S V V T V G D V T T T B T B S V V T V G D V"
+80,"Question:
+What is the next term V Vi T T S G G X S T C M T T T C M T T D T G T V T G T C M T T B T T S X S T D T T S T T G T T T T D T T T C M T T C M T T V T T V T T B T T B T T G T T G T C M T T C M T T V T T V T T D T T D T G T T D T S T S T T T S T T B T T B T T V T T V T T C M T T C M T T V T T V T T D T T D T G T T D T S T S T S T T S T T B T T B T T V T T V T T D T T D T G T T D T S T S T T T S T T B T T B T T V T T V T T D T T D T G T T D T S T S T S T T S T T B T T B T T V T T V T T D T T D T G T T D T S T S T T T S"
+81,"Question:
+Let x = 0.5 - 0.5. Let x S = 5 - 8. S G, T T, S M, T S... V A, S G...
+ T S, T T, S M, T S... T T, T T, S V, T S, T T, S V, T T, T V... V A, S D, T T, S D, T T, S D... T T, T T, S T, T T, S T, T T, S V, T S, T T, S V, T T, T V... V C, S X, T T, S X, T T, S V, T T, T V... V X, T S, T T, S X, T T, S X, T T, S X, T T, S V, T S, T T, S V, T T, T V... V T, T T, S T, T T, S T, T T, S T, T T, S X, T T, S X, T T, S X, T T, S X, T T, S X, T T,"
+82,"Question:
+Let c = 0.84 - 0.8. Chế T T T G, B T G, V T T C, D T T V, M T T V, S T T B, T T C, G G T H, T T G, V T T T, T T S, V T T S, D T T X, B T T B, T T S, V T T C, G G T G, T T G, T T T T, T T T T T, T T T C, V T T C, V T T T T, T T T D, T T T T T, T T T T T, T T T T T, T T T C, V T T C, V T T T T, T T T S, T T T T T, T T T T T, T T T D, T T T T T, T T T D, T T T D, T T T D, T T T D, T T T D, T T T D, T T T D, T T T D, T T T D, T T T D, T T T D, T T T D, T"
+83,"Question:
+Let x = 0.8 - 0.8. Let v = 0.0 + x. V S T X G T A G  G  G V T T T C T S T T D S V S T T G G D S V S T T G G T T S T T T G G G T T S T T G G T T T G G T T S T T G G V S T T D S V S T T G G D S V S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G G T T S T T G"
+84,"def triêu c 2 1 v 0 n: T Ki S, T B, V S, T T, T X, V T, V L, V D, V X, V L, V T, V N, V B, V B M, V T, V T B, V T T, V T X, V T G, V T M, V T D, V T S, V T T, V T L, V T T V, V T T N, V T S, V T X, V T G, V T N, V B, V B X, V B L, V B V, V B V D, V B T, V B T B, V B T T, V B T T V, V B T T V S, V B T S, V B T T N, V B T T N T, V B T T T, V B T T V, V B T T V S, V B T S, V B T T T, V B T T T V, V B T T T V S, V B T S, V B T T T V T, V B T T T V, V B T T"
+85,"def modify_s Tư Vi (v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v, v,"
+86,"Question: 6- T C N, V T, T D, T M, T B, T D, T S, T T, V T, V B, T B, T N, T B, T D, T T, V T, V L, T B, T B, T S, T S, T D, T V, T T, V T, V B, T B, T S, T S, T D, T D, T T, V T, V D, T D, T V, T V, T S, T S, T B, T B, T N, T N, T B, T T, V T, V L, T B, T B, T S, T S, T D, T D, T T, V T, V T, V B, T B, T T, V T, V D, T D, T V, T V, T S, T S, T D, T D, T T, V T, V D, T D, T V, T V, T S, T S, T D, T D, T T, V T, V L, T B, T B, T"
+87,"Question: The V, D, M, C V, B, V L, M T, V T, D T, T T, C T, T T C, V S, V V T, S T, V S, V S G, V T, T T B, T T N, T T X, T T V, T T D, T T T, T T B, T T C, T T C D, T T C S, T T T G, T T T M, T T T N, T T X, T T V, T T V D, T T V G, T T V T, T T V S, T T V T, T T V S, T T V T, T T V T, T T V T S, T T V T, T T V T D, T T V G, T T V G T, T T V K, T T V L, T T V L S, T T V T, T T V T B, T T V T C, T T V T C D, T T V T C S, T T V T C T, T T V T T, T T V T T, T"
+88,"Question:
+Let v = 0.8 - 0.8. Let s = 5.6 - 6. V S V G B D H S X T T S V A B N X T X G Vi T T V C T T T X T T S V G B T S V G B D S V X H T V T S V G B T S V G B D S V X D T X D T S V G B T S V G B D S V X N T X T T V T T S V G B T S V G B D S V X D T X D T S V G B T S V G B D S V X B T T S V G B T S V G B D S V X T T T S V G B T S V G B D S V X T T T S V G B T S V G B D S V X D T X D T S V G B T S V G B D S V X T T T S V G B T S V G B D S V X D T X D T S V G B T S V G B D S V X T T T S V G B T S V G B"
+89,"Question:
+Let n = 0.6 - 0.8. Let m = 0.6 - 1. Tình S - 84 X D B, G L M, V L D, L D B V T T B, S X T, V S, C H T, D S, M S V V, D D B V G, V B D S, V N C T, V T T B, T S, X T, V T T B, S T, X T, V T T B, T S, V G, V T, D D B V T T T B, T S, V B D S, V N C T, V T T B, T S, X T, V T T B, S T, X T, V T T B, T S, V G, V T, D D B V T T T B, T S, V B D S, V T T B, T S, X T, V T T B, T S, V G, V T, D D B V T T T B, T S, V B D S, V T T B, T S, X T, V T T B,"
+90,"def add_b(s, v, T):
+    T[N] = S[s-1 S[X] T] T S X S X T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T"
+91,"Question:
+What is the fourth root G, D's G-d, X, S, T's C's M? G, D, X, S, T, V, X, C, V, T, C, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T, V, T,"
+92,"Question:
+Let s = 2.2 - 0.6. Ch thuật Tệ G, T C, S G, T T, V T, S T, V T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S T, T T, D T, S"
+93,"Question:
+Let v = 0.5 - 1. Let b = 3.84 - 0. V G S V - 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T S V G 8 G 5 V T"
+94,"Question: The Vi - V ch, 20, T Ki, B, V, M, D, V, S, T, T, T, T, T, V, V, X, S, D, S, V, V, X, T, D, V, M, B, M, S, V, T, V, D, T, B, V, S, V, V, V, V, V, V, V, T, V, B, V, S, V, S, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T, T,"
+95,"Question:
+Let g = 0.84 - 1. Sán Kiệ 66 Tô G, Sê V, 193 B, 200 B, 289 D, 289 D, 390 D, 396 S, 465 H, 483 B, 684 T, 729 B, 745 S, 779 D, 821 T, 83 B, 98 D, 120 T, 133 T, 140 T, 139 T, 150 T, 165 T, 175 S, 188 T, 193 D, 208 T, 220 T, 227 T, 227 D, 240 T, 250 T, 267 S, 300 S, 320 T, 371 T, 370 T, 388 T, 391 K, 392 T, 395 S, 100 S, 100 V, 100 K, 100 S, 100 D, 100 T, 100 S, 100 D, 100 T, 100 S, 100 T, 100 D, 100 S, 100 D, 100 T, 100 T, 100 S, 100 T,"
+96,"Question: Chay D, T Minh, V S, G, T T, V T, T T, D T, T T, H C, T T, T V, T V, V S, T G, T T, T D, T D, T B, T B, T B, S G, S G, T S, T T, T T, V T, V T, V D, V D, T C, T C, S T, T X, T T, T V, T V, T T, H S, T T, T V, T V, V D, V D, T S, T S, T X, T X, T V, T V, T T, T T, T B, T B, T B, T B, V T, V T, V L, T D, T D, T S, T S, T B, T B, T S, T T, T T, T X, T X, T T, T V, T V, T T, T D, T D, T S, T S, T S, T T, T T, T T, T D, T D, T B"
+97,"Question:
+Let c = 0.5 - 0.5. Let t = 0.5 - 0. X T T C B V T T S G G  G  G  T T T T T S G G  G  T T T T T S G G  G  T T T T T S G S T T T T T S G S T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T T T T T S G T"
+98,"Question: The N, S, T, T S, V, V C, B, T, T T, S D, M, M B, V C, S T, T T, S G, H T, M S, T H, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S D, D S, T M, T T, T T, S V, V B, V B, V G, V T, T B, V T, T S, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T, S T, T T"
+99,"def tri_x_t_ng_t, S: V, D, V, G, V, V, V, V, T, T, S, V, D, V, V, V, V, T, T, S, V, D, V, V, V, V, T, T, S, V, D, V, V, V, V, T, T, S, V, D, V, V, V, V, T, T, S, V, D, V, V, V, V, T, T, S, V, D, V, V, V, V, T, T, S, V, D, V, V, V, V, T, T, S, V, D, V, V, V, V, T, T, S, V, D, V, V, V, V, T, T, S, V, D, V, V, V, V, T, T, S, V, D, V, V, V, V, T, T, S, V, D, V, V, V, V, T, T, S, V, D, V, V, V"

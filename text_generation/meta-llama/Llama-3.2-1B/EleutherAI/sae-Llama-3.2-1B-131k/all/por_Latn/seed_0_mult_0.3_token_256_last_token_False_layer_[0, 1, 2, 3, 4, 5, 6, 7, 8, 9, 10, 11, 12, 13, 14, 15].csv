@@ -1,0 +1,296 @@
+seed,generated_text
+0,"Question: A 28 year old man, a class A major a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+1,Question:Write a C# code snippet to Check Extreme Floss a O C as a Cofe de Aca a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+2,"Question: A 28-year-old man, a jogger, is a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+3,"Question: A 45 year old man, a long term a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+4,"Question:
+Let a = 0.02 - 0.02. Let v = 0.03 + a. Let g = 0.07 - v. Which is the nearest to 1?  (a) g  (b) 2  (c) 0.1
+Answer:
+c<|end_of_text|>"
+5,Question: A 20-year-old man is a frequent a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+6,"def set_and_loop_extras(n, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t,"
+7,"Question:
+What is the c'th term of 29, 59, 93, 127, 159, 199, 239?
+Answer:
+c**2 + 25*c + 3<|end_of_text|>"
+8,Question: A 20 year old man is a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+9,"Question:
+Let x be (0 + 0 + 3/3)*-1. Let b = 4.9 + -5. Let c = 0.1 + b. Which is the nearest to 1?  (a) x  (b) c  (c) 1/3
+Answer:
+c<|end_of_text|>"
+10,"Question: A 30 year old man, a long term a a major a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+11,Question: A 50-year old man is a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+12,"Question:
+Let n = 0.5 + -0.3. Let f = 0.3 - n. Let a = -0.3 - f. What is a as a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+13,"Question:
+Let h be 1/(-3) + 0 + 2. Let l = 0.01 + -0.11. Let g = 0.19 + l. Which is the nearest to h?  (a) g  (b) 1  (c) 3
+Answer:
+a<|end_of_text|>"
+14,"Question: A 27-year old man, a long term jogger, a long term a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+15,"Question:
+Let o = 0.01 - 0.31. Let a = -0.06 - o. Let l = 0.05 - a. Which is the nearest to 1?  (a) l  (b) 3  (c) 2
+Answer:
+c<|end_of_text|>"
+16,"Question: A 50-year old man, a long term a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+17,"Question:
+Let f = 0.009 - 0.00900001. Round f to 7 decimal nos.
+Answer:
+-0.0000001<|end_of_text|>"
+18,"Question:
+Let g = 3.8 - 3.9. Let o = -1.8 + g. Let c = o - -0.1. Which is the nearest to 0?  (a) c  (b) 3  (c) 1
+Answer:
+a<|end_of_text|>"
+19,Question: A 70-year old man is a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+20,"Question: A 30 year old man, a jogger, is a frequent a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+21,"Question: A 25 year old man, a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+22,Question: A 40-year-old man is a long as a a. A. a. 2. b. a. 1. c. b. 3. d. b. 4. e. c. 5. f. c. 6. a. 7. a. 8. c. 9. c. 10. b. 11. a. 12. a. 13. a. 14. a. 15. a. 16. a. 17. a. 18. a. 19. a. 20. a. 21. a. 22. a. 23. a. 24. a. 25. a. 26. a. 27. a. 28. a. 29. a. 30. a. 31. a. 32. a. 33. a. 34. a. 35. a. 36. a. 37. a. 38. a. 39. a. 40. a. 41. a. 42. a. 43. a. 44. a. 45. a. 46
+23,Question: A 45-year-old man is a frequent a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+24,"Question: The term ""pre- and post- noso"" refer to a
+A. a a
+B. a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+25,Question:Build a Python class ass a class ass a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class a class
+26,"Question:
+Let s = -4.9 + 5. Let l = 0.2 + s. Let c = l - -0.1. Which is the closest to c?  (a) -2  (b) 0  (c) -0.3
+Answer:
+b<|end_of_text|>"
+27,Question:Develop a C# program for a process ass a no. a 2. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a. a.
+28,"Question: A 68-year-old man is a long term smoker, a 30-year post a a a car a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+29,Question:Write a C# program to test a class for a class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class. A class class a class
+30,"Question:
+Let n be 3/(-2) - 1/(-2). Let f = 0.2 + -0.2. Let c = 0.2 - f. Which is the closest to c?  (a) 0.2  (b) n  (c) 2
+Answer:
+a<|end_of_text|>"
+31,"Question:
+Let g = -1.07 - -1. Let a = 0.07 + g. Let f = 0.04 - a. Which is the nearest to 1?  (a) -1/2  (b) 0  (c) 1
+Answer:
+c<|end_of_text|>"
+32,"Question:
+Let a = 0.002 - -0.038. Let x = 0.035 + a. Let g = x - 0.0205. What is g rounded to 2 dps?
+Answer:
+-0.02<|end_of_text|>"
+33,"def build_shoofa(tema, n, pass, a, b, c, d, e, f, g, h, i, j, k, l, m, n, p, q, s, t, a, b, c, d, e, f, g, h, i, j, k, l, m, n, p, q, s, t, a, b, c, d, e, f, g, h, i, j, k, l, m, n, p, q, s, t, a, b, c, d, e, f, g, h, i, j, k, l, m, n, p, q, s, t, a, b, c, d, e, f, g, h, i, j, k, l, m, n, p, q, s, t, a, b, c, d, e, f, g, h, i, j, k, l, m, n, p, q, s, t, a, b, c, d, e, f, g, h, i, j, k, l, m,"
+34,"Question: A 60-year-old man, a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+35,"Question:
+Let s = 0.2 - 0.2. Let d = s - 0.3. Let a be (0 - 0) + 0/1. Which is the closest to a?  (a) d  (b) -0.3  (c) 0.1
+Answer:
+b<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -1. Let a = 0.1 + o. Let s = a + -0.1. What is the nearest to s in 3, 0, 0.1?
+Answer:
+0<|end_of_text|>"
+37,"Question:Build a C# class for a class A. A class A can be a class B, C, D, E, F, G, ou H. A class A também pode ser a classe J. A classe A também pode ser a classe N. A classe A também pode ser a classe O. A classe A também pode ser a classe A, B, C, D, E, F, G, ou H. A classe A também pode ser a classe J. A classe A também pode ser a classe N. A classe A também pode ser a classe O. A classe A também pode ser a classe A, B, C, D, E, F, G, ou H. A classe A também pode ser a classe J. A classe A também pode ser a classe N. A classe A também pode ser a classe O. A classe A também pode ser a classe A, B, C, D, E, F, G, ou H. A classe A também pode ser a classe J. A classe A também pode ser a classe N. A classe A também pode ser a classe O. A classe A também pode ser a classe A, B, C, D, E, F, G, ou H. A classe"
+38,"Question:
+What is 4.2 plus 0.2?
+Answer:
+4.4<|end_of_text|>"
+39,"Question:
+Let c = -0.06 - -0.18. Let x = -0.1 + c. Let n = 0.1 + x. What is n rounded to 0 dps?
+Answer:
+-0<|end_of_text|>"
+40,"Question: A 50-year-old man, a a a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a 5- a"
+41,"Question:Create a C# class for a class 'User' and a class 'Acess' as a class 'B' class, a class 'C' class, a class 'D' class, a class 'A' class, a class 'B' class, a class 'C' class, a class 'D' class, a class 'A' class, a class 'B' class, a class 'C' class, a class 'D' class, a class 'A' class, a class 'B' class, a class 'C' class, a class 'D' class, a class 'A' class, a class 'B' class, a class 'C' class, a class 'D' class, a class 'A' class, a class 'B' class, a class 'C' class, a class 'D' class, a class 'A' class, a class 'B' class, a class 'C' class, a class 'D' class, a class 'A' class, a class 'B' class, a class 'C' class, a class 'D' class, a class 'A' class, a class 'B' class, a class 'C"
+42,Question: A 20 year old man is a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+43,Question: A 35-year-old man is a a a 35-year-old man is a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+44,"Question:
+Let o = 2.1 - 0.1. Let a = 0.8 - o. Let n = a - 0.7. Which is the third biggest value?  (a) -2  (n  a                                 a
+Answer:
+-2<|end_of_text|>"
+45,Question: A 60-year old man is a a 60-year old man. A 60-year a 60-year a 60-year a 60-year a 60-year a 60-year a 60-year a 60-year a 60-year a 60-year a 60-year a 60-year a 60-year a 60-year a 60-year a 60-year a 60-year a 60-year a 60-year a 60-year a 60-year a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 60 a 
+46,"Question:Build a C# class for a car, a class for a car as a profissional, a class para a profissional a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+47,"def find_min_max(a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, a, b, c, d, e, f,"
+48,"Question: A 2 year old boy, a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+49,"Question: A 45-year-old man, a long term a a long term a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+50,"Question:
+Let g = 0.1 - 0. Let h = 0.2 + 0.1. Let f = g - h. What is the third biggest value in -1, f, 0.4?
+Answer:
+-1<|end_of_text|>"
+51,"Question:Create a C# program to a user to pass a number and a a função pass a no, no, a, b, c, a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+52,"def is_number(x, n):
+    for i in range(1, n + 1):
+        if x < 1 or x > 10:
+            return False
+        a = x ** i
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a + 1
+        a = a +"
+53,"Question:
+Let n be 3 + 0 + 0 - -1. Let g be 1/1 - (n - 1). Let c be 2/(-2) + g - 1. Put c, -3, 2 in increasing order.
+Answer:
+-3, c, 2<|end_of_text|>"
+54,"Question: A 25-year-old man, a jogger, is assasst. A post morte a a de a 18 a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+55,"def count_cultures(tribes, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, a, b, c, d, e, f, g, h, i, j, k, l, m, n"
+56,Question: A 55-year-old man is a 2nd pass a g a l a n a c e a s a c a n a c o m a a s e s e s a b a c a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a s a n a a s a s a
+57,"Question:
+Let c = -0.001 - 0.0006. Let j = 0.001 - c. Let f = j - -0.2. What is f rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>"
+58,"def solve(n, a, b, c, d, e, f, g, h, i, j, k, l, m, n, a, b, c, d, e, f, g, h, i, j, k, l, m, n, a, b, c, d, e, f, g, h, i, j, k, l, m, n, a, b, c, d, e, f, g, h, i, j, k, l, m, n, a, b, c, d, e, f, g, h, i, j, k, l, m, n, a, b, c, d, e, f, g, h, i, j, k, l, m, n, a, b, c, d, e, f, g, h, i, j, k, l, m, n, a, b, c, d, e, f, g, h, i, j, k, l, m, n, a, b, c, d, e, f, g, h, i, j, k, l, m, n,"
+59,"Question:
+Let v = 3.8 - 2. Let o = -0.3 + v. Let b = -0.8 - o. What is b rounded to 1 decimal place?
+Answer:
+-1.1<|end_of_text|>"
+60,Question: A 30-year-old man is a 3rd proxim g o a as a g n a o a o e a e a n a a s s a a s a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s a a s
+61,"Question:
+Let a = 7.9 - 9.9. Let p = 0.3 + a. Let b = -0.2 - p. What is b rounded to 1 decimal place?
+Answer:
+-0.1<|end_of_text|>"
+62,"Question: The term ""A a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a"
+63,"Question:
+Let o = -0.027 + 0.027. Let p = 0.6 - o. Let a = 0.1 + p. What is a at a 0.1?
+Answer:
+0.1<|end_of_text|>"
+64,Question: A 50-year-old man is a post a major abdominal a a b a o a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+65,"Question:
+Let c = -0.2 - -0.2. Let p = c + 0.3. Let j = -0.4 - p. What is j rounded to 1 decimal place?
+Answer:
+-0.2<|end_of_text|>"
+66,Question: A 2 year old child is a case of a a. S. de a. a. c. b. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a. d. a. b. c. a.
+67,Question: A 70-year-old man is a a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long a long
+68,"Question:
+What is 3.9 plus 0.1?
+Answer:
+3.9<|end_of_text|>"
+69,"Question:
+Let d = 0.1 - 0.3. Let a = 1.3 + d. Let b = 1.7 - a. What is b rounded to 1 dp?
+Answer:
+2<|end_of_text|>"
+70,Question: A 68-year-old man is a frequent a a long a a long a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+71,"Question:
+Let a = 0.3 - 0.2. Let p = 0.3 - a. Let g = 0.1 - p. What is the third biggest value in g, 2, 2/11?
+Answer:
+2<|end_of_text|>"
+72,"Question:
+Let g = 0.4 - 0.3. Let d = 0.02 + g. Let p = d + 0.01. What is p rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>"
+73,"def is_prime(n):
+    """"""
+    A function to check a number is a prime number
+
+    A prime number is a number a, prime, a number a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a,"
+74,Question:Develop a C# program a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+75,"Question: A 3-year-old child is a a a
+A. a. com a b. a a c. a b c. a c
+B. a. a c a b. a a c. a b c. a c
+C. a. a b a c. a b c. a a c
+D. a. a c a b. a a c. a b c. a c
+Answer: A<|end_of_text|>"
+76,"Question:
+Let f = 10.5 - 7. Let o = f - 2.5. Let d = -0.1 - o. Is d at most as big as 0.2?
+Answer:
+False<|end_of_text|>"
+77,"def create_room_layout(rooms, room_length, room_width, passagos, passagens, passagens_geraes, passagens_direi, passagens_outra, passagens_crescidas, passagens_nas, passagens_outras, passagens_de, passagens_t, passagens_d, passagens_ou, passagens_ba, passagens_ou, passagens_n, passagens_a, passagens, passagens_d, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, passagens, pass"
+78,Question: A 30 year old man is a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+79,"Question:
+Let n = 0.023 - 0.048. Let f = n - -0.035. Let b = f + -0.026. What is b rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+80,"Question:
+What is the third biggest value in 3, 0.2, 1, -0.1, -0.4?
+Answer:
+0.2<|end_of_text|>"
+81,"Question:
+Let o = 2.5 - 2.5. Let a be 2/2 - 2 - -1. Let q be a - 2/(-2) - 0. Which is the closest to q?  (a) o  (b) -1/4  (c) 1/3
+Answer:
+c<|end_of_text|>"
+82,"Question:
+Let c = 0.025 - 0.025000001. What is c rounded to 7 dps?
+Answer:
+-0.0000001<|end_of_text|>"
+83,"Question:
+Let x = 0.1 - 0.1. Let h = 0.2 + x. Let c = 0.1 + 0.1. What is the nearest to c in 1, h, 0.1?
+Answer:
+0.1<|end_of_text|>"
+84,"def update_loop(animals, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, s, t, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, s, t, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, s, t, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, s, t, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, s, t, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, s, t, a, b, c, d, e, f, g, h, i, j, k,"
+85,"def list_excess(quant, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome, des, nome"
+86,Question:Build a C# class express a com a a c as a s a b a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+87,Question: A 5-year-old a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+88,"Question:
+Let a = 0.1 - -0.1. Let s = 0.1 + a. Let g = s - 0.1. Is g at most as big as 1?
+Answer:
+False<|end_of_text|>"
+89,"Question:
+Let g = -0.6 - 0.1. Let a = 0.6 - g. Let d be 1/2 - 3/(-2). What is the second biggest value in a, d, 0.4?
+Answer:
+d<|end_of_text|>"
+90,"def add_n_outras(p, n, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, s, t, u, v, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, s, t, u, v, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, s, t, u, v, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, s, t, u, v, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, s, t, u, v, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, s,"
+91,"Question:
+What is the remainder when 20 is divided by 1?
+Answer:
+0<|end_of_text|>"
+92,"Question:
+Let s be 2/2 - (0 - 0). Let h = 2.5 + s. Let l be 1 + 2 + 2 + 0. What is the second smallest value in h, 3, l?
+Answer:
+l<|end_of_text|>"
+93,"Question:
+Let a = 0.001 - -0.100. Let j = 0.10000001 - a. Round j to 7 decimal nos.
+Answer:
+0.0000001<|end_of_text|>"
+94,Question: A 35-year-old man is a long a a long a a long a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+95,"Question:
+Let o = 0.2 + 0.4. Let a = 0.1 - o. Let j = 0.2 - a. What is j rounded to 1 decimal place?
+Answer:
+0.1<|end_of_text|>"
+96,"Question:Write a C# program to test a number n and a number a, a. A, b, c. A, b, c, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c, b, a, c"
+97,"Question:
+Let c = 0.5 - 0.3. Let n = c - 0.1. Let a = n - 0.1. What is the closest to 1 in a, 0, 0.4?
+Answer:
+0.4<|end_of_text|>"
+98,Question:Develop a C# program to add a number to a no. as a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+99,"def set_intersection(sets, n):
+    """"""
+    Recebe duas ou mais listas de pares e dá como resultado uma nova lista de pares com as duas primeiras entradas, mas não a terceira, ou seja, o primeiro e o segundo pares são os únicos a ter a sua posição a ser a primeira e a ter a sua posição a ser a segunda na nova lista.
+    :param n: número de pares a ser executado
+    :param s: a primeira lista
+    :param t: a segunda lista
+    :param a: a terceira lista
+    :return: a nova lista de pares
+    """"""
+    p = a
+    a = b
+    b = c
+    c = d
+    d = a
+    a = b
+    b = c
+    c = d
+    d = a
+    a = b
+    b = c
+    c = d
+    d = a
+    a = b
+    b = c
+    c = d
+    d = a
+    a = b
+    b = c
+    c = d
+    d = a
+    a = b
+    b = c
+    c"

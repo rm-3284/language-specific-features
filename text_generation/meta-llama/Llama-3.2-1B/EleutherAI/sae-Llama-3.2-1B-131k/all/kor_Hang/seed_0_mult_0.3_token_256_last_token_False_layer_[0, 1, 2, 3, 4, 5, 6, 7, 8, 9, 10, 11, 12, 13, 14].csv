@@ -1,0 +1,963 @@
+seed,generated_text
+0,"Question:Write a Python code snippet to Calculate Low Hair care: Styling Tools for Decision Making for Beginners. Consider the Safety and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is some sample python code which calculates low haircare styling tools based off of beginner level requirements. The program uses if else statements to determine what type of product will be recommended depending on certain conditions. It also includes a switch case statement to handle exceptions when certain inputs are given. 
+
+```python 
+# Import necessary libraries
+import math
+from decimal import Round
+
+def calculate_low_haircare(age, hair_type):
+    # Define variables
+    price = 0
+    size = """"
+    recommendation = """"
+
+    # Calculate price based on age and hair type
+    if (age < 18) or (hair_type == ""Korean""):
+        price = 1000 * (math.ceil((age / 10) + 1))
+    
+    elif (age >= 18) and (hair_type!= ""Korean""):
+        price = 500 * (math.ceil((age / 10)))
+        
+    else: 
+        pass # Do nothing"
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 + d. Let j = s - -0.01. What is j rounded to 2 dps?
+Answer:
+0.01<|end_of_text|>"
+2,"Question:
+Let l = -3.4 - -3. Let m = 0.0000048 + l. Round m to 6 decimal places.
+Answer:
+0.000005<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Let k = -0.04 + g. Let m = -0.06 + k. What is m rounded to 1 decimal place?
+Answer:
+-0.1<|end_of_text|>"
+4,"Question:
+Let v = -0.02 - -0.21. Let t = 0.17 + v. Let o = t + -0.008. What is o rounded to three decimal places?
+Answer:
+-0.002<|end_of_text|>"
+5,"Question:
+Let o = 0.001 - 0.0010000001. Round o to 7 decimal places.
+Answer:
+-0.0000001<|end_of_text|>"
+6,"def count_even_numbers(numbers):
+    """"""
+    Write a function that takes a list of numbers and returns the number of even numbers in the list.
+
+    Hint: Use the % operator to check if a number is even.
+    """"""
+    count = 0
+    for num in numbers:
+        if num % 2 == 0:
+            count += 1
+    return count
+<|end_of_text|>"
+7,# 2.3.3.3.3.2.1.2.1.1.2.2.1.2.3.2.1.2.4.1.2.2.2.1.2.3.2.1.2.4.1.2.2.2.1.2.3.2.1.2.4.1.2.2.2.1.2.3.2.1.2.4.1.2.2.2.1.2.3.2.1.2.4.1.2.2.2.1.2.3.2.1.2.4.1.2.2.2.1.2.3.2.1.2.4.1.2.2.2.1.2.3.2.1.2.4.1.2.2.2.1.2.3.2.1.2.4.1.2.2.2.1.2.3.2.1.2.4.1.2.2.2.1.2.3.2.1.
+8,"Question:Develop a Python program snippet to Check High Security: Identity Verification for Decision Making for Beginners. Incorporate if/else or switch/case statements to handle various cases related to the Privacy. Dry-run, ensure your code works as intended, and provide detailed comments explaining your code and how it works. Release version 1.0 with appropriate documentation and copyright information.
+Solution:Here's some sample python code which implements high security identity verification for decision making:
+
+    import random
+    from string import ascii_letters, digits
+    
+    # Define user information variables
+    username = """"
+    password = """"
+    age = 0
+    gender = """"
+    address = """"
+    phone_number = """"
+    email = """"
+    date_of_birth = """"
+    
+    # Generate random password
+    password = """".join([random.choice(ascii_letters + digits) for _ in range(10)])
+    
+    # Verify user information
+    while True:
+        print(""Enter your username:"")
+        username = input()
+        
+        if len(username) > 0:
+            break
+        else:
+            print(""Invalid username"")
+            
+    while True:
+        print(""Enter your password:"")
+        password = input()
+        
+        if len(password) > 0:
+            break
+        else:
+           "
+9,"Question:
+Let k = -0.1 - -0.1. Let p = 0.7 + -0.4. Let d = p - k. Which is the closest to d?  (a) 2  (b) -1  (c) -3
+Answer:
+b<|end_of_text|>"
+10,"Question:Create a Python script snippet that Determines High Nose care: Clearing Nasal Passages for Decision Making for Beginners. Use if/else or switch/case statements to handle different conditions related to the Safety. Dry-run, then include comments that explain the logic and help other developers understand how the program works.
+Solution:Here is a python script which determines high nose care by clearing nasal passages based on decision making for beginner level. The script uses `if`/`else` statement to handle different conditions depending on user input. It also includes detailed explanations of each step and logic behind the program. 
+
+```python 
+# Determine High Nose Care: Clearing Nasal Passages for Decision Making for Beginners
+# Author: Anjum Park
+# Date: 2023.03.15
+
+def main():
+    # Prompt user for symptoms
+    print(""Hello! Let's find out what's wrong with your nose."")
+    symptom = input(""Do you feel congested? (y/n): "")
+    fever = input(""Are you experiencing a fever? (y/n): "")
+    cough = input(""Are you having difficulty breathing? (y/n): "")
+
+    # Check symptoms and recommend treatment
+    if symptom == ""y"" and fever == ""y"
+11,"Question: A 50-year-old woman with a history of a chronic cough and shortness of breath for 2 years is found to have anemia and a large pleural effusion. A transthoracic needle aspiration of the pleural fluid reveals a pH of 7.2, a total protein of 1,000 mg/dL, a glucose of 60 mg/dL, and a total white blood cell count of 800,000. Which of the following is the most likely diagnosis?
+A. Acute pulmonary embolism
+B. Chronic obstructive pulmonary disease
+C. Empyema
+D. Pulmonary fibrosis
+Answer: C<|end_of_text|>"
+12,"Question:
+Let r = 0.011 + -0.011000006. Round r to 7 decimal places.
+Answer:
+-0.0000001<|end_of_text|>"
+13,"Question:
+Let h = -0.1 + 0.1. Let w = 0.07 + h. Let o = 0.007 - w. What is o rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>"
+14,"Question:Design a Go function snippet to Check High Hair care: Styling Tools for Decision Making for Experts. Implement if/else or switch/case statements to handle different conditions related to the Bias. Provide detailed comments explaining your control flow and the reasoning behind each decision.
+
+Solution:Here is a possible implementation of this functionality in Golang:
+```go
+func checkHairCare(style string, price float64, review int) bool {
+    // If statement to determine whether style is considered high quality based on price
+    if style == ""Styling Tool"" {
+        if price > 1000 {
+            return true;
+        } else {
+            return false;
+        }
+    } 
+    // Switch case statement to determine whether review is positive or negative
+    switch review {
+        case 5:
+            if price < 800 {
+                return true;
+            } else {
+                return false;
+            }
+        case 4:
+            if price >= 700 and price <= 900 {
+                return true;
+            } else {
+                return false;
+            }
+        default:
+            return false;
+    }
+}
+```
+In this solution, we first use an `if` statement to check whether the specified style is considered high quality based on its price. The price threshold was"
+15,"Question:
+Let y = -0.0149 - 0.0222. Let c = -0.036 - y. Let t = -0.0125 - c. Round t to 3 dps.
+Answer:
+-0.001<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.13. Let y = 0.01 + j. Let l = -0.07 - y. What is l rounded to 1 decimal place?
+Answer:
+-0.3<|end_of_text|>"
+17,"Question:
+Let f = 0.013 - 0.023. Let h = 0.0100012 - f. Round h to 7 decimal places.
+Answer:
+0.0000012<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3.9. Let o = -0.001 + y. Let p = o - -0.0999991. Round p to 7 decimal places.
+Answer:
+0.0000009<|end_of_text|>"
+19,"Question:Build a Java module snippet that Checks Low Social Media: Social Media Marketing for Decision Making for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Safety. Ensure your code is well-documented with comments explaining your approach.
+
+Solution:Here's some sample java code which implements a function to check whether social media platforms are safe or not depending on their safety rating. The function uses an if else statement to determine what action needs to be taken based on the value of the safetyRating variable. If the safetyRating is less than 3 then the function returns ""Unsafe"", otherwise it returns ""Safe"". 
+
+```java
+public String checkSafety(int safetyRating) {
+    if (safetyRating < 3) {
+        return ""Unsafe"";
+    } else {
+        return ""Safe"";
+    }
+}
+```<|end_of_text|>"
+20,"Question:Build a TypeScript module snippet that Displays Extreme Hygiene during illness: Cough and Cold Care for Analysis for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Transparency. Ensure your code is well-documented with comments explaining your approach.
+Solution:Here's a possible implementation of such a module written in TypeScript:
+```typescript
+// Import necessary modules
+import { useEffect, useState } from ""react"";
+
+// Define global variables
+const HYGIENE_LEVELS = [""Very High"", ""High"", ""Medium"", ""Low"", ""Very Low""];
+const CORONAVIRUS_LEVELS = [""Very High"", ""High"", ""Medium"", ""Low""];
+const COLD_LEVELS = [""Very High"", ""High"", ""Medium"", ""Low""];
+const SYNDROME_LEVELS = [""Very High"", ""High"", ""Medium"", ""Low"", ""Very Low""];
+
+function DisplayHygiene() {
+  // Declare local variables
+  const [hygieneLevel, setHygieneLevel] = useState(""Very High"");
+  const [coronavirusLevel, setCoronavirusLevel] = useState(""Very High"");
+  const [coldLevel, setColdLevel] = useState(""Very High"");
+  const [syndrome"
+21,"Question:
+Let g = -0.1 + 0.3. Let y = 1.1 + g. Let k = 0.3 + y. Which is the closest to 0.1?  (a) -0.5  (b) k  (c) -2/3
+Answer:
+b<|end_of_text|>"
+22,"Question: Which of the following is a common site of metastasis of Carcinoma of the Pancreas?
+A. Lymph node
+B. Liver
+C. Kidney
+D. Bone
+Answer: A<|end_of_text|>"
+23,"Question: Which of the following is not true about the common cold?
+A. Bacterial infection
+B. Viral infection
+C. No specific treatment
+D. None
+Answer: A<|end_of_text|>"
+24,"Question:Write a C++ code snippet to Calculate Low Hair care: Styling Tools for Engineer for Experts. Consider the Safety and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is some sample C++ code which calculates low haircare styling tools based on expert recommendations:
+
+    #include <iostream>
+    #include <cmath>
+    
+    int main() {
+        // Declare variables
+        double price; // Price of product
+        int quantity; // Quantity purchased
+        double taxRate; // Sales tax rate
+    
+        // Prompt user for input
+        std::cout << ""Enter price of product: "";
+        std::cin >> price;
+    
+        std::cout << ""Enter quantity purchased: "";
+        std::cin >> quantity;
+    
+        std::cout << ""Enter sales tax rate (as a decimal): "";
+        std::cin >> taxRate;
+    
+        // Calculate total cost
+        double totalCost = price * quantity + (price * quantity * taxRate / 100);
+    
+        // Print results
+        std::cout << ""Total Cost: "" << totalCost << ""\n"";
+    
+        return 0"
+25,"# Hwangnam-dong (baranggay)
+
+Hwangnam-dong (황남동)은 대한민국 서울특별시 강서구의 행정동이다. 
+
+## 개요
+
+강서구의 서쪽에 위치한 행정동이다. 강서구의 중앙부에 위치하고 있으며, 서쪽으로는 강서구의 서부, 동쪽으로는 강서구의 남부, 북쪽으로는 강서구의 동부, 동쪽으로는 강서구의 서부, 남쪽으로는 강서구의 남부에 위치한다.
+
+강서구의 중심부인 서부구와의 분리구역인 동부구와의 분리구역, 서부구와의 분리구역, 남부구와의 분리구역, 서부구와의 분리구역, 동부구와의 분리구역, 남부구와의 분리구역, 서부구와의 분리구역, 동부구와의 분리구역, 남부구와의 분리구역, 서부구와의 분리구역, 동부구와의 분리구역, 남부구와의 분리구역, 서"
+26,"Question:
+Let s = -4.9 + 5. Let l = 0.5 + s. Let w = l - -0.0019. What is w rounded to three dps?
+Answer:
+0.002<|end_of_text|>"
+27,"Question:Develop a Python program to Check High Hygiene during illness. 
+
+Solution:import sys
+import time
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoAlertPresentException
+import datetime
+import calendar
+import smtplib
+import os
+import csv
+from urllib.request import urlretrieve
+from urllib.request import urlretrieve
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+import re
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoAlertPresentException
+import datetime
+import calendar
+import csv
+from urllib.request import urlretrieve
+from urllib.request import urlretrieve
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+import re
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions"
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.2 - t. Let r = -0.3 - c. What is r rounded to 1 decimal place?
+Answer:
+-0.3<|end_of_text|>"
+29,"Question:Write a Bash code snippet to Update Low Fitness: Calorie Intake for Decision Support System. Consider the Safety and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is a bash script that updates low fitness calorie intake based on user input:
+```bash
+#!/bin/ksh
+# update_low_fitness_kcal.py
+
+# Prompt user for age, height, weight, and activity level
+print(""Please enter your age, height, weight, and activity level:"")
+age = int(input(""Age: ""))
+height = float(input(""Height (in meters): ""))
+weight = float(input(""Weight (in kilograms): ""))
+activity_level = input(""Activity Level (sedentary, lightly active, moderately active, very active, or highly active): "")
+
+# Calculate BMI
+bmi = weight / (height * height)
+
+# Check if user is underweight
+if bmi < 18.5:
+    print(""You are underweight. Please increase your caloric intake."")
+    
+# Check if user is normal weight
+elif bmi >= 18.5 and bmi <= 24.9:
+    print(""You are within a healthy range"
+30,"Question:
+Let y = -0.009 - -0.309. Let s = y - 0.301. Let w = s - -0.001. What is w rounded to 2 decimal places?
+Answer:
+0.01<|end_of_text|>"
+31,"Question:
+Let m = -1.07 + 1. Let q = m + 0.03. Let l = 0.04 - q. What is l rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>"
+32,"Question:
+Let t = 0.002 - -0.038. Let q = 0.0400059 - t. Round q to 6 decimal places.
+Answer:
+0.000006<|end_of_text|>"
+33,"def build_shelves(num_shelves, shelf_width, shelf_height, shelf_depth):
+    """"""
+    Write a program to build a set of shelves.
+
+    The program should take in the number of shelves, the width, height, and depth of each shelf, and then print out a list of the shelf dimensions and the total cost of the shelves.
+
+    The program should use nested loops to iterate over the number of shelves and the width, height, and depth of each shelf.
+
+    The program should use the division assignment operator to calculate the total cost of the shelves.
+    """"""
+
+    total_cost = 0
+    for i in range(num_shelves):
+        for j in range(shelf_width):
+            for k in range(shelf_height):
+                for l in range(shelf_depth):
+                    total_cost += 10000
+    print(f""Total cost of the shelves: {total_cost}"")
+<|end_of_text|>"
+34,"Question: Which of the following is not a feature of anorexia nervosa?
+A. Weight loss
+B. Excessive exercise
+C. Paleness
+D. Fear of gaining weight
+Answer: A<|end_of_text|>"
+35,"Question:
+What is prob of picking 2 e and 1 z when three letters picked without replacement from {z: 1, e: 7, o: 3}?
+Answer:
+1/11<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -0.9. Let r = o + 0.1. Let s = -0.0000274 + r. Round s to six decimal places.
+Answer:
+-0.000028<|end_of_text|>"
+37,"# List of number-one download songs of 2012
+
+These are the songs that topped the Download Songs chart in 2012, published by the K-pop industry monitoring agency Gaon.
+
+## See also
+
+* List of number-one songs of 2012 in South Korea<|end_of_text|>"
+38,"Question:
+What is prob of picking 1 t and 1 p when two letters picked without replacement from {t: 5, p: 1, v: 1}?
+Answer:
+5/18<|end_of_text|>"
+39,"Question:
+Let t = -0.06 + 0.5. Let k = t - 0.6. Let n = 0.00002 + k. Round n to 5 dps.
+Answer:
+0.00002<|end_of_text|>"
+40,"# 2002년 11월 30일 일식
+
+| |  | 다른 CALC산도가 이어서 일식을 보았다. |  |
+| | 2002년 11월 30일 |
+| GMT | UTC |
+| KGS | 1008 | 200222 |
+| LSGN | 2423 | 200022 |
+| TODA | 1008 | 200222 |
+| MYDONG | 18 | 200222 |
+| MYONG | 18 | 200222 |
+| MSNES | 15 | 200222 |
+| MSNED | 15 | 200222 |
+| MSNED | 15 | 200222 |
+
+ |
+
+ |
+
+2002년 11월 30일 일식
+2002년 11월 30일 일식은 지구의 반경이 달의 반경보다 지나서 일식하는 일식의 종류이다.
+
+## 관련영상
+
+* 2002년 11월 30일 일식 - https://www.youtube.com/watch?v=ZwN0Lp6WJUg
+* 2002년 11월 30일 일식 - https://www.youtube.com/watch?v="
+41,"Question:
+Let a = -1.1 + 0.9. Let j = -2.2 + a. Let o = -0.2 - j. What is o rounded to one dp?
+Answer:
+-0.5<|end_of_text|>"
+42,"Question:
+Let l = 0.0337 + -0.0282. What is l rounded to three decimal places?
+Answer:
+0.005<|end_of_text|>"
+43,"Question:
+Let k = -0.0376 - -0.0537. What is k rounded to two dps?
+Answer:
+0.02<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + -2. Let s = 0.9 - o. Let y = 1.0000054 + s. Round y to 6 decimal places.
+Answer:
+0.000005<|end_of_text|>"
+45,"Question:
+Let t = 0.02 + 0.02. Let d = t - 0.3. Let v = -0.3 - d. What is the closest to 0 in 5, v, 0.5?
+Answer:
+v<|end_of_text|>"
+46,"Question:Build a Java module snippet that Updates High Handwashing technique: Drying Hands Thoroughly for Decision Support for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Bias. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here is some sample java code which implements high hand washing technique drying hands thoroughly depending on whether there is a bias present or not. The code uses if else statement to check for presence of bias and then applies appropriate action as per requirement. 
+
+```java
+import java.util.*;
+public class HandWash {
+    public static void main(String[] args) {
+        // Mocked user input
+        int age = 30;
+        boolean hasBowelControl = true;
+        String gender = ""Male"";
+        double height = 178;
+        int weight = 65;
+        double bmi = 23.4;
+        
+        System.out.println(""Welcome to the High Hand Washing Technique"");
+        System.out.println(""Please enter your details below."");
+        System.out.print(""Age: "");
+        age = scan.nextInt();
+        System.out.print(""Has bowel control? (y/n): "");
+        hasBowelControl = scan.next().equals(""y"")? true : false;
+"
+47,"# Generated by Django 3.2.5 on 2021-05-30 10:34
+
+from django.db import migrations, models
+
+
+class Migration(migrations.Migration):
+
+    initial = True
+
+    dependencies = [
+    ]
+
+    operations = [
+        migrations.CreateModel(
+            name='Member',
+            fields=[
+                ('id', models.BigAutoAppendIndex(), primary_key=True, serialize=False),
+                ('name', models.CharField(max_length=30)),
+                ('phone', models.CharField(max_length=20)),
+                ('email', models.EmailField(max_length=50)),
+                ('password', models.CharField(max_length=30)),
+            ],
+        )
+    ]<|end_of_text|>"
+48,"Question:Build a Python module snippet that Updates Low Hygiene in shared spaces: Cleaning Tips for Decision Making for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Bias. Ensure your code is well-documented with comments explaining your approach.
+Solution:Here is a python module snippet that updates low hygiene in shared spaces by cleaning tips for decision making for beginners incorporating if else or switch case statement to handle different cases based on bias. The code is well documented with comments explaining the approach. 
+
+```python 
+def update_low_hygiene(bias):
+    """"""Update low hygiene in shared spaces
+    
+    Args:
+        bias (int): The level of agreement with the statement
+
+    Returns:
+        str: A message indicating whether the level of agreement was high, medium, or low
+    """"""
+    # If the level of agreement is high, return a positive message
+    if bias >= 75:
+        return f""Great job! The level of agreement was {bias}%""
+    
+    # Else if the level of agreement is medium, return a neutral message
+    elif bias >= 50:
+        return f""Thank you for participating. The level of agreement was {bias}%""
+    
+    # Else return a negative message
+"
+49,"Question:Design a Python function snippet to Determine Low Nail care: Fungal Infections as a Guide to Treatment. Implement if/else or switch/case statements to handle different conditions related to the Safety. Provide detailed comments explaining your control flow and the reasoning behind each decision.
+
+Solution:Here is a possible implementation of this functionality in python:
+```python
+def determine_low_nailcare(symptoms):
+    """"""Determine low nail care based on symptoms
+
+    Args:
+        symptoms (list[str]): List of symptoms experienced by patient
+
+    Returns:
+        str: Recommendation for treatment
+    """"""
+    # Check for specific symptoms
+    if'redness' in symptoms:
+        return 'See a doctor immediately'
+    elif 'discharge' in symptoms:
+        return 'See a doctor immediately'
+    else:
+        # Check for general symptoms
+        if 'pain' in symptoms:
+            return 'See a doctor immediately'
+        elif'swollenness'in symptoms:
+            return 'See a doctor immediately'
+        elif 'itching'in symptoms:
+            return 'See a doctor immediately'
+        else:
+            return 'Consult with a dermatologist'
+    
+    # If no matching condition was found, recommend general care
+    return 'Consult with a dermatologist'
+```
+"
+50,"Question:
+Let g = 0.0114 - -0.0486. Let h = g - 0.079. Let o = h - -0.02999971. Round o to seven dps.
+Answer:
+0.0000003<|end_of_text|>"
+51,"Question:
+Let w = -0.0029 + -0.0028. What is w rounded to two decimal places?
+Answer:
+-0.004<|end_of_text|>"
+52,"def create_list_of_squares(n):
+    """"""
+    Create a list of squares of the first n numbers.
+
+    Args:
+        n (int): The number of numbers to square.
+
+    Returns:
+        list: A list of the squares of the first n numbers.
+    """"""
+    return [num**2 for num in range(1, n+1)]
+
+<|end_of_text|>"
+53,"Question:
+What is prob of picking 1 j and 1 y when two letters picked without replacement from yjyjyjyjj?
+Answer:
+1/3<|end_of_text|>"
+54,"Question: Which of the following is not a feature of malignant hypeension
+A. Tachycardia
+B. Postural hypotension
+C. Cervical rigidity
+D. Convulsions
+Answer: B<|end_of_text|>"
+55,"def count_primes(n):
+    """"""
+    Given a positive integer n, return the number of prime numbers less than or equal to n.
+
+    Hint: Use the Sieve of Eratosthenes to find the prime numbers.
+    """"""
+    prime_count = 0
+    for i in range(2, n+1):
+        for j in range(2, int(i**0.5) + 1):
+            if i % j == 0:
+                break
+        else:
+            prime_count += 1
+    return prime_count
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>"
+57,"Question:
+Let w = -0.0067 + 0.017. Let j = 0.012 - w. Let f = j + -0.0087. What is f rounded to 3 decimal places?
+Answer:
+-0.001<|end_of_text|>"
+58,"def marketing_slogan(slogan):
+    """"""
+    Given a marketing slogan, return the modified slogan with the first letter of each word capitalized.
+    For example, ""Let's Do It"" becomes ""Let's Do It"".
+    """"""
+    words = slogan.split()
+    for i in range(len(words)):
+        words[i] = words[i].title()
+    return''.join(words)
+<|end_of_text|>"
+59,"def find_primes(n):
+    """"""
+    Return a list of all prime numbers less than or equal to n.
+
+    A prime number is a positive integer greater than 1 that is divisible only by 1 and itself.
+    """"""
+    primes = []
+    for i in range(2, n+1):
+        for j in range(2, int(i**0.5) + 1):
+            if i % j == 0:
+                break
+        else:
+            primes.append(i)
+    return primes
+
+<|end_of_text|>"
+60,"Question:
+Let h = -7 + 6. Let q = -1.9999994 - h. Round q to 7 decimal places.
+Answer:
+0.0000006<|end_of_text|>"
+61,"Question:
+Let l = -7.9 + 8. Let s = -0.5 + l. Let h = -0.0000042 + s. Round h to 6 dps.
+Answer:
+-0.000004<|end_of_text|>"
+62,"Question:
+Let f = -0.4 - -0.7. Let a = f + -0.8. Let z = 0.7 + a. What is z rounded to 1 decimal place?
+Answer:
+1<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.027000001. What is o rounded to 7 decimal places?
+Answer:
+0.0000001<|end_of_text|>"
+64,"Question:
+Let q = -0.045 + 0.04500014. Round q to 7 dps.
+Answer:
+0.0000001<|end_of_text|>"
+65,"Question:
+Let k = -0.046 - -0.0460000028. Round k to 7 dps.
+Answer:
+0.000002<|end_of_text|>"
+66,"Question:
+Let f = -1.2 + 0.8. Let o = -0.5 - f. Let h = -0.3 + o. What is h rounded to zero decimal places?
+Answer:
+-1<|end_of_text|>"
+67,"Question:Design a Python function snippet to Update High Finance: Stock Market Data for Decision Making. Implement if/else or switch/case statements to handle different conditions related to the Bias. Provide detailed comments explaining your control flow and the reasoning behind each decision.
+
+Solution:Here is a possible implementation of a python function which updates high finance stock market data based on certain conditions:
+
+
+```python
+def update_stock_data(stock_price, market_cap, volume):
+    # Check if stock price is greater than previous day's close price
+    if stock_price > previous_day['close']:
+        # If yes, check if stock price is also greater than 50% of its 20 day moving average
+        if stock_price >= 0.5 * average[20]:
+            # If so, set new stock price as current price
+            stock_price = current_price
+        else:
+            # Otherwise, set new stock price as average of last 3 days' closing prices
+            stock_price = sum([previous_day['close'] for i in range(3)]) / 3
+    else:
+        # Else, set new stock price as average of last 3 days' closing prices
+        stock_price = sum([previous_day['close'] for i in range(3)])"
+68,"Question:
+What is 3.9 take away 0.2?
+Answer:
+3.7<|end_of_text|>"
+69,"Question:
+Let d = -0.0461 + 0.046104. Round d to 4 decimal places.
+Answer:
+0.0001<|end_of_text|>"
+70,"Question: Which of the following is the best treatment for stage 2 cervical cancer?
+A. Chemotherapy
+B. Chemoradiation
+C. Surgery
+D. Radiation
+Answer: B<|end_of_text|>"
+71,"Question:
+Let l = 0.021 - 0.0210004. What is l rounded to 7 decimal places?
+Answer:
+-0.0000004<|end_of_text|>"
+72,"Question:
+Let m = -0.4 + 0.5. Let d = 0.4 + m. Let z = -0.00000001 - d. What is z rounded to 7 decimal places?
+Answer:
+-0.000000<|end_of_text|>"
+73,"def create_artwork(artist, art_style, color, shape):
+    """"""
+    Write a function that takes in an artist, art style, color, and shape, and returns a string that represents the artwork. The string should be in the format ""Artist: <artist>, Art Style: <art_style>, Color: <color>, Shape: <shape>"". If any of the inputs are not valid, the function should return an error message.
+    """"""
+    if artist not in (""Picasso"", ""Kandinsky"", ""Matisse"", ""Dada""):
+        return ""Invalid artist. Please choose one of the following: Picasso, Kandinsky, Matisse, or Dada.""
+    if art_style not in (""Abstract"", ""Impressionist"", ""Realist"", ""Surrealist""):
+        return ""Invalid art style. Please choose one of the following: Abstract, Impressionist, Realist, or Surrealist.""
+    if color not in (""Red"", ""Blue"", ""Green"", ""Yellow"", ""Black"", ""White""):
+        return ""Invalid color. Please choose one of the following: Red, Blue, Green, Yellow, Black, or White.""
+    if shape not in (""Circle"", ""Square"", ""Triangle"", ""Line"
+74,"def create_set_of_unique_words(text):
+    """"""
+    Given a string of text, return a set of unique words in the text.
+
+    The input text is a string of words separated by spaces.
+
+    The output set should be a set of unique words in the text.
+
+    Example:
+    >>> create_set_of_unique_words(""hello world hello"")
+    {""hello"", ""world""}
+    """"""
+    words = text.split()
+    unique_words = set()
+    for word in words:
+        if word not in unique_words:
+            unique_words.add(word)
+    return unique_words
+<|end_of_text|>"
+75,"Question: A 24-year-old woman is admitted to the hospital with severe lower abdominal pain and bleeding per vagina. The initial evaluation reveals a uterus that is 2.0 cm in size, a bleeding flow of 500 ml of blood per hour, and a pulse rate of 120 bpm. The patient is in shock and is given 500 mL of normal saline intravenously. What is the most appropriate next step in management?
+A. Administer 1 L of normal saline
+B. Administer 500 mL of normal saline
+C. Administer 500 mL of lactated Ringer's solution
+D. Administer 1 L of lactated Ringer's solution
+Answer: D<|end_of_text|>"
+76,"Question:
+Let y = 10.5 + -11. Let o = -0.2 + y. Let d = -0.1 + o. What is d rounded to 1 decimal place?
+Answer:
+-0.1<|end_of_text|>"
+77,"def create_a_tuple_from_a_string(string):
+    """"""
+    Create a tuple from a given string.
+
+    Args:
+        string (str): A string to be converted to a tuple.
+
+    Returns:
+        tuple: A tuple containing the given string.
+    """"""
+    return tuple(string)
+
+<|end_of_text|>"
+78,"Question: Which of the following is not true about the anatomy of the anterior triangle of the neck?
+A. Dorsal surface is formed by the trachea
+B. Lateral surface is formed by the subclavian artery
+C. Posterior surface is formed by the subclavian vein
+D. Superficial surface is formed by the trachea
+Answer: B<|end_of_text|>"
+79,"Question:
+Let n = 0.023 - 0.033. Let f = n - -0.01. Let b = f + -0.026. What is b rounded to 2 dps?
+Answer:
+-0.03<|end_of_text|>"
+80,"Question:
+What is the next term in 12, 24, 36, 48, 60, 72?
+Answer:
+84<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.7. Let k = -0.2 - o. Let p = -0.000006 - k. Round p to 6 dps.
+Answer:
+-0.000006<|end_of_text|>"
+82,"Question:
+Let g = -0.036 - 0.064. Let v = g + 0.09. Let k = v + -0.0300007. Round k to 7 decimal places.
+Answer:
+-0.0000007<|end_of_text|>"
+83,"Question:
+What is the third biggest value in -1/3, -2/7, -0.1, 2/9?
+Answer:
+-2/7<|end_of_text|>"
+84,"def update_athlete_stats(athlete, new_stats):
+    """"""
+    Update the statistics of an athlete.
+
+    Args:
+        athlete: The athlete to update.
+        new_stats: The new statistics to update.
+
+    Returns:
+        The updated athlete.
+    """"""
+    # Write your code here
+    athlete.stats = new_stats
+    return athlete
+<|end_of_text|>"
+85,"def modify_list(my_list):
+    """"""
+    Modify the given list by replacing all elements with their square.
+
+    Args:
+        my_list (list): The list to be modified.
+
+    Returns:
+        list: The modified list.
+    """"""
+    for i in range(len(my_list)):
+        if my_list[i] < 0:
+            my_list[i] = my_list[i] ** 2
+    return my_list
+<|end_of_text|>"
+86,"Question:Build a Python module wrapper around the Google Maps Directions API. The module should have the following functionality:
+    - Get directions between two points on the map
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time for a given route
+    - Get the estimated travel time"
+87,"Question: The most common cause of intestinal obstruction is
+A. Carcinoma
+B. Adenoma
+C. Hernia
+D. Trauma
+Answer: A<|end_of_text|>"
+88,"Question:
+Let w = 0.1 - -0.2. Let s = -0.6 + w. Let m = -0.5 + s. What is m rounded to one dp?
+Answer:
+-0.2<|end_of_text|>"
+89,"Question:
+Let n = -0.0319 + -0.0176. Let m = -0.049 - n. Round m to 2 dps.
+Answer:
+-0.05<|end_of_text|>"
+90,"def add_to_set(set, element):
+    """"""Add an element to a set""""""
+    return set | {element}
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 103 is divided by 29?
+Answer:
+20<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 2. Let g = 0.3 + p. Let h = 0.2 + g. What is the smallest value in -2/7, h, 2?
+Answer:
+-2/7<|end_of_text|>"
+93,"Question:
+Let j = 0.001 - -1.999. Let l = 2.1 + j. Let f = -0.0000014 + l. Round f to 7 decimal places.
+Answer:
+-0.0000014<|end_of_text|>"
+94,"Question:Build a Go module snippet that Checks High Security: Identity Verification for Decision Making for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Bias. Ensure your code is well-documented with comments explaining your approach.
+
+Solution:Here is a possible implementation of this functionality in Golang:
+```go
+package main
+
+import (
+    ""fmt""
+)
+
+func checkHighSecurityIdentityVerification(bias string) bool {
+    // Implement logic here to determine whether high security identity verification is required based on the specified bias
+    return false
+}
+
+func main() {
+    result := checkHighSecurityIdentityVerification(""gender"")
+    fmt.Println(""Result:"", result)
+}
+```
+In this example, we define a function called `checkHighSecurityIdentityVerification` which takes a single argument (`bias`) representing the type of verification required. The function implements the actual verification process by returning a boolean value indicating whether high security verification is needed or not. 
+
+The main function calls the `checkHighSecurityIdentityVerification` function with a specific bias value (""gender"") and prints out the resulting boolean value. This demonstrates how you can use an if/else statement to handle different cases depending on the input parameters.<|end_of_text|>"
+95,"Question:
+Let o = 0.2 + -0.4. Let k = o - -0.1. Let j = 0.2 + k. What is j rounded to one decimal place?
+Answer:
+0.2<|end_of_text|>"
+96,"# 2003년 4월 21일
+
+# 문제
+# N개의 정수들이 있다. 이 정수들이 주어졌을 때, 정수들의 합을 구하는 프로그램을 작성하시오. 정수들의 합은 정수들이 나열된 순서대로, 연속된 순서로 배치된 수들의 합이다.
+
+# 입력
+# 첫 줄에는 자연수 N이 주어진다. N개의 정수들이 차례대로 주어질 수 있다. 정수 N은 1 이상 100,000 이하의 자연수이다.
+
+# 출력
+# N개의 정수를 입력받기만 하면, 정수들의 합을 출력한다. 정수들의 합은 정수들이 나열된 순서대로, 연속된 순서로 배치된 수들의 합이다.
+
+# 예제 입력 1
+# 6
+# 1 2 3 4 5 6
+
+# 예제 출력 1
+# 15
+# 정답은 1+2+3+4+5+6=15
+
+# 문제
+# N개의 정수들이 있다. 이 정수들이 주어졌을 때, 정수들의 합을 구하는"
+97,"Question:
+Let c = 0.5 - -0.3. Let n = c + -0.8. Let v = n - -0.4. What is v rounded to 1 dp?
+Answer:
+0.5<|end_of_text|>"
+98,"Question:Develop a Java program snippet to Check Low Flossing: Correct Flossing Technique for Analysis for Experts. Incorporate if/else or switch/case statements to handle various cases related to the Safety. Dry-run, ensure your control flow is correct, and implement appropriate comments to make the code easy to read and maintain.
+
+Solution:Here is a possible implementation of this requirement in java:
+
+1. Import necessary libraries: 
+```python
+import pandas as pd
+from sklearn import metrics
+```
+
+2. Load dataset: 
+```python
+df = pd.read_csv(""data.csv"")
+X = df.drop([""LowFloss""], axis=1).values
+y = df[""LowFloss""].values
+```
+
+3. Define function to calculate accuracy: 
+```python
+def accuracy(y_test, y_predict):
+    accuracy = metrics.accuracy_score(y_test, y_predict)
+    return round(accuracy*100, 2)
+```
+
+4. Implement main function: 
+```python
+if __name__ == ""__main__"": 
+    # Load data
+    X = df.drop([""LowFloss""], axis=1).values
+    y = df[""LowFloss""].values
+    
+    # Train model
+    from sklearn.model_selection import train"
+99,"def find_missing_artifacts(artifacts):
+    """"""
+    Given a list of artifacts, find the missing ones.
+
+    The list of artifacts is a list of tuples, where each tuple contains
+    the name of the artifact, the date it was discovered, and the year it was
+    discovered. The missing artifacts are the ones that are not present in the
+    list.
+
+    Example:
+    find_missing_artifacts([
+        (""Mummy"", ""2020-01-01"", ""2020-01-01""),
+        (""Sword"", ""2019-12-31"", ""2019-12-31""),
+        (""Jewelry"", ""2019-12-30"", ""2019-12-30""),
+        (""Book"", ""2019-12-29"", ""2019-12-29""),
+        (""Pot"", ""2019-12-28"", ""2019-12-28"")
+    ])
+    Output: [""Book"", ""Pot""]
+    """"""
+
+    # Your code here
+    return [artifact[0] for artifact in artifacts if artifact[1]!=artifacts[0][1]]
+<|end_of_text|>"

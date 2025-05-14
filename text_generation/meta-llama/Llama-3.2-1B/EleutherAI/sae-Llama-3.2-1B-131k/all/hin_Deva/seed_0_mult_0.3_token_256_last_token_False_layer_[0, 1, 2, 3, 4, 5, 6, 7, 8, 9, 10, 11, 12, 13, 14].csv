@@ -1,0 +1,438 @@
+seed,generated_text
+0,"Question:Write a Python code which print the first 3 prime numbers on the base 3.
+```
+     A सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा सा स"
+1,"Question:
+Let d = 0.03 - 0.3. Let s = 0.3 - 0.3. Let i = -0.1 - 0.1. What is the smallest value of i and s?
+Answer:
+i<|end_of_text|>"
+2,"Question:
+Let l = -3.08 - -3. Let s = 0.08 - l. Let i = -0.08 - s. Which is the closest to 0?  (a) -0.1  (b) 0  (c) i
+Answer:
+c<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.2. Let k = -0.6 - 0.0. Let l = -0.3 - k. Which is the closest to 0?  (a) g  (b) -0.4  (c) l
+Answer:
+c<|end_of_text|>"
+4,"Question:
+Let v = -11.02 - 0.88. Let i = 12.7 - v. Let l = 0.07 - -0.6. What is l roundedे?
+Answer:
+0.0<|end_of_text|>"
+5,"Question:Build a Python module (library) that implements the function : If the sum of 2 prime numbers is 10, then the product of the two is?
+A) 11
+B) 12
+C) 14
+D.E
+Answer: C<|end_of_text|>"
+6,"def count_actors(actors):
+    """"""
+    Countेेेेाेेेेेाेाेेेाेाेेेाेेाेाेाेेाेेाेेाेाेेेाेाेाेाेेाेाेेाेाेेाेेाेाेाेाेाेाेाेेाेाेाेाेाेेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेा"
+7,"Question:
+What is the nearest to 0.1 in -3, 0.4, -0.5?
+Answer:
+0<|end_of_text|>"
+8,Question:Build a Python program which tells that the given sring is an EMBEDE साााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा
+9,"Question:
+Let x = -0.08 - 0.1. Let i = 0.7 - 0.4. Let d = 0.4 - i. Round d to the nearest integer.
+Answer:
+0<|end_of_text|>"
+10,"Question:Build a Python program that finds the first instance of a specified word in a given text.
+```
+ने से पे चे का सा सा का का सा का का सा
+``ीे का का का का का सा का का का का
+``े का का का का का का का का का का का
+``े का का का का का का का का का का का का का
+``े का का का का का का का का का का का का का
+``ा का का का का का का का का का का का का
+``ा का का का का का का का का का का
+``ा का का का का का का का का का
+``ा का का का का का का का का का का
+``ा का का का का का का क"
+11,Question: A 18- मेंा से पीेाेेेेााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा
+12,"Question:
+Let n = 0.26 - 0.3. Let i = 0.07 - 0.7. Let s = i - 0.3. What is the nearest to 0.0 in 0.1, s, n?
+Answer:
+s<|end_of_text|>"
+13,"Question:
+Let h = -0.05 - 0.5. Let i = 0.07 - 0.3. Let k = i - 0.3. Round k to the nearest integer.
+Answer:
+0<|end_of_text|>"
+14,Question:Build a Python program that can find the first instance of a given characterााेेाेााााेााााााेाााााााााेााााेाााााााााााेााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा
+15,"Question:
+Let i = -0.01 - 0.1. Let s = -0.06 - i. Let r = 0.2 - s. Round r to the nearest 0.
+Answer:
+-2<|end_of_text|>"
+16,"Question:
+Let j = -0.03 - 0.2. Let s = 0.4 - 0.4. Let c = 0.1 - s. Put c, 0.4, -0.3 in increasing order.
+Answer:
+-0.3, 0.4, c<|end_of_text|>"
+17,"Question:
+Let f = 0.03 - 0.3. Let i = 0.3 - 0.2. Let k = -0.8 - i. What is the smallest value of k and f?
+Answer:
+f<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3.4. Let o = -2.8 - 0.8. Let i = -0.4 - o. Which is the nearest to 0?  (a) -0.3  (b) i  (c) y
+Answer:
+a<|end_of_text|>"
+19,"Question:Build a Python module that takes a list of numbers and returns the sum of the first three numbers of the list.
+Note: The order of the first three numbers is not important.
+The problem is a simple:
+1) The first 3 numbers must be present
+2) The order of the first 3 numbers is not important
+3) The list is not empty
+4) The list can be of any size
+5) The list can contain any type of object
+The solution is simple:
+1) The first 3 numbers of the list must be present
+2) The order of the first 3 numbers is not important
+3 0ेाेाेाेेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाे"
+20,"Question:Build a Python module that allows you to add a file's entire content into a new file.
+```
+- File Sेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेा"
+21,"Question:
+Let g = -0.06 - 0.3. Let i = 0.3 - 0.3. Let s = -0.08 - -0.8. What is the closest to 0.2 in s, i, g?
+Answer:
+s<|end_of_text|>"
+22,Question: Which of the following is a common cause of scythाे काााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा
+23,"Question: Which of the following drugs is used in the treatment of a case of gynेंा के मेंे?
+A) Den्दकेा कााााााा
+B) Sेेा
+C) बा
+D) के
+Answer: A<|end_of_text|>"
+24,Question: The best method to stop the bleeding in a large cutााीेाााेाााााााेाेाााेाााेाााााेााेााााेााााेााााााेाााेााााेााााेााााााााेाााााेााााााााेााााााााााेाााााेााााााााेााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा
+25,"Question:Build the program which shows the current time of the computer in the computer mainframe.
+    \ेााेाेााेााााेाेाााेााााेाेाााेााेााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा"
+26,"Question:
+Let s = -4.25 - -0.2. Let x = 0.8 - s. Let i = -0.4 - 0.3. What is i rounded to the nearest 0.5?
+Answer:
+-0.1<|end_of_text|>"
+27,Question:Develop a Python Program that Transcribes A Sentence If It Contains Eccoेााेाााेाेााााेााेाेााााेााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा
+28,"Question:
+Let n = 0.05 - 0.2. Let i = 0.3 - 0.6. Let s = -0.2 - i. What is the nearest to 0.3 in -0.4, s, n?
+Answer:
+s<|end_of_text|>"
+29,Question:Write a Python Program that Transperेेाेाेाेेाेेाेेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाे
+30,"Question:
+Let n = -0.02 - -0.08. Let s = 0.28 - 0.3. Let i = -0.3 - s. Which is the closest to -0.1?  (a) n  (b) -0.2  (c) i
+Answer:
+a<|end_of_text|>"
+31,"Question:
+Let m = -1.07 - -0.07. Let i = 0.1 - 0.3. Let i = -0.3 - 0.3. What is the closest to 0.1 in -1/4, m, i?
+Answer:
+m<|end_of_text|>"
+32,"Question:
+Let i = 0.08 - 0.3. Let x = 0.1 - 0.1. Let s = 0.5 - -0.5. What is the nearest to i in -0.3, s, x?
+Answer:
+s<|end_of_text|>"
+33,def build_evidााााेाााेेाेेााेेेााेेाााेेेााेााेााााेााेाााााााेााााेाााााााेााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा
+34,"Question: Which of the following drugs is not a PGE inhibitor?
+A 0.01-0.02% Dibेजा काे के केाे काााे केे काााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे कााे का"
+35,"Question:
+Let s = -0.2 - 0.2. Let i = 0.3 - 0.3. Let k = -0.3 - i. Which is the closest to 0?  (a) s  (b) k  (c) -0.1
+Answer:
+b<|end_of_text|>"
+36,"Question:
+Let o = 0.06 - 0.2. Let i = 0.1 - -0.3. Let d = -0.3 - i. Sort 0.1, d, -0.1.
+Answer:
+-0.1, d, 0.1<|end_of_text|>"
+37,Question:Build the program in which the user can enter a base address and address the के बारे के पेाेाेाेाेेाेेाेाेाेाेााेाेाेाेााेाेााेाेाेाेाेाेााेाेाेाेाेाेाेाेाेााेाेाेााेाेाेाेाेाेााेाेाेाेााेाेाेाेाेााेाेााेाेाेाेाेाेााेाेााेाेाेाेााेाेाेाेाेाेााेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाे
+38,"Question:
+What is the common denominator of 33/16 and 16/7?
+Answer:
+16<|end_of_text|>"
+39,"Question:
+Let c = -0.12 - 0.5. Let x = -0.1 - c. Let i = 0.3 - 0.3. What is the nearest to 0.1 in i, 0.3, -0.1?
+Answer:
+i<|end_of_text|>"
+40,"Question:
+Let i = 0.03 - 0.3. Let d = 0.2 - 0.3. Let s = 0.2 - 0.3.<|end_of_text|>"
+41,"Question:
+Let a = -11.5 - 0.5. Let i = -2.2 - 0.8. Let c = i - -3.3. Round c to the nearest millimeterे।
+Answer:
+-0.0<|end_of_text|>"
+42,"Question:
+Let l = 0.01 - 0.1. Let s = -0.3 - 0.3. Let e = -0.3 - s. Round e to the nearest integer.
+Answer:
+0<|end_of_text|>"
+43,"Question:
+Let k = -0.03 - 0.2. Let i = 0.3 - 0.4. Let s = i - 0.9. Put k, -0.3, s in decreasing order.
+Answer:
+s, k, -0<|end_of_text|>"
+44,"Question:
+Let o = 2.1 - 0.1. Let i = -0.8 - 0.3. Let i = -0.3 - 0.8.<|end_of_text|>"
+45,"Question:
+Let x = 0.02 - 0.5. Let d = 0.3 - 0.3. Let s = -0.4 - 0.2. Round s to the nearest integer.
+Answer:
+0<|end_of_text|>"
+46,Question:Build a Python program which asks the user for the first and lastाीेाेाेेाेाेेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाे
+47,"def calculate_razाााााााे (वााााााााााे):
+    |
+    \ााााााााााे (वााााााााााे)
+    \ेेेेाााााे (वाााााााााे)
+    \ेेेेाााााे (वााााााााााे)
+    \ेेेेााााे (वाााााााााे)
+    \ेेेेााााे (वााााााााााे)
+    \ेेेेााााे (वााााााााााे)
+    \ेेेेााााे (वााााााााााे)
+    \ेेेेााााे (वााााााााााे
+  |  \ाााााााााे (वाााााााााे"
+48,"Question:Build a Python program which allows the user to enter the first 3 digits of the first DIBE (DIME से). (DIME का लें). (Dीवा के का).
+– The first 3 digits of the first DIB (DIME) of the DAE (चे).
+– The first 3 DIB (Dीे ) के के के (के).
+– The first 3 DIB (Dीे ) के के (के).
+– The first 3 DIB (Dीे ) के के (के).
+– The first 3 DIB (Dीे ) के के (के).
+– The first 3 DIB (Dीे ) के के (के).
+– The first 3 DIB (Dीे ) के के (के).
+– The first 3 DIB (Dे ) के (े ).
+– The first 3 DIB (Dे ) के (े ).
+– The first 3 DIB (Dे ) के (े ).
+– The first 3 DIB (Dे ) के (े ).
+–"
+49,"Question:Build a Python program that reads a file and prints the first 10 lines of the file.
+```
+Fileेंा कााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा"
+50,"Question:
+Let g = 0.0944 - 0.1948. Let i = -2.02 - 0.2. Let s = i - 2.3. Round s to 0 decimal。
+े.
+ा.
+<|end_of_text|>"
+51,"Question:
+Let d = -0.01 - 0.1. Let k = -0.3 - -0.3े। बाके से केाााे?
+Answer:
+0.0<|end_of_text|>"
+52,"def find_first_letter(s):
+    """"""
+    Returnाेेेेेेेाेाेेेाेाेााेाेााेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाे"
+53,"Question:
+Let n = 3.07 - 0.7. Let d = -0.25 - 0.6. Let i = d + 0.3. What is the nearest to 0.3 in 0.1, n, i?
+Answer:
+i<|end_of_text|>"
+54,"Question: Which of these is the highest level of the Central Government?
+The Prime Minister of India is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+The Prime Minister is the Prime Minister of the Indian Union.
+"
+55,def count_cities(नेेेाेेेेाेेाेाेेाेाेेाेाेाेेेाेाेाेेाेाेाेेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेा
+56,"Question:
+What is the common denominator of 11/16 and 2/(-3)*(-14 - -10)?
+Answer:
+16<|end_of_text|>"
+57,"Question:
+Let d = -0.01 - 0.3. Let i = -0.4 - -0.3. Let f = -0.2 - i. What is the smallest value of f and d?
+Answer:
+F<|end_of_text|>"
+58,"def find_vowelा (s):
+    """"""
+    Returnााेाेाेाेाेाेाेाेाेाेााेाेााेाेाेााेाेाेाेााेाेाेाेाेाेाेाेाेाेााेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाे"
+59,"def find_a_circular_solutाे:
+``ााााााेेेेेाााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा"
+60,"Question:
+Let h = -0.09 - 0.2. Let o = -0.7 - 0.7. Let k = -0.3 - o. What is the nearest to 0.1 in 0.1, k, 0?
+?""
+Answer:
+0<|end_of_text|>"
+61,"Question:
+Let l = -0.02 - 0.0. Let i = -0.06 - l. Let x = -0.2 - i. Round x to 0 decimalे।
+ाा।
+ाे।
+<|end_of_text|>"
+62,"Question:
+Let f = -0.4 - 0.7. Let s = -0.7 - 0.7. Let i = 0.02 - 0.2. Which is the nearest to -1?  (a) s  (b) i  (c) f
+Answer:
+c<|end_of_text|>"
+63,"Question:
+Let o = -0.16 - 0.4. Let s = 0.6 - o. Let l = 0.06 - s. Round l to 0 decimal.
+Answer:
+-1<|end_of_text|>"
+64,"Question:
+Let i = -0.06 - 0.6. Let l = -0.07 - -0.3. Let i = l + 0.3.<|end_of_text|>"
+65,"Question:
+Let k = -0.06 - 0.2. Let i = 0.1 - k. Let s = -0.06 - 0.4. What is s atेा?
+Answer:
+-0.3<|end_of_text|>"
+66,Question:Build a Python program which asks user for name and address and then tell the user that he is the first of his family से कााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा
+67,"Question:Build a Python module that implements the following interface:
+- Get the first 3 letters of the word ""KARTा"".
+- Get the last 3 letters of the word ""रा"".
+- काााेेाााेााेााेााेाााेााााेााााााेााेाााााेाााााााााेाााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा"
+68,"Question:
+What is 3.9 rounded to the nearest integer?
+Answer:
+04<|end_of_text|>"
+69,"Question:
+Let i = -0.1 - 0.3. Let d = 0.3 - i. Let s = -0.7 - d. Round s to 0 decimal.
+ा.
+<|end_of_text|>"
+70,Question: The most common cause of the loss of erectileााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा
+71,"Question:
+Let l = 0.0658 - 0.06. Let s = l - 0.04. Let i = 0.03 - s. What is i rounded to 0 decimal?
+?
+Answer:
+0<|end_of_text|>"
+72,"Question:
+Let i = -0.03 - 0.3. Let d = 0.02 - -0.3. Let s = -0.3 - d. Round s to the nearest 0.
+Answer:
+-2<|end_of_text|>"
+73,def evaluate_elaunched_वाेंाेाेाेाेेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाे
+74,"def slice_and_coderााे (s):
+    """"""
+    This function is used to show the code of a function that is the same as the given code.
+    """"""
+    return s
+<|end_of_text|>"
+75,Question:Build a Python program that can find the first instance of a given characterाााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा
+76,"Question:
+Let n = 10.5 - 11. Let i = -0.2 - 0.2. Let i = -0.06 - 0.4. Is n equal to i?
+Answer:
+False<|end_of_text|>"
+77,"def find_a_river():
+    """"""
+    The function is supposed to find a river on the map.
+    It will use the help of the computer software.
+    */
+    """"""
+    return ""को केे से में सेे मेे केे सेेे केा ""
+    """"""
+    केे सेे केा काे सेे केेे काे केेे केा ""
+    """"""
+    केे सेे केे केा काे केा काे केा ""
+    """"""
+    केे सेे केे काा केे केा काे केा केा ""
+    """"""
+    केे केा केा काे केा काे काे काा ""
+    """"""
+    केे काे काा काे केा काा केा काा काा काा काा काा काा काा काा काा काा काा काा काा काा काा का"
+78,"Question: Which of the following is the most common cause of ESI?
+केाााेाेेाेेाेाेाेेाेाेाेाे
+The first step is to find the cause of the problem.
+The second step is to find the cause of the problem.
+The third step is to find the cause of the problem.
+The first step is to find the cause of the problem.
+The second step is to find the cause of the problem.
+The third step is to find the cause of the problem.
+The first step is to find the cause of the problem.
+The second step is to find the cause of the problem.
+The third step is to find the cause of the problem.
+The first step is to find the cause of the problem.
+The second step is to find the cause of the problem.
+The third step is to find the cause of the problem.
+The first step is to find the cause of the problem.
+The second step is to find the cause of the problem.
+The third step is to find the cause of the problem.
+The first step is to find the cause of the problem.
+The second step is to find the cause of the problem.
+The third step is to find the cause of the"
+79,"Question:
+Let x = 0.07 - 0.3. Let s = 0.03 - 0.3. Let i = s - -0.1. What is the nearest to 0.1 in -0.4, i, x?
+Answer:
+i<|end_of_text|>"
+80,"Question:
+What is the next term of 12, 24, 38?
+Answer:
+<|end_of_text|>"
+81,"Question:
+Let o = -0.06 - 0.3. Let x = 0.2 - o. Let i = -0.1 - -0.2. What is the nearest to -0.3 in i, -0.2, x?
+Answer:
+i<|end_of_text|>"
+82,"Question:
+Let c = -0.06 - 0.1. Let i = 0.7 - 0.7. Let s = 0.2 - 0.3. Which is the nearest to i?  (a) s  (b) c  (c) -
+Answer:
+b<|end_of_text|>"
+83,"Question:
+Let x = 0.07 - 0.3. Let i = 0.03 - 0.3. Let s = 0.4 - i. What is the nearest to -1 in 0.2, s, 0.3?
+Answer:
+s<|end_of_text|>"
+84,"def update_boat_anchors(boat):
+    """"""
+    Given a list of anchors of a boat,
+    को पे ली के का का पा का के का का पे का काे के के का का का के के का के का के का का के के का के का के के का के का के के के का के का का के के का के का के का के का का के का के के का के का के का के के का के के का के का के का के का के के का के का के का के के का के का के का के का के का का के के का का के के का के के का के के का के का के का के का के का के क"
+85,def find_cities(geo_ेाेााेेाााेाेााेेाााेाााेाेााेाेााेाेाेाेााेाेाााेाेाेाााेाेाेााेााेााेाेाााेाेााेाेाेाेााेााेााेाेााेाेााेााेााेाेाेाेााेाेाेााेाेााेाेाेााेाेाेााेाेााेाेााेाेाेााेाेाेाेााेाेाेााेाेाेााेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेा
+86,Question:Build a Python program which asks user केेाेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेेे
+87,Question: The most common cause of PGI से कााेीाााेााेाााेाााेााेााेाााेााेााेाााेाााेााााेााेााेााेााेााेाेाााेाााााेााेााेाााेााेाााेाााााेााेााााेाााेााााेााेाााेााेाााेााेाााेाेाााेााेाााेाााेााेाााेााााेाााेााेाााेााााेााेाााेाााेााेाााेााााेााेााेााााेाेााााााेाााेााेाााेाााेााााे
+88,"Question:
+Let i = 0.17 - 0.3. Let s = -0.6 - i. Let s = 0.3 - 0.3. Aााााेेााााेाेाााेाेाााााेाााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा"
+89,"Question:
+Let n = -0.0319 - 0.0486. Let i = -0.06 - 0.4. Let s = i - 0.3. Round s to 0 decimal परे।
+Answer:
+-0<|end_of_text|>"
+90,"def add_to_cart(books):
+    """"""
+    Adds the whole list of books into the cart.
+    """"""
+    total = 0
+    for s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s = s = 0
+    s ="
+91,"Question:
+What is the remainder when 20 is divided by 6?
+Answer:
+0<|end_of_text|>"
+92,"Question:
+Let s = 2.2 - 0.0. Let i = -3.4 - s. Let k = 0.5 - i. What is the smallest value of k?
+Answer:
+0<|end_of_text|>"
+93,"Question:
+Let i = 0.01 - -0.3. Let j = 0.1 - i. Let f = -0.08 - 0.3. Which is the nearest to 0?  (a) 0  (b) j  (c) f
+Answer:
+a<|end_of_text|>"
+94,Question:Build a Python program that allows the user to fill the whole circle of 360° केााेाेेाेाेाेााेाेााेााेाााेाााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााााा
+95,"Question:
+Let o = 0.2 - 0.2े।ाे का काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे काााे का"
+96,"Question:
+Let f = 0.08 - 0.08. Let i = 0.1 - 0.2. Let i = -0.1 - 0.3. What is the closest to 0.1 in f, I, 0.3?
+Answer:
+f<|end_of_text|>"
+97,"Question:
+Let c = 0.5 - -0.3. Let n = 0.3 - c. Let s = 0.5 - 0.5. Which is the closest to 0.1?  (a) s  (b) -0.2  (c) N
+Answer:
+b<|end_of_text|>"
+98,"Question:Develop a Python program that allows the user to calculate the volume of a square pole.
+Hint : Use the area of the polygon.
+```
+constेााेाेाेाेााेाेाेााेााेााेााेाेाेााेाेाेाेाेााेाेाेाेाेााेााेाेाेाेााेाेाेााेाेाेाेााेाेाेााेाेाेाेाेाेाेाेाेाेााेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेाेा"
+99,def find_the_unsteady_woodीाेीेेेाेाााेाेाााेाेााेााेाााेााााेााेाेाााेााेाााेााेााााेााााेााााेाााेााााेााेााेााेााेाााेाााेाााेााेाााेाााेााााेाेााेाााेााााेााााेाााााेााााेााााेाााेाााेाााेााााेााााेााााााेााााेाााााेााााेााााााेााााााेााााााेााााााेााााेााााााेााााााेााा

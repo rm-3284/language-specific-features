@@ -1,0 +1,643 @@
+seed,generated_text
+0,"Question:Write a Python code snippet to Display Low Education: Student Performance for a given country. Use a data set of 10 countries and 10 years. Use a list as a container for the data. Use a for loop to iterate as a list and print the data as a table.
+
+Solution:import pandas as pd
+df = pd.read_csv('https://opcov.globo.com/competencias/estatisticas/estatisticas-de-educacao-profissional-e-profissional-e-tercaria-2018.html')
+df1 = pd.DataFrame({
+    'Paio de Aposa': 2, 
+    'O Fim de Aula': 1, 
+    'Aula ao Vivo': 3, 
+    'Aula ao Aproximado': 4, 
+    'Aula em Casa': 5, 
+    'Aula em Oficina': 6, 
+    'Aula em Ofc. e Aula a Distância': 7, 
+    'Aula em Ofc. e Aula a Distância em Curso': 8, 
+    'Aula em Ofc. e Aula a Distância no Ensino Secundário': 9"
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 + d. Let b = s - -0.01. What is b rounded to 1 dp?
+Answer:
+0<|end_of_text|>"
+2,"Question:
+Let q = -3.4 - -3. Let g = 0.2 - q. Let n = g + -0.2. Which is the closest to 0?  (a) -1/5  (b) n  (c) -3
+Answer:
+a<|end_of_text|>"
+3,"Question:
+Let g = 0.11 - -0.49. Let v = g - 0.3. Let m = -0.3 + v. Which is the closest to 0.1?  (a) m  (b) -0.3  (c) 2/9
+Answer:
+c<|end_of_text|>"
+4,"Question:
+Let v = -11.9 - -16. Let q = v - 4.7. Let g = -0.04 + q. What is g rounded to 1 dp?
+Answer:
+-0.3<|end_of_text|>"
+5,"Question:Develop a TypeScript program which reads a number from a user and prints a message no. of times as specified. For example, for a no. of 5, it should print a message 5 times. For a no. of 2, it should print a message 2 times. For a no. of 1, it should print a message 1 time. For a no. of 0, it should not print anything. Use as many as 3 different messages for each no. of 1, 2 and 3.
+<|end_of_text|>"
+6,"def count_and_access_elements(my_list, index):
+    """"""Doc string explaining the exercise""""""
+    # 1. Use a for loop para acessar os elementos do array
+    for i in range(len(my_list)):
+        # 2. Se o valor de um elemento for igual a 0, não se deve fazer o acesso a ele
+        if my_list[i] == 0:
+            pass
+        # 3. Se o valor de um elemento for maior ou igual a 1, então o mesmo deve ser mantido
+        if my_list[i] >= 1:
+            pass
+        # 4. Se o valor de um elemento for menor que 1, então o mesmo deve ser excluido
+        if my_list[i] < 1:
+            pass
+        # 5. Se o valor de um elemento for maior ou igual a 2, então o mesmo deve ser mantido
+        if my_list[i] >= 2:
+            pass
+        # 6. Se o valor de um elemento for menor que 2, então o mesmo deve ser excluido
+        if my_list[i] < 2:
+            pass
+        # 7. Se o valor de um elemento for maior ou igual a "
+7,"Question:
+What is the nearest to 0.1 in -3, 0.4, -1/5?
+Answer:
+-1/5<|end_of_text|>"
+8,"Question:Build a C# function which receives a string as a parameter and prints a message no. 1, no. 2, no. 3, no. 4, no. 5. The n. o. 1 should be the most important, and no. 5 should be the least important. Use a for loop para imprimir as vezes.
+```c#
+for (int num = 1; num <= 5; num++) {
+    // n. o. 1
+    System.out.println(""n. o. "" + num + "" é a melhor"");
+    // n. o. 2
+    System.out.println(""n. o. "" + num + "" é a segunda melhor"");
+    // n. o. 3
+    System.out.println(""n. o. "" + num + "" é a terceira melhor"");
+    // n. o. 4
+    System.out.println(""n. o. "" + num + "" é a quinta melhor"");
+    // n. o. 5
+    System.out.println(""n. o. "" + num + "" é a melhor"");
+}
+```<|end_of_text|>"
+9,"Question:
+Let x = -0.1 - -0.1. Let p = 0.1 - x. Let l = p - 0.1. Which is the nearest to l?  (a) 3  (b) 1  (c) -3
+Answer:
+b<|end_of_text|>"
+10,"Question:Build a C# function which, given a string, will print ""A"" no lugar de a, ""B"" no lugar de b, ""C"" no lugar de c e ""D"" no lugar de d. No caso de a, b e c, os valores devem ser repetidos. No caso de d, o valor deve ser repetido 3 vezes. O valor de e não deve ser repetido.
+Note: para a e b, o número deve ser repetido 2 vezes; para c, 3 vezes e para d, 3 vezes. A a, b e c, devem ser repetidas nesse caso.<|end_of_text|>"
+11,"Question: A 60-year-old man is admitted to a hospital for the treatment of a subarachnoid hemorrhage. A CT scan of the brain shows a hemorrhage in the left fronto-entrocomitada and a hemorrhage in the right fronto-temporais. The patient is alert, orientated and asestado. The patient is admitted to a neurosurgery clinic. A post-surgery CT scan shows a re-outras com uma nova hemorragia na região anterior do cerebelo. The patient is alert, orientated and asestado. The patient is admitted to a neurosurgery clinic. A post-surgery CT scan shows a re-outras com uma nova hemorragia na região anterior do cerebelo. The patient is alert, orientated and asestado. The patient is admitted to a neurosurgery clinic. A post-surgery CT scan shows a re-outras com uma nova hemorragia na regiao anterior do cerebelo. The patient is alert, orientated and asestado. The patient is admitted to a neurosurgery clinic. A post-surgery CT scan shows a re-outras com uma nova hem"
+12,"Question:
+Let n = 0.011 + -0.069. Let q = n + -0.048. Let t = -0.004 - q. What is t rounded to 2 dps?
+Answer:
+0.01<|end_of_text|>"
+13,"Question:
+Let h = -0.1 + 0.1. Let n = 0.1 + h. Let x = 0.6 - 0.7. Which is the closest to n?  (a) -2  (b) x  (c) 1/2
+Answer:
+c<|end_of_text|>"
+14,"Question:Design a C# function which receives a byte value and returns a string representaion of the number, but using a for loop and as no more than 2 digits after a decimal point. Use a number of digit that is the number of digits before the dot. Use as many digits after the dot as the number of digits before the dot.
+A: O resultado é o número representado como um número com duas casas decimais, com o número de casas anteriores à virgula a menor. A: O resultado é o número representado como um número com duas casas decimais, com o número de casas anteriores à virgula a maior. A: O resultado é o número representado como um número com duas casas decimais, com o número de casas anteriores à virgula a menor. A: O resultado é o número representado como um número com duas casas decimais, com o número de casas anteriores à virgula a maior.
+A: O resultado é o número representado como um número com duas casas decimais, com o número de casas anteriores à virgula a menor. A: O resultado"
+15,"Question:
+Let o = -0.01 - 0.31. Let a = -0.06 - o. Let l = 0.05 - a. Which is the nearest to 1?  (a) l  (b) 3/2  (c) -2/9
+Answer:
+b<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.22. Let b = 0.17 + j. Let l = -0.07 - b. Which is the smallest value?  (a) l  (b) -2  (c) 0.3
+Answer:
+b<|end_of_text|>"
+17,"Question:
+Let t = 0.009 - 0.011. Let h = 0.003 + t. Let c = h - 0.027. What is c rounded to 1 decimal place?
+Answer:
+-0.3<|end_of_text|>"
+18,"Question:
+Let g = 3.8 - 3.9. Let o = -2.8 + g. Let c = o - -0.1. Which is the nearest to 0?  (a) c  (b) 3  (c) 1
+Answer:
+a<|end_of_text|>"
+19,"Question:Build a Java class which is responsible for a list of posts of a blog, for a given id. This class should: -a) Aprocom a lista de posts de um post em particular b) A procura de post com base na categoria e num determinado nível de prioridade c) A procura de post com base na categoria e num determinado nível de prioridade e em nível de prioridade d) A procura de post com base na categoria e em nível de prioridade e em nível de prioridade e num determinado nível de prioridade e num determinado nível de prioridade e em nível de prioridade e num determinado nível de prioridade e em nível de prioridade e em nível de prioridade e em nível de prioridade e em nível de prioridade e em nível de prioridade e em nível de prioridade e em nível de prioridade e em nível de prioridade e em nível de prioridade e em nível de prioridade e em nível de prioridade e em nível de prioridade e em nível de prioridade e em nível de prioridade e em nível de prioridade e em n"
+20,"Question:Build a TypeScript function which receives as argument as número de um número e a letra de um número e retorna o número com 1 no lugar de a, e a letra em lugar de o.
+Ex: n1 = 5; l1 = a; n2 = 2; l2 = o; n3 = 3; l3 = a; 
+n4 = 1; l4 = o; 
+ou n5 = 4; l5 = n;
+n6 = 1; l6 = o; 
+n7 = 4; l7 = n;
+n8 = 1; l8 = o; 
+n9 = 4; l9 = n;
+n10 = 1; l10 = o; 
+n11 = 4; l11 = n;
+n12 = 1; l12 = o; 
+n13 = 4; l13 = n;
+n14 = 1; l14 = o; 
+n15 = 4; l15 = n;
+n16 = 1; l16 = o; 
+n17 = 4; l17 = n;
+n18 = 1; l18 = o; 
+n19 = 4"
+21,"Question:
+Let g = -0.1 + -1.3. Let j = 1.3 + g. Let h = 0.3 - j. Which is the closest to 0.1?  (a) -0.5  (b) h  (c) -3
+Answer:
+b<|end_of_text|>"
+22,"Question:Build a Python program that counts the number of words which are longer than 5 words and are also palindromes. 
+
+# Parte 1
+print('A. Com o número de palinodromas, o número de palinodromas é de: ', end='')
+palinodromas = 0
+for i in range(1, n):
+    palavra = s[i]
+    if len(palavra) > 5 and palinodromas == 0:
+        print(palavra, end='')
+        palinodromas += 1
+    else:
+        print(palavra, end=' ')
+print(' e ', end='')
+print(palavra, end=' ')
+
+# Parte 2
+print('B. Para essa mesma lista, o número de palinodromas é de: ', end='')
+palinodromas = 0
+for i in range(1, n):
+    palavra = s[i]
+    if len(palavra) > 5 and palinodromas == 0:
+        print(palavra, end=' ')
+        palinodromas += 1
+    elif len(palavra) > 5 and palin"
+23,"Question: Which of the following is not a feature of atherosclerotic aortic a b
+A. High asseg
+B. Low a
+C. Low b
+D. Low c
+Answer: A<|end_of_text|>"
+24,"Question:Write a C# program to count the number of words that start with a specific letter, for example, a program which count the words of a text which start with a and end with a, for example:
+a1b1c1d1
+a2b1c1d1
+a1b2c1d1
+a2b2c1d1
+a1b3c1d1
+a2b3c1d1
+a1b4c1d1
+a2b4c1d1
+a1b1c2d1
+a2b1c2d1
+a1b2c2d1
+a2b2c2d1
+a1b3c2d1
+a2b3c2d1
+a1b4c2d1
+a2b4c2d1
+a1b1c1d3
+a2b1c1d3
+a1b2c1d3
+a2b2c1d3
+a1b3c1d3
+a2b3c1d3
+a1b4c1d3
+a2b4c"
+25,"Question:Build a Ruby class named 'Ano' that has as atributos a no and a ano. A no deve ser um número inteiro. A no deve ser um número com mais de 2 dígitos. A no deve ser menor que o ano. A no deve ser menor que o ano, pero a menor de ano deve ser maior que o no. Se o no for menor que o ano e menor que o menor de ano, a no deve ser igual ao ano. Se o no for maior que o ano, a no deve ser maior que o menor de ano. A no deve ser menor que o no. Se o no for maior que o no, a no deve ser maior que o ano. A no deve ser menor que o ano e menor que o menor de ano. Se o no for maior que o ano e menor que o menor de ano, a no deve ser igual ao no. Se o no for igual ao no, a no deve ser igual ao ano. A no deve ser menor que o no e menor que o ano. A no deve ser maior que o no e maior que o ano. A no deve ser menor que o no e menor que o ano. A no deve ser maior que o no e maior que"
+26,"Question:
+Let b = -4.25 + -0.75. Let a = b - -4.6. Let p = -1.4 - a. What is p rounded to zero dps?
+Answer:
+-2<|end_of_text|>"
+27,"Question:Develop a Python program to check a number for primality. A number is prime if it is not a factor of any other number, and no number is a factor of it. No comutador é permitido. A noite deve ser feita em tempo limitado. As as perguntas são para a respostas e não para a explicação.
+A procura de respostas com as mais baixas quantidades de horas.
+O programa deve ser executado em uma computador com 1 ou 2 gigas de RAM e uma velocidade de disco de até 1 disco de 1 gigada.
+As as as respostas devem ser as mais com as mais baixas quantidades de horas.
+O programa deve ser executado em uma computador com 1 ou 2 gigas de RAM e uma velocidade de disco de até 1 disco de 1 gigada.
+As as as respostas devem ser as mais com as mais baixas quantidades de horas.
+O programa deve ser executado em uma computador com 1 ou 2 gigas de RAM e uma velocidade de disco de até 1 disco de 1 gigada.
+As as as respostas devem"
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.001 - t. Let z = -0.029 - c. Round z to 1 decimal place.
+Answer:
+-0.1<|end_of_text|>"
+29,"Question:Write a C# code snippet to Determine Low Regular health: Step 1 - Medicamento para as pessoas que não são bem as pessoas que estão com diabetes e se apresentam com diabetes, o que se sabe que o médico aconselou para esse tipo de paciente, o que no caso, se sabe que o médico aconselou para esse tipo de paciente, o que se sabe que o médico aconselou para esse tipo de paciente, o que se sabe que o médico aconselou para esse tipo de paciente, o que se sabe que o médico aconselou para esse tipo de paciente, o que se sabe que o médico aconselou para esse tipo de paciente, o que se sabe que o médico aconselou para esse tipo de paciente, o que se sabe que o médico aconselou para esse tipo de paciente, o que se sabe que o médico aconselou para esse tipo de paciente, o que se sabe que o médico aconselou para esse tipo de paciente, o que se sabe que o médico aconselou para esse tipo de paciente, o que se sabe que o médico aconselou para esse tipo"
+30,"Question:
+Let n = -0.009 - -0.309. Let s = n - 0.297. Let b = s - -0.001. What is b rounded to 1 decimal place?
+Answer:
+0.9<|end_of_text|>"
+31,"Question:
+Let g = -1.07 - -1. Let q = 0.07 + g. Let n = 0.04 - q. Which is the nearest to -1/2?  (a) 2/3  (b) 0.4  (c) n
+Answer:
+c<|end_of_text|>"
+32,"Question:
+Let t = 0.002 - -0.038. Let x = 0.06 - t. Let g = x - -0.0205. What is g rounded to 2 dps?
+Answer:
+0.01<|end_of_text|>"
+33,"def analyze_data(temperatura, umidade, temperatura_baixas):
+    """"""Analyze a temperatura e a umidade do ar e os possíveis impactos na saúde.
+    :param temperatura: temperatura do ar
+    :param umidade: a umidade no ar
+    :param temperatura_baixas: temperatura baixas no dia
+    """"""
+    # use a lista para gerar os resultados
+    resultado = []
+    # use a variavel para comparar as condições e as consequências
+    for c, v, t in zip(temperatura, umidade, t_baixas):
+        # calcula a classificação de saúde
+        classificacao = 0
+        # se a temperatura é baixa e a umidade é alta, a classificação é 1
+        if c < 0 and v < 0:
+            classificacao = 1
+        # se a temperatura é baixa e a umidade é baixa, a classificação é 0
+        elif c < 0 and v < 0:
+            classificacao = 0
+        # se a temperatura é baixa e a umidade é baixa, a classificação é "
+34,"Question:Design a C# function which receives a string e.g. ""Aba"" and as a result a string com com as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as"
+35,"Question:
+What is 0.2 times 0.003?
+Answer:
+0.0006<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -1. Let v = 0.1 + o. Let t = -0.1 + v. What is the nearest to 0.1 in t, -2, 1?
+Answer:
+t<|end_of_text|>"
+37,"Question:Build a C# program which asks for a number, and then prints a menu com as many options no possibilidade de no posso ser feita a digitação para a opção escolhida. A seguir é a explicação do exercito para o carambula:
+a. Agora que você tem a possibilidade de achar mais prático e com mais confio no seu carambola, ele é a possibilidade de achar mais prático e com mais confio no seu carambola, o que é mais conveniente para o seu carambula, as seguintes opções:
+b. A escola de carambula com a possibilidade de achar mais prático e com mais confio no seu carambola, a qual é mais conveniente para o seu carambula, as seguintes opções:
+c. A escola de carambula com a possibilidade de achar mais prático e com mais confio no seu carambola, a qual é mais conveniente para o seu carambula, as seguintes opções:
+d. A escola de carambula com a possibilidade de achar mais prático e"
+38,"Question:
+What is the common denominator of 3/10 and 81/10?
+Answer:
+10<|end_of_text|>"
+39,"Question:
+Let t = -0.06 - -0.18. Let x = t - -0.18. Let n = 0.04 + x. What is n rounded to one dp?
+Answer:
+0.3<|end_of_text|>"
+40,"Question:
+Let f = 0.013 - 0.013. Let c = 0.2 - 0.2. Which is the nearest to c?  (a) f  (b) 1/2  (c) 0.2
+Answer:
+b<|end_of_text|>"
+41,"Question:
+Let a = -8.5 + 9. Let q = a - 1.2. Let d = -2.9 + q. What is d rounded to zero dps?
+Answer:
+-3<|end_of_text|>"
+42,"Question:
+Let l = 0.3 - 0.1. Let s = -0.3 + l. Let n = s - -0.1. What is the closest to n in -0.4, 0.5, -1?
+Answer:
+0.5<|end_of_text|>"
+43,"Question:
+Let q = -0.2 - -0.2. Let h = 0.1 - q. Let j = -0.1 - h. Which is the closest to -1?  (a) -0.4  (b) j  (c) 1
+Answer:
+a<|end_of_text|>"
+44,"Question:
+Let o = 2.1 - 0.1. Let m = -0.8 - o. Let n = -0.4 + m. Which is the nearest to n?  (a) -2/5  (b) -0.4  (c) 2
+Answer:
+a<|end_of_text|>"
+45,"Question: A 60-year-old man is diagnosed as having acute aortic ulcer. A pre-operative aortocutaneous interpositional endograft is performed. After a few years, a second endograft is performed. Which of the following is a late complication of this type of intervention?
+A. Aneur. de aorta proximada
+B. Aneur. de aorta proximada
+C. Aneur. de aorta proximada
+D. Aneur. de aorta distal
+Answer: A<|end_of_text|>"
+46,"Question:Build a Java class which implements a menu no profissional. Use a lista de comandos, para que el usuario possa acomodar as posicoes entre as opcoes. A sua consola, o usuario deve ser posivel executar los comandos de forma secuencial. O no caso de as ultimas posicoes, no comandos, o usuario deve ser posivel executar os comandos de forma as a sequencia. Para cada comando, o usuario deve ser posivel informar o que se quer fazer com o sistema. A sua consola, o usuario deve ser posivel executar os comandos de forma secuencial. O no caso de as ultimas posicoes, no comandos, o usuario deve ser posivel executar os comandos de forma as a sequencia.
+Para cada comando, o usuario deve ser posivel informar o que se quer fazer com o sistema.<|end_of_text|>"
+47,"def calculate_room_area(room_length, room_width, room_height):
+    """"""Calcula a área de um espaço com base nos seus tamanhos""""""
+    total_area = room_length * room_width * room_height
+    return total_area
+
+<|end_of_text|>"
+48,"Question:Build a Java class no_name() that receives as parada as entrada um número inteiro e retorna o número de 1 ao n
+deste número, e para o número 2, devolva o número de 2 ao n. Para o número 3, devolva o número de 3 ao n, e para o número 4, devolva o número de 4 ao n. Para o número 5, devolva o número de 5 ao n. Para o número 6, devolva o número de 6 ao n. Para o número 7, devolva o número de 7 ao n. Para o número 8, devolva o número de 8 ao n. Para o número 9, devolva o número de 9 ao n. Para o número 10, devolva o número de 10 ao n. Para o número 11, devolva o número de 11 ao n. Para o número 12, devolva o número de 12 ao n. Para o número 13, devolva o número de 13 ao n. Para o número 14, devolva o número de 14 ao n"
+49,"Question:Design a Java class no nome e com o objetivo de calcular o número de jogos de futebol que um jogador jogou em diferentes estadios e com os jogadores como os mais bem executados em cada estadia. O programa deve receber como parada as informações para os jogos, o número de jogos e as notas dos jogadores em cada estadia, com a possibilidade de inserir os jogadores de forma desordenada. Caso o programa seja executado, deverá ser exibido o número de jogos de cada jogador e o número de jogos na totalidade dos jogos. Caso o número de jogos seja maior que zero, o programa deverá exibir o número de jogos em cada estadia, com a possibilidade de visualizar os jogos com as notas mais bem executadas. Caso o número de jogos seja menor que zero, deverá ser exibido o número de jogos em cada estadia, com a possibilidade de visualizar os jogos com as notas mais bem executadas. O programa deverá ser executado para o número de jogos desejado.
+Os jogadores deverão ser classificados em um ranking, em cada estadia"
+50,"Question:
+Let g = 0.1 - 0. Let h = 0.2 + g. Let p = 0.2 - h. What is the third biggest value in -1, p, -4?
+Answer:
+-4<|end_of_text|>"
+51,"Question:Create a C# program snippet to Display Low Social Media Marketing: Social Media Marketing for Beginners. Use if/else and for loop to complete the exercise. Use as many sentences as you need to express as many ideas as possible.
+
+Solution:```c
+    public static void Main() 
+    {
+        // as muitas as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as"
+52,"def remove_duplicates(lst):
+
+    """"""Remove os valores repetidos de uma lista
+    utilizando o método de repetição para os elementos""""""
+
+    for i in range(len(lst)):
+        for j in range(i+1, len(lst)):
+            if lst[i] == lst[j]:
+                del lst[j]
+    return lst
+<|end_of_text|>"
+53,"Question:
+What is the common denominator of -59/16 and -77/4?
+Answer:
+16<|end_of_text|>"
+54,"Question:Develop a Python program to check if a number is prime number or not. A number is prime number if it is not a multiple of no other number than 1 and this number. A number is not prime number if it is a multiple of any other number than 1 and this number.
+<|end_of_text|>"
+55,"def count_cultures(cultures):
+    """"""Given a list of cultures, count the number of each type of culture""""""
+    for c in range(len(cultures)):
+        if c == 0:
+            print('No culture')
+        else:
+            print(f'Num de {cultures[c]}: ', end=' ')
+            for c in range(1, len(cultures)):
+                print(c, end=' ')
+            print()
+    return len(cultures)
+
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 103/72?
+Answer:
+72<|end_of_text|>"
+57,"Question:
+Let j = -0.0067 + 0.0699. Let b = j - 0.064. Let o = 0.0002 - b. What is o rounded to one decimal place?
+Answer:
+0.1<|end_of_text|>"
+58,"def dance_moves(dance_moves):
+    """"""Doc string for the exercise
+
+    You are a dancer and you need to perform a series of dance moves. 
+    The dance moves are stored in a dictionary, where the key is the name of the dance move and the value is a list of steps to perform.
+
+    For example, if the dance is a ""samba"", the steps to perform are:
+
+    - ""composição""
+    - ""cada""
+    - ""para""
+    - ""a""
+    - ""com""
+    - ""o""
+    - ""a""
+    - ""o""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+    - ""a""
+   "
+59,"Question:
+What is the common denominator of 109/2 and 53/18?
+Answer:
+18<|end_of_text|>"
+60,"Question:Develop a C# program snippet to Display Low Footcare: Mainta nse de Saúde para as suas proximidades. Use a estrada para a sua localização e use as informações de cada local para determinar o melhor caminho para a sua próxima visita. Use o mapa para localizar os locais e a aplicação para analisar o estado de saúde para cada local.
+
+Solution:Para este exercício, vamos utilizar o mapa de um mapa de nível de baixo para avaliar o estado de saúde de cada local. Para isso, utilize a aplicação para determinar o melhor caminho para a próxima visita e o mapa para localizar os locais.
+
+1. Aba a página principal do site.
+2. Clique na aba ""Localização"".
+3. Aces o mapa para a sua localização.
+4. Aces a página ""Localização"" e selecione o mapa para a sua localização.
+5. Aces a página ""Localização"" e selecione a opção ""Aproximada"".
+6. Aces a página ""Localização"" e escolha a opção ""Aproximada"" para a sua localização.
+7. Aces a página ""Localização"""
+61,"Question:
+Let l = -7.9 - -9. Let s = -0.5 + l. Let j = -3.1 - s. What is j rounded to 1 decimal place?
+Answer:
+-2.1<|end_of_text|>"
+62,"Question: The term ""Amaurocouse"" is used for:
+A. Sequecua em oculo
+B. A cegaria
+C. A cegada
+D. A cegada e a cegaria
+Answer: B<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.027. Let p = 0.6 - o. Let t = 0.1 + p. What is t rounded to 1 dp?
+Answer:
+0.2<|end_of_text|>"
+64,"Question:
+Let q = -0.2 + 0. Let t = q - -0.1. Let j = -1.5 - t. What is the nearest to j in -3, 4, 0.4?
+Answer:
+0.4<|end_of_text|>"
+65,"Question:
+Let c = -0.5 - -0.7. Let p = c + -0.3. Let j = -0.4 - p. What is j rounded to zero dps?
+Answer:
+-1<|end_of_text|>"
+66,"Question:Build a Python program which receives a number N and returns a list of a N prime numbers.
+Note: Use a for loop to solve this question.
+Solution: ```n=5
+prime = []
+for i in range(1,n+1):
+    for j in range(2,i):
+        if i%j==0:
+            break
+    else:
+        prime.append(i)
+print(prime) ```
+  - ```n=1
+  prime = []
+  for i in range(1,2):
+    for j in range(2,i):
+      if i%j==0:
+        break
+    else:
+      prime.append(i)
+  print(prime)```<|end_of_text|>"
+67,"Question:Design a Python function which receives as input a string e.g. ""AaBbC"" e o número de repetições e o tipo de repetição e é a responsabilidade de gerar uma string com as posições do texto em que as repetições ocorrem e a quantidade de repetições. A outra função deverá ser a responsabilidade de retornar a mesma string com a repetição na posição 1 e com a repetição na posição 3. As duas funções deverá ser chamadas com o texto e a quantidade de repetições como argumentos. Caso o número de repetições seja zero, as duas funções devem retornar a mesma string. As duas funções devem ser chamadas com o texto e a quantidade de repetições como argumentos.
+A outra função deverá ser a responsabilidade de retornar a mesma string com a repetição na posição 1 e com a repetição na posição 3. As duas funções devem ser chamadas com o texto e a quantidade de repetições como argumentos.
+A outra função deverá ser a responsabilidade de retornar a mesma string com a repetição na posição 1 e com a repetição na posição "
+68,"Question:
+What is 3.9 plus -0.1?
+Answer:
+3.8<|end_of_text|>"
+69,"Question:
+Let t = -0.1 - 0.3. Let a = 1.3 + t. Let b = -1.7 - a. What is the closest to b in -1/4, 1, 1/2?
+Answer:
+-1/4<|end_of_text|>"
+70,"Question: A 68-year-old patient complains of pain on the right leg, which is worse at the end of the day. The pain is not associated with a particular site and is not associated with an acute phase of a febre. The most likely diagnosis is:
+A. Artrite renove
+B. Acomulose
+C. Acomulose
+D. Polimorfismo de gengam
+E. Asafo-se
+Answer: D<|end_of_text|>"
+71,"Question:
+Let a = 0.3 - 0.4. Let r = -0.3 - a. Let g = 0.4 - r. What is the third biggest value in g, -3/5, -1?
+Answer:
+-3/5<|end_of_text|>"
+72,"Question:
+Let g = -0.4 - 0. Let n = g + 0.4. Let j = 0.6 + n. Which is the nearest to j?  (a) -2  (b) 2  (c) 1/2
+Answer:
+c<|end_of_text|>"
+73,"def analyze_text(text):
+    """"""Analyze a text and return a dictionary with the number of words and sentences of each word.
+
+    Args:
+        text (str): A text to analyze.
+
+    Returns:
+        dict: A dictionary with the number of words and sentences of each word.
+    """"""
+    word_count = 0
+    sentence_count = 0
+    for word in text.split():
+        if word.isalpha():
+            word_count += 1
+        if not word.isalpha() and word.isnumeric():
+            sentence_count += 1
+    return {
+        'words': word_count,
+'sentences': sentence_count
+}
+
+<|end_of_text|>"
+74,"Question:Develop a TypeScript program which receives a string as a parameter and returns a string with a prefix ""A na"" for a number of os as na and a string com a quantidade de os as na
+<|end_of_text|>"
+75,"Question: A 3-year-old child is admitted to the hospital with a history of fever for 3 days and acute left-sided abdominal pain. A physical examination reveals a painless lymph node of the right axillary. The procalcina is not detectable, as well as the hormona de crescimento e desenvolvimento (gh). Se a criança apresenta um aumento de peso, o diagnóstico é: a) obviamente a depressa; b) e a os espinos; c) a depressa e o espinos; d) a depressa e os espinos; e) a depressa e os espinos. Se a criança apresenta um aumento de peso, o diagnóstico é: a) a depressa; b) e a os espinos; c) a depressa e o espinos; d) a depressa e os espinos; e) a depressa e os espinos.
+A) a depressa e os espinos; B) a depressa e os espinos; C) a depressa e os espinos; D) a depressa e os espinos; E) a depressa e os espinos"
+76,"Question:
+Let r = 10.5 - 7. Let g = -2.9 + r. Let o = g - -1.9999999. What is o rounded to 7 dps?
+Answer:
+0.0000001<|end_of_text|>"
+77,"def create_room_layout(room_width, room_length, room_height, furniture_width, furniture_length, furniture_height, furniture_width_per_unit, furniture_length_per_unit, furniture_height_per_unit):
+    """"""
+    Create a layout for a room, given its width, length, and height, and a list of furniture items, each with its width, length, and height.
+    """"""
+    # Initialize a list to store the layout of the room
+    layout = []
+
+    # Iterate over the list of furniture items
+    for i, f in enumerate(furniture):
+        # Calculate the position of the furniture item in the room
+        pos = (f['x'], f['y'])
+
+        # Calculate the width and length of the furniture item
+        width = f['width']
+        length = f['length']
+
+        # Check if the furniture item is a chair
+        if f['type'] == 'chair':
+            # Calculate the position of the chair in the room
+            pos = (pos[0], pos[1], 0)
+
+        # Add the furniture item to the layout
+        layout.append({
+            'type': f['type'],
+            'x': pos[0],
+            'y': pos[1],
+            'width': width,
+           "
+78,"Question: Which of the following is not a feature of asphyxia?
+A. Low Apgos
+B. Low Aa no
+C. Low Pa no
+D. Low Pa o
+Answer: C<|end_of_text|>"
+79,"Question:
+Let n = 0.023 - 0.063. Let o = n - -0.05. Let x = -0.1 - o. What is x rounded to zero decimal places?
+Answer:
+-1<|end_of_text|>"
+80,"Question:
+What is the next term in 1, 6, 17, 42, 87, 142, 211?
+Answer:
+316<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.7. Let x = 0.2 - o. Let p = -0.1 - x. Which is the nearest to p?  (a) -3  (b) -2/9  (c) -1/4
+Answer:
+b<|end_of_text|>"
+82,"Question:
+Let g = -0.025 - 0.025. Let v = g + 0.09. Let q = -0.09 - v. Round q to one decimal place.
+Answer:
+0.1<|end_of_text|>"
+83,"Question:
+Let x = 0.004 - 0.048. Let h = 0.035 + x. Let c = h - 0.033. Round c to one decimal place.
+Answer:
+-0.3<|end_of_text|>"
+84,"def update_loop(animals, num_animals):
+    """"""Apaga os animais na lista e retorna o número de animais na lista após a atualização
+
+    Args:
+        animals (list): Lista de animais
+        num_animais (int): Quantidade de animais na lista
+
+    Returns:
+        int: Número de animais na lista após a atualização
+    """"""
+    for i in range(num_animais):
+        if len(animals) == 0:
+            return 0
+        else:
+            animal = animals.pop()
+            print(f'Agora que o animal {animal} foi apagado, temos {len(animals)} animais na lista')
+    return len(animals)
+
+<|end_of_text|>"
+85,"def list_of_animals(animals, num_animal, num_cada):
+    """"""A função recebe um número de animais, o número de animais por página e o número de páginas e cria uma lista de animais para o usuário. 
+    A função também cria um loop para executar o número de páginas e os animais para o usuário. 
+    O usuário pode escolher se quer ver mais ou menos animais por página e também escolher se quer ver mais ou menos páginas para a lista de animais. 
+    A função deve retornar o número de animais e a quantidade de páginas para a lista de animais.""""""
+    for num_cada in range(num_cada):
+        print(f'For a {num_cada} page, {num_animal} animals will be shown')
+    for num_cada in range(num_cada):
+        print(f'For a {num_cada} page, {num_animal} animals will be shown')
+    for num_cada in range(num_cada):
+        print(f'For a {num_cada} page, {num_animal} animals will be shown')
+    for num_cada in range(num_cada):
+        print(f'For a {"
+86,"Question:Build a C# function which receives a string and returns a boolean value indicating whether the string is a palindrome or not. A palindromos são aqueles que se leem de a direita para a esquerda e o mesmo se torna o mesmo após a sua reversão. Ex: ""acabam"" e ""a"" são palindromos. Para as palavras ""cada"", o mesmo se torna ""cada"" e para a palavra ""cada"" se torna ""cada"". A palavra ""toda"" se torna ""toda"" e para a palavra ""toda"" se torna ""toda"". O termo ""em"" se torna ""em"" e para o termo ""em"" se torna ""em"". O termo ""se"" se torna ""se"" e para o termo ""se"" se torna ""se"". O termo ""as"" se torna ""as"" e para o termo ""as"" se torna ""as"". O termo ""para"" se torna ""para"" e para o termo ""para"" se torna ""para"". O termo ""de"" se torna ""de"" e para"
+87,"Question: The following is a histologic feature of a neoplastic cell
+A. Nucleus of the cell has a high nuclear density
+B. Nucleus of the cell is small
+C. Nucleus of the cell has a low nuclear density
+D. Nucleus of the cell has a low nuclear volume
+Answer: C<|end_of_text|>"
+88,"Question:
+Let j = 0.1 - -0.1. Let s = -0.1 + j. Let g = -0.1 - s. Which is the closest to -1?  (a) g  (b) 1  (c) -0.1
+Answer:
+c<|end_of_text|>"
+89,"Question:
+Let g = -0.6 - 0.1. Let m = 0.6 - g. Let o = 1.1 - m. What is o rounded to one decimal place?
+Answer:
+1<|end_of_text|>"
+90,"def add_to_set_com(sets, element, n):
+    """"""Add a new element to a set and return a set with a new element as the last element.
+    The function should be able to handle a set of different sizes.
+    """"""
+    if len(sets) == 0:
+        return [element]
+    else:
+        for i in range(1, n):
+            if len(sets) == 1:
+                return [element, **sets[0]]
+            else:
+                return [element, **sets[0], **sets[1]]
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 20 is divided by 6?
+Answer:
+4<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 0.2. Let h = -3.4 - p. Let c = h + 0.2. What is c rounded to one decimal place?
+Answer:
+0.4<|end_of_text|>"
+93,"Question:
+Let j = 0.001 - -1.999. Let h = 2.1 + j. Let v = -0.9 - h. Which is the closest to 1?  (a) v  (b) 3  (c) 1
+Answer:
+c<|end_of_text|>"
+94,"Question:Build a Python function which receives a list of words and a no of pages as arguments, and returns a list of postagens as text, which each posta no de as a link no de a pagina, e a no de as na a pagina, e a no de as na a pagina. As uma resposta, o texto de cada posta no deve estar na mesma linha e não haver espaço entre os termos. No caso de uma postagem com mais de 1 termo, o texto deve ser dividido em duas ou mais linas. Se a posta tem mais de 3 termos, a linha deve ser dividida em 3 partes.
+A posta deve ser classificada como posta n o de a pagina com as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as"
+95,"Question:
+Let o = 0.2 + 0.4. Let b = 0.7 - o. Let j = 0.2 - b. Which is the closest to -1?  (a) j  (b) -1  (c) 2/11
+Answer:
+b<|end_of_text|>"
+96,"Question:
+Let f = 4.6 + -0.6. Let q = f + -5.1. Let n = q + 3.99999978. Round n to 7 dps.
+Answer:
+-0.0000002<|end_of_text|>"
+97,"Question:
+Let c = 0.5 - -0.3. Let n = c - 0.8. Let v = n - -0.9. What is the closest to v in -4, 0.5, -0.5?
+Answer:
+-0.5<|end_of_text|>"
+98,"Question:Develop a Java program snippet to Check Low Regular health: Step Count for Analysis for Professionals. Use asou as base de dados o consertado de conteúdo, para que esta no seu aprofundamento na área. A sua responsabilidade é ascribido para producire um texto para a página web, para que este se apresente como a excelente oferta para as visitas e leitores.
+Use as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as"
+99,"def complex_number_exercise(complex_number: complex, num: int):
+    """"""Docstring:
+    Doc para o doc
+    Doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc para o doc"

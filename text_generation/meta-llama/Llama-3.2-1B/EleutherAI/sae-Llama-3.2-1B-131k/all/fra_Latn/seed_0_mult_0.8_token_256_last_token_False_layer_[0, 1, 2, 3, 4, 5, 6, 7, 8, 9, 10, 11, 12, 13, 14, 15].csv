@@ -1,0 +1,655 @@
+seed,generated_text
+0,"Question:
+Let l = 6.9 - 6.3001. Lais l de l l de l. L’ l l l. L’ l l. L’ l l. L’ l l.
+L’ l l. L’ l l. L’ l l. L’ l l. L’ l l. L’ l l. L’ l l. L’ l l.
+L’ l l. L’ l l. L’ l l. L’ l l. L’ l l. L’ l l. L’ l l. L’ l l.
+L’ l l. L’ l l. L’ l l. L’ l l. L’ l l. L’ l l. L’ l l. L’ l l.
+L’ l l. L’ l l. L’ l l. L’ l l. L’ l l. L’ l l. L’ l l. L’ l l.
+L’ l l. L’ l l. L’ l l. L’ l l. L’ l l. L’ l l. L’ l l. L’ l l.
+L’ l l. L’ l l."
+1,"Question:
+Let d = 0.03 - 0.13. L l avec l l et de l l l. L l l l l l l l. L l l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l l l l l. L l l l"
+2,"Question:
+Let l = -3.5 - -3.9. L l l l l l. L l l. L l. L l. L l.
+I l. L l.
+L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l"
+3,"Question:
+Let l = 43.4 - 46. L l de la la? L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+4,"Question:
+Let l = 11.1 - 12.1. L l? L. L. l. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L."
+5,"Question:
+Let l = 0.0018 - 0.0000000001. L l, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c,"
+6,"def set_dequement(les, l):
+    l = l.c
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l = l.les
+    l"
+7,"# 2018 L’Iroïl l’Irois de l’Iroïl
+
+L’Iroïl l’Irois de l’Iroïl est une l’Iroïl de l’Iroïl qui l’I. L. I. L. L. I. L. I. L. L. I. L. L. I. L. I. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. I. L. L. L. I. L. L. I. L. L. L. I. L. L. I. L. L. I. L"
+8,"Question:
+Let l = 0.0011 - 0.0011. Léa l l, la l, la l et l l. L’or c l, l l l l l et l l. L’or c l, l l l l l et l l. L’or c l, l l l l l et l l. L’or c l, l l l l l et l l. L’or c l, l l l l l et l l. L’or c l, l l l l l et l l. L’or c l, l l l l l et l l. L’or c l, l l l l l et l l. L’or c l, l l l l l et l l. L’or c l, l l l l l et l l. L’or c l, l l l l l et l l. L’or c l, l l l l l et l l. L’or c l, l l l l l et l l. L’or c l, l l l l l et l l. L’or c l, l l l l l et l l"
+9,"Question:
+What is 0.001 l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+10,Question: Les l’Or c l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l
+11,Question: A l' en c' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l'
+12,"Question:
+Let l = 1.5 - 0.5. L'homme l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+13,"Question:
+Let c = -0.1 - 0.9. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’oublie c. L’ou"
+14,"Question:
+Let d = 6.2 - 6.6000000000001. L’imact de l’l’imact de l’I. c. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l"
+15,"Question:
+Let l = 0.01 - 0.31. L l l l l. L l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l"
+16,"Question:
+Let j = -0.03 - 0.2. Léa, qui l’ait l’im l’année, le la l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de l’année, l’année de"
+17,"Question:
+Let a = 6.8 - 0.6. Léa, l’qu’on l’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu’on l’qu"
+18,"Question:
+Let l = 3.8 - 3.75. L l l l l. L l l l l. L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L l l l l.
+L"
+19,"Question:
+Let p = 0.2 - 0.38. L’L l l l c l l c l l l c l l l c l l l c l l l c l l l l l c l l l l l c l l l l l c l l l l l c l l l l l c l l l l l c l l l l l c l l l l l c c c c c c c c c l l l l c c c c c c c c c c l l l l l c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c"
+20,Question: Le de L l l de l l de l l de l l l de l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+21,"Question:
+What is the d'té l'on l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as"
+22,Question: L’ c l l de l’ l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+23,"Question:
+Let r = -0.0019 - -0.0031. L’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c’est l’or c"
+24,Question: L' c l l c l l l c l l l c l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+25,"Question:
+What is 0.000000000000000001  l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+26,"Question:
+Let c = -4.0000000000001 + 4.000000. C l’antantant de l’arrêt de l’arrêté de l’as l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté"
+27,"Question:
+Let p = 0.4 - 0.3. L’ouiste de l’homme qui laitait la l’ur de l’I. le la le l’ur de l’I. le l’ur de l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I. l’I."
+28,"Question:
+Let l = 0.05 - 0.75. L l de la l l de la l de l l de la l de la l l de l l de la l de la l l de la l de la l l de la l de la l l de la l de la l l de la l de l l de la l de l l de la l de l l de la l de l l de l l de la l de l l de l l de l l de l l de l l de l l de la l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l l de l"
+29,"Question:Write un l’imétaque en l’inverse de la l’écriture. C’est le de l’inverse de la l’écriture.
+L’imétaque est un de l’inverse de l’écriture. L’imétaque est le de l’inverse de l’écriture. L’imétaque est l’inverse de l’écriture. L’imétaque est l’inverse de l’écriture. L’imétaque est l’inverse de l’écriture.
+L’imétaque est l’inverse de l’écriture. L’imétaque est l’inverse de l’écriture. L’imétaque est l’inverse de l’écriture. L’imétaque est l’inverse de l’écriture. L’imétaque est l’inverse de l’écriture.
+L’imétaque est l’inverse de l’écriture. L’imétaque est l’inverse de l’écriture. L’imétaque est l’inverse de"
+30,"Question:
+Let l = 0.00000139. L l la l. L l. L l. L l. L l. L l.
+L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l. L l"
+31,"Question:
+Let l = -1.07 - -1.55. L l l l l. L l l l. L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+L l l l.
+"
+32,"Question:
+Let c = 6.9 - 6. L l l l c 1. c l l l c l l c l l c l l l c l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l l l c l"
+33,"def lca(l, l1):
+    l1 = l1.livre
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1.uneLivre()
+    l1 = l1."
+34,"Question:
+Let q = -0.0000000000001. L l l l l. L l l l. L l l l.
+L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L"
+35,"Question:
+What is 0.000000001000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+36,"Question:
+Let l = 0.6 - 0.6. L’homme qui laitait les lais de l’I. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l. l."
+37,"# Comment de l’arrêtre un l’homme de la l’incincilé
+L’arréé l’incincilé est l’arréé la l’incincilé. L’arréé la l’incincilé. L’arréé l’incincilé. L’arréé l’incincilé. L’arréé l’incincilé. L’arréé l’incincilé. L’arréé l’incincilé. L’arréé l’incincilé. L’arréé l’incincilé. L’arréé l’incincilé. L’arréé l’incincilé. L’arréé l’incincilé. L’arréé l’incincilé. L’arréé l’incincilé. L’arréé l’incincilé. L’arréé l’incincilé. L’arréé l’incincilé. L’arréé l’incincilé. L’arréé"
+38,"Question:
+What is 4.55 l dans l l l de l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+39,"Question:
+Let c = -0.12 - -0.5. L. c de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l’ l de l"
+40,"# 2011 l'Or cinq à l'as
+
+L' 1 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1 000 000 000 000 l' 1"
+41,"Question:
+Let a = -6.5 + 6.0000000000001. L. c’est l’indice de l’apérité de l’impar. l’apé. c. l’ap. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’ap. c. l’"
+42,"Question:
+Let l = 0.0000000016.0000000001. C’est le l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l’qu’elle. C’est la l’unique l"
+43,"Question:
+Let l = -0.0000010073 + 0.000001. L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L l l.
+L"
+44,"Question:
+Let c = 43.1 - 43.0000000000001. L’quai c, c l’quai l’c.
+L’quai c, c l’quai l’c. L’quai c, c l’quai l’c.
+L’quai c, c l’quai l’c. L’quai c, c l’quai l’c.
+L’quai c, c l’quai l’c. L’quai c, c l’quai l’c.
+L’quai c, c l’quai l’c. L’quai c, c l’quai l’c.
+L’quai c, c l’quai l’c. L’quai c, c l’quai l’c.
+L’quai c, c l’quai l’c. L’quai c, c l’quai l’c.
+L’quai c, c l’quai l’c. L’quai c, c l’quai l’c.
+L’quai c, c l’quai l"
+45,"Question:
+Let l = 0.9 - 0.5. L l, c c, l c, c l, c c, l c, l c, c l. L l, c c, l c, c l, c c, l c, c l, l c. L l, c c, l c, c l, c c, l c, c l, l c. L l, c c, l c, c l, c c, l c, c l, l c. L l, c c, l c, c l, c c, l c, c l, l c. L l, c c, l c, c l, c c, l c, c l, l c. L l, c c, l c, c l, c c, l c, c l, l c. L l, c c, l c, c l, c c, l c, c l, l c. L l, c c, l c, c l, c c, l c, c l, l c. L l, c c, l c, c l, c c, l c, c l, l c. L"
+46,Question: Les l’Or c’est le de la la c. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’I. L’
+47,"# La Maudie
+
+L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’"
+48,"Question:
+Let l = 2.5 - 2.6. L l de l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+49,Question: 1 1/2 l de l l de l l l l l l de l l l l l l de l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+50,"Question:
+Let c = 12.55 - 0.55. La la de l’il l’homme qui l’assait l’est l’im. c. L’im. l’hum. L’homme l. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L’im. L’hum. L"
+51,"Question:
+Let d = 0.0029 - 0.0008. L’antique l’or c’est le l’or de l’Or.
+L’or c’est l’or de l’Or.
+L’or c’est l’or de l’Or.
+L’or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l’Or.
+L’Or c’est l"
+52,"def l1c1:
+    l1 = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,"
+53,"Question:
+What is 0.0000000000032071 c’est le l’iméral de l’arrêt de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l’arrêté de l"
+54,"Question:
+What is l, l, l, l, l, l, de, de, de, c, de, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c, c,"
+55,"def l1(l):
+    l2 = 0
+    l2 = l[0]
+    l2 = l[1]
+    l2 = l[2]
+    l2 = l[3]
+    l2 = l[4]
+    l2 = l[5]
+    l2 = l[6]
+    l2 = l[7]
+    l2 = l[8]
+    l2 = l[9]
+    l2 = l[0]
+    l2 = l[1]
+    l2 = l[2]
+    l2 = l[3]
+    l2 = l[4]
+    l2 = l[5]
+    l2 = l[6]
+    l2 = l[7]
+    l2 = l[8]
+    l2 = l[9]
+    l2 = l[0]
+    l2 = l[1]
+    l2 = l[2]
+    l2 = l[3]
+    l2 = l[4]
+    l2 = l[5]
+    l2 = l[6]
+    l2 = l[7]
+    l2 = l[8]
+    l2 = l[9]
+    l2 ="
+56,"Question:
+What is 0.000000000000001, c’est l’unique de l’apé? (l’écrit de la l’inverse de la l’inverse de la l’inverse de la l’inverse de l’…)
+Le de l’inverse de l’inverse de l’inverse de l’… c’est l’inverse de l’inverse de l’… c’est l’inverse de l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l’… c’est l"
+57,"Question:
+Let j = -6.1 - 0.9. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. Lais l, l. L"
+58,def l1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_
+59,"Question:
+What is l dans le l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+60,"Question:
+Let j = -7.0000011 + 7.000. L’I. L. c. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I. L. L’I"
+61,"Question:
+Let l = 7.75 - 6.9. L'actif de l'homme de l'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'ass. L'actif de l'"
+62,"Question:
+Let l = -0.4 - -0.5. Lais l de l l. Lais l de la l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l l l l. Lais l"
+63,"Question:
+What is the l'té de l'antique l'or, de l'argent et de l'argent l'or l'argent l'or l'or l'?
+I. l'or l'or l'or l'or l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l"
+64,"Question:
+Let q = -1.6 - -1.6. L l l l l c l l c c l l c l l c l l c l l l c l l c c c c c c c c c l l c l l c l l c l l l l c c c c c c l l c c c c c l l l l c c c c c c l l c c c c c l l c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c"
+65,"Question:
+What is the l'té de l'arrêt de l'opérateur de l'arrêt de l'opérateur?
+I. L'opérateur de l'arrêt de l'opéra l'opérateur de l'arrêt de l'opéra l'opérateur de l'arrêt de l'opérateur de l'arrêt de l'opérateur de l'arrêt de l'opérateur de l'arrêt de l'opérateur de l'arrêt de l'opérateur de l'arrêt de l'opérateur de l'arrêt de l'opérateur de l'arrêt de l'opérateur de l'arrêt de l'opérateur de l'arrêt de l'opérateur de l'arrêt de l'opérateur de l'arrêt de l'opérateur de l'arrêt de l'opérateur de l'arrêt de l'opérateur de l'arrêt de l'opérateur de"
+66,"Question:
+Let c = -1.2 - -0.2. Léa, lâle, c, l’ale, l’il l’ait, l’I. L’I, l’I, c, c, l’I, l’I, l’I, c, c, l’I, l’I, l’I, c, c, l’I, l’I, l’I, c, c, l’I, c, c, l’I, l’I, c, c, l’I, c, c, l’I, c, c, l’I, l’I, c, c, l’I, c, c, l’I, c, c, l’I, c, c, l’I, c, c, l’I, c, c, l’I, c, c, l’I, c, c, l’I, c, c, l’I, c, c, l’I, c, c, l’I, c, c, l’I, c, c, l’I, c, c, l’I,"
+67,Question: La la lais la la la le l la la la l le l l l l l la la la l l l l la la la l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+68,"Question:
+What is 0.000000000000001  en l’aléatoire de l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’aléatoire, l’aléatoire de l’"
+69,"Question:
+Let l = 0.0000000010000001. L et l, la l l, la l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l l, l"
+70,Question: La lais l'as l'oi l'as la l'oi l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l'as l
+71,"Question:
+Let l = 0.0000000000000015. L’I. L. de L’I. L. de L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L"
+72,"Question:
+Let j = 0.00000175. C’est l’unique l’écin de l’extérieur. L’ou. c. L’unique l’éc. L’ou. c. L’unique l’éc. L’ou. c. L’unique l’éc. L’ou. c. L’unique l’éc. L’ou. c. L’unique l’éc. L’ou. c. L’unique l’éc. L’ou. c. L’unique l’éc. L’ou. c. L’unique l’éc. L’ou. c. L’unique l’éc. L’ou. c. L’unique l’éc. L’ou. c. L’unique l’éc. L’ou. c. L’unique l’éc. L’ou. c. L’unique l’éc. L’ou. c. L’unique l’éc. L’ou. c. L’unique l’éc. L’ou. c. L’unique l’éc. L’ou. c. L’unique l’éc. L’ou. c. L’"
+73,"def lca(l1, l2):
+    l1 = l1[0] ; l2 = l2[0]
+    l1 = l1[0] ; l2 = l2[0]
+    l1 = l1[0] ; l2 = l2[0]
+    l1 = l1[0] ; l2 = l2[0]
+    l1 = l1[0] ; l2 = l2[0]
+    l1 = l1[0] ; l2 = l2[0]
+    l1 = l1[0] ; l2 = l2[0]
+    l1 = l1[0] ; l2 = l2[0]
+    l1 = l1[0] ; l2 = l2[0]
+    l1 = l1[0] ; l2 = l2[0]
+    l1 = l1[0] ; l2 = l2[0]
+    l1 = l1[0] ; l2 = l2[0]
+    l1 = l1[0] ; l2 = l2[0]
+    l1 = l1[0] ; l2 ="
+74,Question:Develop un l' l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+75,Question: A 3 l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+76,"Question:
+Let r = 10.5 - 7.5. Léa lissé pour l’les l’as de la l’L et l’les la l’L. L’L l’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L’L l’L. L"
+77,"def l2_1():
+    l2 = [1, 2, 3, 4, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6,"
+78,Question: L’Or c de l’I l l I l l I l I l I l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+79,"Question:
+Let l = 1.7 - 1.8. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+80,"Question:
+What is the l't l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+81,"Question:
+Let l = 2.5 - 2.5. Let c = 2.2 - 2.9. L l de l c. C l l c.
+L c c l l l c c l l c c l c l l c l l c l l c c l l c l c l l c l l l c l l l c l l l l c c c c l l l c l l l c c c c l l l l c l l l l c c c l l l c c c l l l c l l l l c c c c l l l l c l l l c c c c l l l c c l l l l c c c l l l l c c c l l l c c c c l l l l c c c c l l l c c c c l l l l c l l l c c c c l l l l c c c c l l l c c c c l l l l c c c c l l l c c c c l l l l c c c c l l l l c c c c l l l c c c c l l l l c c c c l l"
+82,"Question:
+Let c = 0.38 - 0.33. Léa, c, 3.8, 0.5, 1.1, 1.1...
+Léa, c, 1.1, 1.1, 1.1, 1.1...
+Léa, c, 1.1, 1.1, 1.1, 1.1...
+Léa, c, 1.1, 1.1, 1.1, 1.1...
+Léa, c, 1.1, 1.1, 1.1, 1.1...
+Léa, c, 1.1, 1.1, 1.1, 1.1...
+Léa, c, 1.1, 1.1, 1.1, 1.1...
+Léa, c, 1.1, 1.1, 1.1, 1.1...
+Léa, c, 1.1, 1.1, 1.1, 1.1...
+Léa, c, "
+83,"Question:
+What is the l' l l' l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+84,"def on_dejeu_de_latique(l, l2):
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 = 0
+    l2 ="
+85,"def l1(l1, l2):
+    l1 = 0
+    l2 = 0
+    l1 = l1 * l2
+    l2 = 0
+    l2 = l1
+    l1 = 0
+    l2 = l1
+    l1 = 0
+    l2 = 0
+    l1 = 0
+    l2 = 0
+    l1 = 0
+    l2 = 0
+    l1 = 0
+    l2 = 0
+    l1 = 0
+    l2 = 0
+    l1 = 0
+    l2 = 0
+    l1 = 0
+    l2 = 0
+    l1 = 0
+    l2 = 0
+    l1 = 0
+    l2 = 0
+    l1 = 0
+    l2 = 0
+    l1 = 0
+    l2 = 0
+    l1 = 0
+    l2 = 0
+    l1 = 0
+    l2 = 0
+    l1 = 0
+    l2 = 0"
+86,"Question:
+Suppose 0 = 5*i - 3*q - 5, 0 = -i - 2*i - 3. Let l = 7 - 8. Le l de l l et c c l l l c c c l l c c l l c l c c c l l c c l l c c c l l c l l c l l c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l c c c l l"
+87,Question: Le de l'As l de l'Autat de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L. C. de la L
+88,"Question:
+Let j = 0.1 - 0.13. Lais de l'ail c'est l'homme, c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'homme c'est l'"
+89,"Question:
+Let l = -0.6 - 0.1. L l l. C'est l. C. c. C. c. L l l.
+L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L l l. L"
+90,def l1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_
+91,"Question:
+What is the l'te 2 on le l? (L l) 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l l l 1 l"
+92,"Question:
+Let l = 2.63 - 2.6. Lais l à 1/6, c. Lais le de l’la, c. Lais l sur l’l, c. Lais l sur l’l, c. Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l sur l’l, c.
+Lais l"
+93,"Question:
+What is the l' c' de l' l' c' l' de l' l' l' c' c' l' l' c' l' c' l' c' l' c' l' c' l' c' l' c' l' c' l' c' l' c' l' c' c' l' c' l' c' l' c' c' l' c' l' c' l' c' l' c' l' c' l' c' l' c' l' c' l' c' l' c' l' c' l' c' l' c' l' l' c' l' c' l' l' c' l' c' l' l' l' l' l' l' c' l' c' l' c' l' l' c' l' c' l' c' l' c' l' l' c' l' c' l' l' l' c' l' c' l' c' l' c' l' l' l' l' c' l' c' l' c' l' c' l"
+94,Question:Build un l’iméra de la l’image de l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l’image l
+95,"Question:
+Let j = 0.2 - 0.5. Léa de l’I. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L"
+96,"# 2021 en de l'Internet cés l'Internet cédant l'Internet cœur
+
+L’Internet cédant l’Internet cœur est un l’Internet cédant l’Internet cœur c’est l’Internet cédant l’Internet cœur qui est la l’Internet cédant l’Internet cœur l’Internet cédant l’Internet cœur c’est l’Internet cédant l’Internet cœur c’est l’Internet cédant l’Internet cœur c’est l’Internet cédant l’Internet cœur c’est l’Internet cédant l’Internet cœur c’est l’Internet cédant l’Internet cœur c’est l’Internet cédant l’Internet cœur c’est l’Internet cédant l’Internet cœur c’est l’Internet cédant l’Internet cœur c’est l’Internet cédant l’Internet cœur c’est l’Internet cédant l’Internet cœur c’est l’Internet cédant l’Internet cœur c’est l’Internet cédant l’Internet cœur c’est l’Internet cédant l’Internet cœur c’est"
+97,"Question:
+Let c = 0.5 - 0.5. Lors de l'acaté de la l’as l’aléa, c c l’aléa l’aléa de l’as l’aléa l’aléa de l’as c c l’aléa l’aléa de l’as c c l’aléa l’aléa c c l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’aléa l’"
+98,"Question:
+Let l = -4.0 - -4.0000000000001. C'est l. L'ou. L'qu. L'qu. L'qu. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L. L"
+99,"def l2c(l):
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.la
+    l = l.l"

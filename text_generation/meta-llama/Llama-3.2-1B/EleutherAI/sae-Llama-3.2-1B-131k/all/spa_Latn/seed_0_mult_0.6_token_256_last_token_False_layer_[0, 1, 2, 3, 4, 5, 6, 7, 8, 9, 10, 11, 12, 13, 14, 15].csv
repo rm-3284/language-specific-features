@@ -1,0 +1,742 @@
+seed,generated_text
+0,"Question:Write a Python code that, dado un valor dado, calcula el área de un cuadrado y un círculo, ambos con un radio de 5 cm, y muestra el resultado por pantalla.
+
+import math
+
+# Area de un cuadrado
+print(""El área del cuadrado es: "", math.pi * (5 ** 2))
+
+# Area de un círculo
+print(""El área del círculo es: "", math.pi * (5 ** 2))<|end_of_text|>"
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 + d. Let u = s - -0.1. What is the third smallest value in u, 0.3, 0.1?
+Answer:
+0.1<|end_of_text|>"
+2,"Question:
+Let l = -3 + 5. Let c be 3/(3/(-2)*l). Let t = 2.1 + c. What is t rounded to 0 decimales?
+Answer:
+2<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Let w = -0.04 + g. Let m = -0.06 + w. Which is the closest to 0.1?  (a) m  (b) -0.3  (c) 2/9
+Answer:
+c<|end_of_text|>"
+4,"Question:
+Let v = 0.02 - -0.02. Let t = 0.2 + v. Let y = t + -0.3. Which is the closest to 1?  (a) y  (b) 2/3  (c) -1/4
+Answer:
+b<|end_of_text|>"
+5,Question:Develop a Ruby program que permite calcular el área de un polígono dado sus esquinas. El programa debe tener la siguiente funcionalidad: - El usuario debe introducir el valor de los lados que forman el polígono. - El programa debe calcular el área del polígono. - El programa debe mostrar la forma del polígono y el área obtenida. - El programa debe mostrar la forma del polígono y el área obtenida. - El programa debe mostrar la forma del polígono y el área obtenida. - El programa debe mostrar la forma del polígono y el área obtenida. - El programa debe mostrar la forma del polígono y el área obtenida. - El programa debe mostrar la forma del polígono y el área obtenida. - El programa debe mostrar la forma del polígono y el área obtenida. - El programa debe mostrar la forma del polígono y el área obtenida. - El programa debe mostrar la forma del polígono y el área obtenida. - El programa debe mostrar la forma del polígono y el área obtenida. - El programa debe mostrar la forma del polígono y el área obtenida. - El programa debe mostrar
+6,"def carpenter_intersection(a, b, c, d):
+    """"""Es un ejercicio de suma y resta, en el que se debe calcular el valor de la suma de los dos números, pero también se debe restar uno de ellos a otro.
+
+    Los números a, b y c son enteros positivos, mientras que el número d es un entero negativo.
+
+    El ejercicio debe ser de suma y resta, no de suma y resta, ya que no es un ejercicio de suma y resta, sino de suma y resta.
+
+    Se debe calcular el valor de la suma de los dos números, pero también se debe restar uno de ellos a otro.
+
+    El resultado debe ser un entero, ya que no es necesario que sea un valor flotante.
+
+    Ejemplo:
+
+    a = 5
+    b = 3
+    c = 1
+    d = -2
+
+    Resultado: -5
+""""""
+
+    suma = a + b
+    resta = c - d
+
+    print(f""El resultado es: {suma - resta}"")
+<|end_of_text|>"
+7,"# 2.11.3.5. How to configure the DHCP server
+
+## 2.11.3.5. How to configure the DHCP server
+
+In this section, you will configure the DHCP server to allow that the network equipment in the network is configured in a uniform way.
+
+### 2.11.3.5. 1. Introduction
+
+The DHCP server is a very useful service that allows to configure the network equipment in a uniform way. In this way, it is important to know the configuration of the server and its functions.
+
+The DHCP server is responsible for assigning the IP address to the devices that connect to the network. It is important to know the configuration of the server and its functions.
+
+The DHCP server is a very useful service that allows to configure the network equipment in a uniform way. In this way, it is important to know the configuration of the server and its functions.
+
+The DHCP server is responsible for assigning the IP address to the devices that connect to the network. It is important to know the configuration of the server and its functions.
+
+### 2.11.3.5. 2. Configuring the DHCP server
+
+The DHCP server is responsible for assigning the IP address to the devices that connect to"
+8,"Question:Develop a Python program que permite calcular el area de un polígono con los siguientes requisitos:
+    - Debe ser un polígono recta (rectángulo, cuadrado, etc)
+    - Tiene que ser un polígono es decir que es un conjunto de puntos que se ubican en el mismo plano
+    - Tiene que ser un polígono regular (cuadrado, cuadrado, etc)
+    - El polígono debe ser un polígono plano (cúbico, cúbico, etc)
+    - El polígono tiene que ser un polígono es decir que es un conjunto de puntos que se ubican en el mismo plano
+    - Tiene que ser un polígono regular (cuadrado, cuadrado, etc)
+    - El polígono debe ser un polígono plano (cúbico, cúbico, etc)
+    - El polígono tiene que ser un polígono es decir que es un conjunto de puntos que se ubican en el mismo plano
+    - Tiene que ser un polígono regular (cuadrado, cuadrado, etc)
+    - El polígono debe ser un políg"
+9,"Question:
+Let x = -0.2 - -0.1. Let p = 0.7 - x. Let l = p - 0.1. Which is the closest to l?  (a) 2  (b) 1  (c) -3
+Answer:
+b<|end_of_text|>"
+10,"Question:Create a Java script que se ocupe de calcular el área de un polígono dado sus coordenadas. El polígono puede ser un rectángulo, cuadrado, triángulo, esfera o cuadrado de radio variable. El programa debe ser capaz de calcular el área de un polígono dado sus coordenadas, y también el área de un polígono dado su radio variable. El programa debe ser capaz de calcular el área de un polígono dado sus coordenadas, y también el área de un polígono dado su radio variable. El programa debe ser capaz de calcular el área de un polígono dado sus coordenadas, y también el área de un polígono dado su radio variable. El programa debe ser capaz de calcular el área de un polígono dado sus coordenadas, y también el área de un polígono dado su radio variable. El programa debe ser capaz de calcular el área de un polígono dado sus coordenadas, y también el área de un polígono dado su radio variable. El programa debe ser capaz de calcular el área de un polígono dado sus coordenadas, y también el área de un polígono dado su radio"
+11,"Question: A patient with a fracture de columna es una causa de deshidratacion, por lo que es importante que se administre agua al paciente, pero no es suficiente para que se resuelva la deshidratacion. Se le debe administrar un medicamento que no es un alimento, por lo que es importante que se conozca su composición y efecto.
+A. es una sustancia que se puede tomar como alimento.
+B. es un medicamento que no es alimento.
+C. es una sustancia que se puede tomar como alimento.
+D. es un medicamento que no es alimento.
+Answer: A
+Explanation: Es una sustancia que se puede tomar como alimento.<|end_of_text|>"
+12,"Question:
+Let r = 0.011 + -0.071. Let f = 0.039 + r. Let t = -0.004 - f. What is t rounded to 2 dps?
+Answer:
+0.01<|end_of_text|>"
+13,"Question:
+Let h = -0.05 + 0.05. Let w = 0.07 + h. Let x = 0.007 - w. What is x rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>"
+14,"Question:Design un programa que lea una cadena de caracteres de la consola y muestre todos los caracteres de la cadena en una lista, de forma que se pueda hacer un esprint de la misma, sin necesidad de recorrer el string una a una. Utilice un bucle for y un método de la clase String para realizar esta tarea.
+
+* Objetivo: Realizar un programa que lea una cadena de caracteres de la consola y muestre todos los caracteres de la cadena en una lista, de forma que se pueda hacer un esprint de la misma, sin necesidad de recorrer el string una a una. Utilice un bucle for y un método de la clase String para realizar esta tarea.
+
+Solution: Objetive: Realizar un programa que lea una cadena de caracteres de la consola y muestre todos los caracteres de la cadena en una lista, de forma que se pueda hacer un esprint de la misma, sin necesidad de recorrer el string una a una. Utilice un bucle for y un método de la clase String para realizar esta tarea.
+
+```java
+import java.util.Scanner;
+import java.text.DecimalFormat;
+
+public class Ejercicio2 {
+    public static void main"
+15,"Question:
+Let y = -0.01 - 0.01. Let f = -0.06 - y. Let r = 0.05 - f. Which is the nearest to 0?  (a) -1/5  (b) 1/4  (c) r
+Answer:
+a<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.22. Let y = 0.17 + j. Let l = -0.07 - y. Which is the second smallest value?  (a) l  (b) 0.2  (c) 3
+Answer:
+b<|end_of_text|>"
+17,"Question:
+Let u = 0.009 - 0.011. Let h = 0.003 + 0.003. Let k = h - u. What is the closest to 1/2 in -2/5, k, 0.1?
+Answer:
+0.1<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3. Let o = 3.2 - y. Let u = 0.6 - o. What is u rounded to 1 dp?
+Answer:
+0.3<|end_of_text|>"
+19,"Question:Build a Java API que permita al usuario crear una lista de libros, mostrar la cantidad de libros de cada autor, y mostrar los 3 primeros libros de cada autor. Los libros deben ser ordenados por el autor que escribe. El usuario debe poder buscar un libro por su título, autor o ISBN. Además, el usuario debe poder añadir un libro a la lista y modificar el contenido de los libros en la lista. Es decir, debe ser un sistema de gestión de libros.
+
+Para resolver este problema, se puede usar la librería de java que se llama ""library de librería"" que se puede descargar de la siguiente dirección: https://github.com/josep-llano/libreria-1.0.0
+
+A continuación se puede realizar los siguientes pasos:
+
+1. Se debe importar la librería ""library de librería"" que se puede descargar de la siguiente dirección: https://github.com/josep-llano/libreria-1.0.0
+2. Se debe crear una clase llamada ""Libro"" que tendrá los atributos que se necesita para crear un libro, como es el título, autor, ISBN, y precio.
+3. Se debe"
+20,"Question:Build a Ruby module que contiene los métodos que se necesite para manejar las tablas de la base de datos, en el siguiente caso, se ha creado un módulo que contiene los siguientes métodos:
+1. mostrarDatos()
+2. buscar()
+3. buscarPorId()
+4. buscarPorClave()
+5. mostrarTabla()
+6. mostrarTabla2()
+7. mostrarTabla3()
+8. mostrarTabla4()
+9. mostrarTabla5()
+10. mostrarTabla6()
+11. mostrarTabla7()
+12. mostrarTabla8()
+13. mostrarTabla9()
+14. mostrarTabla10()
+15. mostrarTabla11()
+16. mostrarTabla12()
+17. mostrarTabla13()
+18. mostrarTabla14()
+19. mostrarTabla15()
+20. mostrarTabla16()
+21. mostrarTabla17()
+22. mostrarTabla18()
+23. mostrarTabla19()
+24. mostrarTabla20()
+25. mostrarTabla21()
+26. mostrarTabla22()
+27. mostrarTabla23()
+28. mostrarTabla24()
+29. mostrarTabla25()
+30. mostrarTabla26()
+31. mostrarTabla27()
+32. mostrarTabla28()
+33. mostrarTabla29()
+34. mostrarTabla30()
+35. mostrarTabla31()
+36. mostrar"
+21,"Question:
+Let g = -0.012 + 0.013. Let y = 1.3 + g. Let w = 0.3 - y. Which is the closest to 0.1?  (a) -0.3  (b) w  (c) -2
+Answer:
+b<|end_of_text|>"
+22,"Question: Which of the following is the most common cause de esclerosis cerebral en el adult?
+A. Vascular
+B. Encefalitis
+C. Tumor
+D. Infección
+Answer: A
+Explanation: El esclerosis cerebral es el proceso por el cual los vasos sanguíneos de las áreas cerebral se endurecen, se ven esquéticos y se ven disminuidas las circulaciones cerebrovascular, se produce un incremento de presión en el cerebro, y se produce un aumento de la presión intraocular, se produce un aumento de la presión cerebroespinal, y se produce un aumento de la presión intracerebral.<|end_of_text|>"
+23,"Question: Which of the following is the most common cause de infección de la piel con un gran numero de bacterias?
+A. Puede ser la causa de la infección bacteriana en la piel
+B. Puede ser la causa de la infección bacteriana en la piel
+C. Puede ser la causa de la infección bacteriana en la piel
+D. Puede ser la causa de la infección bacteriana en la piel
+Answer: A
+Explanation: Puede ser la causa de la infección bacteriana en la piel<|end_of_text|>"
+24,"Question:Write a C# code snippet that calculates the factorial of a number, using recursion. The user must enter a number and the program must calculate its factorial. The factorial of a number is the product of all the numbers from 1 to the said number (including 1). The factorial of 0 is 1. The factorial of 1 is 1. The factorial of 2 is 2. The factorial of 3 is 6. The factorial of 5 is 120. The factorial of 6 is 720. The factorial of 7 is 5040. The factorial of 8 is 512. The factorial of 9 is 729. The factorial of 10 is 120. The factorial of 11 is 132. The factorial of 12 is 192. The factorial of 13 is 169. The factorial of 14 is 196. The factorial of 15 is 1200. The factorial of 16 is 384. The factorial of 17 is 510. The factorial of 18 is 518. The factorial of 19 is 404. The factorial of 20 is 1200. The factorial of 21 is 210. The factorial of 22 is "
+25,"# Héctor Esquena
+
+Héctor Esquena (Buenos Aires, 25 de febrero de 1981) es un actor, director y guionista argentino, quien ha desarrollado su carrera en la televisión, es uno de los protagonistas de la serie Esquena que se estrenó en 2006 en Televisión Pública.
+
+## Biografía
+
+Esquena nació en la ciudad de Buenos Aires, Argentina, es hijo del actor Carlos Esquena y de la actriz Cecilia Esquena. Su padre es de esencia española y su madre es de origen puertorriqueño. Tiene una hermana, María Esquena, que es actriz y directora. Su padre fue el actor Carlos Esquena, quien en el año 2000 fue un reconocido actor de teatro y es uno de los más importantes eslabones de la trama de la serie Esquena. Es hijo de actores y es un actor de teatro y cine. En el año 2000, se incorporó al mundo de la televisión a través de Televisión Pública, donde se encaró con el personaje de Juan"
+26,"Question:
+Let s = -4.2 + 4.2. Let x = 0.008 + 0.002. Let v = s - x. What is v rounded to zero decimal places?
+Answer:
+-2<|end_of_text|>"
+27,"Question:Develop a Python program that asks the user to enter a palabra y un número, si el número es mayor que el tamaño de la palabra lo imprime en la pantalla. El programa debe utilizar el método es impar o es par para comprobar el tamaño de la palabra y el método que imprima el número de caracteres que tiene la palabra. El programa debe mostrar en pantalla: Es un programa que muestra el número de caracteres de una palabra y el tamaño de la misma. El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar en pantalla: El programa debe mostrar"
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.2 - t. Let r = -0.029 - c. Round r to 2 dps.
+Answer:
+-0.02<|end_of_text|>"
+29,"Question:Write a C# code snippet to Calculate the total cost de una compra en una tienda. El precio de cada producto es de $ 20, el precio de envió es de $ 3 y el descuento de 10% en el total. Utiliza el método es decir: suma, para calcular el total de la compra.
+
+Solution:Write a C# code snippet to Calculate the total cost of a purchase in a store. The price of each product is $ 20, the price of shipping is $ 3 and the discount of 10% in the total. Use the method es decir: suma, to calculate the total of the purchase.
+
+``` 
+import java.util.*;
+public class Clase1 {
+    public static void main(String [] args){
+        //variables
+        var producto = new Producto(""Mascara"",20,3,0.9);
+        var envio = new Envio(10);
+        var descuento = new Descuento(0.1);
+        var total = new Total(0.1);
+        //escrevemos el método suma
+        var total = producto + envio + descuento;
+        //escrevemos el método es decir
+        var total = total.es decir("
+30,"Question:
+Let y = -0.009 - -0.041. Let s = y - 0.029. Let u = s - -0.001. What is u rounded to 2 decimal places?
+Answer:
+0.01<|end_of_text|>"
+31,"Question:
+Let m = -1.07 - -1.07. Let w = 0.03 + -0.03. Let a = w + m. Which is the nearest to 0?  (a) 2/3  (b) 0.1  (c) -1/3
+Answer:
+b<|end_of_text|>"
+32,"Question:
+Let t = 0.002 - -0.038. Let x = 0.035 + t. Let g = x + -0.048. What is g rounded to 3 decimal places?
+Answer:
+-0.003<|end_of_text|>"
+33,"def calculate_presupuesto(inventario):
+    """"""Calcula el presupuesto de un inventario de productos""""""
+
+    # Se crea una variable para guardar el precio total
+    total = 0
+
+    # Se recorre el inventario
+    for producto in inventario:
+        # Se calcula el precio del producto
+        precio = producto[""precio""]
+        # Se suma el precio al total
+        total += precio
+
+    return total
+<|end_of_text|>"
+34,"Question: Which of the following is the best therapy para la rehabilitación de la esclerosis múltiple?
+A. Valproato
+B. Diazepam
+C. Dexamidona
+D. Clonazepam
+Answer: A
+Explanation: La esclerosis múltiple es una enfermedad neurológica de esclerosis que afecta a múltiples órganos de manera simultánea. La esclerosis múltiple es una enfermedad neurológica de esclerosis que afecta a múltiples órganos de manera simultánea. La esclerosis múltiple es una enfermedad neurológica de esclerosis que afecta a múltiples órganos de manera simultánea. La esclerosis múltiple es una enfermedad neurológica de esclerosis que afecta a múltiples órganos de manera simultánea. La esclerosis múltiple es una enfermedad neurológica de esclerosis que afecta a múltiples órganos de manera simultánea. La esclerosis múltiple es una enfermedad neurológica de esclerosis que afecta a múltiples órganos de manera simultánea. La esclerosis múlt"
+35,"Question:
+What is prob of picking 2 e and 1 m when three letters picked without replacement from {m: 1, e: 1, o: 2, s: 1, n: 1}?
+Answer:
+1/60<|end_of_text|>"
+36,"Question:
+Let o = 0.004 + -0.004059. Let u = o + 0.019. Let w = u + -0.004. What is w rounded to 5 decimal places?
+Answer:
+-0.00001<|end_of_text|>"
+37,"# List of ruedas de fuego
+
+La lista de ruedas de fuego es una lista de ruedas de fuego que se ha ido elaborando desde la época romana, aunque no se sabe cuánta es la antigüedad de su existencia. En esta se incluyen las ruedas de fuego que se elaboraron en el siglo XVII, se encuentra una en el Museo del Prado de Madrid, y se ha podido ver en las colecciones de la Fundación Catedrática de Arte y Artes Graficas de Madrid.
+
+La rueda de fuego es un instrumento que se usa para crear rueda de fuego o ruedas de fuego en las que se escribe, dibuja o graba. El término se refiere a un instrumento que se hace con un metal, es decir, una rueda, que se utiliza para hacer un dibujo o esquema. La rueda de fuego se utiliza en el arte gráfico, en particular en el dibujo, para la creación de un dibujo o esquema que se puede hacer con un metal. 
+
+## Lista de ruedas"
+38,"Question:
+What is the common denominator of 3/10 and 89/10?
+Answer:
+10<|end_of_text|>"
+39,"Question:
+Let t = -0.028 + 0.088. Let x = -0.089 + t. Let y = 0.00002 + x. What is y rounded to 5 decimal places?
+Answer:
+0.00002<|end_of_text|>"
+40,"# 2002-2003 (álbum de Máquina de Fuegueros)
+
+2002-2003 es el quinto álbum de estudio de la banda de rock mexicano Máquina de Fuegueros. Es su primer álbum en ser grabado en formato CD y contiene 12 temas, además de dos canciones en vivo.
+
+## Lista de canciones
+
+Todas las canciones fueron escritas por Máquina de Fuegueros, excepto «Te miro» de José Antonio Vargas.
+
+### DVD
+
+* 2002-2003
+
+## Referencias
+
+1.  «Máquina de Fuegueros – 2002-2003». es.musica.cl. Consultado el 15 de febrero de 2011.
+2.  «Máquina de Fuegueros - 2002-2003». es.musica.cl. Consultado el 15 de febrero de 2011.
+
+## Enlaces externos
+
+* Máquina de Fuegueros - 2002-2003 (CD+DVD)<|end_of_text|>"
+41,"Question:
+Let a = -1.1 + 0.7. Let j = -1.2 + a. Let x = -0.2 - j. What is x rounded to 1 decimal place?
+Answer:
+-0.2<|end_of_text|>"
+42,"Question:
+Let l = 0.033 - 0.053. Let d = -0.3 + l. Let f = d - -0.0299992. Round f to 6 decimales.
+Answer:
+0.000001<|end_of_text|>"
+43,"Question:
+Let u = -0.037 + 0.035. Let w = u + -0.029. Let d = -0.036 - w. What is d rounded to 2 decimal places?
+Answer:
+-0.03<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + -2. Let p = 0.1 - o. Let y = 1.4 - p. What is y rounded to 1 decimal place?
+Answer:
+0.4<|end_of_text|>"
+45,"Question:
+Let x = 0.007 + 0.093. Let d = 0.15 + x. Let v = -0.1 - d. What is the closest to 0 in 0, v, 0.2?
+Answer:
+0.2<|end_of_text|>"
+46,"Question:Build a Java Class que representa a un car, cuyo nombre es ""Beto"" y que tiene un valor de peso de 65 kilos. El valor de esta clase es 100, y se puede utilizar para crear objetos de tipo Car.
+* La clase Car se crea dentro del archivo Car.java.
+* La clase Car se crea dentro del archivo Car.java.
+* Se crea un objeto de tipo Car que se llama Beto.
+* Se crea un objeto de tipo Car que se llama Beto.
+* Se crea un objeto de tipo Car que se llama Beto.
+* Se crea un objeto de tipo Car que se llama Beto.
+* Se crea un objeto de tipo Car que se llama Beto.
+* Se crea un objeto de tipo Car que se llama Beto.
+* Se crea un objeto de tipo Car que se llama Beto.
+* Se crea un objeto de tipo Car que se llama Beto.
+* Se crea un objeto de tipo Car que se llama Beto.
+* Se crea un objeto de tipo Car que se llama Beto.
+* Se crea un objeto de tipo Car que se llama Beto.
+* Se crea un objeto de tipo Car que se llama Beto.
+* Se crea un objeto de tipo Car que se llama"
+47,"# Generated by esfuerzo
+# 2019-10-17
+# 1. Crear una variable llamada 'lista' y le asignarle un valor.
+lista = [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+
+# 2. Imprimir por consola el primer elemento de la lista
+print(""El primer elemento de la lista es: "", lista[0])
+
+# 3. Imprimir por consola el último elemento de la lista
+print(""El último elemento de la lista es: "", lista[-1])
+
+# 4. Imprimir por consola el elemento que está en la posición 5
+print(""El elemento que está en la posición 5 es: "", lista[5])
+
+# 5. Imprimir por consola el elemento que está en la posición 6
+print(""El elemento que está en la posición 6 es: "", lista[6])
+
+# 6. Imprimir por consola el elemento que está en la posición 7
+print(""El elemento que está en la posición 7 es: "", lista[7])
+
+#"
+48,"Question:Build a Java Class que reciba un String como parametro y devuelva un string con la palabra ""Hola"" en mayúsculas y su longitud.
+<|end_of_text|>"
+49,"Question:Design un algoritmo que determine si un número es divisible entre 3 y 5. El programa debe mostrar un mensaje en pantalla el resultado. Si el número no es divisible, debe mostrar un mensaje que diga que el número no está en el rango.
+Se debe realizar el algoritmo utilizando la función de división entera.
+<|end_of_text|>"
+50,"Question:
+Let g = 0.0124 - -0.0117. Let h = g + -0.01. Let o = h + -0.029. What is o rounded to two dps?
+Answer:
+-0.03<|end_of_text|>"
+51,"Question:
+Let w = 0.002 + -0.003. Let j = -0.004 - w. Let n = -0.2 + 0.2. Which is the closest to j?  (a) n  (b) -2/5  (c) 2
+Answer:
+b<|end_of_text|>"
+52,"def create_tuple_conjunto(lista):
+    """"""
+    Funcion que crea un tuple de la lista y se le suma el valor de 5 a todos los elementos de la lista.
+    """"""
+    return (lista[0], lista[1], lista[2], lista[3], lista[4], 5)
+
+print(""El resultado es: "", create_tuple_conjunto(lista))
+
+<|end_of_text|>"
+53,"Question:
+What is prob of picking 1 j and 1 y when two letters picked without replacement from yjyjy?
+Answer:
+1/3<|end_of_text|>"
+54,"Question:Develop a Python program que pida al usuario que ingrese su nombre y su edad, y muestre por consola que es su cumpleaños, y cuántos años tiene. Si es menor de 18 años, no debe poder votar, si es mayor, debe poder votar pero solo si cumple 18 años. En el caso de que el usuario no cumple 18 años, debe mostrar un mensaje de ""no puede votar"". El programa debe contener una función que pida el nombre y edad al usuario, y otra que muestre su cumpleaños y cuántos años tiene. Además, debe mostrar un mensaje que indique que el usuario no puede votar si es menor de 18 años.<|end_of_text|>"
+55,"def count_cultivos(cultivo):
+    """"""Dame el número de cultivos que hay en la zona de la ciudad de Lima, se puede ingresar el nombre del cultivo y se le solicita contar el número de cultivos que hay en la zona de la ciudad de Lima, se puede ingresar el nombre del cultivo y se le solicita contar el número de cultivos que hay en la zona de la ciudad de Lima, se puede ingresar el nombre del cultivo y se le solicita contar el número de cultivos que hay en la zona de la ciudad de Lima, se puede ingresar el nombre del cultivo y se le solicita contar el número de cultivos que hay en la zona de la ciudad de Lima, se puede ingresar el nombre del cultivo y se le solicita contar el número de cultivos que hay en la zona de la ciudad de Lima, se puede ingresar el nombre del cultivo y se le solicita contar el número de cultivos que hay en la zona de la ciudad de Lima, se puede ingresar el nombre del cultivo y se le solicita contar el número de cultivos que hay en la zona de la ciudad de Lima, se puede ingresar el nombre del cultivo y se le solicita contar el número de"
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>"
+57,"Question:
+Let w = -0.006 + 0.015. Let t = -0.035 + w. Let y = t + 0.000000003. What is y rounded to seven dps?
+Answer:
+0.000000<|end_of_text|>"
+58,"def nested_loops_conjugos(num_filas, num_columnas):
+    """"""
+    Se requiere un programa que muestre un mapa de n filas y m columnas, con los números 1 a n2, en los que se escribe el nombre de un jugador, y en los que se escribe el número de puntos que ha obtenido en cada uno de los partidos jugados.
+    """"""
+    for fila in range(num_filas):
+        for columna in range(num_columnas):
+            print(f""Es el jugador {escribeNombre(fila, columna)} y ha obtenido {escribePuntos(fila, columna)} puntos en el partido"")
+    return
+<|end_of_text|>"
+59,"Question:
+What is the common denominator of 23/2 and 57/25?
+Answer:
+50<|end_of_text|>"
+60,"Question:
+Let h = -0.046 + 0.046. Let o = -0.7 + 0.5. Let f = h + o. Which is the nearest to f?  (a) -0.1  (b) 0.3  (c) 0.2
+Answer:
+c<|end_of_text|>"
+61,"Question:
+Let l = -7.7 - -7.7. Let p = -0.3 + l. Let x = -0.2 - p. What is x rounded to 1 decimal place?
+Answer:
+-0.2<|end_of_text|>"
+62,"Question:
+Let g = -0.004 - -0.005. Let a = -0.014 - g. Let z = 0.014 + a. Round z to zero decimal places.
+Answer:
+0<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.02702. Let r = o - -0.0372. Let a = r + 0.037. Round a to 3 dps.
+Answer:
+0.003<|end_of_text|>"
+64,"Question:
+Let q = -0.045 + 0.045006. What is q rounded to 5 dps?
+Answer:
+0.00006<|end_of_text|>"
+65,"Question:
+Let h = -0.046 - -0.057. Let p = 0.017 + h. Let j = -0.019 - p. What is j rounded to 2 dps?
+Answer:
+-0.02<|end_of_text|>"
+66,"Question:Create a Python script que imprima la suma de todos los números pares entre 10 y 20, se debe utilizar un bucle for y se debe sumar los números que se encuentra en el array. El escribe en la consola.
+
+Solution:Create a python script that prints the sum of all the pares numbers between 10 and 20, we should use a for loop and we should sum the numbers that se find in the array. The writes in the console.
+
+```python
+# Escriba un programa que suma los números pares entre 10 y 20
+# Utilice un bucle for
+# Utilice un array
+
+var1 = [10, 20, 3, 5, 8, 4]
+var2 = [2, 4, 6, 8, 10, 12]
+
+# Escriba un programa que suma los números pares entre 10 y 20
+# Utilice un bucle for
+# Utilice un array
+
+var1 = [10, 20, 3, 5, 8, 4]
+var2 = [2, 4, 6, 8, 10, 12]
+
+for i"
+67,"Question:Create a Python script que se encarga de calcular el área de un polígono dado sus coordenadas, el cual deberá ser capaz de calcular el área de un cuadrado, un rectángulo, un círculo y un trángulo. Crea una función que reciba el polígono y que la devuelve, debe ser capaz de calcular el área de cada uno de ellos y debe ser capaz de ser utilizada por un programa principal, el que reciba un polígono y se encarga de mostrar el área de cada uno de ellos. La función debe ser llamada de la siguiente forma: area = areaPolígono() y debe ser llamada desde el programa principal.
+
+## Polígono rectángulo
+
+* Este es el polígono rectángulo, cuyo área es:
+```
+def areaRectangulo(self):
+    return self.a * self.b
+```
+## Polígono cuadrado
+
+* Este es el polígono cuadrado, cuyo área es:
+```
+def areaCuadrado(self):
+    return self.a * self.a
+```
+## Polígono circunferencia
+
+* Este es el polígono circunferencia"
+68,"Question:
+What is 3/10 of a tonne en peso en un camión de 1000 kilos?
+Answer:
+400<|end_of_text|>"
+69,"Question:
+Let d = -0.0461 + 0.046095. Round d to 3 decimales.
+Answer:
+0.004<|end_of_text|>"
+70,"Question: Which of the following is the best marker para evaluar la estabilidad de la circulación pulmonar?
+A. SEDEN
+B. PULMON
+C. EPI
+D. FUE
+Answer: A<|end_of_text|>"
+71,"Question:
+Let l = 0.021 - 0.052. Let r = -0.003 - l. Let g = 0.4 - r. What is g rounded to 1 dp?
+Answer:
+0.2<|end_of_text|>"
+72,"Question:
+Let m = 0.012 + 0.078. Let d = 0.02 + m. Let z = d + 0.000000006. What is z rounded to 7 decimales?
+Answer:
+0.000000<|end_of_text|>"
+73,"def calculate_promedio(medidos):
+    """"""Calcula el promedio de la serie de mediciones
+    y devuelve el promedio de las mediciones""""""
+    promedio = 0
+    for medido in medidos:
+        promedio += medido
+    return promedio / len(medidos)
+
+# Se le puede dar un valor a la variable
+# que se va a utilizar en la función
+
+medidos = [2, 5, 7, 9, 10]
+
+# Se puede modificar el valor de la variable
+# que se va a utilizar en la función
+
+medidos[0] = 2
+
+# Se puede modificar el valor de la variable
+# que se va a utilizar en la función
+
+medidos[1] = 5
+
+# Se puede modificar el valor de la variable
+# que se va a utilizar en la función
+
+medidos[2] = 7
+
+# Se puede modificar el valor de la variable
+# que se va a utilizar en la función
+
+medidos[3] = 9
+
+# Se puede modificar el valor de la variable
+# que se va a utilizar en la función
+
+medidos[4] = 10
+
+# Se puede modificar el valor de"
+74,Question:Develop a Ruby program que es que es la fecha del 1 de enero de 2002. El año 2002 se divide en dos partes: la anterior y la posterior. En la anterior se divide en dos partes: la anterior y la posterior. En la anterior se divide en dos partes: la anterior y la posterior. En la anterior se divide en dos partes: la anterior y la posterior. En la anterior se divide en dos partes: la anterior y la posterior. En la anterior se divide en dos partes: la anterior y la posterior. En la anterior se divide en dos partes: la anterior y la posterior. En la anterior se divide en dos partes: la anterior y la posterior. En la anterior se divide en dos partes: la anterior y la posterior. En la anterior se divide en dos partes: la anterior y la posterior. En la anterior se divide en dos partes: la anterior y la posterior. En la anterior se divide en dos partes: la anterior y la posterior. En la anterior se divide en dos partes: la anterior y la posterior. En la anterior se divide en dos partes: la anterior y la posterior. En la anterior se divide en dos partes: la anterior y la posterior. En la anterior se divide en
+75,"Question:Create a C# script que determine si el usuario esta usando una computadora con la marca Microsoft y que es más barato que el producto es la computadora de Apple.
+Si el usuario es un usuario de Microsoft, se puede comprar la computadora de Apple más barato que el producto de Microsoft. Por lo tanto, el usuario tiene que comprar la computadora más barata de Apple.
+Si el usuario no es un usuario de Microsoft, se puede comprar la computadora de Microsoft más barata que el producto de Apple. Por lo tanto, el usuario tiene que comprar la computadora más barata de Microsoft.
+En ambos casos, el usuario tiene que comprar la computadora más barata de la marca Microsoft o Apple.
+<|end_of_text|>"
+76,"Question:
+Let y = 10.5 - 7. Let o = -2.2 + y. Let d = -0.1 + o. What is the smallest value in 0.2, d, 0.3?
+Answer:
+d<|end_of_text|>"
+77,"def create_tuple_3(a, b, c):
+    """"""Este es un ejercicio de la clase 2, en el que se crea un tuple con los datos ingresados por el usuario.
+    El usuario debe ingresar 3 valores, un número entero, un número decimal y un texto.
+    El programa debe mostrar un mensaje en pantalla con el valor del número entero, el número decimal y el texto.
+    El programa debe mostrar el mensaje en pantalla de la siguiente forma:
+    ""El número entero es 2, el número decimal es 3.5 y el texto es: 'Hola mundo'""
+
+    """"""
+    #Aqui va el código que se debe escribir
+    #Es una función que se debe llamar y que recibe como parámetro el valor que se le va a dar a la función.
+    #En este caso el valor que se le va a dar es el número entero 2.
+    def crear_tuple_3(a, b, c):
+        #Se crea un objeto de tipo tuple con los datos ingresados.
+        return a + b + c
+
+    #El programa debe mostrar un mensaje en pantalla con el valor del número entero, el número decimal y el texto.
+    print(""El"
+78,"Question: Which of the following is the most common cause de esclerosis espacial?
+A. Esclerosis cerebral
+B. Esclerosis espacial
+C. Esclerosis vascular
+D. Esclerosis esquelética
+Answer: B
+Explanation: La esclerosis espacial es la que se produce cuando se produce una enfermedad en una esfera o esferas del sistema nervioso central (sNC) y es la que ocurre con mayor frecuencia. La esclerosis cerebral se produce cuando se produce una enfermedad en el sistema nervioso central, por ejemplo, esquizofrenia, esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizofrenia esquizof"
+79,"Question:
+Let x = 0.023 - 0.033. Let f = 0.03 - x. Let u = -0.1 + f. What is u rounded to zero decimal places?
+Answer:
+-1<|end_of_text|>"
+80,"Question:
+What is the next term in 12, 24, 36, 48, 60, 72?
+Answer:
+84<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.7. Let x = 0.2 - o. Let p = x - -0.4. Which is the third smallest value?  (a) -3  (b) p  (c) 1/3
+Answer:
+c<|end_of_text|>"
+82,"Question:
+Let u = -0.009 - 0.091. Let v = u + 0.09. Let q = -0.026 + v. Round q to 1 decimal place.
+Answer:
+-0.2<|end_of_text|>"
+83,"Question:
+Let w = 0.017 - 0.018. Let h = 0.03 + w. Let c = 0.03 + h. Which is the nearest to 2/3?  (a) -1  (b) c  (c) -2
+Answer:
+b<|end_of_text|>"
+84,"def update_medidas(medidas, valor):
+    """"""Función que se encarga de actualizar las medidas de un paciente
+    en base a un valor ingresado por el usuario.
+    """"""
+    for medida in medidas:
+        if medida[""medida""] == valor:
+            medida[""valor""] = valor
+            print(""Se ha actualizado la medida"")
+        else:
+            print(""No se ha actualizado la medida"")
+<|end_of_text|>"
+85,"def modify_ingredient(ingredient, nueva_ingredient, cantidad):
+    """"""Modifica un ingrediente y lo sume o resta en una variable
+
+    Args:
+        ingredient (str): Nombre del ingrediente
+        nueva_ingredient (str): Nombre del ingrediente que se quiere sumar o restar
+        cantidad (int): Cantidad de ingrediente a sumar o restar
+
+    Retorna:
+        (bool): Si se ha modificado el ingrediente o no
+    """"""
+    if ingredient == nueva_ingredient:
+        return True
+    else:
+        return False
+<|end_of_text|>"
+86,"Question:Build a Java Class que se conecte a un archivo JSON y que reciba los datos de un archivo CSV y lo muestre en un jtable.
+Answer: 
+```java
+import java.io.*;
+import java.util.*;
+import javax.swing.*;
+
+public class Modelo {
+    private String nombre;
+    private int id;
+    private String fecha;
+    private String direccion;
+    private String correo;
+    private String telefono;
+    private String email;
+    private String comentario;
+    private String tipo;
+    private String descripcion;
+    private String imagen;
+    private String fechaRegistro;
+    private String fechaModificacion;
+    private String nombreImagen;
+    private String fechaModificacion;
+    private String imagen;
+    private String fechaModificacion;
+    private String fechaModificacion;
+    private String nombreImagen;
+    private String fechaModificacion;
+    private String fechaModificacion;
+    private String fechaModificacion;
+    private String fechaModificacion;
+    private String fechaModificacion;
+    private String fechaModificacion;
+    private String fechaModificacion;
+    private String fechaModificacion;
+    private String fechaModificacion;
+    private String fechaModificacion;
+    private String fechaModificacion;
+    private String fechaModificacion;
+    private String fechaModificacion;
+    private String"
+87,"Question:Create a Ruby script que se ejecuta al iniciar el sistema operativo que pida la fecha actual, y en el caso de que sea domingo, se imprima en pantalla la frase ""Domingo, es el día de..."". Utiliza un bucle for, y una condición que se cumple para que se imprima en pantalla la frase ""Domingo, es el día de..."".<|end_of_text|>"
+88,"Question:
+Let w = 0.1 - -0.2. Let s = -0.1 + w. Let m = -0.003 + s. What is m rounded to 3 decimal places?
+Answer:
+-0.003<|end_of_text|>"
+89,"Question:
+Let n = -0.031 - 0.005. Let m = 0.034 - n. Let d = 0.031 + m. What is d rounded to two dps?
+Answer:
+0.03<|end_of_text|>"
+90,"def add_frase(frase, palabra):
+    frase += palabra
+    return frase
+
+def cambiar_letra(frase, palabra, posicion):
+    frase = frase.replace(frase[0], frase[0].upper(), 1)
+    return frase
+
+def eliminar_palabra(frase, palabra):
+    frase = frase.replace(frase[0], """")
+    return frase
+
+def eliminar_cadena(frase, posicion):
+    frase = frase.replace(frase[0], """", 1)
+    return frase<|end_of_text|>"
+91,"Question:
+What is the remainder when 103 is divided by 29?
+Answer:
+20<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 2. Let g = 0.3 + p. Let h = 0.2 + g. What is the smallest value in -2, h, 3?
+Answer:
+-2<|end_of_text|>"
+93,"Question:
+Let j = 0.001 - -0.001. Let l = 0.003 + j. Let f = -0.003 + l. Which is the closest to 1?  (a) f  (b) 2/7  (c) -0.2
+Answer:
+b<|end_of_text|>"
+94,"Question:Build a Ruby library que se puede usar para el seguimiento de las ventas y hacer que el sistema no se cae por falta de fondos.
+<|end_of_text|>"
+95,"Question:
+Let o = 0.2 + 1.2. Let w = o - 1. Let t = w + 0.2. What is the nearest to t in -1, 3, -4?
+Answer:
+-1<|end_of_text|>"
+96,"# 2004 en el fútbol argentino
+
+2004 fue un año que marcaría las dos décadas de la era del fútbol argentino que se inició en 1982, y que se desarrolló en el contexto de la Revolución Libertadora y la Revolución de las Juventudes Peronistas, que dio inicio con el golpe de Estado que dio fin a la dictadura militar que había asumido el fútbol en Argentina a partir de la Revolución de Mayo.
+
+## Lucha contra la dictadura militar
+
+### El golpe de Estado del 19 de julio de 1982
+
+El golpe de Estado del 19 de julio de 1982, se dio a partir de un golpe de Estado en el que las fuerzas de la dictadura militar, al mando de el General de División de Infantería Alberto Francisco Lazo, se enfrentaron al Comité Revolucionario de Juventes del Partido Comunista de Argentina (PC), dirigido por el Dr. Juan Carlos Mieres. En el encuentro se enfrentaron el General de División Alberto Lazo, con el Comandante de la Juventud"
+97,"Question:
+Let c = 0.5 - -0.3. Let u = c + -0.4. Let v = 0.5 - u. Which is the closest to v?  (a) -1  (b) 0.3  (c) 3
+Answer:
+b<|end_of_text|>"
+98,"Question:Develop a Java program que reciba un string de entrada y nos lo convierta en una cadena de numeros enteros, y nos lo convierta en una lista de numeros enteros. El programa debe mostrar por pantalla los numeros que se encuentran en la lista.
+
+Solution: 
+
+```java
+public class Ejercicio_02 {
+    public static void main(String[] args) {
+        String entrada = ""cada es un numero"";
+        int[] numeros = new int[5];
+        
+        //Se crea un array con 5 numeros enteros
+        for (int i = 0; i < 5; i++) {
+            numeros[i] = Integer.parseInt(entrada);
+        }
+        
+        //Se muestra el arreglo
+        System.out.println(""Los numeros son: "");
+        for (int i = 0; i < 5; i++) {
+            System.out.println(numeros[i]);
+        }
+    }
+}
+```
+
+<|end_of_text|>"
+99,"def psychologist_exercise(person):
+    """"""
+    Escriba un programa que determine si un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un"

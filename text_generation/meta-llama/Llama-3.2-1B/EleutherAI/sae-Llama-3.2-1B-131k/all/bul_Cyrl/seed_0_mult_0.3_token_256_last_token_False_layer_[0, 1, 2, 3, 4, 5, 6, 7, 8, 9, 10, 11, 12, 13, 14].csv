@@ -1,0 +1,717 @@
+seed,generated_text
+0,"Question:Write a Python code snippet to Display Low Weather conditions for City: Delhi for Dec 2018. The code should be able to display the temperature, humidity, and weather condition. The program should also have the ability to display the weather condition for multiple cities, but only in case the city is not in the database.
+
+Solution:Here's some sample code for displaying low weather conditions for city: Delhi for Dec 2018:
+
+    # Importing program library
+    import numpy as np
+    import numpy.linalg
+    import numpy.linalg
+    import numpy.mat
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.linalg
+    import numpy.linalg
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.matlib
+    import numpy.mat"
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 + d. Let b = s - -0.01. What is b rounded to 2 dps?
+Answer:
+0.01<|end_of_text|>"
+2,"Question:
+Let q = -3.4 - -3. Let g = q + 0.1. Let j = g + -0.2. Which is the closest to 0?  (a) j  (b) 3  (c) -3
+Answer:
+a<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.98. Let k = -0.04 + g. Let v = -0.06 + k. Which is the closest to 0.1?  (a) -0.4  (b) v  (c) 2/9
+Answer:
+c<|end_of_text|>"
+4,"Question:
+Let v = 0.02 - -0.02. Let t = 0.2 + v. Let o = t + -0.3. Which is the nearest to 2/3?  (a) -1  (b) o  (c) -1/4
+Answer:
+b<|end_of_text|>"
+5,"Question:
+Let o = 0.09 - 0.09. Let g = 0.04 - o. Let b = 0.01 + g. Which is the closest to 0?  (a) 0.2  (b) 0.1  (c) 1/2
+Answer:
+b<|end_of_text|>"
+6,"def calculate_bmi(height, weight):
+    """"""
+    Calculate the Body Mass Index (BMI) for a person from their height and weight.
+
+    BMI = weight / (height * height)
+    """"""
+    bmi = weight / (height * height)
+    return bmi
+<|end_of_text|>"
+7,"# 2.3.3.3.1 - 2.3.3.3.3
+
+The following examples demonstrate the use of the functions of the module 2.3.3.3.1 for the creation of the following graphs:
+
+1. A graphic displaying the x-coordinate of the points of the curve 1 + x^2 + 2x
+2. A graphic displaying the y-coordinate of the points of the curve 1 + x^2 + 2x
+3. A graphic displaying the x-coordinate of the points of the curve 1 + x^2 + 2x
+4. A graphic displaying the y-coordinate of the points of the curve 1 + x^2 + 2x
+5. A graphic displaying the x-coordinate of the points of the curve 1 + x^2 + 2x
+6. A graphic displaying the y-coordinate of the points of the curve 1 + x^2 + 2x
+7. A graphic displaying the x-coordinate of the points of the curve 1 + x^2 + 2x
+8. A graphic displaying the y-coordinate of the points of the curve 1 + x^2 + 2x
+9. A"
+8,"Question:
+Let o = 0.03 + -0.03. Let t = o - 0.2. Let p = -0.1 + t. What is p rounded to one decimal place?
+Answer:
+0.3<|end_of_text|>"
+9,"Question:
+Let x = -0.2 - -0.1. Let p = 0.7 - x. Let l = p - 0.1. Which is the nearest to l?  (a) 2  (b) 1/3  (c) 0.1
+Answer:
+b<|end_of_text|>"
+10,"Question:Create a C++ program to convert the temperature from Fahrenheit to Kelvin, and from Kelvin to Fahrenheit.
+#1. Importing the class Temperature, which has the following methods:
+float temperature = 1.2 * 1.2 * 1.5 * 1.8 * 1.8 * 1.8; // 1.2 C
+float temperature = 1.1 * 1.1 * 1.1 * 1.1 * 1.1 * 1.1; // 1.1 C
+float temperature = 1.2 * 1.2 * 1.5 * 1.8 * 1.8 * 1.8; // 1.2 C
+float temperature = 1.1 * 1.1 * 1.1 * 1.1 * 1.1 * 1.1; // 1.1 C
+float temperature = 1.2 * 1.2 * 1.5 * 1.8 * 1.8 * 1.8; // 1.2 C
+float temperature = 1.1 * 1.1 * 1.1 * "
+11,"Question:Design a C# script to calculate the average of three numbers and display the result on the console.
+# A program to calculate the average of 3 numbers and display the result on the console.
+// Calculate the average of 3 numbers.
+// Display the result on the console.
+// Calculate the average of 3 numbers.
+// Display the result on the console.
+// Calculate the average of 3 numbers.
+// Display the result on the console.
+// Calculate the average of 3 numbers.
+// Display the result on the console.<|end_of_text|>"
+12,"Question:
+Let r = 0.011 + -0.011000002. What is r rounded to 7 decimal places?
+Answer:
+-0.000000003<|end_of_text|>"
+13,"def calculate_area(rooms):
+    """"""
+    Calculate the area of all the rooms in a house.
+
+    The input is a list of tuples, where each tuple contains the length and width of a room.
+    The output should be a list of tuples, where each tuple contains the area of each room.
+    """"""
+
+    # Write your code here
+    return list(map(lambda r: r[0] * r[1], rooms))
+<|end_of_text|>"
+14,"Question:Design a C++ class named SampleClass, which contains the following variables: int x, int y, int z, int a, int b, int c, int d, int e, int f, int g, int h, int i, int j, int k, int l, int m, int n, int o, int p, int q, int r, int s, int t, int u, int v, int w, int x, int y, int z, int a, int b, int c, int d, int e, int f, int g, int h, int i, int j, int k, int l, int m, int n, int o, int p, int q, int r, int s, int t, int u, int v, int w, int x, int y, int z, int a, int b, int c, int d, int e, int f, int g, int h, int i, int j, int k, int l, int m, int n, int o, int p, int q, int r, int s, int t, int u, int v, int w, int x, int y"
+15,"Question:
+Let y = -0.01 + 0.01. Let f = -0.06 - -0.06. What is the closest to -0.1 in f, y, 0.4?
+Answer:
+f<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.04. Let y = 0.01 + j. Let l = -0.2 - y. What is l rounded to 1 decimal place?
+Answer:
+0.3<|end_of_text|>"
+17,"Question:
+Let t = 0.03 - 0.04. Let h = 0.003 + 0.003. Let k = h + t. What is k rounded to 1 decimal place?
+Answer:
+0.3<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3.8. Let o = -0.04 + 0.04. Which is the closest to 0?  (a) o  (b) y  (c) -2/3
+Answer:
+b<|end_of_text|>"
+19,"Question:Build a Java program to convert the following string to an integer:
+
+String input = ""123.45 6.8 8.3 1.0 3.6 1.7 2.1 1.9 1.2 0.9 1.4 1.1 1.7 1.9 1.1 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0.9 0"
+20,"Question:Build a C++ program to create a new folder on the host machine, and then copy all the files from a remote machine.
+#1. Create a new directory on the host machine:
+#2. Download the source code from https://github.com/thenadkoto/ssh-commands and save it in a new directory.
+#3. Create a new file in the.ftp directory and save it with the same name as the remote file.
+#4. Download the source code from https://github.com/thenadkoto/ftp-client and save it in a new directory.
+#5. Create a new file in the.ftp directory and save it with the same name as the remote file.
+#6. Download the source code from https://github.com/thenadkoto/ftp-client and save it in a new directory.
+#7. Create a new file in the.ftp directory and save it with the same name as the remote file.
+#8. Download the source code from https://github.com/thenadkoto/ssh-commands and save it in a new directory.
+#9. Create a new file in the.ftp directory and save it with the same name as the remote file.
+#10. Download the source"
+21,"Question:
+Let g = -0.1 + 0.3. Let y = 1.1 + g. Let k = 0.3 + y. Which is the closest to 0.1?  (a) -0.3  (b) 0.1  (c) k
+Answer:
+b<|end_of_text|>"
+22,"Question: Which of the following is a risk factor for development of thrombocytopenic crisis in case of HCT?
+A. Age >60 years
+B. ABO blood group
+C. Erythromycin therapy
+D. Preexisting autoimmune disease
+Answer: A<|end_of_text|>"
+23,"Question: Which of the following is not a feature of atherosclerotic occlusion of the aorta?
+A. High flow
+B. Low resistance
+C. High pressure
+D. Low flow
+Answer: D<|end_of_text|>"
+24,"Question:Write a C++ program to convert a string to an integer and then to a float, without using the built-in functions float() and int(). Implement the function in the following way:
+```
+int main(){
+    string n = ""3.1416"";
+    int x = n[0], y = n[2], z = n[4];
+    float r = 2 * x * y;
+    return 0;
+}
+```
+Solution:Here is a solution:
+```
+int main(){
+    string n = ""3.1416"";
+    int x = n[0], y = n[2], z = n[4];
+    float r = 2 * x * y;
+    return 0;
+}
+```<|end_of_text|>"
+25,"# Hargrave
+
+Hargrave or Hargrath (Bulgarian: Харгаре) is a village in Kavarna Province, Bulgaria. It is part of the town of Kavarna.
+
+## Geography
+
+Hargrave is located in the southern part of the Rupari ridge, on the right bank of the Rupari River, at 24 km east of Kavora. It is the only village in the Rupari region and is surrounded by the Rupari mountain range, on the east side. The highest peak in the area is the 1,020 m high Mount Rupari. The nearest town is Kavat, 10 km to the south. The nearest city is Varna, 60 km to the north.
+
+## History
+
+The first mention of the village Hargrave was in 1932. The village was originally known as Hargrath. The village was first mentioned in the 1898 Gazetteer of the Bulgarian state, but it was not mentioned in the 1991 Gazetteer.
+
+The name Hargrave (Hargrath) is a derivation of the name of the village Hargrav, which was originally Hargravetski,"
+26,"Question:
+Let s = -4.25 + 0.25. Let x = 0.8 + s. Let p = x + 0.01. What is p rounded to one dp?
+Answer:
+0.6<|end_of_text|>"
+27,"Question:Develop a Python program to convert a set of strings to a set of integers, using the following mapping:
+1. 0 = 0.0001
+2. 1 = 0.0001
+3. 2 = 0.0001
+4. 3 = 0.0001
+5. 4 = 0.0001
+6. 5 = 0.0001
+7. 6 = 0.0001
+8. 7 = 0.0001
+9. 8 = 0.0001
+10. 9 = 0.0001
+11. 10 = 0.0001
+12. 11 = 0.0001
+13. 12 = 0.0001
+14. 13 = 0.0001
+15. 14 = 0.0001
+16. 15 = 0.0001
+17. 16 = 0.0001
+18. 17 = 0.0001
+19. 18 = 0.0001
+20. 19 = 0.0001
+21. 20 = 0.0001
+22."
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.2 - t. Let r = -0.3 - c. What is r rounded to 1 decimal place?
+Answer:
+-0.3<|end_of_text|>"
+29,"Question:Write a Bash code snippet to Update the Status of all the Servers in a Group on the Online Platform. All Servers in the Group are in the 1st Host Cluster. All Servers in the Group are in the 2nd Host Cluster. All Servers in the Group are in the 3rd Host Cluster. All Servers in the Group are in the 4th Host Cluster. All Servers in the Group are in the 5th Host Cluster. All Servers in the Group are in the 6th Host Cluster. All Servers in the Group are in the 7th Host Cluster. All Servers in the Group are in the 8th Host Cluster. All Servers in the Group are in the 9th Host Cluster. All Servers in the Group are in the 10th Host Cluster.
+The problem is to update the status of all servers in a group to active. The servers in the group are in 1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 9th, 10th, 11th, 12th, 13th, 14th, 15th, 16th, 17th, 18"
+30,"Question:
+Let y = -0.02 - -0.18. Let s = y - 0.01. Let q = s - -0.00192. What is q rounded to 4 decimal places?
+Answer:
+0.0019<|end_of_text|>"
+31,"Question:
+Let m = -1.07 + 1.07. Let d = 0.03 + -0.03. Let h = d + m. Which is the nearest to 0?  (a) 2/3  (b) 0.1  (c) h
+Answer:
+b<|end_of_text|>"
+32,"Question:
+Let t = 0.002 - -0.003. Let x = 0.002 + t. Let g = x + -0.0015. What is g rounded to 2 dps?
+Answer:
+-0.001<|end_of_text|>"
+33,"def calculate_consecutive_brightnights(temperature_data):
+    """"""
+    Calculate the number of consecutive brightnights in the given temperature data.
+    """"""
+    brightnights = 0
+    for temperature in temperature_data:
+        if temperature < 0:
+            brightnights += 1
+        else:
+            brightnights += 2
+    return brightnights
+<|end_of_text|>"
+34,"Question: Which of the following is not a feature of anorectal amputee?
+A. Postoperative pain
+B. Postoperative pain relief
+C. Prolonged bleeding
+D. Prolonged pain relief
+Answer: B<|end_of_text|>"
+35,"Question:
+What is prob of picking 2 e and 1 m when three letters picked without replacement from {b: 1, e: 2, m: 2, s: 1, j: 1}?
+Answer:
+1/21<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -0.6. Let r = o + 0.6. Let s = -0.03 - -0.03. Which is the nearest to s?  (a) r  (b) -0.4  (c) 0.3
+Answer:
+c<|end_of_text|>"
+37,"# 4.2.1.1: A short history of the A+G model
+
+The A+G model is the first mathematical model for the gas phase and the liquid phase. The A+G model is a mathematical model that is based on the following assumptions:
+
+1. The gas phase is at equilibrium.
+2. The gas phase is in thermodynamic equilibrium.
+3. The gas phase is in dynamic equilibrium.
+4. The gas phase is in thermal equilibrium.
+5. The gas phase is in phase space.
+6. The gas phase is in thermodynamic space.
+7. The gas phase is in phase space.
+8. The gas phase is in thermodynamic space.
+9. The gas phase is in phase space.
+10. The gas phase is in thermodynamic space.
+
+The A+G model is based on the following assumptions:
+
+1. The gas phase is at equilibrium.
+2. The gas phase is in thermodynamic equilibrium.
+3. The gas phase is in dynamic equilibrium.
+4. The gas phase is in thermal equilibrium.
+5. The gas phase is in phase space.
+6. The gas phase is in thermodynamic space.
+7. The gas phase is in phase space.
+8. The gas phase is in thermodynamic space.
+9. The"
+38,"Question:
+What is prob of picking 1 t and 2 p when three letters picked without replacement from {b: 1, r: 1, t: 1, p: 1, e: 2}?
+Answer:
+0<|end_of_text|>"
+39,"Question:
+Let t = -0.06 + 0.01. Let x = t - -0.05. Let r = 0.04 + x. What is r rounded to one dp?
+Answer:
+0.4<|end_of_text|>"
+40,"# 2002-09-14 20:03:00 (UTC) - 2002-09-14 20:03:53 (UTC) (96.55 KB)
+...The following is the list of the 4 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000"
+41,"Question:
+Let a = -1.1 + 0.1. Let q = -1.2 - a. Let x = 0.2 - q. What is x rounded to 1 decimal place?
+Answer:
+0.4<|end_of_text|>"
+42,"Question:
+Let l = 0.01 - 0.01. Let s = -0.3 + 0.3. Which is the nearest to s?  (a) 1/3  (b) l  (c) -1/4
+Answer:
+b<|end_of_text|>"
+43,"Question:
+Let k = -0.0376 - -0.0337. What is k rounded to two dps?
+Answer:
+-0.04<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + -0.1. Let x = o + -1.5. Let n = x + 0.7. Which is the second biggest value?  (a) -4  (b) n  (c) -2/3
+Answer:
+c<|end_of_text|>"
+45,"Question:
+Let x = 0.02 + 0.02. Let d = 0.3 + x. Let v = -0.3 - d. What is the closest to 2/3 in 2/11, v, -2?
+Answer:
+2/11<|end_of_text|>"
+46,"Question:Build a Java program to convert a 2D grid of 1s and 0s, where 1s are present in a spiral pattern (bottom-left corner is 1D), such that all elements are transformed into 1s.
+#1D: 1D grid of 1s and 0s, where 1s are present in a spiral pattern (bottom-left corner is 1D).
+#2D: 2D grid of 1s and 0s, where 1s are present in a spiral pattern (bottom-left corner is 1D).
+#3D: 3D grid of 1s and 0s, where 1s are present in a spiral pattern (bottom-left corner is 1D).
+#4D: 4D grid of 1s and 0s, where 1s are present in a spiral pattern (bottom-left corner is 1D).
+#5D: 5D grid of 1s and 0s, where 1s are present in a spiral pattern (bottom-left corner is 1D).
+#6D: 6D grid of 1s and 0s, where 1s are present in"
+47,"# A 2D model for the distribution of soil moisture in the Earth's crust
+
+### Abstract
+
+The soil moisture distribution in the Earth’s crust is studied in the frame of the 2D model. The 2D model is based on the soil moisture content, x, and the soil moisture gradient, �x, and it is developed in two stages. The first stage is the construction of the initial data for the 2D model, and the second stage is the solution of the 2D model for the time-dependent boundary conditions. The initial data for the 2D model are calculated by the method of subdomain decomposition. The subdomain decomposition of the soil moisture is done in two steps. First, the soil moisture is divided into two subdomains: the subdomain 1 and the subdomain 2. The soil moisture in the subdomain 1 is divided into two subdomains, subdomain 1a and subdomain 1b, and the soil moisture in the subdomain 2 is divided into two subdomains, subdomain 2a and subdomain 2b. The soil moisture in the subdomain 1a is then divided into two subdomains, subdomain 1a1 and subdomain 1a2"
+48,"Question: Which of the following is not a feature of the disease in the given case?
+A. Microcapillary dilatation
+B. Microangiopathy
+C. Erythematotelangiectasias
+D. Microvascular thrombocytopenia
+Answer: D<|end_of_text|>"
+49,"Question:Design a Java program to convert a string to a set of integers and then convert the set of integers to a string. The program must be able to handle a wide range of input data, and must not require any pre-installed libraries or modules.
+Solution:Here is a sample program that implements the required functionality:
+
+   import java.util.*;
+import java.util.stream.*; //streaming library
+import javadbg.jsvm; //debugging language debugger
+
+class Program
+{
+    public static void main(String[] a)
+    {
+        //convert string to set of integers
+        Set<int> s = new HashSet<int>();
+        s = setFromStr(""1,2,3,4,5"");
+        //convert set of integers to string
+        String s1 = setToStr(s);
+        //display result
+        debugPrint(""Set to string: "" + s1);
+    }
+
+    //convert string to set of integers
+    Set<int> setFromStr(String s)
+    {
+        String[] a = s.split("","");
+        Set<int> s1 = new HashSet<int>();
+        for (String e : a) s1.add(Integer.parseInt(e));
+        return s1;
+    }
+
+    //convert string to string
+   "
+50,"Question:
+Let g = 0.0124 - -0.0836. Let q = g + -0.01. Let o = q + -0.002. What is o rounded to two dps?
+Answer:
+0.02<|end_of_text|>"
+51,"Question:
+Let d = 0.002 + -0.003. Let z = d - -0.0001. What is z rounded to 2 dps?
+Answer:
+0.001<|end_of_text|>"
+52,"def create_new_list(old_list):
+    """"""Create a new list that contains only the elements that are not in the old list, but keep the same order.
+    For example, if old_list = [1, 2, 3, 4, 5], then new_list = [6, 7, 8, 9, 10]""""""
+    new_list = []
+    for i in old_list:
+        for j in range(1, 11):
+            if i % j == 0:
+                new_list.append(i)
+    return new_list
+<|end_of_text|>"
+53,"Question:
+What is prob of picking 1 b and 1 y when two letters picked without replacement from {b: 1, y: 2}?
+Answer:
+2/3<|end_of_text|>"
+54,"Question:
+Let h = -0.5 + 0.5. Let r = 0.05 - -0.95. Let k = r + h. What is the third smallest value on -4, k, 1/4?
+Answer:
+1/4<|end_of_text|>"
+55,"def count_unique_elements_in_list(list_of_lists):
+    """"""
+    Write a function to count the number of unique elements in a list of lists.
+    The function should return a dictionary with the count of each element in the list of lists.
+
+    For example, if the input is [[1, 2, 3], [4, 5, 6], [7, 8, 9], [4, 5, 6, 7, 8, 9]], the output should be {1: 3, 2: 3, 3: 3, 4: 3, 5: 3, 6: 3, 7: 3, 8: 3, 9: 3}.
+    """"""
+    result = {}
+    for element in list_of_lists:
+        for element1, element2 in zip(element, element):
+            if element1 not in result:
+                result[element1] = 1
+            else
+                result[element1] += 1
+    return result
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>"
+57,"Question:
+Let j = -0.006 + 0.015. Let q = j + -0.008. Let t = q + 0.011. What is t rounded to two decimal places?
+Answer:
+0.01<|end_of_text|>"
+58,"def nested_loop_1d_array(arr):
+    """"""
+    Write a function to print the first element of the first row of an array of 1D arrays.
+    """"""
+    for row in arr:
+        print(row[0])
+    return
+
+# Example:
+arr = [[1, 2, 3, 4, 5], [6, 7, 8, 9, 10], [11, 12, 13, 14, 15]]
+nested_loop_1d_array(arr)
+<|end_of_text|>"
+59,"def find_rivers_in_country(country, rivers):
+    """"""
+    Given a country and a list of rivers, find all the rivers in the country and return them in a list.
+
+    The list of rivers is in the format: [name, country, latitude, longitude, depth]
+    """"""
+    # Write your code here
+    for r in rivers:
+        if r[1] == country:
+            r[2] = r[2] + 0.5
+            r[3] = r[3] + 0.5
+            r[4] = r[4] + 0.5
+            r[5] = r[5] + 0.5
+            r[6] = r[6] + 0.5
+            r[7] = r[7] + 0.5
+            r[8] = r[8] + 0.5
+            r[9] = r[9] + 0.5
+            r[10] = r[10] + 0.5
+            r[11] = r[11] + 0.5
+            r[12] = r[12] + 0.5"
+60,"Question:
+Let h = -0.046 + 0.046. Let o = -0.7 + 0.7. Which is the nearest to h?  (a) o  (b) -0.1  (c) 2/9
+Answer:
+c<|end_of_text|>"
+61,"Question:
+Let l = -0.0316 - 0.0004. Let k = l - -0.033. What is k rounded to 2 dps?
+Answer:
+0.03<|end_of_text|>"
+62,"def calculate_water_flow(village_populations, water_source_populations):
+    """"""
+    Calculate the water flow for a village based on the population of water sources and the population of the village.
+    The water source population is the total population of the water sources in the village, and the village population is the total population of the village.
+    The water flow is calculated by multiplying the water source population by the population of the village.
+    """"""
+    water_flow = 0
+    for water_source in water_source_populations:
+        for village in village_populations:
+            water_flow += water_source * village
+    return water_flow
+<|end_of_text|>"
+63,"Question:
+Let o = -0.043 + 0.043. Let p = o + 0.2. Let t = 0.2 + p. What is t rounded to 1 dp?
+Answer:
+0.2<|end_of_text|>"
+64,"Question:
+Let q = -0.045 + 0.045. Let b = -1.1 - q. Let l = 0.2 + b. What is l rounded to one decimal place?
+Answer:
+0.2<|end_of_text|>"
+65,"Question:
+Let k = -0.046 - -0.046. What is the third biggest value in -3, k, 2/9?
+Answer:
+k<|end_of_text|>"
+66,"Question:
+Let f = -1.2 + 0.8. Let o = -0.5 - f. Let h = o - -0.2. What is h rounded to 1 decimal place?
+Answer:
+0.3<|end_of_text|>"
+67,"Question:Design a Python program to determine the number of times a user has searched the web and the number of times they have searched for a specific keyword.
+# The first step is to count how many times the user has searched for the keyword ""search"" and how many times the user has searched for the keyword ""site"". 
+# The second step is to count how many times the user has searched for the keyword ""search"" and how many times the user has searched for the keyword ""site"" in the same time frame.
+# The third step is to count how many times the user has searched for the keyword ""site"" and how many times the user has searched for the keyword ""search"" in the same time frame.
+# The fourth step is to count how many times the user has searched for the keyword ""search"" and how many times the user has searched for the keyword ""site"" in the same time frame.
+# The fifth step is to count how many times the user has searched for the keyword ""site"" and how many times the user has searched for the keyword ""search"" in the same time frame.
+# The sixth step is to count how many times the user has searched for the keyword ""site"" and how many times the user has searched for the"
+68,"Question:
+What is 3/10 of a millennium in months?
+Answer:
+5760<|end_of_text|>"
+69,"Question:
+Let t = -0.046 - 0.054. Let a = 1.41 + t. Let m = -1.7 - a. What is m rounded to one dp?
+Answer:
+-0.1<|end_of_text|>"
+70,"Question: Which of the following is the most common site of lung cancer?
+A. Lymph node
+B. Bronchus
+C. Liver
+D. Kidney
+Answer: A<|end_of_text|>"
+71,"Question:
+Let l = 0.3 - 0.2. Let r = 0.3 - l. Let q = 0.4 - r. What is the third biggest value in -1/3, q, -1/7?
+Answer:
+-1/7<|end_of_text|>"
+72,"Question:
+Let m = 0.4 + -0.4. Let d = 0.02 + -0.02. Let h = d - m. What is h rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>"
+73,"def calculate_gross_income(employees, salaries):
+    """"""Calculate the total gross income of all employees and return the total amount of tax paid by all employees.""""""
+    for employee in employees:
+        gross_income = 0.0
+        for salary in salary_list:
+            gross_income += salary * (1 + 0.3)
+            tax = 0.3 * (1 - 0.8) * (1 - 0.1) * (1 - 0.2) * (1 - 0.8) * (1 - 0.1) * (1 - 0.2) * (1 - 0.8) * (1 - 0.1) * (1 - 0.2)
+            tax = min(tax, 0.2)
+            tax = max(tax, 0.1)
+            tax = min(tax, 0.01)
+            tax = max(tax, 0.001)
+            tax = min(tax, 0.0001)
+            tax = max(tax, 0.00001)
+            tax = min(tax, 0.000001)
+            tax = max(tax, 0.0000001"
+74,"def slice_and_loop(my_list, start, end):
+    """"""
+    Given a list of strings and two indices start and end,
+    return a list of strings containing the elements of the
+    original list between start and end, inclusive.
+
+    For example, if the input list is ['a', 'b', 'c', 'd', 'e'] and
+    start = 1, end = 3, the output list should be ['b', 'c', 'd'].
+    """"""
+    output = []
+    for i in range(start, end):
+        output.append(my_list[i])
+    return output
+<|end_of_text|>"
+75,Question:Create a C++ program to determine whether two strings are identical and whether one string is a permutation of another string. A) Program to display whether the two strings are identical and whether one string is a permutation of another string. B) Program to display whether the two strings are identical and whether one string is a permutation of another string. C) Program to display whether the two strings are identical and whether one string is a permutation of another string. D) Program to display whether the two strings are identical and whether one string is a permutation of another string. E) Program to display whether the two strings are identical and whether one string is a permutation of another string. F) Program to display whether the two strings are identical and whether one string is a permutation of another string. G) Program to display whether the two strings are identical and whether one string is a permutation of another string. H) Program to display whether the two strings are identical and whether one string is a permutation of another string. I) Program to display whether the two strings are identical and whether one string is a permutation of another string. J) Program to display whether the two strings are identical and whether one string is a permutation of another string. K) Program to display whether the two strings are identical
+76,"Question:
+Let y = 0.5 - -0.1. Let q = -0.4 + y. Let t = q - -0.3. What is t rounded to 1 decimal place?
+Answer:
+0.6<|end_of_text|>"
+77,"def create_room_plan(room_dimensions, furniture_list):
+    """"""Create a room plan based on the dimensions and furniture list.
+
+    The room plan is a 2D array, where each element represents a wall and has the following properties:
+    - x: x-coordinate of the wall
+    - y: y-coordinate of the wall
+    - wall_color: color of the wall
+    - furniture: list of furniture placed on the wall
+
+    The furniture list contains the following elements:
+    - name: name of the furniture
+    - x, y: x and y coordinates of the furniture
+    - width, height: width and height of the furniture
+    - x1, y1, x2, y2: x and y coordinates of the corners of the furniture
+    - wall_color: color of the wall surrounding the furniture
+
+    The room plan is generated by iterating over the furniture list and placing the furniture on the walls in the order it appears in the list.
+    """"""
+    room_plan = []
+    for furniture in furniture_list:
+        x, y, width, height, x1, y1, x2, y2, wall_color = furniture
+        for i in range(4):
+            x1, y1, x"
+78,"Question: Which of the following is not a feature of the 'D' wave?
+A. Is present in all types of atrial fibrillation
+B. Occurs in the right atrium
+C. Is a positive wave
+D. Occurs in front of the P-waves
+Answer: D<|end_of_text|>"
+79,"Question:
+Let x = 0.023 - 0.023. Let f = 0.03 + 0.06. Let n = f + x. What is n rounded to one decimal place?
+Answer:
+0.2<|end_of_text|>"
+80,"Question:
+What is the next term in 1, 6, 17, 42, 87, 154, 239?
+Answer:
+364<|end_of_text|>"
+81,"Question:
+Let o = 0.5 - 0.5. Let x = 0.2 - o. Let p = x - -0.4. Which is the nearest to 0?  (a) -0.1  (b) p  (c) -3
+Answer:
+a<|end_of_text|>"
+82,"Question:
+Let g = -0.036 - 0.064. Let v = g + 0.09. Let k = -0.09 + v. What is the third smallest value on -0.2, k, 0.3?
+Answer:
+k<|end_of_text|>"
+83,"Question:
+Let x = 0.004 - 0.004. Let h = 0.03 + x. Let c = 0.03 + h. Which is the nearest to 2/3?  (a) -4  (b) c  (c) -2
+Answer:
+b<|end_of_text|>"
+84,"def update_medication_list(medication_list):
+    """"""Update the list of medications in the clinic and return the updated list.""""""
+
+    # Update the list of medications in the clinic
+    for med in medication_list:
+        if med[""name""] == ""Aspirin"" and med[""dosage""] == ""1 tablet"":
+            med[""name""] = ""Aspirin""
+            med[""dosage""] = ""1 tablet""
+        elif med[""name""] == ""Aspirin"" and med[""dosage""] == ""2 tablets"":
+            med[""name""] = ""Aspirin""
+            med[""dosage""] = ""2 tablets""
+        else:
+            med[""name""] = ""Aspirin""
+            med[""dosage""] = ""1 tablet""
+
+    return medication_list
+<|end_of_text|>"
+85,"def nested_loop_break_continue(arr):
+    """"""
+    Given an array of integers, write a program to find the first pair of numbers that add up to 1000 and then print out the first pair of numbers.
+
+    Input: array of integers
+    Output: first pair of numbers that add up to 1000
+
+    >>> nested_loop_break_continue([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+    (2, 2)
+    """"""
+    for i in range(1, 11):
+        for j in range(1, 11):
+            if i * j < 1000:
+                break
+            for k in range(1, 11):
+                if i * k < 1000 and j * k < 1000:
+                    break
+                for m in range(1, 11):
+                    if i * m < 1000 and j * m < 1000:
+                        break
+                print(f""{i} {j}"")
+    return None
+<|end_of_text|>"
+86,"Question:Build a C++ program to calculate the area of a circle, radius and to display the area in square millimetres.
+
+#1. Write a program to calculate the area of a circle, radius and to display the area in square millimetres. #2. Use the following formula: A = πr^2, where A = area, π = 3.1416, r = radius.
+
+#3. Use the following formula: A = 22/7 x r^4, where A = area, 22/7 = pi/4, r = radius.
+
+#4. Use the following formula: A = 3.1416 x r^2, where A = area, 3.1416 = pi/180, r = radius.
+
+#5. Use the following formula: A = 3.1416 x r^2, where A = area, 3.1416 = pi/180, r = radius.
+
+#6. Use the following formula: A = 3.1416 x r^2, where A = area, 3.1416 = pi/180, r = radius.
+
+#7. Use the following formula: A = 3.1416 x r"
+87,"Question: The most common complication of aortic valve stenescoscopes is
+A. Atrial fibrillation
+B. Cardiac rupture
+C. Atrial arrhythmia
+D. Cardiac rupture
+Answer: B<|end_of_text|>"
+88,"Question:
+Let f = 0.1 - -0.1. Let s = 0.6 + f. Let o = 0.06 + s. What is o rounded to one dp?
+Answer:
+0.1<|end_of_text|>"
+89,"Question:
+Let n = -0.0319 + -0.0001. Let s = -0.031 + n. Let z = 0.3 - 0.3. Which is the closest to z?  (a) 0  (b) s  (c) 3
+Answer:
+a<|end_of_text|>"
+90,"def add_to_set(set1, set2, set3):
+    """"""Add elements to a set and then return the set with the new elements.""""""
+    for elem in set1:
+        if elem in set2:
+            set2.remove(elem)
+    set3 = set1 + set2 + set3
+    return set3
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 44 is divided by 12?
+Answer:
+4<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 0.2. Let h = -0.4 - p. Let k = h + 0.2. What is k rounded to one decimal place?
+Answer:
+-0.2<|end_of_text|>"
+93,"Question:
+Let j = 0.001 - -1.999. Let l = 0.1 + j. Let v = -0.9 - l. Which is the second biggest value?  (a) -3  (b) 2/7  (c) v
+Answer:
+b<|end_of_text|>"
+94,Question:Build a C++ program to calculate the area of a circle given its radius. The program must be able to handle input from the keyboard and must display the area of the circle on the screen.<|end_of_text|>
+95,"Question:
+Let o = 0.2 + -0.2. Let q = o - 0.02. Let j = 0.01 + q. What is j rounded to 1 decimal place?
+Answer:
+0.1<|end_of_text|>"
+96,"# 2004–05 FCSU vs. TSV 2000 match
+
+FCSU vs. TSV 2000 was a volleyball match in the 2004–05 A2 2004/05 season. The match was played in the 2004-05 season in the A2 Group A and was played at the Krasotkin Stadium in Sofia, Bulgaria.
+
+FCSU vs. TSV 2000 2004-05 season<|end_of_text|>"
+97,"Question:
+Let c = 0.5 - -0.5. Let t = c + -0.4. Let x = t - -0.4. What is the closest to 1 in 1/6, x, -0.4?
+Answer:
+1/6<|end_of_text|>"
+98,"Question:Develop a Java program to display the following grid:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 "
+99,"def find_unique_elements(my_list):
+    """"""
+    Write a function that takes in a list of integers and returns a list of all the unique elements in the list, in the order they appear.
+    The function should not modify the input list, but instead return a new list.
+    The list of unique elements should be in the same order as in the input list.
+    The function should work for any input list, and not only for the examples given.
+    """"""
+    unique_elements = []
+    for num in my_list:
+        if num not in unique_elements:
+            unique_elements.append(num)
+    return unique_elements
+<|end_of_text|>"
