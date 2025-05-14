@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly Bulgarian morphemes, word stems, and affixes, especially those involving the Cyrillic letter \"ъ\" and other common inflectional or derivational elements. These tokens often mark grammatical features such as tense, aspect, person, or case, and are crucial for word formation and meaning in Bulgarian text."

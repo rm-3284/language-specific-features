@@ -1,0 +1,1 @@
+"The tokens correspond to common Hindi postpositions, suffixes, or inflections (such as \"में\", \"से\", \"का\", \"की\", \"दा\", \"ला\", \"पा\", etc.), which are frequently attached to nouns or verbs to indicate grammatical relationships like location, possession, or agency. These morphemes are highly salient for understanding sentence structure and meaning in Hindi text."

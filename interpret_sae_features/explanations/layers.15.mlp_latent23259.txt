@@ -1,0 +1,1 @@
+"High activations are found on common Portuguese articles and pronouns such as \"uma\", \"a\", \"na\", \"da\", \"as\", and related forms, which function as determiners or refer to feminine nouns, as well as on adjectives and possessives that modify or specify nouns. These tokens are essential for grammatical structure and meaning in Portuguese sentences."

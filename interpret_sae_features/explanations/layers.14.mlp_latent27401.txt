@@ -1,0 +1,1 @@
+"Single uppercase letters or digraphs, often at the start of a word or name, are highlighted across multiple languages and scripts, frequently marking proper nouns, initials, or abbreviations."

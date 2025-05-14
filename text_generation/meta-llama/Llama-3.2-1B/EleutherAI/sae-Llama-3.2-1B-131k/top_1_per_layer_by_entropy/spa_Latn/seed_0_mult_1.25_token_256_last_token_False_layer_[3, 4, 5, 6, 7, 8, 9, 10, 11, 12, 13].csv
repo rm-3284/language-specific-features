@@ -1,0 +1,401 @@
+seed,generated_text
+0,Question:Write a C# se puede hacer escribe una función que se llama escribe una función que se puede hacer que se puede convertir en una es una función que se puede hacer que se puede convertir en una es una función que se puede hacer que se puede convertir en una es una función que se puede hacer que se puede convertir en una es una función que se puede hacer que se puede convertir en una es una función que se puede hacer que se puede convertir en una es una función que se puede hacer que se puede convertir en una es una función que se puede hacer que se puede convertir en una es una función que se puede hacer que se puede convertir en una es una función que se puede hacer que se puede convertir en una es una función que se puede hacer que se puede convertir en una es una función que se puede hacer que se puede convertir en una es una función que se puede hacer que se puede convertir en una es una función que se puede hacer que se puede convertir en una es una función que se puede hacer que se puede convertir en una es una función que se puede hacer que se puede convertir en una es una función que se puede hacer que se puede convertir en una es
+1,"Question:
+Let w = 0.03 + -0.13. Let s = 0.02 + w. Let u = s - 0.01. What is the third biggest value in u, 3, -2/5?
+Answer:
+-2/5<|end_of_text|>"
+2,"Question:
+Let l = -3 + 5. Let c = l + 2. Let p = -3 + c. Find the third derivative de es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el"
+3,"Question:
+Let g = 0.02 - 0.18. Let f = 0.04 + g. Let m = -0.06 + 0.03. Which es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es"
+4,"Question:
+Let v = 11.4 - 1.4. Let t = 0.03 - v. Let y = 2.07 - t. What is y rounded to 2 decimales?
+Answer:
+0.01<|end_of_text|>"
+5,Question:Develop a Ruby programa que calcula el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el
+6,"def carpinteres(a, b, c, d):
+    a = 100
+    b = 200
+    c = 50
+    d = 300
+    es = 200
+
+    es = 100
+    se = 100
+    no = 100
+
+    no = 100
+    se = 100
+
+    se = 100
+    no = 100
+
+    no = 100
+    es = 100
+
+    se = 100
+    no = 100
+
+    no = 100
+    es = 100
+
+    no = 100
+    se = 100
+
+    es = 100
+    no = 100
+
+    no = 100
+    es = 100
+
+    se = 100
+    no = 100
+
+    no = 100
+    es = 100
+
+    es = 100
+    no = 100
+
+    no = 100
+    es = 100
+
+    es = 100
+    no = 100
+
+    no = 100
+    es = 100
+
+    es = 100
+    no = 100
+
+    no = 100
+    es = 100
+
+    es = "
+7,# 2- es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un
+8,"Question:Develop a C# es6 library que permite mostrar el resultado de un calculo que se puede realizar en la web, es decir un esquema de calculo que se puede utilizar en la web. Se puede usar en el esquema de calculo es se puede es un esquema de calculo que se puede usar en la web. Se puede usar en el esquema de calculo es se puede es un esquema de calculo que se puede usar en la web. Se puede usar en el esquema de calculo es se puede es un esquema de calculo que se puede usar en la web. Se puede usar en el esquema de calculo es se puede es un esquema de calculo que se puede usar en la web. Se puede usar en el esquema de calculo es se puede es un esquema de calculo que se puede usar en la web. Se puede usar en el esquema de calculo es se puede es un esquema de calculo que se puede usar en la web. Se puede usar en el esquema de calculo es se puede es un esquema de calculo que se puede usar en la web. Se puede usar"
+9,"Question:
+Let x = -0.043 - 0.047. Let p = 0.027 + x. What is p rounded to 0.01?
+Answer:
+-0.03<|end_of_text|>"
+10,Question:Create a C# se puede hacer es escribe una función que recuerda el esquema de se puede escribe una función que recuerda el esquema de escribe una función que recuerda el esquema de se puede escribe una función que recuerda el esquema de escribe una función que recuerda el esquema de se puede escribe una función que recuerda el esquema de escribe una función que recuerda el esquema de escribe una función que recuerda el esquema de escribe una función que recuerda el esquema de escribe una función que recuerda el esquema de escribe una función que recuerda el esquema de escribe una función que recuerda el esquema de escribe una función que recuerda el esquema de escribe una función que recuerda el esquema de escribe una función que recuerda el esquema de escribe una función que recuerda el esquema de escribe una función que recuerda el esquema de escribe una función que recuerda el esquema de escribe una función que rec
+11,"Question: A 65-year-old man, escribe a letter to the Director de la escolta de un esquema de esqueta. A su escribe que no quiere se puede es un esqueta es se se puede es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es"
+12,"Question:
+Let r = 0.011 + -0.071. Let f = 0.039 + r. Let t = -0.004 - f. What is the smallest value in t, 0.2, 0.01?
+Answer:
+0.01<|end_of_text|>"
+13,"Question:
+Let h = -0.05 + 0.05. Let w = 0.07 + 0.03. Let y = -0.01 - w. Which es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es"
+14,"Question:Create a C# es6 function que calcula el factorial de un número N, pero que tiene la ventaja de ser más fácil de utilizar que los cálculos de es un número es decir, no se puede es comodar el calculador es es más facil. En este caso, crea un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un"
+15,"Question:
+Let y = -0.01 - 0.01. Let m = -3.06 - -0.06. What is the closest to -0.1 in m, y, 0.1?
+Answer:
+m<|end_of_text|>"
+16,"Question:
+Let j = -2.03 + 2.03. Let y = 0.01 + -0.01. Let p = 0.03 + y. Which es the closest to 0.1?  (a) p  (b) j  (c) -0.1
+Answer:
+c<|end_of_text|>"
+17,"Question:
+Let u = 2.2 - 0.2. Let x = 0.3 - 0.2. Let z = 0.1 - x. ¿No es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es"
+18,"Question:
+Let y = 3.8 - 3.1. Let o = -2.2 + y. Let c = o - 0.1. Es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es"
+19,Question:Create una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una
+20,"Question:Develop un programa que pone en marcha el proceso de esquema de esquilibra, en el caso de que no se encuentre un esquema que se aplica en el esquema de esquilibra. Es por es el esquema de esquilibra es es un esquema de esquilibra que se aplica en el esquema de esquilibra, es por es el esquema de esquilibra es un esquema de esquilibra que se aplica en el esquema de esquilibra, es por es el esquema de esquilibra es un esquema de esquilibra que se aplica en el esquema de esquilibra, es por es el esquema de esquilibra es un esquema de esquilibra que se aplica en el esquema de esquilibra, es por es el esquema de esquilibra es un esquema de esquilibra que se aplica en el esquema de esquilibra, es por es el esquema de esquilibra es un esquema de es"
+21,"Question:
+Let g = -0.012 + 0.003. Let y = 0.0123 - 0.0023. Let c = y + g. What is c rounded to 1 decimal
+Answer:
+0.1<|end_of_text|>"
+22,Question: Which of these es un es un es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es
+23,Question: Which of these es un factor de ries es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es
+24,Question:Write es un es el es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es
+25,Question:Create a Ruby no tiene escribe un programa que le da una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una esencia de es una es
+26,"Question:
+Let s = -4.2 + -0.2. Let x = 2.2 + 0.2. Let v = 0.2 - x. Which is the closest to s?  (a) v  (b) -1/3  (c) 0.1
+Answer:
+c<|end_of_text|>"
+27,Question:Develop una esquena que se ve es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es un esquele es
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.0017 + 0.0017. Let f = c - t. Es un esmerita.
+Answer:
+-3<|end_of_text|>"
+29,Question:Write un escribe un programa que se enciende una lampara es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el esquen es la que se enciende el es
+30,"Question:
+Let y = -0.009 - -0.191. Let s = y + 0.01. Let u = s - -0.001. What is u rounded to 2 decimales?
+Answer:
+-0.001<|end_of_text|>"
+31,"Question:
+Let m = -1.07 - -1.07. Let w = 0.03 - 0.03. Let a = w + m. Which is the nearest to 0?  (a) 2/3  (b) 0.03  (c) -1/2
+Answer:
+c<|end_of_text|>"
+32,"Question:
+Let t = 0.002 - -0.038. Let x = 0.009 + 0.011. Let h = x - t. What is the third smallest value in -3, h, 2/3?
+Answer:
+2/3<|end_of_text|>"
+33,"def psychologist_exclusivo(person1, person2):
+    """"""
+        Define un escribe un programa que se enciende un es un programa que se enciende una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es una es"
+34,Question: Which of es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es
+35,"Question:
+What is the third biggest value in 1/4, 3/5, -2, 3/2?
+Answer:
+-2<|end_of_text|>"
+36,"Question:
+Let o = 0.041 - 0.051. Let r = o + 0.039. Let s = -0.003 - 0.002. Which is the third biggest value?  (a) r  (b) s  (c) 0.1
+Answer:
+b<|end_of_text|>"
+37,"# 2014-10-04
+
+| 2014-10-04 es el quinto día del año 2014 y es el primer día de la semana. El año tiene 365 días, es decir, es un año bisiesto. El esquema de días del año es el mismo que el esquema de años es el mismo que el esquema de semanas. El esquema de años se es el mismo que el esquema de días, es decir, es un año bisiesto. Hay es el mismo que el esquema de semanas. El esquema de días se es el mismo que el esquema de años, es decir, es un año bisiesto.
+
+El esquema de días es es el mismo que el esquema de semanas, es decir, es un año bisiesto. Hay es el mismo que el esquema de días, es decir, es un año bisiesto.
+
+El esquema de días es es el mismo que el esquema de semanas, es decir, es un año bisiesto. Hay es el mismo que el esquema de días, es decir, es un año bisiesto.
+
+El esquema de días"
+38,"Question:
+What is the common denominator de 33/5 y 16/3? A) 3/5 B) 2/5 C) 4/5 D) 5/5 E) 6/5
+Answer:
+Es se puede es 33/5 y 16/3.<|end_of_text|>"
+39,"Question:
+Let t = -0.06 + 0.04. Let x = -0.04 + t. Let r = 0.04 + 0.02. Which is the second biggest value?  (a) r  (b) x  (c) -1
+Answer:
+c<|end_of_text|>"
+40,"# 2012-11-07: Cabe es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se acerca, es el año que se"
+41,"Question:
+Let a = -11.5 + 3.5. Let j = -2.2 + a. Which is the nearest to 0.1?  (a) 2/3  (b) 0.3  (c) j
+Answer:
+b<|end_of_text|>"
+42,"Question:
+Let l = 0.033 - 0.053. Let m = -0.3 + 0.2. Which is the nearest to 0?  (a) l  (b) m  (c) 0.1
+Answer:
+c<|end_of_text|>"
+43,"Question:
+Let u = -0.037 + 0.035. Let w = u + -0.064. Let d = -0.06 - 0.04. What is d rounded to 2 decimal es?
+Answer:
+-0.06<|end_of_text|>"
+44,"Question:
+Let o = 2.1 - 2.1. Let m = -0.1 + 0.1. Let x = 0.1 - m. Es es igual que x.
+Answer:
+es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es"
+45,Question:Create a C# es es una función que calcula el área de un polinoma de forma que se puede escribe en la esfera se puede escribe en el se puede escribe en el se puede escribe en el escribe en el se puede escribe en el escribe en el escribe en el se puede escribe en el escribe en el se puede escribe en el escribe en el escribe en el se puede escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe en el escribe
+46,Question:Write un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un escribe un
+47,# A es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un
+48,Question: The following es un esquema de las 5 esquemas de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema
+49,Question:Create a Java es es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un
+50,"Question:
+Let g = 4.5 - 0.5. Let z = 2.2 + 1.5. Let l = g - z. What is the nearest to 1/2 in l, 1/2, 0.1?
+Answer:
+l<|end_of_text|>"
+51,"Question:
+Let w = 0.0022 - -0.0022. Let j = 0.01 - 0.01. Which is the nearest to w?  (a) j  (b) -0.1  (c) 2
+Answer:
+c<|end_of_text|>"
+52,"def escribe_nombre(nombre):
+    """"""Se define un escribe escribe un programa que escribe el nombre de un escribe en el escribe un programa que escribe el nombre de un escribe en el escribe un programa que escribe el nombre de un escribe en el escribe un programa que escribe el nombre de un escribe en el escribe un programa que escribe el nombre de un escribe en el escribe un programa que escribe el nombre de un escribe en el escribe un programa que escribe el nombre de un escribe en el escribe un programa que escribe el nombre de un escribe en el escribe un programa que escribe el nombre de un escribe en el escribe un programa que escribe el nombre de un escribe en el escribe un programa que escribe el nombre de un escribe en el escribe un programa que escribe el nombre de un escribe en el escribe un programa que escribe el nombre de un escribe en el escribe un programa que escribe el nombre de un escribe en el escribe un programa que escribe el nombre de un escribe en el escribe un programa que escribe el nombre de un escribe en el escribe un"
+53,"Question:
+What is the common denominator de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la esclava de la escl"
+54,Question:Create a C# es6 function que escribe la escribe en un archivo que es el escribe en el archivo escribe escribe escribe el escribe escribe escribe en un archivo escribe escribe escribe en un archivo escribe escribe escribe en un archivo escribe escribe escribe escribe en un archivo escribe escribe escribe escribe escribe en un archivo escribe escribe escribe escribe escribe escribe escribe en un archivo escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe escribe es
+55,"def transform_cantidad(a, b, c):
+    se puede convertir a es una funcion que se utiliza en una es una es una variable y es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una variable se puede convertir a es una"
+56,"Question:
+What is the common denominator de se puede es es el es el es es es el es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es"
+57,"Question:
+Let w = -2.3 + 0.3. Let t = -2.4 + 0.4. Let f = -2.2 - t. What is the biggest value in f, w, 0.1?
+Answer:
+w<|end_of_text|>"
+58,"def divide_consejos(a, b):
+    """"""Divide es un es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es"
+59,"Question:
+Calculate the common denominator of 55/2 and -47/6.
+Answer:
+6<|end_of_text|>"
+60,"Question:
+Calculate the remainder when 150 es es un multiple de 3 es es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un"
+61,"Question:
+Calculate the remainder when 145 es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es"
+62,"Question:
+Let g = -0.004 - 0.001. Let a = g + -0.009. Let z = 0.014 + 0.001. What is z rounded to 0.01?
+Answer:
+-0.001<|end_of_text|>"
+63,"Question:
+Calculate the remainder when 66 is divided by 6.
+Answer:
+3<|end_of_text|>"
+64,"Question:
+Let a = -0.045 + 0.045. Let l = -1.04 - a. Which is the closest to -2/5?  (a) -1  (b) 0.1  (c) l
+Answer:
+a<|end_of_text|>"
+65,"Question:
+Let h = -0.046 - -0.057. Let p = 0.002 + 0.002. Let z = 0.02 - p. What es es es es h es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es"
+66,Question:Create una escribe un programa que se puede ejecutar en un servidor web que es una aplicación que utiliza es una base de datos de datos de es un programa que es es un es un programa que se puede ejecutar en un servidor web que es una base de datos de es un programa que es es un es un programa que es un es un programa que se puede ejecutar en un servidor web que es una base de datos de es un programa que es es un es un programa que es un es un programa que se puede ejecutar en un servidor web que es una base de datos de es un programa que es es un es un programa que es un es un programa que es un es un programa que se puede ejecutar en un servidor web que es una base de datos de es un programa que es es un es un programa que es un es un programa que es un es un programa que es un es un programa que se puede ejecutar en un servidor web que es una base de datos de es un programa que es es un es un programa que es un es un programa que es un es un programa que se puede ejecitar en un servidor web que es una base de datos de es un programa que es es un es un programa que es un es un
+67,Question:Create a Python module escribe un programa que permite a los alumnos a que les escribe en la sección de escribe un programa que escribe un programa que se puede usar para que los estudiantes pueden hacer un ejercicio de escribe un programa que se puede usar para que los estudiantes puede hacer un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe un programa que escribe
+68,"Question:
+What is 3/10 of la es es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2 es 2 a es 2"
+69,"Question:
+Let d = -3.1 + 2.3. Let a = 1.3 + d. Let m = -1.7 - a. What is m in se puede es un es el es?
+Answer:
+-1<|end_of_text|>"
+70,"Question: The most probable es decir es:
+A. Es un esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema de esquema"
+71,"Question:
+Let a = 0.035 - 0.035. Let r = 0.003 - a. Which is the closest to 1/2?  (a) r  (b) 0.3  (c) 0.1
+Answer:
+c<|end_of_text|>"
+72,"Question:
+Let m = 0.012 + 0.078. Let d = 0.02 - m. Let z = 0.002 + -0.001. Which es es es es es se es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es"
+73,"def calculate_pueden_escribir_esquenquees(nombre):
+    """"""Calcula el esquenque que puede escribir el nombre de un esquenque en una esquina y el esquenque que puede escribir un esquenque en una esquina escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquenque escribe esquen"
+74,Question:Develop a C# eserciclo que crea un programa que manda a la lista de esquens de un esquema que crea un programa que manda a la lista de esquens de un esquema que crea un programa que manda a la lista de esquens de un esquema que crea un programa que manda a la lista de esquens de un esquema que crea un programa que manda a la lista de esquens de un esquema que crea un programa que manda a la lista de esquens de un esquema que crea un programa que manda a la lista de esquens de un esquema que crea un programa que manda a la lista de esquens de un esquema que crea un programa que manda a la lista de esquens de un esquema que crea un programa que manda a la lista de esquens de un esquema que crea un programa que manda a la lista de esquens de un esquema que crea un programa que manda a la lista de esquens de un esquema que crea un programa que manda a la lista de esquens de un esqu
+75,Question:Create a C# esercici a se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede se puede
+76,"Question:
+Let y = 10.5 - 7.5. Let m = -2.4 + y. What is m rounded to 2 decimales?
+Answer:
+-2<|end_of_text|>"
+77,"def create_tuple(a, b, c):
+    """"""Funcion que crea un tuple de los datos de una esencia, se le dice el nombre de la esencia, el valor de los datos y el es lo que se le pone en el esqueleto.
+
+    Tiene que ser una funcion que crea un esqueleto de datos de una esencia, se le dice el nombre de la esencia, el valor de los datos y el es lo que se le pone en el esqueleto.
+    """"""
+    se le dice el nombre de la esencia, el valor de los datos y el es lo que se le pone en el esqueleto.
+    se le dice el nombre de la esencia, el valor de los datos y el es lo que se le pone en el esqueleto.
+
+    se le dice el nombre de la esencia, el valor de los datos y el es lo que se le pone en el esqueleto.
+
+    se le dice el nombre de la esencia, el valor de los datos y el es lo que se le pone en el esqueleto.
+
+    se le dice el nombre de la esencia, el valor de los datos y el"
+78,"Question: Which of the following es se relaciona con la esquizura?
+A. se ha de se puede identificar
+B. se ha de se puede identificar
+C. se ha de se puede identificar
+D. se ha de se puede identificar
+Answer: A
+Define se ha de se puede identificar
+Closely related to esquizura, it is to be identified
+Closely related to esquizura, it is to be identified
+The definition of esquizura is to be identified
+To be identified, the definition of esquizura is to be identified
+The definition of esquizura is to be identified
+To be identified, the definition of esquizura is to be identified
+The definition of esquizura is to be identified
+To be identified, the definition of esquizura is to be identified
+The definition of esquizura is to be identified
+To be identified, the definition of esquizura is to be identified
+The definition of esquizura is to be identified
+To be identified, the definition of esquizura is to be identified
+The definition of esquizura is to be identified
+To be identified, the definition of esquizura is to be identified
+The"
+79,"Question:
+Let x = 0.002 - 0.002. Let f = 0.03 - 0.03. Which is the nearest to x?  (a) 0.2  (b) f  (c) 0.1
+Answer:
+b<|end_of_text|>"
+80,"Question:
+What is the next term to se el es un es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el es el"
+81,"Question:
+Let o = 2.5 - 2.5. Let x = 2.2 - o. Let p = x - 1.3. Which is the third biggest value?  (a) -3  (b) p  (c) 2
+Answer:
+b<|end_of_text|>"
+82,"Question:
+Let u = -0.018 - 0.182. Let v = u + 0.02. Let a = 0.09 + -0.01. What is a se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha es se ha"
+83,"Question:
+What is the third biggest value in -1, 1, -2/3?
+Answer:
+-1<|end_of_text|>"
+84,"def update_espectro_espectro(lista):
+    # escribe el espectro
+    for i in range(1, 3):
+        # se suprime el espectro de la esencia
+        print(""Se suprime el espectro de la esencia"")
+        # se agrega el nuevo espectro
+        print(""Se agrega el nuevo espectro"")
+        # se muestra el espectro
+        print(""Es muestra el espectro"")
+
+<|end_of_text|>"
+85,"def modify_cuenta(numero, es_cuenta, es_nota, es_libro):
+    """"""
+    Se debe modificar el valor de la cuenta es_nota, se debe
+    modificar el valor de es_libro, se debe modificar el valor de es_cuenta
+    y se debe mostrar el resultado.
+
+    Se debe modificar el valor de la cuenta es_nota, se debe
+    modificar el valor de es_libro, se debe modificar el valor de es_cuenta
+    y se debe mostrar el resultado.
+
+    Se debe modificar el valor de la cuenta es_nota, se debe
+    modificar el valor de es_libro, se debe modificar el valor de es_cuenta
+    y se debe mostrar el resultado.
+
+    Se debe modificar el valor de la cuenta es_nota, se debe
+    modificar el valor de es_libro, se debe modificar el valor de es_cuenta
+    y se debe mostrar el resultado.
+
+    Se debe modificar el valor de la cuenta es_nota, se debe
+    modificar el valor de es_libro, se debe modificar el valor de es_cuenta
+    y se debe mostrar el resultado.
+
+    Se debe modificar el valor de la cuenta es_nota, se debe
+    modificar el valor de"
+86,Question:Create a C# es decir un es el director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director de es un director
+87,Question:Create a Ruby escribe un programa que le pida a la escribe un programa que le pida a la escribe un programa que le pida a la escribe un programa que le pida a la escribe un programa que le pida a la escribe un programa que le pida a la escribe un programa que le pida a la escribe un programa que le pida a la escribe un programa que le pida a la escribe un programa que le pida a la escribe un programa que le pide a la escribe un programa que le pide a la escribe un programa que le pide a la escribe un programa que le pide a la escribe un programa que le pide a la escribe un programa que le pide a la escribe un programa que le pide a la escribe un programa que le pide a la escribe un programa que le pide a la escribe un programa que le pide a la escribe un programa que le pide a la escribe un programa que le pide a la escribe un programa que le pide a la escribe un programa que le pide a la escribe un programa que le pide a la es
+88,"Question:
+Let w = 0.001 - -0.002. Let s = 0.001 + w. Let m = 0.003 + 0.001. What is m in s no es un es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es"
+89,"Question:
+Let r = -0.031 - 0.049. Let m = 0.05 - r. Let p = 1.07 - m. What is p in 1 es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es"
+90,"def add_fueles(fueles):
+    fueles = []
+    fueles[0] = fueles[1]
+    fueles[1] = fueles[2]
+    fueles[2] = fueles[3]
+    fueles[3] = fueles[4]
+    fueles[4] = fueles[5]
+    fueles[5] = fueles[6]
+    fueles[6] = fueles[7]
+    fueles[7] = fueles[8]
+    fueles[8] = fueles[9]
+    fueles[9] = fueles[10]
+    fueles[10] = fueles[11]
+    fueles[11] = fueles[12]
+    fueles[12] = fueles[13]
+    fueles[13] = fueles[14]
+    fueles[14] = fueles[15]
+    fueles[15] = fueles[16]
+    fueles[16] = fueles[17]
+    fueles[17] = fueles[18]
+    fueles[18] = fueles[19]
+    fueles[19] = fueles[20]
+    fue"
+91,"Question:
+What is the remainder when 159 es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es"
+92,"Question:
+Let p = 2.2 - 2.2. Let h = -3.4 - p. Let y = 0.01 - 0.01. What is the third biggest value en es y?
+Answer:
+y<|end_of_text|>"
+93,"Question:
+Let j = 0.001 - -0.039. Let l = 0.003 + j. Let f = -0.003 + 0.001. Which is the third biggest value?  (a) f  (b) l  (c) es
+Answer:
+c<|end_of_text|>"
+94,"Question: The esquena es se puede mover como se debe?
+Mueva el esquena, se puede mover como se debe. Mira el esquema de los múrsea de los esquena.
+Mira el esquema de los múrsea de los esquena. Se puede mover como se debe.
+Mira el esquema de los múrsea de los esquena. Se puede mover como se debe.
+Mira el esquema de los múrsea de los esquena. Se puede mover como se debe.
+Mira el esquema de los múrsea de los esquena. Se puede mover como se debe.
+Mira el esquema de los múrsea de los esquena. Se puede mover como se debe.
+Mira el esquema de los múrsea de los esquena. Se puede mover como se debe.
+Mira el esquema de los múrsea de los esquena. Se puede mover como se debe.
+Mira el esquema de los múrsea de los esquena. Se puede mover como se debe.
+Mira el esquema de los múrsea de los esquena. Se"
+95,"Question:
+Let o = 0.0185 - 0.0193. Let p = 0.02 + 0.01. Which is the closest to 1/2?  (a) o  (b) p  (c) 0.2
+Answer:
+c<|end_of_text|>"
+96,"# 2021-04-03: Enseñan a no escribe el esquema de las dos esquelas
+
+En el año 2021, es un esquema que está en proceso de ser desarrollado por el esquema de los dos esquelas. Es un esquema que está en proceso de ser desarrollado por el esquema de los dos esquelas. Es un esquema que está en proceso de ser desarrollado por el esquema de los dos esquelas. Es un esquema que está en proceso de ser desarrollado por el esquema de los dos esquelas. Es un esquema que está en proceso de ser desarrollado por el esquema de los dos esquelas. Es un esquema que está en proceso de ser desarrollado por el esquema de los dos esquelas. Es un esquema que está en proceso de ser desarrollado por el esquema de los dos esquelas. Es un esquema que está en proceso de ser desarrollado por el esquema de los dos esquelas. Es un esquema que está en proceso de ser desarrollado por el esquema de los dos"
+97,"Question:
+Calculate prob of picking 1 f and 1 g when two es empiezan a se va a es acerca de un es a se va a una es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se va a un es a se va a se"
+98,Question:Develop a Java esence that es se le crea una esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un esquema de esena de 2d que es un
+99,"def sumar(n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11, n12, n13, n14, n15, n16, n17, n18, n19, n20, n21, n22, n23, n24, n25, n26, n27, n28, n29, n30, n31, n32, n33, n34, n35, n36, n37, n38, n39, n40, n41, n42, n43, n44, n45, n46, n47, n48, n49, n50, n51, n52, n53, n54, n55, n56, n57, n58, n59, n60, n61, n62, n63, n64, n65, n66, n67, n68, n69, n70, n71, n72, n73, n74, n75, n76, n77, n78, n79, n80, n81, n82, n83, n84, n"

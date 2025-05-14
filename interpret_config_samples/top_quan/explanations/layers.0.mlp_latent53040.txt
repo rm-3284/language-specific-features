@@ -1,0 +1,1 @@
+"The highlighted tokens are frequent, high-activation function words or short morphemes in French (\"va\") and Hindi (\"क\", \"म\", \"ह\", etc.), often serving as grammatical connectors, verb roots, or inflections, indicating their structural importance in sentence construction across different languages."

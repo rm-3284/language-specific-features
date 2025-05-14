@@ -1,0 +1,792 @@
+seed,generated_text
+0,"Question:Write a Python code to Display High Flossing Habits. Implement if/else and for/while loops. 
+
+Solution:Here is one way to do this. First, let's define a variable called 'count' to count how many people floss. Then, we'll use an if statement to check if the count is greater than 100. If it is, we'll print out ""Great job! Keep up the good work."" If the count is less than 100, we'll print out ""Please keep up the good work!"" Finally, we'll use a for loop to print out the message ""Please floss!"" 10 times.<|end_of_text|>"
+1,"Question:
+Let w = 0.2 + -0.3. Let s = 0.2 + w. Let u = -1.2 + s. What is the nearest to 0 in 0.4, 0, u?
+Answer:
+0<|end_of_text|>"
+2,"Question:
+Let l = -3 + 5. Let c be 0 - (-4 + l) - -2. Suppose 0 = -2*r + c*r - 1200000. Round r to the nearest one hundred thousand.
+Answer:
+200000<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Let k = -0.6 + g. Let m = -0.6 + k. What is m rounded to 1 decimal place?
+Answer:
+-0.6<|end_of_text|>"
+4,"Question:
+Let v = -0.02 - -0.02. Let t = 0.2 + v. Let l = t + -0.2. Which is the nearest to 1?  (a) l  (b) 2/11  (c) -1/4
+Answer:
+b<|end_of_text|>"
+5,"Question:
+Let z = 0.2 - 0.1. Let s = 0.9 + z. Let v = 1.9 + s. What is v rounded to 1 decimal place?
+Answer:
+1<|end_of_text|>"
+6,"def count_even_numbers(numbers):
+    """"""
+    Write a function that takes a list of numbers and returns the count of even numbers.
+    The function should use the count() method to count the number of even numbers in the list.
+    The function should use the for loop to iterate over the list and check if each number is even.
+    The function should return the count of even numbers.
+    """"""
+    count = 0
+    for num in numbers:
+        if num % 2 == 0:
+            count += 1
+    return count
+<|end_of_text|>"
+7,"# 2.5.3.6. The 2D Array
+
+The 2D array is a two-dimensional array. It is a two-dimensional array of arrays. An array is a collection of related data elements. It is an ordered collection of data. The size of an array is defined by the number of elements that the array contains. The array elements are indexed from the left to the right and from the top to the bottom. The array is defined by the following:
+
+  - Array : Array is a two-dimensional array of arrays. It is a two-dimensional array of arrays. An array is a collection of related data elements. It is an ordered collection of data. The size of an array is defined by the number of elements that the array contains. The array elements are indexed from the left to the right and from the top to the bottom. The array is defined by the following: 1. The array is a two-dimensional array of arrays. It is a two-dimensional array of arrays. An array is a collection of related data elements. It is an ordered collection of data. The size of an array is defined by the number of elements that the array contains. The array elements are indexed from the left to the right and from the top to the"
+8,"Question:Develop a Python program to Calculate Low Food hygiene score. 
+
+Solution:Here is a python script which calculates the low food hygiene score. 
+
+1. First of all, we need to import the necessary library. 
+
+2. Then we need to create an array of the required fields. 
+
+3. Then we need to set the field name and data type. 
+
+4. Then we need to set the initial value of the variable. 
+
+5. Then we need to add the code for the calculation. 
+
+6. Then we need to add the code for the display. 
+
+7. Finally we need to end with the final variable. 
+
+Below is the code for the above method. 
+
+```python
+import numpy as numpy
+def calculateLowFoodHygieneScore():
+    let = int(input(""Please enter the number of lettuces purchased: ""))
+    let = int(input(""Please enter the number of lettuce: ""))
+    let = int(input(""Please enter the number of tomatoes: ""))
+    let = int(input(""Please enter the number of tomatoes: ""))
+    let = int(input(""Please enter the number of onions: ""))
+    let = int(input(""Please enter the number of onions: ""))
+    let = int(input(""Please enter the number of peppers"
+9,"Question:
+Let x = -0.1 - -0.1. Let p = 0.7 + x. Let l = p - 0.6. Which is the nearest to l?  (a) -2/13  (b) -3  (c) 0.1
+Answer:
+c<|end_of_text|>"
+10,Question:Create a Java script snippet that Determines Extreme Nose care: Clear Nosewash for Decision Support System for Engineer for Beginners. Incorporate if/else or switch/case statements to handle different circumstances. Implement to determine which option is better. Check the answer here.<|end_of_text|>
+11,"Question:Design a C# class called ""File"" that has the following properties:
+ - Name: String
+ - Size: Integer
+ - Date: Date
+ - Type: String
+ - Date: Date
+ - Size: Integer
+ - Type: String
+ - Date: Date
+ - Size: Integer
+ - Type: String
+ - Date: Date
+ - Size: Integer
+ - Type: String
+ - Date: Date
+ - Size: Integer
+ - Type: String
+ - Date: Date
+ - Size: Integer
+ - Type: String
+ - Date: Date
+ - Size: Integer
+ - Type: String
+ - Date: Date
+ - Size: Integer
+ - Type: String
+ - Date: Date
+ - Size: Integer
+ - Type: String
+ - Date: Date
+ - Size: Integer
+ - Type: String
+ - Date: Date
+ - Size: Integer
+ - Type: String
+ - Date: Date
+ - Size: Integer
+ - Type: String
+ - Date: Date
+ - Size: Integer
+ - Type: String
+ - Date: Date
+ - Size: Integer
+ - Type: String
+ - Date: Date
+ - Size: Integer
+ - Type: String
+ - Date: Date
+ - Size: Integer"
+12,"Question:
+Let r = 0.011 + -0.01100015. Round r to 7 decimal places.
+Answer:
+0.0000001<|end_of_text|>"
+13,"Question:
+Let h = -0.1 + 0.1. Let w = 0.6 + h. Let x = 0.6 - w. What is the closest to -1 in -2, x, -3?
+Answer:
+-2<|end_of_text|>"
+14,"Question:Design a Java class called Employee. The class should have the following attributes: name, age, gender, salary, and an array of skills. The class should have the following methods: - set name, age, and gender - get name and age - get salary - get skills - set skills - get skills - add skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills - get skills"
+15,"Question:
+Let z = -0.01 - 0.31. Let f = -0.5 - z. Let r = 1.4 - f. What is r rounded to 1 decimal place?
+Answer:
+0.1<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.3. Let y = 0.37 + j. Let l = -0.0700001 - y. Round l to 7 decimal places.
+Answer:
+0.0000001<|end_of_text|>"
+17,"Question:
+Let f = 0.2 - 0.6. Let h = 0.6 + f. Let c = h - 0.70000043. What is c rounded to 7 decimal places?
+Answer:
+0.0000004<|end_of_text|>"
+18,"Question:
+Let g = 3.8 - 3.8. Let u = -1.8 + 2. Let f = u - g. What is f rounded to 1 decimal place?
+Answer:
+1.3<|end_of_text|>"
+19,Question:Build a Java module snippet that Checks Low Flossing: Benefits of Flossing for Decision Making for Experts. Incorporate if/else or switch/case statements to handle different cases based on the Trust. Ensure your control flow is well-documented with comments to ensure understanding. Test thoroughly to ensure correct implementation.<|end_of_text|>
+20,Question:Build a TypeScript module snippet that Calculates High Eye hygiene: Cleaning Eyelids Carefully for Engineer for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Safety. Ensure your control flow is well-documented with comments to explain your approach!<|end_of_text|>
+21,"Question:
+Let g = -0.1 + 0.3. Let j = 1.1 + g. Let k = 0.1 + j. Which is the closest to 0.1?  (a) -0.5  (b) k  (c) -2/11
+Answer:
+b<|end_of_text|>"
+22,"Question: Which of the following is a characteristic of anorexia nerviea?
+A. Decreased appetite
+B. Decreased body weight
+C. Decreased blood pressure
+D. Decreased pulse rate
+Answer: A<|end_of_text|>"
+23,"Question: Which of the following is not used in the treatment of the malignant hyperplasia of the thyroid?
+A. Pentaston
+B. Pentacril
+C. Pentatene
+D. Pentacryl
+Answer: B<|end_of_text|>"
+24,"Question:Write a C++ code snippet to Calculate Low Eye hygiene: Washing Hands Before Mealtimes for Engineer. Consider the Safety and implement appropriate solution. Enjoy Coding!
+Solution:Here is a C++ program to calculate low eye hygiene: washing hands before meals for engineers. The safety aspect has been considered by implementing appropriate solution. Enjoy coding!
+
+1. import java.util.*; // Inherit from Activity
+2. class ScreenActivity extends Activity { // Inherit from Activity
+3.   protected void onCreate(Bundle savedInstanceState) { // Set Screen Activity
+4.     super.onCreate(savedInstanceState); // Call superclass (super) constructor
+5.     setContentView(new LinearLayout(this).setStyle(
+6.         new SpineLayout(new LinearLayout().setStyle(new SpineLayout(new LinearLayout())))));
+7.   }
+8. }
+9. class SpineLayout extends LinearLayout { // Inherit from LinearLayout
+10.   public void onCreate() { // Set SpineLayout
+11.     super(""0px 0 0px 0px 0px 0px 0px 0px"", 0, 0, 0, 0);
+12.   }
+13. }
+14. class LinearLayout extends LinearLayout { // Inherit from LinearLayout
+15.  "
+25,"Question:Build a Python module that determines whether an integer is even or odd.
+Answer: Here is a python solution.
+
+    def isEven(num):
+        if num%2==0:
+            return True
+        else:
+            return False
+    return isEven(5)<|end_of_text|>"
+26,"Question:
+Let s = -4.9 + 5. Let l = 0.5 + s. Let w = l - -1.999998. Round w to 6 decimal places.
+Answer:
+0.000002<|end_of_text|>"
+27,"Question:Develop a Python program to check whether a given number is a prime number or not. The solution should be implemented using for loop.
+
+Solution:Here is a python program which checks whether a given number is a prime number or not. The solution is implemented using for loop. 
+
+```java
+import java.util.*;
+class PrimeCheck {
+    public static void main(String args) {
+        Scanner sc = new Scanner(System.in);
+        int num = sc.nextInt();
+        for (int i=2; i<=10; i++) {
+            if (num%i==0) {
+                System.out.println(""no"");
+                break;
+            }
+        }
+    }
+}
+```<|end_of_text|>"
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.2 - t. Let r = -0.3 - c. What is r rounded to 1 decimal place?
+Answer:
+-1<|end_of_text|>"
+29,"Question:Write a Bash code to check if a number is even or odd. 
+Answer:Write a code to check if a number is even or odd. 
+
+```javascript
+function check(num) {
+  if (num % 2 === 0) {
+    return ""even"";
+  } else {
+    return ""odd"";
+  }
+}
+console.log(check(10)); // output: even
+```<|end_of_text|>"
+30,"Question:
+Let n = -0.1 - -0.2. Let s = n - -0.5. Let u = s - -0.4. What is u rounded to 1 decimal place?
+Answer:
+0.9<|end_of_text|>"
+31,"Question:
+Let m = -1.07 + 1.07. Let w = 0.0000006 + m. Round w to 7 decimal places.
+Answer:
+0.0000006<|end_of_text|>"
+32,"Question:
+Let t = 0.9 - -0.1. Let x = 1.8 + t. Let l = x + -0.8. What is the nearest to l in -3, -2, -0.3?
+Answer:
+-0.3<|end_of_text|>"
+33,"def calculate_expenses(expenses: dict):
+    """"""
+    Calculates the total expenses from the given dictionary.
+
+    Parameters
+    ----------
+    expenses: dict
+        A dictionary of the expenses for each month
+
+    Returns
+    -------
+    total_expenses: float
+        The total expenses from the given dictionary
+    """"""
+
+    total_expenses = 0
+
+    for key, value in expenses.items():
+        if key == ""rent"":
+            total_expenses += value
+        elif key == ""food"":
+            total_expenses += value
+        elif key == ""transport"":
+            total_expenses += value
+        else:
+            total_expenses += value
+
+    return total_expenses
+<|end_of_text|>"
+34,"Question: Which of the following is not a feature of anorexia nerviea?
+A. Bulging abdomen
+B. Anorexia
+C. Weight loss
+D. Thirst
+Answer: A<|end_of_text|>"
+35,"Question:
+What is prob of picking 2 e and 1 z when three letters picked without replacement from {z: 1, e: 7, n: 3}?
+Answer:
+1/20<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -1.6. Let r = o + 1. Let t = r + -1.0000004. What is t rounded to 7 decimal places?
+Answer:
+-0.0000004<|end_of_text|>"
+37,"# List of the top 10 broadcasters in 2016
+
+The following is a list of the top 10 broadcasters in 2016, according to the Korean Broadcasting Corporation (KBS). The list is based on the sales of television programs on the KBS network in 2016. The sales of television programs are calculated by adding the total number of viewers of the KBS programs that aired in 2016, excluding the programs that aired on the Korean Broadcasting Corporation (KBC). The list is based on the data from the official KBS website. The rankings are based on the number of viewers who watched the programs on the KBS network.
+
+## Table
+
+| | | Top 10 in 2016 |
+| 순위 | 방송사 | 프로그램명 | 시청인수 | 방송일 |
+| 1. | KBS | KBS2 | 10.2% | 2016 |
+| 2. | SBS | SBS MTV | 9.6% | 2016 |
+| 3. | MBC | MBC Music | 8.9% | 2016 |
+| 4. | MBC | MBC PlusPlus | 8.6% | 2016 |
+| 5. | MBC | M"
+38,"Question:
+What is prob of picking 1 t and 2 p when three letters picked without replacement from {t: 5, p: 4}?
+Answer:
+6/7<|end_of_text|>"
+39,"Question:
+Let t = -0.06 + 0.5. Let x = t - 0.6. Let r = 0.6 + x. What is r rounded to one decimal place?
+Answer:
+0.6<|end_of_text|>"
+40,# 7.4.2.3.1.2.1.2.2.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
+41,"Question:
+Let a = -1.1 + 1.3. Let j = -1.2 + a. Let x = -0.2 - j. What is x rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>"
+42,"Question:
+Let l = 0.3 - 0.6. Let s = -0.3 + l. Let n = -0.3 + s. What is the closest to n in -0.4, 0.5, -1?
+Answer:
+-0.4<|end_of_text|>"
+43,"Question:
+Let k = -0.037 + 0.037. Let w = -0.4 - k. Let s = -0.0000014 + w. Round s to 6 decimal places.
+Answer:
+-0.000001<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + -2. Let s = 0.9 - 0.9. Let m = o - s. What is m rounded to the nearest integer?
+Answer:
+1<|end_of_text|>"
+45,"Question:
+Let x = 0.9 + -1. Let c = -0.1 + x. Let m = -0.3 + c. Which is the closest to m?  (a) 0.5  (b) -2  (c) 1/4
+Answer:
+b<|end_of_text|>"
+46,"Question:Build a Java module snippet that Calculates High Eye hygiene: Washing Hands Before Mealtimes for Engineer for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Responsibility. Ensure your control flow is well-segregated with adequate documentation. 
+
+Solution:Here is a sample java program which calculates high eye hygiene based on washing hands before meals. It uses if else statement to check whether the user inputted age is less than 20 then they will get -10 points, otherwise they will get +10 points. 
+
+```java
+import java.util.*;
+class HandHygiene {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println(""Enter Your Age"");
+        int age = scan.nextInt();
+        if (age < 20) {
+            System.out.println(""Your Hand Hygiene Score is -10"");
+        } else {
+            System.out.println(""Your Hand Hygiene Score is +10"");
+        }
+    }
+}
+```<|end_of_text|>"
+47,"# Generated by the SBT Coding Convention
+# This is a translation of the original coding conventions
+# for the project
+# https://github.com/spring-music/spring-music/blob/master/spring-music-server/spring-music-server/src/main/java/spring/music/serv…
+# This is the first time to use this coding convention
+# This is the first time to use this coding convention
+
+# This is the first time to use this coding convention
+# This is the first time to use this coding convention
+# This is the first time to use this coding convention
+# This is the first time to use this coding convention
+# This is the first time to use this coding convention
+# This is the first time to use this coding convention
+# This is the first time to use this coding convention
+# This is the first time to use this coding convention
+# This is the first time to use this coding convention
+# This is the first time to use this coding convention
+# This is the first time to use this coding convention
+# This is the first time to use this coding convention
+# This is the first time to use this coding convention
+# This is the first time to use this coding convention
+# This is the first"
+48,Question:Build a Java module snippet that Updates Low Ear hygiene: Cleaning Ear With Cotton Swabs for Analysis for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Ethics. Ensure your control flow is well-sealed with good code quality. Test carefully to ensure the quality of the code.<|end_of_text|>
+49,"Question:Design a Java class named ChatMessage. The class should have the following attributes:
+- chatID : ChatID is a unique ID for each chat. It is used to identify the chat.
+- chatName : ChatName is a name of the chat. It is used to identify the chat.
+- chatContent : ChatContent is the message that is being sent to the chat. It is used to identify the message.
+- chatTime : ChatTime is the time when the message was sent to the chat. It is used to identify the time.
+- chatRoom : ChatRoom is the chat room where the message was sent to. It is used to identify the room.
+- chatStatus : ChatStatus is the status of the chat. It is used to identify the status.
+- chatCount : ChatCount is the number of messages in the chat. It is used to identify the count.
+- chatType : ChatType is the type of the chat. It is used to identify the type.
+- chatImg : ChatImg is the image of the chat. It is used to identify the image.
+- chatCount : ChatCount is the number of messages in the chat. It is used to identify the count.
+- chatType : ChatType is the type of"
+50,"Question:
+Let g = 0.2 - 0.2. Let z = -0.2 + 0.5. Let l = g - z. What is the nearest to l in -0.3, 4, 0.5?
+Answer:
+-0.3<|end_of_text|>"
+51,"Question:
+Let w = -0.2 + 0.1. Let j = -0.3 - w. Let n = -0.2 + j. Which is the second smallest value?  (a) n  (b) 1/2  (c) -1/6
+Answer:
+c<|end_of_text|>"
+52,"def create_new_list(old_list):
+    """"""
+    Create a new list by copying an existing list.
+    """"""
+    new_list = old_list.copy()
+    return new_list
+<|end_of_text|>"
+53,"Question:
+What is prob of picking 1 j and 1 y when two letters picked without replacement from yjyjyjyjj?
+Answer:
+6/15<|end_of_text|>"
+54,"Question: Which of the following is not a feature of malignant catarrd?
+A. Low fever
+B. High fever
+C. Leucocytosis
+D. Leukopenia
+Answer: B<|end_of_text|>"
+55,"def count_primes(n):
+    """"""
+    Given a positive integer n, return the number of prime numbers less than or
+    equal to n.
+
+    Note: A prime number is a positive integer greater than 1 that is divisible
+    only by 1 and itself.
+    """"""
+    prime_list = []
+    for i in range(2, n+1):
+        for j in range(2, i):
+            if i % j == 0:
+                break
+        else:
+            prime_list.append(i)
+    return sum(prime_list)
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>"
+57,"Question:
+Let w = -0.0547 + 0.0447. Let r = w + 0.14. Let k = 0.9 + r. What is k rounded to 2 decimal places?
+Answer:
+-0.4<|end_of_text|>"
+58,"def marketing_slogan(slogan):
+    """"""
+    Given a marketing slogan, return the number of words in the slogan that are not
+    vowels. If the number of words is less than 10, return 'FAIL'.
+    """"""
+    words = []
+    for word in slogan.split():
+        if word in 'aeiouAEIOU':
+            words.append(word)
+    return len(words) if len(words) > 10 else 'FAIL'
+<|end_of_text|>"
+59,"def find_primes(n):
+    """"""
+    Return all prime numbers less than or equal to n
+    """"""
+    prime = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    for i in range(n):
+        if prime[i] <= n:
+            print(prime[i])
+<|end_of_text|>"
+60,"Question:
+Let h = -0.046 + 0.04600067. Round h to seven decimal places.
+Answer:
+-0.0000007<|end_of_text|>"
+61,"Question:
+Let l = -7.9 + 7.9. Let p = -0.3 + l. Let x = -0.2 + p. What is x rounded to 2 decimal places?
+Answer:
+0<|end_of_text|>"
+62,"Question:
+Let f = -0.4 - -0.7. Let v = f - -0.8. Let z = 0.7 + v. What is z rounded to two decimal places?
+Answer:
+0.1<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.0270004. Round o to 6 decimal places.
+Answer:
+-0.000004<|end_of_text|>"
+64,"Question:
+Let q = -0.6 + 0.6. Let l = -1.1 + q. Let v = -0.1 + l. What is v rounded to one decimal place?
+Answer:
+-0.1<|end_of_text|>"
+65,"Question:
+Let k = -0.046 - -0.04600086. Round k to 7 decimal places.
+Answer:
+0.0000009<|end_of_text|>"
+66,"Question:Build a Python module that implements the following interface to the Game of Life. The initial
+concentration of life in a given position is 80%. The death and birth rates are 5 and 3
+respectively. The game starts with the life of the whole map occupied by life. The cost of
+construction is 13. One life costs 0.5 to create. The cost of transport is 5.
+If the death rate is higher than the birth rate, the result is a healthy grassland. If the life
+amount in the whole map becomes 80 or greater, the result is a healthy world. If the result is
+satisfactory, the result is a perfect world.
+Implement the following interface to the Game of Life. Implement the update() method. The
+update() method should be called once per the moment to update the whole game. The
+initial life should be equal to the minimum life amount shown in the above figure. The
+initial life is 100. The life of the whole map becomes 80 or greater to indicate a
+satisfactory game. The life of the whole map becomes 80 or greater to indicate a
+satisfactory game. Implement the game end condition. The game should be in"
+67,Question:Design a Python module to Calculate Extreme Nose care. Implement if/else or switch/case statements to handle different cases based on the Privacy Policy. Ensure your code is free of errors and contains high quality content. Ensure your code is free of any types of coding conventions.<|end_of_text|>
+68,"Question:
+What is 3/10 of a tonne in kilograms?
+Answer:
+300<|end_of_text|>"
+69,"Question:
+Let d = -0.1 + 0.3. Let a = 1.3 + d. Let m = -1.7 + a. What is the closest to m in -1/4, 1, 2?
+Answer:
+-1/4<|end_of_text|>"
+70,"Question: Which of the following is the best treatment for the treatment of the following?
+A. Acyclovir
+B. Prednisone
+C. Acyclovir and Prednisone
+D. Prednisone and Acyclovir
+Answer: C<|end_of_text|>"
+71,"Question:
+Let l = 0.3 - 0.4. Let r = -0.3 - l. Let i = 0.4 - r. What is i rounded to 1 decimal place?
+Answer:
+0.4<|end_of_text|>"
+72,"Question:
+Let m = -0.4 + 0.4. Let d = 0.4 + -0.3. Let h = d - m. What is h rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>"
+73,"def calculate_gdp(sales):
+    """"""Calculate the GDP of a country based on the sales data.
+
+    sales: a list of sales data for a country
+
+    return: the GDP of the country
+    """"""
+    gdp = 0
+    for i in range(len(sales)):
+        if sales[i] > 0:
+            gdp += sales[i]
+    return gdp
+<|end_of_text|>"
+74,"def slice_and_dice(my_list):
+    """"""
+    Given a list of integers, return a new list containing only the positive
+    integers from the original list. The new list should be in the same
+    order as the original list.
+
+    For example, given the list [1, 2, 3, 4, 5], the output should be [1, 2, 3, 4, 5].
+    """"""
+
+    new_list = []
+    for i in my_list:
+        if i > 0:
+            new_list.append(i)
+    return new_list
+<|end_of_text|>"
+75,"Question:Build a C#8.0 Onmelet using the following specifications. 
+• 5cmx5cm
+• 3mm
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3/4
+• 3"
+76,"Question:
+Let r = 0.5 + -0.9. Let q = -0.4 + r. Let t = -1.2 + q. What is t rounded to 1 decimal place?
+Answer:
+-0.2<|end_of_text|>"
+77,"def create_room_layout(room_size, furniture_list):
+    """"""
+    Create a room layout for a new house.
+
+    The room layout is a dictionary with the following keys:
+    - 'walls': the walls of the room
+    - 'furniture': the furniture in the room
+    - 'furniture_colors': the colors of the furniture
+    - 'furniture_positions': the positions of the furniture in the room
+    - 'furniture_types': the types of the furniture
+    - 'furniture_sizes': the sizes of the furniture
+
+    The room layout should be generated based on the following rules:
+    - The walls are made of the same color as the furniture
+    - The furniture is placed in the room according to the following rules:
+        - The furniture is placed in the center of the room
+        - The furniture is placed in a straight line
+        - The furniture is placed in a corner
+    - The furniture is placed in a straight line
+    - The furniture is placed in a corner
+    - The furniture is placed in a straight line
+    - The furniture is placed in a corner
+    - The furniture is placed in a straight line
+    - The furniture is placed in a corner
+    - The furniture is"
+78,"Question: Which of the following is not a feature of the disease?
+A. Acanthosis
+B. Anemia
+C. Dermatitis
+D. Fatigue
+Answer: A<|end_of_text|>"
+79,"Question:
+Let n = 0.3 - 0.3. Let f = 0.1 + n. Let u = -0.1 + f. What is u rounded to one decimal place?
+Answer:
+-1.2<|end_of_text|>"
+80,"Question:
+What is the next term in 12, 24, 38, 54, 72, 92, 114?
+Answer:
+138<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.7. Let x = 0.2 - o. Let p = -0.000006 - x. What is p rounded to 5 decimal places?
+Answer:
+0.00001<|end_of_text|>"
+82,"Question:
+Let u = -0.025 - 0.025. Let v = u + 0.05. Let k = -0.95 + v. Round k to one decimal place.
+Answer:
+0.1<|end_of_text|>"
+83,"Question:
+What is the third biggest value in -1, 1, -2/7?
+Answer:
+-1<|end_of_text|>"
+84,"def update_athlete_stats(athlete_stats, new_stats):
+    """"""
+    Update the athlete's stats with the new stats.
+    If the new stats are more than the current stats, add the new stats.
+    If the new stats are less than the current stats, subtract the new stats.
+    If the new stats are equal to the current stats, do nothing.
+    """"""
+    if new_stats > athlete_stats:
+        athlete_stats += new_stats
+    elif new_stats < athlete_stats:
+        athlete_stats -= new_stats
+    else:
+        return
+<|end_of_text|>"
+85,"def modify_list(my_list):
+    """"""
+    Modify the elements in the list by adding 10 to each element.
+    """"""
+    for i in range(len(my_list)):
+        my_list[i] = my_list[i] + 10
+    return my_list
+
+<|end_of_text|>"
+86,"Question:Build a Python module that determines whether an integer is even or odd. 
+Implement the following API. 
+- checkSensitivity - Returns a message indicating whether or not the integer is even or odd.
+- checkSensitivity( int ) - Returns a message indicating whether or not the integer is even or odd.
+- checkSensitivity( int ) : str
+    If int is even, return ""Even"" 
+    If int is odd, return ""Odd"" 
+    If int is not even or odd, return ""Neither"" 
+In addition, consider the following 
+- if int > 100: 
+    return ""Over""
+    return ""Not Over""
+In this case, if int is over 100, return ""Over"". 
+Otherwise, return ""Not Over"" 
+Note that this API is not restricted to any particular language. 
+It can be implemented using a single class. 
+The development environment specified requires Eclipse, Eclipse Classic. 
+At least EclipseSDK 3.5. 
+Please implement the above functions. 
+You are advised to implement the functions with a single class. 
+The development environment includes Eclipse, Eclipse Classic. 
+At least EclipseSDK 3.5. 
+Please implement the above functions. 
+You are advised to implement"
+87,"Question:Create a Python script snippet that Displays High Eye hygiene: Washing Hands Before Mealtimes. Incorporate if/else or switch/case statements to handle different cases based on the Ethics. Dry-run, then implement to achieve the same result. Don't forget to comment to explain what this code does.
+Solution:Here is a python program which implements high eye hygiene by checking whether hands were washed before eating. It uses If else statement to check whether hands were washed or not. If they were not, then it prompts user to wash their hands. It also provides feedback after washing hands. This program is well commented and easy to understand. 
+
+```python
+import random
+def washHands():
+    print(""Please wash your hands"")
+    return input(""Do you want to wash your hands? (y/n): "")
+def checkHands():
+    global handsWashed
+    if input(""Did you wash your hands? (y/n) : "") == 'y':
+        print(""Good job! Keep up the good work."")
+    else:
+        print(""Please wash your hands again."")
+        washHands()
+while True:
+    hands = washHands()
+    if hands == ""y"":
+        print(""Good job!"")
+    else:
+        print(""Please wash your hands again"
+88,"Question:
+Let w = 0.1 - -0.2. Let s = -0.6 + w. Let m = -0.6 + s. What is the closest to m in 1/4, -2, -2/13?
+Answer:
+-2/13<|end_of_text|>"
+89,"Question:
+Let n = -0.6 - -0.6. Let m = 0.6 - n. Let p = 1.4 + m. What is p rounded to one decimal place?
+Answer:
+1.2<|end_of_text|>"
+90,"def add_to_set(set, element):
+    """"""Add an element to a set""""""
+    return set.add(element)
+
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 103 is divided by 1?
+Answer:
+0<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 2. Let g = 0.3 + p. Let h = 0.7 - g. What is the smallest value in -1, h, 3?
+Answer:
+-1<|end_of_text|>"
+93,"Question:
+Let j = 0.5 - -1.5. Let l = 0.1 + j. Let f = -0.9 + l. Which is the closest to 1?  (a) f  (b) 2/7  (c) -3
+Answer:
+b<|end_of_text|>"
+94,"Question:Build a Go module repository for the following topics.
+- [X] How to use git
+- [X] How to use gitlab
+- [X] How to use github
+- [X] How to use bitbucket
+- [X] How to use bitbucket
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use github
+- [X] How to use"
+95,"Question:
+Let o = 0.2 + -0.2. Let p = 0.1 + o. Let j = 0.2 + p. What is j rounded to 1 decimal place?
+Answer:
+1<|end_of_text|>"
+96,# 3.6.4.1.2.3.1.1.3.2.2.1.2.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
+97,"Question:
+Let c = 0.5 - -0.5. Let u = c + -1. Let n = 0.4 - u. What is n rounded to two decimal places?
+Answer:
+0.4<|end_of_text|>"
+98,"Question:Develop a Java program to Display High Handicap Scores. Consider the following requirements:
+
+Solution:Here is a sample java program which displays high handicap scores. The program uses a for loop to iterate through each array and check if the current score is greater than the maximum score. If so, the current score will be stored in the array.
+
+1. Create a new ArrayList called highScoreList. This will store the high scores.
+2. For each index in the array, add the current score to the array.
+3. If the current score is greater than the maximum score, then add it to the array.
+4. Display the high scores by printing them out.
+
+Note: This is just a sample code and may be different for your implementation.<|end_of_text|>"
+99,"def find_unique_elements(my_list):
+    """"""
+    Given a list of integers, find the unique elements in the list.
+    Return the unique elements as a list.
+    """"""
+    unique_elements = []
+    for num in my_list:
+        if num not in unique_elements:
+            unique_elements.append(num)
+    return unique_elements
+<|end_of_text|>"

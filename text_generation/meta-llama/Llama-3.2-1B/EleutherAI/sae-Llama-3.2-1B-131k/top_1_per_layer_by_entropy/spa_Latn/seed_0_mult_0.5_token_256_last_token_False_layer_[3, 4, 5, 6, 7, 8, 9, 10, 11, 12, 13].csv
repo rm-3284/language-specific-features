@@ -1,0 +1,827 @@
+seed,generated_text
+0,"Question:Write a Python code snippet to Calculate Extreme Nail care: Trimming Nails for Decision Making for Beginners. Consider the Safety and implement appropriate if/else or switch/case statements to do so. Escriba un código en Python que calcule el costo de la limpieza de dientes según el tipo de diente y el tamaño de diente. Elige una de las opciones que se presentan en la página web de la empresa y realiza el cálculo correspondiente. Crea una función que reciba los datos necesarios y los muestre en la consola. Si no se puede calcular el coste, el programa debe mostrar un mensaje indicando que el dato no se puede calcular. 
+
+Solution:```python
+//Código
+import math
+def calcularCosto(diente, tamaño):
+    if (diente == ""diente esmalte"" && tamaño == ""dientes pequeños"")
+        return 0.15 * tamaño
+    else if ((diente == ""diente esmalte"" && tamaño == ""dientes medianos"")
+        return 0.20 * tamaño
+    else if (diente == ""diente natural"" && tamaño == ""dientes grandes"")
+        return 0."
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 + d. Let u = s - -0.01. What is u rounded to 2 dps?
+Answer:
+0.01<|end_of_text|>"
+2,"Question:
+Let l = -3.4 - -3. Let m = 0.2 - l. Let w = -0.2 + m. Which is the closest to 0?  (a) w  (b) 3  (c) -3
+Answer:
+a<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Let w = -0.04 + g. Let m = -0.06 + w. Which is the closest to 0.1?  (a) m  (b) -0.3  (c) 2/9
+Answer:
+c<|end_of_text|>"
+4,"Question:
+Let v = -0.02 - -0.02. Let t = 0.03 + v. Let y = t + -0.08. Which is the nearest to 1?  (a) y  (b) 2/3  (c) -1/4
+Answer:
+b<|end_of_text|>"
+5,"Question:Develop a Ruby program that calculates the factorial of a given number. The factorial of a positive number n, denoted by n!, is the product of all the positive numbers below n, including n itself.
+# Ejemplo:
+# 5! = 5 x 4 x 3 x 2 x 1 = 120
+# 4! = 4 x 3 x 2 x 1 = 24
+# 3! = 3 x 2 x 1 = 6
+# 2! = 2 x 1 = 2
+# 1! = 1
+
+def factorial(n):
+    # Calcula el factorial de un número
+    if n == 0 or n == 1:
+        return 1
+    else:
+        return n * factorial(n - 1)
+        
+# Ejecución del programa
+n = 5
+print(""El factorial de "" + str(n) + "" es: "" + str(factorial(n)))
+<|end_of_text|>"
+6,"def count_vaccines(pet, vaccines):
+    """"""Recibe un diccionario que contiene el nombre de los vacunadores y las vacunas que tienen que vacunar.
+    Devuelve un diccionario con el nombre de los vacunadores que no tienen que vacunar.
+    """"""
+    vacunados = {}
+    for vacunador, vacuna in vaccines.items():
+        if pet in vacunador:
+            vacunados[vacunador] = vacuna
+        else:
+            vacunados[vacunador] = ""No vacunado""
+    return vacunados
+<|end_of_text|>"
+7,"# 2.º Cuerpo de Ejército
+
+El 2.º Cuerpo de Ejército (2.º Cuerpo o 2 Cuerpo) fue un cuerpo de ejército del Ejército del Este en la Segunda Guerra Civil Española.
+
+## Historia
+
+### Formación
+
+El 2.º Cuerpo de Ejército fue creado el 11 de abril de 1937, en Madrid, con el nombre de 2.º Cuerpo de Ejército de Andalucía, siendo el 2.º Cuerpo de Ejército de la División Guerra Civil.
+
+El 2.º Cuerpo de Ejército, con el nombre de 2.º Cuerpo de Ejército de Andalucía, fue creado el 11 de abril de 1937, en Madrid, con el nombre de 2.º Cuerpo de Ejército de Andalucía, siendo el 2.º Cuerpo de Ejército de la División Guerra Civil.
+
+El 2.º Cuerpo de Ejército, con el nombre de 2.º Cuerpo de Ej"
+8,"Question:Develop a Python program that calculates the factorial of a number. The factorial of a positive number N is the product of all positive numbers up to and including N. For example, the factorial of 5 is 5 * 4 * 3 * 2 * 1 = 120. The factorial of a negative number is 0. In this exercise, you will have to implement a recursive function to calculate the factorial of a number, so you will have to use a factorial function that has been defined for you.
+<|end_of_text|>"
+9,"Question:
+Let x = -0.2 - -0.1. Let p = 0.1 + x. Let l = p - 0.1. Which is the closest to l?  (a) 2  (b) 1  (c) -3
+Answer:
+b<|end_of_text|>"
+10,"Question:Create a Java script snippet that Determines Extreme Nose care: Humidification para Pacientes con Síndrome de Asfixia Respiratoria (SAR) using a Web Service REST. Se debe realizar la consulta a una base de datos de un hospital. El resultado debe ser una lista de pacientes con su respectiva humedad de respiración. Utilice la clase Esfuerzo Humedad Respiratoria (EHR) de la librería de Java, que se puede descargar en el siguiente enlace: https://github.com/ESOLab/esfuerzo-humedad-respiratoria. Se debe realizar la consulta a una base de datos de un hospital. El resultado debe ser una lista de pacientes con su respectiva humedad de respiración. Utilice la clase Esfuerzo Humedad Respiratoria (EHR) de la librería de Java, que se puede descargar en el siguiente enlace: https://github.com/ESOLab/esfuerzo-humedad-respiratoria. Se debe realizar la consulta a una base de datos de un hospital. El resultado debe ser una lista de pacientes con su respectiva humedad de respiración. Utilice la clase Esfuerzo Humedad Respiratoria (E"
+11,"Question: A patient with a history of head injury, is admitted to the hospital with a fever of 38.5 ° C. The physician orders a chest X-ray, which shows a consolidation in the right lower lobe. The patient is treated with antibiotics and his fever decreases. The next day, the patient begins to improve and his temperature is 37.2 ° C. The physician orders a CT scan of the head, which shows an increase in the size of the lesion. The patient is admitted to the intensive care unit. The physician orders a lumbar puncture to perform a CSF culture. The patient is afebril. The CSF is clear and colorless. The analysis of the CSF is as follows: Glucose 45 mg/dL; Protein 1.1 mg/dL; Glucose 45 mg/dL; Glucose 45 mg/dL; Glucose 45 mg/dL; Glucose 45 mg/dL; Glucose 45 mg/dL; Glucose 45 mg/dL; Glucose 45 mg/dL; Glucose 45 mg/dL; Glucose 45 mg/dL; Glucose 45 mg/dL; Glucose 45 mg/dL; Gl"
+12,"Question:
+Let r = 0.011 + -0.071. Let f = 0.0600035 + r. What is f rounded to 6 decimal places?
+Answer:
+0.000003<|end_of_text|>"
+13,"Question:
+Let h = -0.05 + 0.05. Let w = 0.07 + h. Let x = 0.007 - w. What is x rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>"
+14,"Question:Design a Java function that receives as parameter un array de enteros y regresa una lista de enteros ordenados en base a su valor. Es decir, la lista debe estar ordenada de menor a mayor valor. Las funciones de ordenamiento que se utilizan son el método Bubble y el método Selection.
+A. private void ordenar(int[] a){
+     int n = a.length;
+     for (int i = 0; i < n; i++){
+         for (int j = 0; j < n-1; j++){
+             if (a[j] > a[j+1]){
+                 int temp = a[j];
+                 a[j] = a[j+1];
+                 a[j+1] = temp;
+     System.out.println(""El orden de los numeros es: "");
+     for (int i = 0; i < a.length; i++){
+         System.out.print(a[i] + "" "");
+        //Ordena el arreglo en orden descendiente
+        this.bubbleSort(a, 0, a.length-1);
+    //Ordena el arreglo en orden ascendente
+    this.selectionSort(a, 0, a.length-1);
+    //Ordena el arreglo en orden ascendente
+    this.bubble"
+15,"Question:
+Let y = -0.01 - 0.01. Let f = -0.06 - y. Let r = 0.05 - f. Which is the nearest to 0?  (a) -1/5  (b) 1/4  (c) r
+Answer:
+a<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.22. Let y = 0.17 + j. Let l = -0.07 - y. Which is the second smallest value?  (a) l  (b) 0.2  (c) 3
+Answer:
+b<|end_of_text|>"
+17,"Question:
+Let u = 0.009 - 0.011. Let h = 0.003 + u. Let p = h - 0.027. What is p rounded to 1 decimal place?
+Answer:
+-0.3<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3. Let o = 0.2 - y. Let u = 0.1 - o. What is u rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>"
+19,"Question:Build a Java module that calculates the factorial of a number. The factorial of a number n is the product of all the numbers from 1 to n. You must use recursion and the method factorial() of the java.math library. The factorial of 0 is 1. The factorial of a negative number is 0. The factorial of 1 is 1. The factorial of n*n is n!.
+Solution:```package java.com.;public class Factorial {    public static int factorial(int n) {        if (n == 0) {            return 1;        } else {            return n * factorial(n-1);        }    }    public static void main(String[] args) {        System.out.println(factorial(5));    } }```<|end_of_text|>"
+20,"Question:Build a Ruby module named `Number` que cumpla los siguientes requisitos:
+
+1. Realice un programa que pida al usuario un número y que este sea válido para el método `to_string`. Si no es válido, debe mostrar un mensaje que diga que es un número incorrecto y volver a pedirlo. Si el número es correcto, debe mostrar el método `to_string()` y que el resultado sea el mismo que el número ingresado.
+2. Realice un programa que pida al usuario un número y que este sea válido para el método `to_int`. Si no es válido, debe mostrar un mensaje que diga que es un número incorrecto y volver a pedirlo. Si el número es correcto, debe mostrar el método `to_int()` y que el resultado sea el mismo que el número ingresado.
+3. Realice un programa que pida al usuario un número y que este sea válido para el método `to_float`. Si no es válido, debe mostrar un mensaje que diga que es un número incorrecto y volver a pedirlo. Si el número es correcto, debe mostrar el método `to_float()` y que el resultado sea el mismo que el número ingresado.
+4. Realice"
+21,"Question:
+Let g = -0.012 + -0.003. Let y = 0.016 + g. Let k = 0.0099982 + y. Round k to six decimal places.
+Answer:
+-0.000002<|end_of_text|>"
+22,"Question: Which of the following is the most common cause of anemia in the adult?
+A. Esophageal varices
+B. Autoimmune
+C. Tumor
+D. Anemias hemolíticas
+Answer: A<|end_of_text|>"
+23,"Question: Which of the following is the most common cause of intestinal obstruction in adults?
+A. Gastritis
+B. Intestinal polip
+C. Esophagitis
+D. Hernia inguinal
+Answer: D<|end_of_text|>"
+24,"Question:Write a C# code snippet to Transform Low Foot care: Tratamiento de las infecciones de la piel y articulaciones infecciosas in la población adulta. Considera el uso de tecnologías de la información y de la comunicación para el seguimiento de la población y la entrega de servicios de salud.
+
+Solution:Here is some code in C# that can help transform low foot care: Treatment of infections of the skin and articular infections in the adult population. Consider the use of technologies of information and communication to follow up on the population and to provide health services.
+
+```csharp
+// Define variables
+var patient = new Patient(""John"", 35);
+var doctor = new Doctor(""Dr. Smith"", 45);
+var nurse = new Nurse(""Nora"", 40);
+
+// Define functions
+function calculateAge(patient){
+    return patient.getAge();
+}
+
+function getDoctor(patient){
+    return doctor;
+}
+
+function getNurse(patient){
+    return nurse;
+}
+
+// Define methods
+function showData(patient){
+    System.out.println(""Name: "" + patient.getName());
+    System.out.println(""Age: "" + patient.getAge());
+}
+
+function showServices(patient){
+    System.out.println(""Services: "");
+   "
+25,"# Héctor Esquino
+
+Héctor Esquino (Buenos Aires, 25 de febrero de 1911-ibídem, 23 de abril de 1995) fue un actor teatral y cinematográfico de origen argentino, conocido por sus papeles en obras de teatro, especialmente de la Compañía de Teatro de la Nación.
+
+## Biografía
+
+Héctor Esquino nació en Buenos Aires el 25 de febrero de 1911. Su padre, Antonio Esquino, fue director de teatro en la Compañía de Teatro de la Nación. Héctor se formó en el Centro de Especialización Dramática de la Escuela Superior de Arte Dramático (ESAD) de la Universidad de Buenos Aires, donde obtuvo el diploma de actor en 1932. Esquino es reconocido por su trabajo en el teatro argentino, en especial en obras de teatro de la Compañía de Teatro de la Nación, y en la televisión, donde participó en diversos programas de la Televisión Nacional del Radio y Televisión Argentina (TNR-TV). F"
+26,"Question:
+Let s = -4.25 + 4.2. Let x = 0.05 + s. Let p = x + 0.01. Which is the second biggest value?  (a) -0.5  (b) p  (c) 1/5
+Answer:
+a<|end_of_text|>"
+27,"Question:Develop a Python program that calculates the factorial of a number. 
+
+Solution:import math
+def factorial(n):
+    if n == 0 or n == 1:
+        return 1
+    else:
+        return n * factorial(n-1)
+    
+print(""El factorial de 5 es: "", factorial(5))
+print(""El factorial de 5 es: "", factorial(5))
+<|end_of_text|>"
+28,"Question:
+Let t = 0.05 - 0.05. Let j = 0.2 - t. Let r = -0.3 - j. What is r rounded to 1 dp?
+Answer:
+-0.2<|end_of_text|>"
+29,"Question:Write a C# code snippet to Calculate Extreme Flossing: Análisis de Variabilidad y Ruido en Dataframes using Python. Considera el caso de un proyecto que estudia la relación entre el nivel de flossing y la edad de los participantes en una muestra de 100 personas. El proyecto debe incluir la obtención de datos de una base de datos de pacientes con un flossing de 1, 2, 3 o 4 esferas. Se debe calcular la media y el desvano intercuencial de cada uno de los grupos de edad. Además, se debe calcular la relación entre el nivel de flossing y la edad de los participantes. El proyecto debe incluir el uso de un paquete de análisis de datos y se debe usar el paquete se debe usar para calcular el desvano intercuencial y la media. El proyecto debe incluir el uso de un paquete de análisis de datos y se debe usar el paquete se debe usar para calcular el desvano intercuencial y la media. El proyecto debe incluir el uso de un paquete de análisis de datos y se debe usar el paquete se debe usar para calcular el desvano"
+30,"Question:
+Let y = -0.009 - -0.041. Let s = y - 0.033. Let u = s - -0.001. What is u rounded to 2 decimal places?
+Answer:
+0.01<|end_of_text|>"
+31,"Question:
+Let m = -1.07 - -1.07. Let w = 0.03 + -0.03. Let a = w + m. Which is the nearest to 0.2?  (a) 0.1  (b) -0.4  (c) 2/5
+Answer:
+a<|end_of_text|>"
+32,"Question:
+Let t = 0.002 - -0.038. Let x = 0.035 + t. Let g = x + -0.048. What is g rounded to two decimal places?
+Answer:
+-0.03<|end_of_text|>"
+33,"def analyze_data(data):
+    """"""
+    This function takes a list of data and returns the number of elements that are greater than 100 and less than 200.
+    The function uses a conditional statement and the ternary operator to perform the operation.
+    """"""
+    result = 0
+    for element in data:
+        if element > 100 and element < 200:
+            result += 1
+    return result
+<|end_of_text|>"
+34,"Question: Which of the following is the best therapy in a patient with a history of recurrent esophageal perforation?
+A. Esophago-gastro-duodenoscopy
+B. Esophago-gastro-duodenoscopy followed by endoscopic closure of the esophageal perforation
+C. Esophago-gastro-duodenoscopy followed by endoscopic closure of the esophageal perforation and esophagogastroduodenoscopy
+D. Esophago-gastro-duodenoscopy followed by endoscopic closure of the esophageal perforation and esophagogastroduodenoscopy followed by esophagogastroplastia
+Answer: A<|end_of_text|>"
+35,"Question:
+What is prob of picking 2 e when two letters picked without replacement from {e: 3, u: 3, v: 4, w: 4}?
+Answer:
+1/26<|end_of_text|>"
+36,"Question:
+Let o = 0.004 + -0.004008. What is o rounded to 5 decimal places?
+Answer:
+-0.00001<|end_of_text|>"
+37,"# List of episodes de la serie de televisión Los Simpson
+
+Los Simpson es una serie de televisión animada estadounidense producida por la compañía Fox Broadcasting Company, con guion y dirección de Al Álvarez, y es la primera serie animada producida por la cadena. Está basada en la serie de televisión homónima creada por James L. Brooks y la animadora, creadora y productora es el mismo creador de la serie animada Los Simpson, y es la primera serie animada que tiene el mismo nombre que la serie de televisión. La serie se emite en español en Televisa y fue la primera serie animada de la cadena en transmitirse en Latinoamérica. Se estrenó el 17 de septiembre de 1990, siendo la primera serie animada de Fox en transmitirse en Latinoamérica. El 8 de noviembre de 2016 se estrenó el 23.º episodio de la 28.ª temporada, en que se da a conocer que la serie se va a cancelar definitivamente tras 28 temporadas.
+
+## Producción
+
+### Antecedentes
+
+Los Simpson es una serie animada que se basa"
+38,"Question:
+What is the common denominator of 3/10 and 89/10?
+Answer:
+10<|end_of_text|>"
+39,"Question:
+Let t = -0.028 + -0.022. Let x = t - -0.11. Let y = 0.079 + x. What is y rounded to one dp?
+Answer:
+0.8<|end_of_text|>"
+40,"# 2002 en televisión
+
+2002 en televisión
+
+## Año 2002
+
+* 2002 en Argentina
+
+## Año 2002 en España
+
+* 2002 en España
+
+## Año 2002 en México
+
+* 2002 en México
+
+## Año 2002 en el mundo
+
+* 2002 en el mundo
+
+## Espectáculos
+
+### Televisión
+
+* 2002 en España
+
+## Premios
+
+* 2002 en España
+
+## Cine
+
+* 2002 en España
+
+## Televisión
+
+### Televisión
+
+* 2002 en España
+
+## Televisión
+
+### Televisión
+
+* 2002 en España
+
+## Televisión
+
+### Televisión
+
+* 2002 en España
+
+## Televisión
+
+### Televisión
+
+* 2002 en España
+
+## Televisión
+
+### Televisión
+
+* 2002 en España
+
+## Televisión
+
+### Televisión
+
+* 2002 en España
+
+## Televisión
+
+### Televisión
+
+* 2002 en España
+
+## Televisión
+
+### Televisión
+
+* 2002 en España
+
+## Tele"
+41,"Question:
+Let a = -1.1 + 0.7. Let j = -1.2 - a. Let x = -0.2 - j. What is x rounded to 1 decimal place?
+Answer:
+-0.2<|end_of_text|>"
+42,"Question:
+Let l = 0.033 - 0.053. Let d = -0.3 + l. Let f = d - -0.0299992. Round f to 6 decimal places.
+Answer:
+-0.000001<|end_of_text|>"
+43,"Question:
+Let u = -0.0376 - -0.0537. Let f = u + -0.0154. Let q = 0.04 + f. What is q rounded to two decimal places?
+Answer:
+0.01<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + -2. Let s = 0.1 - o. Let y = 1.4 - s. What is y rounded to one dp?
+Answer:
+1.4<|end_of_text|>"
+45,"Question:
+Let x = 0.007 + 0.093. Let d = 0.15 + x. Let v = -0.1 - d. What is v rounded to 2 decimal places?
+Answer:
+0.01<|end_of_text|>"
+46,"Question:Build a Java module that calculates the area of a triangle given the base and the altura. Use if-else to handle the case where the altura is 0.
+
+Solution:```java
+public class Calculadora {
+    public static void main(String[] args) {
+        double base = 5;
+        double altura = 3;
+        System.out.println(""El area del triangulo es: "" + calculaArea(base, altura));
+    }
+
+    private static double calculaArea(double base, double altura) {
+        if (altura == 0){
+            return 0;
+        }else{
+            return base * altura / 2;
+        }
+    }
+}
+```<|end_of_text|>"
+47,"# Generated by Django 2.2.6 on 2019-10-09 10:16
+
+from django.db import migrations, models
+
+
+class Migration(migrations.Migration):
+
+    dependencies = {
+        'contabilidad' => [
+            ('contabilidad', '0011_auto_20191008_1619'),
+        }
+
+    operations = [
+        migrations.AlterField(
+            model_name='detalleventa',
+            name='fecha',
+            field=models.DateField(),
+        ),
+    ]
+<|end_of_text|>"
+48,"Question:Build a Java application that counts the number of words with more than 3 characters that appear in a given text. The application must count the number of words in the text and show the count in the console.
+Solution:Write a Java program that counts the number of words with more than 3 characters that appear in a given text. The application must count the number of words in the text and show the count in the console.
+<|end_of_text|>"
+49,"Question:Design a Java function that receives a string y que se encuentra en un archivo txt y devuelve el valor de la suma de los numeros que se encuentren en el mismo. El archivo se encuentra en un directorio y se llama ""sum.txt"". El valor de y es siempre un entero.
+    Ej: 
+    y = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+    y = 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+    y = 21, 22, 23, 24, 25, 26, 27, 28, 29, 30
+    y = 31, 32, 33, 34, 35, 36, 37, 38, 39, 40
+    y = 41, 42, 43, 44, 45, 46, 47, 48, 49, 50
+    y = 51, 52, 53, 54, 55, 56, 57, 58"
+50,"Question:
+Let g = 0.0124 - -0.0117. Let h = g + -0.01. Let o = h - -0.029. What is o rounded to two dps?
+Answer:
+0.03<|end_of_text|>"
+51,"Question:
+Let w = -0.0022 + -0.0028. Let j = w + 0.100000009. Round j to 7 decimal places.
+Answer:
+0.0000001<|end_of_text|>"
+52,"def create_list_of_numbers(n):
+    """"""Generates a list of numbers from 1 to n using a for loop""""""
+    list_of_numbers = []
+    for i in range(1, n + 1):
+        list_of_numbers.append(i)
+    return list_of_numbers
+
+<|end_of_text|>"
+53,"Question:
+What is prob of picking 1 j and 1 y when two letters picked without replacement from yjyjyjyjj?
+Answer:
+16/45<|end_of_text|>"
+54,"Question:Develop a Python program that checks if a number is greater than 1000. If the number is greater than 1000, it must be printed in the console with a message indicating that the number is greater than 1000. If the number is less than or equal to 1000, it must be printed in the console with a message indicating that the number is less than or equal to 1000.
+
+Solution:Here is a python program that checks if a number is greater than 1000. If the number is greater than 1000, it must be printed in the console with a message indicating that the number is greater than 1000. If the number is less than or equal to 1000, it must be printed in the console with a message indicating that the number is less than or equal to 1000.
+
+```python
+def check_number(n):
+    if n > 1000:
+        print(""El número es mayor a 1000"")
+    else:
+        print(""El número es menor o igual a 1000"")
+
+check_number(1234)
+check_number(567)
+check_number(1000)
+```<|end_of_text|>"
+55,"def count_cultures(cultures):
+    """"""Takes a list of cultures and counts the number of cultures that are located in the Andes region.""""""
+    count = 0
+    for culture in cultures:
+        if culture[""region""] == ""Andes"":
+            count += 1
+    return count
+
+cultures = [
+    {
+        ""name"": ""Aymara"",
+        ""region"": ""Andes"",
+        ""color"": ""red"",
+        ""type"": ""cultural""
+    },
+    {
+        ""name"": ""Inca"",
+        ""region"": ""Andes"",
+        ""color"": ""green"",
+        ""type"": ""cultural""
+    },
+    {
+        ""name"": ""Aguila"",
+        ""region"": ""Andes"",
+        ""color"": ""blue"",
+        ""type"": ""cultural""
+    },
+    {
+        ""name"": ""Aguila"",
+        ""region"": ""Andes"",
+        ""color"": ""red"",
+        ""type"": ""cultural""
+    }
+]
+
+count_cultures(cultures)
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>"
+57,"Question:
+Let w = -0.0067 + 0.0034. Let r = w + 0.003. Let x = 0.0002 - r. What is x rounded to three decimal places?
+Answer:
+0.001<|end_of_text|>"
+58,"def nested_loops_and_if_statements(n):
+    """"""
+    Write a program that uses nested loops and if statements to print the numbers from 1 to n, but only if they are multiples of 3 or 5.
+
+    Example:
+    Input: n = 10
+    Output:
+                                                                
+                                                                
+                                                                
+                                                                
+                                                         
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+"
+59,"Question:
+What is the common denominator of 71/2 and 57/25?
+Answer:
+50<|end_of_text|>"
+60,"Question:
+Let h = -0.046 + 0.046003. Round h to five decimal places.
+Answer:
+0.00001<|end_of_text|>"
+61,"Question:
+Let l = -7.7 - -7.9. Let p = -0.3 + l. Let x = -0.2 - p. What is x rounded to 1 decimal place?
+Answer:
+-0.2<|end_of_text|>"
+62,"Question:
+Let g = -0.004 - -0.005. Let a = g + -0.009. Let z = 0.009 + a. Round z to 2 dps.
+Answer:
+0.01<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.0270214. What is o rounded to 5 decimal places?
+Answer:
+0.00002<|end_of_text|>"
+64,"Question:
+Let q = -0.045 + 0.0450068. Round q to five decimal places.
+Answer:
+0.00006<|end_of_text|>"
+65,"Question:
+Let h = -0.046 - -0.057. Let p = 0.017 + h. Let j = -0.019 - p. What is j rounded to 2 dps?
+Answer:
+-0.02<|end_of_text|>"
+66,"Question:Create a Python script snippet that Calculates Low Flossing: Choosing Dental Floss That Fits Your Needs. Use if/else statements to present the user with different options based on their answer. The script should use the following variables: name, age, gender, and country.
+Solution:Here is a python script that calculates low flossing: choosing dental floss that fits your needs. Use if/else statements to present the user with different options based on their answer. The script should use the following variables: name, age, gender, and country.
+
+Solution:```python 
+# Variables
+name = input(""Ingrese su nombre: "")
+age = int(input(""Ingrese su edad: ""))
+gender = input(""Es hombre (m) o mujer (f): "")
+country = input(""Es de España (s) o de otro país (o): "")
+
+
+# Calculo del floss que se debe usar
+if(gender == ""m"" && age >= 18){
+    print(""El floss recomendado es el dental espejo"")
+} else if(gender == ""f"" || age < 18){
+    print(""El floss recomendado es el dental cerdas largas"")
+} else {
+    print(""No hay ningún tipo de"
+67,"Question:Design a Python function that, given an array of integers, escribe un programa que determine si la suma de los dos primeros es mayor que el último. Si es así, imprima la suma. De lo contrario, imprima el último valor.
+A. sumaMayor()
+B. sumaMayor2()
+C. sumaMayor3()
+D. sumaMayor4()
+Answer: A<|end_of_text|>"
+68,"Question:
+What is 3/10 of a tonne in kilograms?
+Answer:
+300<|end_of_text|>"
+69,"Question:
+Let d = -0.0461 + 0.04609546. What is d rounded to 6 decimal places?
+Answer:
+0.000005<|end_of_text|>"
+70,"Question: Which of the following is the best marker para la deteccion de diabetes mellitus?
+A. Glucosa en sangre
+B. Insulina
+C. Glucosa en plasma
+D. Insulin en plasma
+Answer: B<|end_of_text|>"
+71,"Question:
+Let l = 0.021 - 0.052. Let r = -0.0031 + l. Let y = 0.003 - r. What is y rounded to 2 dps?
+Answer:
+0.01<|end_of_text|>"
+72,"Question:
+Let m = -0.0124 + 0.0095. Let y = 0.012 - m. Let j = y + -0.009998. Round j to 5 dps.
+Answer:
+0.00001<|end_of_text|>"
+73,"def calculate_gdp(gdp_anterior, gdp_actual):
+    """"""Calcula el gasto público en el país, y el gasto privado en el sector privado, de acuerdo al gasto público y el gasto privado en el sector privado.
+    El gasto público se calcula como el gasto total menos el gasto de inversión, el gasto de inversión es el gasto público menos el gasto de inversión.
+    El gasto privado en el sector privado se calcula como el gasto total menos el gasto de inversión, el gasto de inversión es el gasto privado menos el gasto de inversión.
+    El gasto público y el gasto privado en el sector privado se calcula con el gasto total y el gasto de inversión.
+    """"""
+    gasto_pública = gdp_anterior - gdp_actual
+    gasto_privado = gdp_anterior - gdp_actual - gasto_de_inversión
+    return gasto_pública, gasto_privado
+<|end_of_text|>"
+74,"Question:Develop a Neo4j database and Cypher query solution that displays all the movies that have been released in 2017 and the name of the director of the film. The director must have a name that starts with ""D"" and ends with ""e"", and the name of the director must be different from the director of the film ""Alfardo"". The result should be displayed in the form of a table.
+<|end_of_text|>"
+75,"Question:Create a Python script snippet that Calculates Low Flossing: Análisis de Flujos de Cuerpo Humano (FCH) para pacientes con dolor de muelas. Use un diccionario con los resultados obtenidos como salida.
+
+Solution:Here is a python script that calculates low flossing: a analysis of body fluids flow (FCH) for patients with tooth pain. Use a dictionary with the results as output.
+
+```python 
+# Define variables
+var1 = 35 # Variable de entrada
+var2 = 24 # Variable de salida
+var3 = 10 # Variable de salida
+
+# Funcion de calculo de fCH
+def calculaFCH():
+    # Crea un diccionario con los resultados
+    resultado = {
+        'var1' : var1, 
+        'var2' : var2, 
+        'var3' : var3
+    }
+    
+    return resultado
+    
+# Funcion de impresión de resultados
+def imprimirResultado(resultado):
+    print(""Los resultados son:"")
+    for key in resultado:
+        print(key, "": "", resultado[key])
+        
+# Inicia la ejecucion del programa
+if __name__ == '__main__':
+    calculaFCH"
+76,"Question:
+Let y = 0.049 - -0.051. Let d = -0.08 + y. Let g = d - -0.000000009. What is g rounded to seven dps?
+Answer:
+0.0000001<|end_of_text|>"
+77,"def create_a_tuple_de_consejos_2(lista_de_consejos):
+    """"""Se debe crear una tupla con los consejos que se deben seguir y la cantidad de consejos que se debe dar por cada uno.""""""
+    # 1. Se debe crear una tupla con los consejos que se deben seguir.
+    # 2. Se debe crear una lista de los consejos que se debe dar por cada uno.
+    # 3. Se debe calcular el número de consejos que se debe dar por cada uno.
+    # 4. Se debe mostrar la tupla con los consejos que se debe seguir.
+    # 5. Se debe mostrar la lista con los consejos que se debe dar por cada uno.
+    # 6. Se debe mostrar el número de consejos que se debe dar por cada uno.
+
+    # 1. Se debe crear una tupla con los consejos que se debe seguir.
+    # 2. Se debe crear una lista de los consejos que se debe dar por cada uno.
+    # 3. Se debe calcular el número de consejos que se debe dar por cada uno.
+    # 4. Se debe mostrar la tupla con los consejos que se debe seguir.
+   "
+78,"Question: Which of the following is the most common cause of renal failure in the neonatal period?
+A. Escleritis
+B. Congenital malformations
+C. Esclerosis
+D. Infección
+Answer: A<|end_of_text|>"
+79,"Question:
+Let x = 0.023 - 0.033. Let f = 0.03 - x. Let u = f + -0.019. What is u rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+80,"Question:
+What is the next term in 12, 24, 36, 48, 60, 72?
+Answer:
+84<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.7. Let x = 0.2 - o. Let p = x - 0.4. Which is the third smallest value?  (a) -3  (b) p  (c) 1/3
+Answer:
+c<|end_of_text|>"
+82,"Question:
+Let u = -0.009 - 0.091. Let v = u + 0.09. Let k = -0.09 + v. Round k to one dp.
+Answer:
+0<|end_of_text|>"
+83,"Question:
+Let w = 0.017 - 0.018. Let h = 0.035 + w. Let c = 0.035 + h. Round c to one decimal place.
+Answer:
+0.1<|end_of_text|>"
+84,"def update_medication(medication, new_dosage):
+    """"""Update la cantidad de medicamento que se esta tomando""""""
+    if medication['dosage'] >= 10:
+        medication['dosage'] = new_dosage
+    return medication
+
+<|end_of_text|>"
+85,"def modify_tuple(my_tuple):
+    """"""Modify the elements of a tuple using slicing and the unconditioned ternary operator.
+
+    Args:
+        my_tuple (tuple): The tuple to modify.
+
+    Returns:
+        The modified tuple.
+    """"""
+    my_tuple[0] = my_tuple[0] + 1
+    my_tuple[1] = my_tuple[1] - 1
+    my_tuple[2] = my_tuple[2] * 2
+    return my_tuple
+<|end_of_text|>"
+86,"Question:Build a Python module snippet that calculates the sum of the first 100 multiples of 3 or 5. Use a for loop and the modulo operator. No classes, no external libraries, no recursion.
+Solution:```python
+def suma3():
+    suma = 0
+    for i in range(1, 101):
+        if i % 3 == 0 or i % 5 == 0:
+            suma += i
+    return suma
+```<|end_of_text|>"
+87,"Question:Create a Python script snippet that Displays Extreme Flossing: Benefits of Flossing Your Teeth for Analysis in Python. Use if/else or switch/case statements to conditionally display different contents based on the Trust. The script should also include a function to calculate the total number of sentences in the article.
+
+Solution:Here is a python script that displays extreme flossing benefits of flossing teeth for analysis in python. The script uses `if` / `else` or `switch` / `case` statements to conditionally display different contents depending on the trust value of each sentence. Additionally, the script includes a function to calculate the total number of sentences in the article.
+
+ ```python 
+import pandas as pd
+from vega import *
+import numpy as np
+from math import sqrt
+
+# Carga el archivo de datos
+df = load_csv('articles.csv')
+
+# Calcula el promedio de palabras por artículo
+def calc_mean(df):
+    # Calcula el promedio de palabras por artículo
+    return df['Sentencia'].apply(lambda x: len(x.split(' ')))
+
+# Calcula el promedio de palabras por artículo
+def calc_mean(df):
+    # Calcula el promedio de palabras por artículo
+    return df['"
+88,"Question:
+Let w = 0.1 - -0.2. Let s = -0.1 + w. Let m = -0.01 + s. Which is the closest to -1?  (a) m  (b) 1  (c) -0.1
+Answer:
+c<|end_of_text|>"
+89,"Question:
+Let n = -0.031 - 0.005. Let m = 0.0344 + n. Round m to 3 decimal places.
+Answer:
+0.002<|end_of_text|>"
+90,"def add_to_set(set_a, set_b, elemento_a, elemento_b):
+    """"""Dado un conjunto de números y un elemento, añade ese elemento al conjunto y lo muestra en pantalla.
+
+    Args:
+        set_a (set): Un conjunto de números.
+        set_b (set): Un conjunto de números.
+        elemento_a (int): Un elemento del conjunto.
+        elemento_b (int): Un elemento del conjunto.
+    """"""
+    print(set_a.union(set_b).union({elemento_a, elemento_b}))
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 103 is divided by 29?
+Answer:
+20<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 2. Let g = 0.3 + p. Let h = 0.2 - g. What is the smallest value in -2, h, 3?
+Answer:
+-2<|end_of_text|>"
+93,"Question:
+Let j = 0.001 - -1.999. Let l = 0.1 + j. Let f = -0.029 + 0.0290032. What is f rounded to 6 decimal places?
+Answer:
+0.000003<|end_of_text|>"
+94,"Question:Build a Go function that calculates the factorial of a given number. 
+* The function must take an integer number as parameter and return the factorial of that number.
+* The factorial of a number is the product of all the numbers from 1 to the given number.
+* The function must be named factorial.
+* The function must use recursion.
+* The function must be written as a function and not as a function. 
+* The function must be written in the form: factorial(n) 
+* The function must be written as a function and not as a function. 
+* The function must be written in the form: factorial(n) 
+* The function must be written as a function and not as a function. 
+* The function must be written as a function and not as a function. 
+* The function must be written as a function and not as a function. 
+* The function must be written as a function and not as a function. 
+* The function must be written as a function and not as a function. 
+* The function must be written as a function and not as a function. 
+* The function must be written as a function and not as a function. 
+* The function must be written as a function and not as a function"
+95,"Question:
+Let o = 0.2 + 1.8. Let w = o - 1.2. Let j = 0.2 + w. Which is the closest to -1?  (a) j  (b) -1  (c) 2/5
+Answer:
+b<|end_of_text|>"
+96,"# 2004 en literatura
+
+Aces de 2004
+
+## Año
+
+* 2004
+
+## Premios
+
+* Premio Cervantes al Mejor Libro de la Edición Invierte
+* Premio Planeta de los Libros a la mejor novela
+* Premio Planeta de los Libros a la mejor narrativa
+* Premio Planeta de los Libros a la mejor historia
+* Premio Planeta de los Libros a la mejor novela juvenil
+* Premio Planeta de los Libros a la mejor colección de cuentos
+* Premio Planeta de los Libros a la mejor colección de cuentos juveniles
+* Premio Planeta de los Libros a la mejor colección de cuentos cortos
+* Premio Planeta de los Libros a la mejor colección de cuentos cortos juveniles
+* Premio Planeta de los Libros a la mejor colección de cuentos cortos juveniles
+* Premio Planeta de los Libros a la mejor colección de cuentos cortos
+* Premio Planeta de los Libros a la mejor colección de cuentos cortos
+* Premio Planeta de"
+97,"Question:
+Let c = 0.5 - -0.3. Let u = c + -0.4. Let v = 0.5 - u. Which is the closest to v?  (a) -1  (b) 0.3  (c) 3
+Answer:
+b<|end_of_text|>"
+98,"Question:Develop a Java program that calculates the total cost of a purchase made on the web, taking into account the following:
+1.- The cost of the product
+2.- The amount of the discount that the customer has received
+3.- The tax rate of the country in which the product is purchased
+4.- The delivery cost of the product
+
+Solution:<|end_of_text|>"
+99,"def psychologist_intersection_exercise(person, group):
+    """"""
+    You are a psychologist and you have been asked to study the behavior of a group of people in a certain way. You have been given a list of participants and their data, which you must analyze and interpret. The data is stored in a list of dictionaries, where each dictionary represents a participant and their data. Each dictionary has the following keys:
+    - 'name': The name of the participant.
+    - 'age': The age of the participant.
+    -'sex': The sex of the participant.
+    - 'income': The income of the participant.
+    - 'education': The education of the participant.
+    - 'occupation': The occupation of the participant.
+    - 'interests': A list of interests of the participant.
+    - 'hobbies': A list of hobbies of the participant.
+    - 'hobbies': A list of hobbies of the participant.
+    - 'hobbies': A list of hobbies of the participant.
+    - 'hobbies': A list of hobbies of the participant.
+    - 'hobbies': A list of hobbies of the participant.
+    - 'hobbies': A list of hobbies of the participant.
+    - 'hobbies': A list of hobbies of"

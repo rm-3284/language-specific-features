@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly short function words, prefixes, or single letters from various languages, often marking grammatical relationships, verb forms, or serving as conjunctions and prepositions. These tokens are crucial for sentence structure and meaning, especially in morphologically rich or agglutinative languages."

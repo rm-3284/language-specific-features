@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly Chinese nouns and morphemes that denote concrete objects, locations, roles, or abstract concepts, often forming the core of compound words or phrases central to the sentence’s meaning. These tokens frequently appear as the main subject, object, or key element in descriptive or informative contexts."

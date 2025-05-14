@@ -1,0 +1,949 @@
+seed,generated_text
+0,"Question:Write a Python code snippet to Display Low Nail care: Trimming Nails for Engineer for Professionals. In this code, you will learn how to:
+1. Trim your nails
+2. Apply base coat
+3. Apply color
+4. Apply top coat
+5. Display the nail polish name
+6. Display the nail polish brand
+7. Display the nail polish price
+8. Display the nail polish size
+9. Display the nail polish color
+10. Display the nail polish shape
+11. Display the nail polish size
+12. Display the nail polish size
+13. Display the nail polish price
+14. Display the nail polish brand
+15. Display the nail polish name
+16. Display the nail polish color
+17. Display the nail polish brand
+18. Display the nail polish price
+19. Display the nail polish size
+20. Display the nail polish shape
+21. Display the nail polish size
+22. Display the nail polish color
+23. Display the nail polish brand
+24. Display the nail polish name
+25. Display the nail polish color
+26. Display the nail polish brand
+27. Display the nail polish price
+28. Display the nail polish size
+29. Display the nail polish shape
+30"
+1,"Question:
+Let d = 0.2 + -0.3. Let s = 0.2 + d. Let u = s - -0.1. Which is the nearest to 0.1?  (a) 0.4  (b) u  (c) -0.1
+Answer:
+c<|end_of_text|>"
+2,"Question:
+Let q = -3 + 5. Let c be 1/(2/(-2)*q). Let t = 0.1 + 0.1. Which is the third biggest value?  (a) t  (b) 4  (c) 0.5
+Answer:
+c<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Let k = g - 0.3. Let m = -0.3 + k. Which is the closest to 0.1?  (a) m  (b) -0.3  (c) 2/9
+Answer:
+c<|end_of_text|>"
+4,"Question:
+Let v = -0.02 - -0.02. Let t = 0.03 + v. Let o = t + 0.03. Which is the nearest to 2/5?  (a) -1  (b) o  (c) -1/4
+Answer:
+b<|end_of_text|>"
+5,"Question:Develop a Python program snippet to Update Low Handwashing technique: Rinsing Properly for Engineer for Experts. Incorporate if/else or switch/case statements to handle various cases related to the Trust. Dry-run, ensure your solution is effective and user-friendly. Deploy it to a CDN server to publish the updated low hand washing technique.
+
+Solution:Here's some sample python code which implements the update low hand washing technique ""Rinsing properly"" as requested by the expert:
+
+1. Define a function `update_low_handwashing` to perform the task of updating the low handwashing technique. The function takes two arguments - `technique`, which represents the original low handwashing technique, and `expert`, which represents the name of the expert who provided the instruction. 
+2. Use an `if`/`else` statement to check whether the given technique is currently being used by any experts or not. If the technique is currently being used, then do not change it. Otherwise, update the technique by adding a new step at the end of the existing list. For instance, let's say there are two techniques currently being used by experts - Technique A and Technique B. We need to add another step to Technique A so that both techniques look like this:
+"
+6,"def count_even_numbers(my_list):
+    """"""Write a function that takes a list of integers as input and returns the number of even numbers in the list.
+    # Test case 1:
+    assert count_even_numbers([1, 2, 3, 4, 5]) == 5
+    # Test case 2:
+    assert count_even_numbers([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]) == 10
+    # Test case 3:
+    assert count_even_numbers([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]) == 15
+    # Test case 4:
+    assert count_even_numbers([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]) == 20
+    # Test case 5:
+    assert count_even"
+7,"# 1968 in Brazil
+
+Events from the year 1968 in Brazil.
+
+## Timeline
+
+* February 22 – The Portuguese occupation of the island of Cat Ba is ended.
+* February 28 – A plane crash kills 11 people and injures 8 more in the city of Sao Paulo.
+* March 1 – The death of President Ngo Dinh Diem.
+* March 1 – The Portuguese occupation of the island of Cat Ba is ended.
+* March 3 – The death of Prime Minister Ngo Dinh Nhu.
+* March 6 – The death of President Ngo Dinh Diem.
+* March 9 – The death of President Ngo Dinh Nhu.
+* March 11 – The death of Prime Minister Ngo Dinh Nhu.
+* March 12 – The death of Prime Minister Ngo Dinh Nhu.
+* March 13 – The death of President Ngo Dinh Diem.
+* March 16 – The death of Prime Minister Ngo Dinh Nhu.
+* March 18 – The death of President Ngo Dinh Diem.
+* March 21 – The death of President Ngo Dinh Diem.
+* March 22 – The death of Prime Minister Ngo D"
+8,"Question:Develop a Python program snippet to Check High Security: Cybersecurity for Engineer for Professionals. In this task, the user will be required to input the password of the user account and then check the security level of the account. The program will then print the result to the console.
+Solution:Here is a python program which checks the high security level of the user account. The program uses the `os` library to check the security level of the user account and then prints the result to the console.
+
+1. First, we import the `os` library to use its functions.
+```python
+import os
+```
+2. Then, we create a function named `check_high_security` which takes two arguments - the username and the password of the user account.
+```python
+def check_high_security(username, password):
+    # Check the security level of the user account
+    # If the security level is 1 or 2, print ""High security level""
+    # If the security level is 3, print ""Medium security level""
+    # If the security level is 4 or 5, print ""Low security level""
+    if os.getuid() == 0:
+        print(""High security level"")
+    else:
+        if os.geteuid"
+9,"Question:
+Let x = -0.1 - -0.1. Let p = 0.1 + x. Let l = p - 0.1. Which is the nearest to l?  (a) 2  (b) 1  (c) -3
+Answer:
+b<|end_of_text|>"
+10,"Question:Create a C# program snippet to Check High Flossing: Correct Flossing Technique for Engineer for Beginners. Incorporate if/else or switch/case statements to handle various cases related to the Safety. Dry-run, then provide comments explaining your design decision and overall implementation.
+
+Solution:Here is a possible implementation of the C# program:
+```c#
+using System;
+
+namespace ConsoleApp1
+{
+    public class Program
+    {
+        static void Main(string[] args)
+        {
+            // Prompt user to enter their age
+            Console.Write(""Enter your age: "");
+            double age = double.Parse(Console.ReadLine());
+
+            // Determine whether the user is eligible for high flossing
+            bool eligibleForHighFlossing = (age >= 18)? true : false;
+
+            // Display result based on eligibility status
+            if (eligibleForHighFlossing)
+                Console.WriteLine(""Congratulations! You are eligible for high flossing."");
+            else
+                Console.WriteLine(""Sorry! You are not eligible for high flossing."");
+        }
+    }
+}
+```<|end_of_text|>"
+11,"Question: A 25-year-old man presents to the emergency department with the following symptoms: palpitation, anxiety, and shortness of breath. He has no chest pain, nausea, or vomiting. He has a history of smoking 1 pack of cigarettes daily for 20 years. He has never had a history of high blood pressure or a family history of heart disease. He is a heavy drinker and is a known alcoholic. Physical examination reveals a heart rate of 62/min, a regular pulse, and a S1Q3T4 heart sound. The ECG shows sinus rhythm. The ECG is repeated 6 hours later. Which of the following ECG findings is most likely to be present in this patient?
+A. S1Q3T4
+B. P2 prolongation
+C. P2 splitting
+D. T3 widening
+Answer: B<|end_of_text|>"
+12,"Question:
+Let r = 0.011 + -0.011000006. What is r rounded to 7 decimal places?
+Answer:
+-0.0000001<|end_of_text|>"
+13,"Question:
+Let h = -0.1 + 0.1. Let w = 0.1 + h. Let x = 0.6 - w. Which is the closest to -1?  (a) -4  (b) x  (c) 1/4
+Answer:
+b<|end_of_text|>"
+14,"Question:Design a C# function to find the largest number from an array of integers.
+```
+//C# program to find the largest number from an array of integers
+using System;
+class Program
+{
+    //Function to find the largest number from an array of integers
+    static int findLargest(int[] arr)
+    {
+        //Variable to store the largest number
+        int largest = arr[0];
+        //Variable to store the current largest number
+        int currentLargest = arr[0];
+        //Variable to store the current smallest number
+        int currentSmallest = arr[0];
+        //Variable to store the index of the current largest number
+        int indexLargest = 0;
+        //Variable to store the index of the current smallest number
+        int indexSmallest = 0;
+        //Loop to iterate through the array
+        for (int i = 0; i < arr.Length; i++)
+        {
+            //If the current number is the largest number
+            if (arr[i] > currentLargest)
+            {
+                //If the current number is the smallest number
+                if (arr[i] < currentSmallest)
+                {
+                    //Update the current smallest number
+                    currentSmallest"
+15,"Question:
+Let y = -0.01 - 0.31. Let f = -0.5 - -0.4. Let s = y - f. Which is the nearest to 0?  (a) s  (b) 3/2  (c) -2/9
+Answer:
+a<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.03. Let y = 0.01 + j. Let l = -0.01 - y. Which is the second smallest value?  (a) l  (b) 0.2  (c) 4
+Answer:
+b<|end_of_text|>"
+17,"Question:
+Let t = 0.2 - 0.1. Let h = -0.1 + t. Let c = h - 0.1. Which is the closest to c?  (a) 0.3  (b) -1/2  (c) -0.1
+Answer:
+a<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - -0.2. Let o = -2.8 + y. Let c = o - -3.9999991. Round c to 7 decimal places.
+Answer:
+-0.000001<|end_of_text|>"
+19,"Question:Build a Java module snippet that Checks Extreme Social Media: Social Media Marketing for Decision Making for Professionals. Incorporate if/else or switch/case statements to implement the different cases. Ensure your control flow has a clear and concise design. Provide all necessary comments to help other developers understand the code.
+
+Solution:Here is a possible implementation of this requirement in java:
+
+1. Create a new Java class named ""CheckExtremeSocialMedia"" with a method called ""Check"" which takes two parameters - a string array containing the names of the social media platforms and a boolean value indicating whether the user wants to see all platforms or not. The method should return a string array containing the names of the social media platforms separated by commas.
+
+2. Implement the ""if"" statement to check if the current platform is Twitter, Facebook, Instagram or LinkedIn. If yes, then add the name of the platform to the output string array. Else, do nothing. The method should use the ""return"" keyword to exit the loop once all platforms have been checked.
+
+3. Use the ""switch"" statement to check if the current platform is YouTube, TikTok or Pinterest. If yes, then add the name of the platform to the output string array. Else, do nothing. The method should"
+20,"Question:Build a TypeScript module snippet that Displays High Regular health check-ups: Preventive Measures for the Elderly. In this measure, the elderly are advised to:
+A. Do regular physical exercise
+B. Eat a balanced diet
+C. Keep a healthy weight
+D. Avoid smoking
+Answer: A<|end_of_text|>"
+21,"Question:
+Let g = -0.1 + -1.9. Let y = 1.9 + g. Let k = 2.3 + y. Round k to 1 decimal place.
+Answer:
+-1.1<|end_of_text|>"
+22,"Question: Which of the following is a common site of metastatic spread from carcinoma stomach
+A. Liver
+B. Lungs
+C. Bone
+D. Brain
+Answer: B
+Explanation: Carcinoma stomach is one of the most common malignant tumors of the digestive tract, accounting for about 5% of all gastrointestinal malignancies. In 1970s, the incidence of gastric carcinoma had been shown to be increasing rapidly. By 1980, it was estimated that 90,000 new cases were diagnosed annually, with about 25,000 deaths. The mortality rate of gastric carcinoma is about 7-10% per year. The most common histological types of gastric carcinoma are: Adenocarcinoma (40-60%), Squamous cell carcinoma (20-30%), and Lymphoma (10-20%).<|end_of_text|>"
+23,"Question: Which of the following is not a feature of atherosclerosis?
+A. Calcific atherosclerosis
+B. Fibrinoid necrosis
+C. Fatty streaks
+D. Necrotic cores
+Answer: A<|end_of_text|>"
+24,"Question:Write a C++ program to find the largest positive integer that is divisible by 4, 6, 9, 12, 15, 18, 21, 24, 27, 30, 33, 36, 39, 42, 45, 48, 51, 54, 57, 60, 63, 66, 69, 72, 75, 78, 81, 84, 87, 90, 93, 96, 99 and 102. The program should use a nested for loop to iterate over the array of numbers and find the largest integer that is divisible by all the given numbers. The program should also print the largest integer.
+
+Solution:Here is a possible implementation of the algorithm described above:
+
+    #include <iostream>
+    #include <cctype>
+    #include <ctime>
+    
+    int main() 
+    {
+        const int SIZE = 10;
+    
+        int arr[SIZE] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+    
+        // Find the largest positive integer that is divisible by all"
+25,"Question:Build a Python module snippet that Checks Low Flossing: Correct Flossing Technique for Engineer for Experts. Incorporate if/else or switch/case statements to handle different cases. Ensure the code reliability with LSP, DSP, DOP, and UOP. Implement prepositions as per NLP requirements. Provide all the required features and the complete solution.<|end_of_text|>"
+26,"Question:
+Let s = -4.9 + 5. Let l = 0.1 + s. Let w = l - -0.1. Which is the closest to w?  (a) -2/9  (b) 1/3  (c) 1
+Answer:
+a<|end_of_text|>"
+27,"Question:Develop a Python program snippet to Transform Low Security: Cybersecurity for Engineer for Beginners. In this chapter, the students will learn about the following topics:
+    - Introduction to cybersecurity
+    - Cybersecurity threats
+    - Cybersecurity concepts
+    - Cybersecurity tools and techniques
+    - Security best practices
+    - Security incident management
+    - Security policies and procedures
+    - Security audit
+    - Security testing
+    - Security management
+    - Security incident response
+    - Cybersecurity governance
+    - Cybersecurity awareness
+    - Cybersecurity culture
+    - Cybersecurity education
+    - Cybersecurity career opportunities
+    - Cybersecurity salary
+    - Cybersecurity job roles
+    - Cybersecurity skills
+    - Cybersecurity challenges
+    - Cybersecurity threats
+    - Cybersecurity threats
+    - Cybersecurity threats
+    - Cybersecurity threats
+    - Cybersecurity threats
+    - Cybersecurity threats
+    - Cybersecurity threats
+    - Cybersecurity threats
+    - Cybersecurity threats
+    - Cybersecurity threats
+    - Cybersecurity threats
+    - Cybersecurity threats
+    - Cybersecurity threats
+    - Cybersecurity threats
+    - Cybersecurity threats
+    - Cybersecurity threats
+    - Cybersecurity threats
+"
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.2 - t. Let r = -0.3 - c. What is r rounded to 1 decimal place?
+Answer:
+-0.3<|end_of_text|>"
+29,"Question:Write a Go code snippet to Update Low Fitness: Calorie Tracking for Analysis for Experts. In this code, you will learn how to:
+1. Define a class named User.
+2. Implement the update method to update the user's fitness level.
+3. Use the console to display the updated user's fitness level.
+4. Use the console to display the list of users.
+5. Use the console to display the list of users sorted by their fitness level.
+6. Use the console to display the list of users sorted by their age.
+7. Use the console to display the list of users sorted by their gender.
+8. Use the console to display the list of users sorted by their height.
+9. Use the console to display the list of users sorted by their weight.
+10. Use the console to display the list of users sorted by their age.
+11. Use the console to display the list of users sorted by their height.
+12. Use the console to display the list of users sorted by their weight.
+13. Use the console to display the list of users sorted by their fitness level.
+14. Use the console to display the list of users sorted by their age.
+15. Use the console to display the list of users sorted by their gender.
+"
+30,"Question:
+Let y = -0.02 - -0.17. Let s = y - 0.17. Let u = s - -0.4. Which is the closest to 0?  (a) -3/4  (b) u  (c) 0.2
+Answer:
+b<|end_of_text|>"
+31,"Question:
+Let m = -1.07 + 1.07. Let w = 0.03 + -0.03. Let h = w + m. Which is the nearest to h?  (a) 0.1  (b) 1  (c) 2/3
+Answer:
+a<|end_of_text|>"
+32,"Question:
+Let t = 0.002 - -0.996. Let x = 0.998 + t. Let g = x + -0.0005. What is g rounded to 2 dps?
+Answer:
+0.01<|end_of_text|>"
+33,"def analyze_data(data):
+    """"""
+    This function takes a list of tuples, where each tuple contains the name of a person and their corresponding ID number.
+    The function then iterates through the list and checks if the person's ID number is a multiple of 5 or 10.
+    If the ID number is a multiple of 5, the function adds the person's name to a new list.
+    If the ID number is a multiple of 10, the function adds the person's name to a different list.
+    The function then returns the two lists.
+    """"""
+    multiple_5 = []
+    multiple_10 = []
+    for person in data:
+        if person[1] % 5 == 0:
+            multiple_5.append(person[0])
+        elif person[1] % 10 == 0:
+            multiple_10.append(person[0])
+    return multiple_5, multiple_10
+<|end_of_text|>"
+34,"Question: Which of the following statements about the effect of alcohol on the heart is TRUE?
+A. It increases heart rate and contractility
+B. It increases heart rate and contractility
+C. It decreases heart rate and contractility
+D. It decreases heart rate and contractility
+Answer: C<|end_of_text|>"
+35,"Question:
+What is prob of picking 2 w and 1 e when three letters picked without replacement from {w: 2, e: 1, o: 2, s: 1, n: 1}?
+Answer:
+1/35<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -0.6. Let r = o + 0. Let x = -0.1 + r. Which is the nearest to 0.1?  (a) -0.4  (b) 0.2  (c) x
+Answer:
+b<|end_of_text|>"
+37,"# List of 2016–17 Indian Super League teams
+
+The 2016–17 Indian Super League (ISL) season was the third season of the Indian Super League (ISL) which was played from 1 August 2016 to 30 December 2016. The season was organized by the Football Federation of India (FFI) and the Vietnam Football Federation (VFF). 12 teams competed in the season. The season was held at a new stadium, the Gò Công Xanh Stadium, in HCM City, Vietnam.
+
+## Teams
+
+### Stadia and locations
+
+Al Ahli (HCM City)Al Shini (Ha Noi)Al Rajin (Ha Noi)Bengaluru FCBengaluru FCBengaluru FCHCM CityHCM CityHanoi HCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM CityHCM City"
+38,"Question:
+What is the common denominator of 3/(-2) + 1 + 1 and 3/(-5) + 1 + -2 + 0?
+Answer:
+10<|end_of_text|>"
+39,"Question:
+Let t = -0.12 + 0.12. Let x = t - -0.1. Let n = 0.1 + x. What is n rounded to one dp?
+Answer:
+1<|end_of_text|>"
+40,"# 2002–03 Ligue 2 season
+
+The 2002–03 season was the 26th season of the Ligue 2, the second tier of the French football league system. The season started on 8 August 2002 and ended on 26 May 2003.
+
+| Ligue 2 |
+| Season | 2002–03 |
+| Champions | Pau |
+| Relegated | AS Saint-Nicéwes |
+| Promoted | Pau, Béziers |
+| Relegated | AS Saint-Nicéwes |
+| Champions League | 16 teams |
+| UEFA Cup | 16 teams |
+| Intertinient Cup | 16 teams |
+| ← 2001–02 2003–04 →  |
+| VPL | 18 teams |
+| ← 2001–02 2003–04 →  |
+| 2002–03 VFF Cup | 16 teams |
+| ← 2001–02 2003–04 →  |
+| 2002–03 Thai League | 12 teams |
+|  |
+
+## Overview
+
+The season was played by 18 teams, divided in 2 groups, with each team playing 22 matches"
+41,"Question:
+Let v = -1.1 + 0.1. Let q = -1.2 + v. Let x = -0.2 - q. What is x rounded to 1 decimal place?
+Answer:
+0<|end_of_text|>"
+42,"Question:
+Let l = 0.13 - 0.1. Let s = -0.3 + l. Let n = s - -0.1. What is n rounded to 1 decimal place?
+Answer:
+0.4<|end_of_text|>"
+43,"Question:
+Let k = -0.2 + 0.2. Let w = k + -0.1. Let d = -0.1 - w. Which is the closest to -1?  (a) -0.4  (b) d  (c) 0.3
+Answer:
+a<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + -2. Let s = 0.1 - o. Let y = 1.9 - s. What is y rounded to one decimal place?
+Answer:
+1.9<|end_of_text|>"
+45,"Question:
+Let x = 0.9 + 0.1. Let d = 0.8 + x. Let v = -0.3 - d. What is v rounded to 1 decimal place?
+Answer:
+0.5<|end_of_text|>"
+46,Question:Build a Java module snippet that Updates High Nail care: Preventing Nail Problems for Engineer for Professionals. Incorporate if/else or switch/case statements to implement the different cases required. Ensure your control flow with the provided hints!<|end_of_text|>
+47,"# Generated by Django 2.2.10 on Sat May 11 01:49 2019
+
+from django.db import migrations, models
+
+
+class Migration(migrations.Migration):
+
+    initial = True;
+
+    dependencies = [
+    ]
+
+    delete_procedure = False;
+    create_procedure = False;
+    delete_procedure = False;
+    create_procedure = False;
+    delete_procedure = False;
+    create_procedure = False;
+    delete_procedure = False;
+    create_procedure = False;
+    delete_procedure = False;
+    create_procedure = False;
+    delete_procedure = False;
+    create_procedure = False;
+    delete_procedure = False;
+    create_procedure = False;
+    delete_procedure = False;
+    create_procedure = False;
+    delete_procedure = False;
+    create_procedure = False;
+    delete_procedure = False;
+    create_procedure = False;
+    delete_procedure = False;
+    create_procedure = False;
+    delete_procedure = False;
+    create_procedure = False;
+    delete_procedure = False;
+    create_procedure = False;
+    delete_procedure = False;
+    create_procedure = False;
+    delete_procedure = False;
+    create_procedure"
+48,"Question:Build a Java module snippet that Updates Low Ear hygiene: Cleaning Earplug for Decision Making for Beginners. Incorporate if/else or switch/case statements to handle different cases related to the Trust. Ensure the code reaction time is optimal. Implement OOP principles to ensure the code has high reusability and flexibility. Guideline: 100 words
+
+Solution:Here is a possible implementation of this requirement:
+
+    ```java
+    public class UpdateLowEarHygiene {
+    
+        // Input variables
+        private string name;
+        private int age;
+        private string gender;
+        private char trust;
+        private string cleaningMethod;
+        private string earPlugs;
+        private string cleaningSteps;
+        private string time;
+        private string location;
+        private string price;
+        
+        // Output variables
+        private string recommendation;
+    
+        // Properties
+        public UpdateLowEarHygiene(string name, int age, string gender, char trust, string cleaningMethod, 
+            string earPlugs, string cleaningSteps, string time, string location, string price) {
+            this.name = name;
+            this.age = age;
+            this.gender = gender;
+            this.trust = trust;
+            this.cleaningMethod = cleaningMethod;
+            this.earPlugs"
+49,"Question:Design a Java function snippet to Calculate Low Bathrooms: Shower Screening System for Analysis for Professionals. Implement if/else or switch/case statements to handle different inputs. Provide detailed comments explaining your solution.
+
+Solution:Here is a possible implementation of the function described:
+```java
+public double calculateLowBathroomShowerScreeningSystem(double area, int numShowerRooms) 
+{
+    // Initialize variables
+    double totalArea = area * 0.6; // Calculate total bathroom area
+    
+    // Define variables for shower room dimensions
+    int width = 1.5; // Width of each shower room
+    int height = 2.4; // Height of each shower room
+    int depth = 1.8; // Depth of each shower room
+
+    // Loop through each shower room
+    for (int i = 0; i < numShowerRooms; i++) 
+    {
+        // Calculate total volume of shower room
+        double volume = width * height * depth; // Volume of current shower room
+
+        // Calculate number of screens needed based on shower room size
+        int numScreens = Math.ceil((volume / 100) / 8); // Calculate number of screens required for each shower room
+
+       "
+50,"Question:
+Let g = 0.1 + 0. Let h = 0.2 + g. Let r = 0.2 - h. What is r rounded to one decimal place?
+Answer:
+1<|end_of_text|>"
+51,"Question:
+Let w = -0.002 + 0.0020008. Round w to 7 decimal places.
+Answer:
+0<|end_of_text|>"
+52,"def create_new_list(old_list, new_element):
+    """"""
+    Create a new list with the given element and the old list.
+
+    The old_list is a list of integers, and the new_element is a new integer.
+
+    Return the new list.
+    """"""
+    new_list = []
+    for i in range(len(old_list)):
+        if old_list[i]!=new_element:
+            new_list.append(old_list[i])
+    new_list.append(new_element)
+    return new_list
+<|end_of_text|>"
+53,"Question:
+What is prob of picking 1 j and 1 y when two letters picked without replacement from yjyjyjyjj?
+Answer:
+1/3<|end_of_text|>"
+54,"Question:Develop a Python program snippet to Calculate Low Flossing: Frequency of Flossing for Analysis for Beginners. Incorporate if/else or switch/case statements to handle various cases related to the Trust. Dry-run, ensure your control flow logic is correct by testing all possible scenarios. Provide comments explaining your control flow and the reasoning behind each decision.
+
+Solution:Here is a python program which calculates low flossing frequency based on analysis for beginner's incorporating if else statement to handle different cases. 
+
+```python 
+# Input variables declaration 
+age = int(input(""Enter your age : "")) # Take user input of their age 
+gender = input(""Enter your gender (M/F) : "") # Take user input of their gender 
+height = float(input(""Enter your height (in meters) : "")) # Take user input of their height 
+weight = float(input(""Enter your weight (in kilograms) : "")) # Take user input of their weight 
+smoker = input(""Are you a smoker? (Y/N) : "") # Take user input of whether they are smoker or not 
+alcohol = input(""Do you consume alcohol? (Y/N) : "") # Take user input of whether they consume alcohol or not 
+
+# Calculations 
+BMI = weight"
+55,"def count_primes(n):
+    """"""
+    Given a positive integer n, return the number of prime numbers less than or equal to n.
+    """"""
+    count = 0
+    for i in range(2, n+1):
+        if i % 2 == 0:
+            continue
+        if i <= 1:
+            continue
+        for j in range(2, i):
+            if i % j == 0:
+                continue
+                break
+                count += 1
+    return count
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 103/24?
+Answer:
+24<|end_of_text|>"
+57,"Question:
+Let w = -0.0017 + 0.0017. Let r = w + 0.0000003. What is r rounded to 7 decimal places?
+Answer:
+0.0000003<|end_of_text|>"
+58,"def nested_loops_and_indexing(my_list):
+    """"""
+    Given a list of strings, print the list in reverse order using nested loops and indexing.
+    """"""
+    # Your code here
+    for i in range(len(my_list)):
+        for j in range(i+1, len(my_list)):
+            print(my_list[j], end="" "")
+    print()
+
+nested_loops_and_indexing([""A"", ""B"", ""C"", ""D"", ""E"", ""F"", ""G"", ""H"", ""I""])
+<|end_of_text|>"
+59,"Question:
+What is the common denominator of 71/2 and 53/18?
+Answer:
+18<|end_of_text|>"
+60,"Question:
+Let h = -7 + 6. Let q = h - -2. Let g = -2.6 + q. Which is the nearest to -2?  (a) -1  (b) 1  (c) g
+Answer:
+a<|end_of_text|>"
+61,"Question:
+Let l = -7.9 - -8. Let s = -0.1 + l. Let h = -3.1 - s. What is h rounded to 1 decimal place?
+Answer:
+-3.1<|end_of_text|>"
+62,"Question:
+Let g = -0.4 - -0.4. Let v = -0.7 + g. Let z = 0.7 + v. Round z to 1 decimal place.
+Answer:
+0.1<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.027. Let p = o + 0.2. Let t = 0.2 + p. What is t rounded to 1 dp?
+Answer:
+0.2<|end_of_text|>"
+64,"Question:
+Let q = -0.2 + 0.2. Let l = -1.1 + q. Let v = -0.1 + l. What is v rounded to one decimal place?
+Answer:
+-0.1<|end_of_text|>"
+65,"Question:
+Let c = -0.0000012 - -0.0000012. Round c to 6 decimal places.
+Answer:
+0<|end_of_text|>"
+66,Question:Build a Python module snippet that Displays Low Flossing: Correct Flossing Technique for Engineer for Experts. Incorporate if/else or switch/case statements to implement the different cases. Ensure the code rating is 100% passing score. Add comments to explain the code and its importance.<|end_of_text|>
+67,"Question:Design a Python function snippet to Calculate High Finance: Loan Calculations for Decision Making for Professionals. Implement if/else or switch/case statements to handle different inputs. Provide detailed comments explaining your solution.
+
+Solution:Here is a python function snippet which calculates high finance loan calculations for decision making for professionals. The function uses if else statement to handle different input values. It also provides detailed comments explaining the solution. 
+
+```python 
+def calculate_loan(principal, interest_rate, years):
+    """"""
+    This function calculates the monthly payment of a loan based on the principal amount, 
+    interest rate and number of years.
+
+    Parameters:
+        principal (float) - The total loan amount
+        interest_rate (float) - The annual interest rate as a decimal number e.g. 0.05 for 5% interest rate
+        years (int) - The number of years for which the loan will be repaid
+    
+    Returns:
+        float - The monthly payment of the loan
+    """"""
+    # Calculate the simple interest
+    si = principal * (interest_rate / 12) * years
+    
+    # Calculate the total interest paid
+    ti = si * (1 + interest_rate) ** years - principal
+    
+    return principal + ti / 12"
+68,"Question:
+What is 0.0000000239 rounded to seven decimal places?
+Answer:
+0.0000002<|end_of_text|>"
+69,"Question:
+Let d = -0.1 + 0. Let k = d + 0. Let h = k - 0.1. Which is the nearest to h?  (a) -1/4  (b) 1  (c) -2/9
+Answer:
+c<|end_of_text|>"
+70,"Question: Which of the following is a cause of neonatal hyperbilirubinemia
+A. Breast feeding
+B. Congenital jaundice
+C. Galactosemia
+D. Breast milk
+Answer: B<|end_of_text|>"
+71,"Question:
+Let l = 0.3 - 0.2. Let r = -0.3 - l. Let q = 0.4 - r. What is q rounded to 1 decimal place?
+Answer:
+0.4<|end_of_text|>"
+72,"Question:
+Let m = -0.4 + 0.4. Let d = 0.4 + -0.3. Let h = d - m. What is h rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>"
+73,"def create_artwork(artist_name, artwork_title, artwork_description):
+    """"""
+    Write a function that takes in an artist name, artwork title, and artwork description as input and returns a dictionary containing the artwork information.
+    The dictionary should have the following keys:
+    - artist_name: The name of the artist
+    - artwork_title: The title of the artwork
+    - artwork_description: A short description of the artwork
+    - artwork_image: A link to the image of the artwork
+    - artwork_price: The price of the artwork
+    - artwork_date: The date of the artwork
+    - artwork_location: The location of the artwork
+    """"""
+    # Initialize the dictionary to store the artwork information
+    artwork = {}
+
+    # Get the artist name, artwork title, and artwork description
+    artist_name = input(""Enter the artist's name: "")
+    artwork_title = input(""Enter the artwork title: "")
+    artwork_description = input(""Enter the artwork description: "")
+
+    # Get the artwork image, price, date, and location
+    artwork_image = input(""Enter the artwork image: "")
+    artwork_price = float(input(""Enter the artwork price: ""))
+    artwork_date = input(""Enter the artwork date: "")
+    artwork_location ="
+74,"Question:Develop a Neo4j database and Java program to find all the students who have a GPA of 3.2 or higher and have been born in the year 1990. The program should use the following properties:
+- Student ID
+- First name
+- Last name
+- Gender
+- Age
+- Address
+- Phone number
+- Email
+- Date of birth
+- GPA
+- Semester
+- Level
+- Grade
+- Class
+- Class year
+- Average
+- Score
+- Result
+- Total number of credits
+- Total number of courses
+- Name of the course
+- Name of the university
+- Name of the department
+- Average of the course
+- Average of the year
+- Name of the school
+- Average of the school
+- Name of the university
+- Average of the department
+- Name of the school
+- Average of the year
+- Name of the school
+- Average of the school
+- Name of the university
+- Average of the department
+- Name of the school
+- Average of the year
+- Name of the school
+- Average of the school
+- Average of the year
+- Name of the school
+- Average of the school
+- Average of the year"
+75,"Question: A 24-year-old woman has a history of recurrent miscarriages. She had a normal prenatal development and had no prenatal complications. On physical examination, she looks healthy. The pregnancy test is negative. Serum beta hCG and fetal yolk sac size are estimated. The patient's husband is not willing to donate sperm. The patient is most likely to suffer from:
+A. Primary ovarian insufficiency
+B. Primary ovarian failure
+C. Endometriosis
+D. Endometrial cancer
+Answer: B<|end_of_text|>"
+76,"Question:
+Let y = 0.1 + -0.1. Let q = -0.4 + y. Let t = -0.2 + q. What is t rounded to 1 decimal place?
+Answer:
+-0.2<|end_of_text|>"
+77,"def create_room_layout(room_size, furniture_list):
+    """"""
+    Create a room layout with the given room size and furniture list.
+
+    Args:
+        room_size: The size of the room (width, height).
+        furniture_list: A list of furniture items (name, size, price).
+
+    Returns:
+        A string representing the room layout.
+    """"""
+    room = "" "" * (room_size[0] + 1) * (room_size[1] + 1)
+    for furniture in furniture_list:
+        name = furniture[0]
+        size = furniture[1]
+        price = furniture[2]
+        room += f""{name} ({size} x {size}) - {price} USD\n""
+    return room
+<|end_of_text|>"
+78,"Question: Which of the following is not a feature of the disease?
+A. It is an acute, self-limited, infectious disease
+B. It is an infectious disease caused by a bacterium
+C. It is a viral disease
+D. It is a bacterial disease
+Answer: C<|end_of_text|>"
+79,"Question:
+Let x = 0.3 - 0.3. Let f = 0.03 + -0.03. Let m = x + f. What is m rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>"
+80,"Question:
+What is the next term in 12, 24, 38, 54, 72, 92?
+Answer:
+114<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.6. Let x = -0.2 - o. Let p = x - -0.4. Which is the nearest to p?  (a) -3  (b) -2/9  (c) -1/4
+Answer:
+b<|end_of_text|>"
+82,"Question:
+Let g = -0.06 - 0.04. Let v = g + 0.09. Let k = v + 0.11. Round k to 1 decimal place.
+Answer:
+0.9<|end_of_text|>"
+83,"Question:
+Let w = 0.017 - 0.017007. Round w to 6 decimal places.
+Answer:
+-0.000007<|end_of_text|>"
+84,"def update_medication(medication_list, patient_id, new_medication):
+    """"""
+    Given a list of medications for a patient, update the list with the new medication.
+    """"""
+    medication_list.append(new_medication)
+    return medication_list
+
+<|end_of_text|>"
+85,"def nested_loops_with_break_and_continue_and_not_in_operator(my_list):
+    """"""
+    Write a function that takes a list of integers as input and returns the list of integers that are greater than 10 and less than 20.
+    The function should use nested loops with break and continue statements and the not in operator to solve the problem.
+    """"""
+    result = []
+    for i in my_list:
+        if i > 10 and i < 20:
+            for j in my_list:
+                if j > 10 and j < 20:
+                    if j not in result:
+                        result.append(j)
+    return result
+<|end_of_text|>"
+86,"Question:Build a Python module snippet that Updates High Finance: Loan Calculations for Decision Making for Professionals. Incorporate if/else or switch/case statements to implement the different calculations. Ensure the code follows high programming standards and includes comments to explain the application's key features.
+
+Solution:Here's some sample python code that implements high finance loan calculations for decision making:
+
+    ```python
+    # Import necessary libraries 
+    import math 
+    from datetime import date 
+    import numpy as np 
+    
+    def calculate_monthly_interest(principal, rate, term): 
+        return principal * (rate / 12) * (1 + (rate / 12)) ** term; 
+    def calculate_total_interest(principal, rate, term): 
+        return calculate_monthly_interest(principal, rate, term); 
+    def calculate_payment(principal, interest, term): 
+        return principal / (1 - (interest / 12) ^ term); 
+    def calculate_monthly_payment(principal, rate, term): 
+        return calculate_payment(principal, rate, term); 
+    def calculate_savings(principal, rate, term): 
+        return principal * (((1 + rate / 12) ** term) - 1); 
+    def calculate_ann"
+87,"Question: The following statements are true about the following drug except:
+A. It is a potent and selective COX-2 inhibitor
+B. It is a prodrug and needs to be converted to active moiety
+C. It is a non-steroidal anti-inflammatory drug
+D. It is a non-steroidal anti-inflammatory drug
+Answer: B<|end_of_text|>"
+88,"Question:
+Let w = 0.1 - -0.1. Let s = -0.1 + w. Let m = -0.1 + s. Which is the closest to m?  (a) 0.1  (b) 2/5  (c) -3
+Answer:
+a<|end_of_text|>"
+89,"Question:
+Let n = -0.6 - 0.4. Let m = 0.6 - n. Let d = m - 0.3. What is d rounded to one decimal place?
+Answer:
+-0.3<|end_of_text|>"
+90,"def add_to_set(set, element):
+    """"""Add an element to a set using the addition assignment operator.
+    The set should be a list of integers.
+    The element should be an integer.
+    """"""
+    set += element
+    return set
+
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 20 is divided by 1?
+Answer:
+0<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 2. Let g = 0.3 + p. Let h = 0.2 + g. What is h rounded to one decimal place?
+Answer:
+0.1<|end_of_text|>"
+93,"Question:
+Let j = 0.001 - -1.999. Let l = 2.1 + j. Let v = -0.9 + l. Which is the closest to 1?  (a) v  (b) 2/7  (c) -0.2
+Answer:
+a<|end_of_text|>"
+94,"Question:Build a Go module snippet that Checks High Regular health check-ups: Preventive Measures for the Elderly. In this measure, the doctor checks the following parameters: Blood pressure, Cholesterol, Blood sugar, Body mass index, and BMI. The patient should be asked about their daily habits, including smoking, alcohol consumption, and physical activity. The doctor should also assess the patient's overall health status. The doctor should recommend appropriate lifestyle changes and preventive measures to the patient. The patient should be advised to consult a specialist if any symptoms appear.
+Solution:Here is a possible implementation of this requirement in Go:
+       import (fmt,""C:\Users\user1\Documents\go\go\src\golang\gmp\src\gmp\gmp.h"")
+       int BMI = 0;
+       float32 BLOOD_PRESSURE = 0;
+       float32 CHOLESTEROL = 0;
+       float32 GLUCOSE = 0;
+       string NAME = """";
+       string DATE = """";
+       string TIME = """";
+       string COMMENT = """";
+       void CheckHighRegularHealthCheckUps(Person p)
+           // Check Blood Pressure
+           p.BloodPressure = GetBloodPressure();
+           if (p.BloodPressure > "
+95,"Question:
+Let o = 0.2 + 0.2. Let q = o - 0.2. Let j = 0.2 + q. Which is the closest to -1?  (a) j  (b) -1  (c) 2/11
+Answer:
+b<|end_of_text|>"
+96,"# 2020–21 FIVB Volleyball Men's Nations League
+
+The 2020–21 FIVB Men's Nations League was the second edition of the FIVB Men's Nations League, a quadrennial international volleyball tournament organized by the FIVB. It was held from 18 September to 30 September 2020 in Romania, Croatia, Italy, and Poland. The tournament was originally scheduled to be held from 9 September to 20 September 2020, but it was postponed due to the COVID-19 pandemic. The tournament was held in the following countries: Croatia, Italy, Poland, Romania, and Spain.
+
+| 2020–21 FIVB Men's Nations League |
+|  |
+| Tournament details |
+| Host country |  Romania,  Croatia,  Italy,  Poland,  Spain |
+| Dates | 18–30 September 2020 |
+| Teams | 5 (from 5 nations) |
+| Venue(s) | 5 (in 5 host cities) |
+| Men's winner |  Poland (3rd title) |
+| Women's winner |  Italy (3rd title) |
+| ← 2019 2022 → |
+| |
+|  |
+
+## Host"
+97,"Question:
+Let c = 0.5 - -0.5. Let n = c + 0.4. Let v = n - -0.4. Which is the closest to v?  (a) -1  (b) 0.3  (c) 3
+Answer:
+b<|end_of_text|>"
+98,"Question:Develop a Java program snippet to Check Low Flossing: Correct Flossing Technique for Analysis for Experts. Incorporate if/else or switch/case statements to handle various cases related to the Safety. Dry-run, ensure your control flow logic is clear and correct before adding additional features. Ensure your control flow logic is effective by using proper indentation and formatting.
+
+Solution:Here is a possible implementation of this requirement:
+
+    ```java
+    // Header file
+    #include <iostream>
+    
+    // Function declaration
+    void checkLowFlossing(double flossTime);
+    
+    // Program entry point
+    int main() {
+        double flossTime = 0.5; // Initializing variable 'flossTime' with value 0.5
+    
+        // Calling function 'checkLowFlossing()' to perform task
+        checkLowFlossing(flossTime);
+    
+        return 0;
+    }
+    
+    // Function definition
+    void checkLowFlossing(double flossTime) {
+        std::cout << ""Checking low flossing technique..."";
+    
+        // If statement to determine whether user has performed correct flossing technique
+        if (flossTime >= 2 && flossTime <= 4) {
+"
+99,"def find_unique_elements(my_list):
+    """"""
+    Given a list of integers, find the unique elements in the list.
+    The list is guaranteed to have at least one unique element.
+    """"""
+    # Your code here
+    unique_elements = set()
+    for element in my_list:
+        if element not in unique_elements:
+            unique_elements.add(element)
+    return unique_elements
+<|end_of_text|>"

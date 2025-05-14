@@ -1,0 +1,237 @@
+# Note:
+# Llama-3.2-1B officially supports English (en), German (de), French (fr), Italian (it), Portuguese (pt), Hindi (hi), Spanish (es), and Thai (th)
+# Additionally, add Bulgarian (bg), Russian (ru), Turkish (tr), and Vietnamese (vi) because they have accuracy above 40% on the XNLI task based on `llama3.2_eval.ipynb`
+# Add Japanese (ja), Korean (ko), and Chinese (zh) for PAWS-X task
+lang_choices = [
+    "en",
+    "de",
+    "fr",
+    "it",
+    "pt",
+    "hi",
+    "es",
+    "th",
+    "bg",
+    "ru",
+    "tr",
+    "vi",
+    "ja",
+    "ko",
+    "zh",
+]
+
+flore_plus_lang_choices = [
+    "eng_Latn",
+    "deu_Latn",
+    "fra_Latn",
+    "ita_Latn",
+    "por_Latn",
+    "hin_Deva",
+    "spa_Latn",
+    "tha_Thai",
+    "bul_Cyrl",
+    "rus_Cyrl",
+    "tur_Latn",
+    "vie_Latn",
+    "jpn_Jpan",
+    "kor_Hang",
+    "cmn_Hans",
+]
+
+lang_choices = [
+    *lang_choices,
+    *flore_plus_lang_choices,
+]
+
+lang_choices_to_qualified_name = {
+    "en": "English",
+    "de": "German",
+    "fr": "French",
+    "it": "Italian",
+    "pt": "Portuguese",
+    "hi": "Hindi",
+    "es": "Spanish",
+    "th": "Thai",
+    "bg": "Bulgarian",
+    "ru": "Russian",
+    "tr": "Turkish",
+    "vi": "Vietnamese",
+    "ja": "Japanese",
+    "ko": "Korean",
+    "zh": "Chinese",
+    "eng_Latn": "English",
+    "deu_Latn": "German",
+    "fra_Latn": "French",
+    "ita_Latn": "Italian",
+    "por_Latn": "Portuguese",
+    "hin_Deva": "Hindi",
+    "spa_Latn": "Spanish",
+    "tha_Thai": "Thai",
+    "bul_Cyrl": "Bulgarian",
+    "rus_Cyrl": "Russian",
+    "tur_Latn": "Turkish",
+    "vie_Latn": "Vietnamese",
+    "jpn_Jpan": "Japanese",
+    "kor_Hang": "Korean",
+    "cmn_Hans": "Chinese",
+}
+
+model_choices = [
+    "meta-llama/Llama-3.2-1B",
+]
+
+dataset_choices = [
+    "facebook/xnli",
+    "google-research-datasets/paws-x",
+    "openlanguagedata/flores_plus",
+]
+
+prompt_templates = {
+    "facebook/xnli": {
+        "en": "{premise} {hypothesis}",
+        "de": "{premise} {hypothesis}",
+        "fr": "{premise} {hypothesis}",
+        "hi": "{premise} {hypothesis}",
+        "es": "{premise} {hypothesis}",
+        "th": "{premise} {hypothesis}",
+        "bg": "{premise} {hypothesis}",
+        "ru": "{premise} {hypothesis}",
+        "tr": "{premise} {hypothesis}",
+        "vi": "{premise} {hypothesis}",
+    },
+    "google-research-datasets/paws-x": {
+        "en": "{sentence1}",
+        "de": "{sentence1}",
+        "fr": "{sentence1}",
+        "es": "{sentence1}",
+        "ja": "{sentence1}",
+        "ko": "{sentence1}",
+        "zh": "{sentence1}",
+    },
+    "openlanguagedata/flores_plus": {
+        "eng_Latn": "{text}",
+        "deu_Latn": "{text}",
+        "fra_Latn": "{text}",
+        "ita_Latn": "{text}",
+        "por_Latn": "{text}",
+        "hin_Deva": "{text}",
+        "spa_Latn": "{text}",
+        "tha_Thai": "{text}",
+        "bul_Cyrl": "{text}",
+        "rus_Cyrl": "{text}",
+        "tur_Latn": "{text}",
+        "vie_Latn": "{text}",
+        "jpn_Jpan": "{text}",
+        "kor_Hang": "{text}",
+        "cmn_Hans": "{text}",
+    },
+}
+
+sae_model_choices = [
+    "EleutherAI/sae-Llama-3.2-1B-131k",
+    "EleutherAI/sae",  # Local SAE
+]
+
+sae_model_layer_to_hookpoint = {
+    "meta-llama/Llama-3.2-1B": {
+        "EleutherAI/sae-Llama-3.2-1B-131k": {
+            "model.layers.0.mlp": "layers.0.mlp",
+            "model.layers.1.mlp": "layers.1.mlp",
+            "model.layers.2.mlp": "layers.2.mlp",
+            "model.layers.3.mlp": "layers.3.mlp",
+            "model.layers.4.mlp": "layers.4.mlp",
+            "model.layers.5.mlp": "layers.5.mlp",
+            "model.layers.6.mlp": "layers.6.mlp",
+            "model.layers.7.mlp": "layers.7.mlp",
+            "model.layers.8.mlp": "layers.8.mlp",
+            "model.layers.9.mlp": "layers.9.mlp",
+            "model.layers.10.mlp": "layers.10.mlp",
+            "model.layers.11.mlp": "layers.11.mlp",
+            "model.layers.12.mlp": "layers.12.mlp",
+            "model.layers.13.mlp": "layers.13.mlp",
+            "model.layers.14.mlp": "layers.14.mlp",
+            "model.layers.15.mlp": "layers.15.mlp",
+        },
+        # Custom SAE model for Llama-3.2-1B
+        "EleutherAI/sae": {
+            "model.layers.0.mlp": "layers.0.mlp",
+            "model.layers.1.mlp": "layers.1.mlp",
+            "model.layers.2.mlp": "layers.2.mlp",
+            "model.layers.3.mlp": "layers.3.mlp",
+            "model.layers.4.mlp": "layers.4.mlp",
+            "model.layers.5.mlp": "layers.5.mlp",
+            "model.layers.6.mlp": "layers.6.mlp",
+            "model.layers.7.mlp": "layers.7.mlp",
+            "model.layers.8.mlp": "layers.8.mlp",
+            "model.layers.9.mlp": "layers.9.mlp",
+            "model.layers.10.mlp": "layers.10.mlp",
+            "model.layers.11.mlp": "layers.11.mlp",
+            "model.layers.12.mlp": "layers.12.mlp",
+            "model.layers.13.mlp": "layers.13.mlp",
+            "model.layers.14.mlp": "layers.14.mlp",
+            "model.layers.15.mlp": "layers.15.mlp",
+        },
+    },
+}
+
+hookpoint_to_layer = {
+    "layers.0.mlp": 0,
+    "layers.1.mlp": 1,
+    "layers.2.mlp": 2,
+    "layers.3.mlp": 3,
+    "layers.4.mlp": 4,
+    "layers.5.mlp": 5,
+    "layers.6.mlp": 6,
+    "layers.7.mlp": 7,
+    "layers.8.mlp": 8,
+    "layers.9.mlp": 9,
+    "layers.10.mlp": 10,
+    "layers.11.mlp": 11,
+    "layers.12.mlp": 12,
+    "layers.13.mlp": 13,
+    "layers.14.mlp": 14,
+    "layers.15.mlp": 15,
+}
+
+mlp_to_index = {
+    "model.layers.0.mlp": 0,
+    "model.layers.1.mlp": 1,
+    "model.layers.2.mlp": 2,
+    "model.layers.3.mlp": 3,
+    "model.layers.4.mlp": 4,
+    "model.layers.5.mlp": 5,
+    "model.layers.6.mlp": 6,
+    "model.layers.7.mlp": 7,
+    "model.layers.8.mlp": 8,
+    "model.layers.9.mlp": 9,
+    "model.layers.10.mlp": 10,
+    "model.layers.11.mlp": 11,
+    "model.layers.12.mlp": 12,
+    "model.layers.13.mlp": 13,
+    "model.layers.14.mlp": 14,
+    "model.layers.15.mlp": 15,
+}
+
+mlp_acts_to_index = {
+    "model.layers.0.mlp.act_fn": 0,
+    "model.layers.1.mlp.act_fn": 1,
+    "model.layers.2.mlp.act_fn": 2,
+    "model.layers.3.mlp.act_fn": 3,
+    "model.layers.4.mlp.act_fn": 4,
+    "model.layers.5.mlp.act_fn": 5,
+    "model.layers.6.mlp.act_fn": 6,
+    "model.layers.7.mlp.act_fn": 7,
+    "model.layers.8.mlp.act_fn": 8,
+    "model.layers.9.mlp.act_fn": 9,
+    "model.layers.10.mlp.act_fn": 10,
+    "model.layers.11.mlp.act_fn": 11,
+    "model.layers.12.mlp.act_fn": 12,
+    "model.layers.13.mlp.act_fn": 13,
+    "model.layers.14.mlp.act_fn": 14,
+    "model.layers.15.mlp.act_fn": 15,
+}
+
+layer_to_index = {
+    **mlp_to_index,
+    **mlp_acts_to_index,
+}

@@ -1,0 +1,1 @@
+"High activations are found on single Devanagari characters, especially those that commonly begin or are part of Hindi words, with a strong emphasis on the character for \"म\" (ma), often in positions marking pronouns, verbs, or key sentence elements."

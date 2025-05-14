@@ -1,0 +1,1040 @@
+seed,generated_text
+0,"Question:Write一儿童的护理时,应注意
+A.防止患儿的皮�
+B.不宜与大人相对
+C.要及时更衣
+D。时时为患儿提供温暖
+Answer:B<|end_of_text|>"
+1,"Question:
+Letz = 0.03 + -0.13. Lety = -0.12. Letq = 0.3 -l. Letsq = -0.3.What是l的意思?
+Answer:
+-0.3<|end_of_text|>"
+2,"Question:
+Letk = -3.4 - -3. Letg = -0.2 -k. Letz = -0.2 +g. Which is the closest to0?  (a) -1/5  (b)z  (c)1
+Answer:
+a<|end_of_text|>"
+3,"Question:
+Letc = 0.02 - -0.18. Lety的数值为0.3，表示0.3的量。该数值为何？ 1 0.2 0.3 0.1 0.2 0.3 0.1 0.2 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3 0.1 0.3"
+4,"Question:
+Letp = -0.02 - -0.21. Letc = 0.17 +p. Letx =c +0.3.Put0x0于0.3,0.2,0.4。
+Answer:
+0.2<|end_of_text|>"
+5,"Question:Develop一个与用户和系统的关系紧密的服务的需求描述,为系统提供用户的服务的功能的需求描述,将为系统的用户提供服务的需求描述。为系统提供服务的需求描述的最好时,应
+A.概述为用户的服务需求,并以为系统提供服务的需求,描述为系统的需求
+B.概述为用户的服务需求,并为系统提供服务的需求,描述为系统的需求
+C.概述为用户的服务需求,并为系统提供服务的需求,描述为系统的需求
+D.概述为用户的服务需求,并为系统提供服务的需求,描述为系统的需求
+E.概述为用户的服务需求,并为系统提供服务的需求,描述为系统的需求
+Answer:D<|end_of_text|>"
+6,"def count_and_replace(text,search,replace):
+    """"""Count和替换字符串的内容
+    """"""
+   count =0
+  fori intext的所有的字符串
+    iftext的第i个字符串
+    count +=1
+   iftext的第i个字符串
+    iftext的第i个字符串
+   count +=1
+   iftext的第i个字符串
+   count +=1
+   iftext的第i个字符串
+  count +=1
+   iftext的第i个字符串
+  count +=1
+  iftext的第i个字符串
+  count +=1
+   iftext的第i个字符串
+  count +=1
+  iftext的第i个字符串
+  count +=1
+   iftext的第i个字符串
+  count +=1
+  iftext的第i个字符串
+  count +=1
+   iftext的第i个字符串
+  count +=1
+   iftext的第i个字符串
+  count +=1
+  iftext的第i个字符串
+ count +=1
+   iftext的第i个字符串
+count +=1
+   iftext的第i个字符串
+count +=1
+   if"
+7,"# 2-和为数值的数的平方
+#给你一个整数,并要求其和为数值的平方。
+#示例:
+#输入:5
+#输出:5
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解:5和为5的数
+#解"
+8,"Question:Develop一个用于评测患者的评分的方法的标准是
+A. 评分的分级
+B. 评分的分值
+C. 评分的分数
+D. 评分的分位
+Answer:A<|end_of_text|>"
+9,"Question:
+Letd = -0.1 -0.3. Letj = -0.1 -d. Letl = -0.07 +0.29.Whichistheclosesttol?  (a)l  (b)0.1  (c)1
+Answer:
+b<|end_of_text|>"
+10,"Question:CreateaPython函数,将输入的整数转换为字符串,并且返回该字符串,并且使用带有英文、数字、大小写的转换符号的字符串。。
+#输入
+#输入整数,并且将其转换为字符串,并返回该字符串
+#输入
+#输入整数,并且将其转换为字符串,并返回该字符串
+#输入
+#输入整数,并且将其转换为字符串,并返回该字符串
+#输入
+#输入整数,并且将其转换为字符串,并返回该字符串
+#输入
+#输入整数,并且将其转换为字符串,并返回该字符串
+#输入
+#输入整数,并且将其转换为字符串,并返回该字符串
+#输入
+#输入整数,并且将其转换为字符串,并返回该字符串
+#输入
+#输入整数,并且将其转换为字符串,并返回该字符串
+#输入
+#输入整数,并且将其转换为字符串,并返回该字符串
+#输入
+#输入整数,并且将其转换为"
+11,"Question: A patientwithcervix,showedthehysto的
+A.有时可见水泡状胎�
+B.有时可见水泡状胎�
+C.有时可见水泡状胎�
+D.有时可见水泡状胎�
+Answer:B<|end_of_text|>"
+12,"Question:
+Lettters的总数为10,每个字母的个数为2,共用10个字母,求总数为多少? A)2 A)3 A)4 A)5 A)6 A)7 A)8 A)9
+Answer:
+A)A<|end_of_text|>"
+13,"Question:
+Letk = -0.1 + 0.1. Letn = 0.07 +0.23. Letj =j -0.3.Whichistheclosestto0.1?  (a)k  (b)n  (c)0.3
+Answer:
+c<|end_of_text|>"
+14,Question:Designa为小的男孩，长5个月，时时有哭有笑，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动，时时有活动
+15,"Question:
+Letl = -0.01 - 0.31. Letc = -0.5 -l. Letd = 0.05 -c.Whatisd =0.05.<|end_of_text|>"
+16,"Question:
+Letm = -0.03 + 0.22. Letn = 0.17 +m. Leth,为一水�,的含量为0.4。则为
+0.4的含量为
+A)0.4
+B)0.5
+C)0.2
+D)0.1
+Answer:
+A<|end_of_text|>"
+17,"Question:
+Letl = 0.009 - 0.069. Letk = -0.061 -l.Letl = -2.7/5.分不在一格
+Answer:
+True<|end_of_text|>"
+18,"Question:
+Letj = 3.8 - -0.2. Letl = -2.8 +j. Letss = 2.2 +l.Whatisl的分子是3和l的分子为2。<|end_of_text|>"
+19,"Question:Build一分子结构的分子是
+A.四�
+B.五
+C.六
+D.七
+Answer:B<|end_of_text|>"
+20,"Question:BuildaPython程序，判断某字符串是否为数字。并将其转为数值。并将其转为数值。并将其转为数值。并将其转为数值。并将其转为数值。并将其转为数值。并将其转为数值。
+```
+import re
+defisNum(s):
+   p=re.compile(r""\d"")
+  returnp.findall(s)
+print(isNum(""123""))
+print(isNum(""1""))
+print(isNum(""123""))
+print(isNum(""123123""))
+```
+```
+print(isNum(""123""))
+print(isNum(""1""))
+print(isNum(""123""))
+print(isNum(""123123""))
+```
+```
+print(isNum(""123""))
+print(isNum(""1""))
+print(isNum(""123""))
+print(isNum(""123123""))
+```<|end_of_text|>"
+21,"Question:
+Letg = -0.1 +0.4. Letl = -0.4 +g. Letss = 0.3 +l.Sort-3,0.3,ss.
+Answer:
+-3,0.3,ss<|end_of_text|>"
+22,"Question: Which of the following is themostcommonestoftheall,并未见于�
+A.骨病变
+B.软组织病变
+C.血管病变
+D.�
+Answer:C<|end_of_text|>"
+23,"Question: Which is the most common type of congenitaldislocation
+A.Wald
+B.Pendleton
+C.All
+D
+Answer:A
+解答:Wald。<|end_of_text|>"
+24,"Question:Write一中，不属于医疗事故的有
+A.失去人体之意
+B.损伤患者的财产
+C.损伤患者的健康
+D.损伤患者的身
+E。损伤患者的财
+Answer:E<|end_of_text|>"
+25,"# 2018–19Nepa
+
+Nepa 2018-19赛季是Nepa的第7届赛季，赛季于2018年9月10日开始，比赛结束于2019年3月29日。Nepa的赛季总时间为13个月，赛季总时长为90分。
+
+##赛程
+
+Nepa的赛程为：
+
+##赛名单
+
+本赛季Nepa的赛名单，共有6人。
+
+##赛名单
+
+本赛季Nepa的赛名单，共有6人。<|end_of_text|>"
+26,"Question:
+Letc = -4.25 +0.25. Leta = 5.5,以c为比值。 Leta = 0.2,以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比值。以c为比"
+27,"Question:Develop一个具有可变区和常量区的变异型的语言,并且具有变异型语言的特性,可以描述为
+A.变异型语言
+B.语言
+C.语言
+D.语言
+Answer:A<|end_of_text|>"
+28,"Question:
+Letd = 0.05 - 0.05. Lett = -0.2 - -0.2. Letr =t -0.1. Which is the closest tor?  (a)d  (b)r  (c)t
+Answer:
+b<|end_of_text|>"
+29,"Question:Writea2.5s
+ofa2.5s
+Inthis题,用2.5s,可以获得
+一
+,二
+,三
+,四
+,五
+,六
+,七
+,八
+,十
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的
+的"
+30,"Question:
+Letd = -0.009 - -0.089. Letc =d -0.13.Letc=0.04.What是L的值?
+Answer:
+0.04<|end_of_text|>"
+31,"Question:
+Leti = -1.07 - -1.07. Lety = 3.1. Leth = 2.1. What is the smallestvalueofl?
+Answer:
+l<|end_of_text|>"
+32,"Question:
+Letc = 0.002 - -0.038. Letd = 0.0400059 -c. Roundd至6 decimal处为数值。<|end_of_text|>"
+33,"def analyzeDNA(dna):
+    """"""
+   GivenaDNA序列,分析其含有的杂异序列。
+   """"""
+   dna =dna
+   #判断含有杂异序列
+  fori inrangelen:
+   ifdna[i] ==0:
+       #将杂异序列的数量加1
+      res=0
+       #将杂异序列的数量加1
+      res=0
+       #将杂异序列的数量加1
+      res=0
+       #将杂异序列的数量加1
+     res=0
+       #将杂异序列的数量加1
+     res=0
+       #将杂异序列的数量加1
+    res=0
+       #将杂异序列的数量加1
+    res=0
+       #将杂异序列的数量加1
+    res=0
+       #将杂异序列的数量加1
+    res=0
+       #将杂异序列的数量加1
+   res=0
+       #将杂异序列的数量加1
+   res=0
+       #将杂异序列的数量加1"
+34,"Question: Which of the following is the best indication ofa)可引起胎儿早产的药物不应选用
+B)对胎儿发育不全不必用
+C)不能用的药物
+D)必须用
+Answer:D<|end_of_text|>"
+35,"Question:
+What is 0.2 minus 0.003?
+Answer:
+0.197<|end_of_text|>"
+36,"Question:
+Lettl,anart,有一个朋友,他们的共同点是,他们的名字的首字母都是L。他们的名字为L,An,Art,分别为3个。L的名字为L,是L的名字,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的名字。L的名字为L,是L的"
+37,"# 2016–17FCU女子足球联赛
+
+2016–17FCU女子足球联赛是女足足球联赛的第1届赛事。赛季赛事由FCU主办。赛季共有11队参赛，共赛事总赛时数为25次。赛事赛季结束后，冠军赛为赛季赛事冠军。赛季结束后，赛季冠军的队伍将获得冠军赛的冠军奖金。赛季结束后，冠军的队伍将获得冠军赛的冠军奖金。
+
+2016–17FCU女子足球联赛
+
+##赛程
+
+本赛季赛程由FCU主办，赛季赛事共有11队参赛。赛季赛事共赛时数为25次。赛季赛事共赛时数为25次。
+
+##赛程
+
+本赛季赛程由FCU主办，赛季赛事共有11队参赛。赛季赛事共赛时数为25次。赛季赛事共赛时数为25次。
+
+##赛事
+
+本赛季赛程由FCU主办，赛季"
+38,"Question:
+What is the common denominator of 3/(-2) + 2 + 0 + 3 and 5/4?
+Answer:
+4<|end_of_text|>"
+39,"Question:
+Lettters的个数为:2,2,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,"
+40,"# 7.6:Chapter1
+
+#1.1
+
+1.1.1:What is a ""number""?Whatisa ""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatisa""number""?Whatis"
+41,"Question:
+Leta is3.3m. WhatisLeta?A)A)2.3A)2.3B)2.3C)2.3D)2.3E)2.3
+Answer:
+Answer:2.3
+A<|end_of_text|>"
+42,"Question:
+Letc = 0.0337 - -0.366.Letc = 0.49.Whatisc? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1? Whatis0.1?"
+43,"Question:
+Letj = -0.0376 - -0.037. Letl =j +0.1.What是最合适的数字，表示该数字的位置？（0.1为常规，0.05为精确，0.05为精确）
+Answer:
+0.05<|end_of_text|>"
+44,"Question:
+Letb = -2.1 + 2.199.Letb的数值为0.1,则正确的答案是
+A
+0.1
+B
+0.2
+C
+0.3
+D
+0.4
+Answer: C<|end_of_text|>"
+45,"Question:
+Letb = 0.007 + -0.107. Letk = 0.15 +b.Letk = -0.3.Letk = -0.2.Which是最小的?  (a)0.2  (b)0.007  (c)0.3  (d)1
+Answer:
+b<|end_of_text|>"
+46,"Question:Build一个全功能的可视化工具,用于分析各个人时段的阅读情�
+的时间,并可对不同时间段的阅读情�
+的时间,并可对不同时间段的阅读情�
+的时间,并可对不同时间段的阅读情�
+的时间,并可对不同时间段的阅读情�
+的时间,并可对不同时间段的阅读情�
+的时间,并可对不同时间段的阅读情�
+的时间,并可对不同时间段的阅读情�
+的时间,并可对不同时间段的阅读情�
+的时间,并可对不同时间段的阅读情�
+的时间,并可对不同时间段的阅读情�
+的时间,并可对不同时间段的阅读情�
+的时间,并可对不同时间段的阅读情�
+的时间,并可对不同时间段的阅读情�
+的时间,并可对不同时间段的阅读情�
+的时间,并可对不同时间段的阅读情�
+的时间,并可对不同时间段的阅读情�
+的时间,并可对不同时间"
+47,"# 2022冠军赛
+
+2022冠军赛（简称2022冠赛）是由中国网球协会主办的国际赛事，为2022冠军赛的冠军赛。赛事于2022年11月21日至11月25日在北京。赛事的冠军为女组赛的陈洁。<|end_of_text|>"
+48,"Question: Which of the following is thebestwaytopreventthespreadofdisease
+A.Sanitizer
+B.Nutrition
+C.Microorganism
+D. All
+Answer:D<|end_of_text|>"
+49,"Question:Designa的作用是
+A.抑制分�
+B.抑制分裂
+C.抑制分裂、生长
+D.抑制分裂、生长、增殖
+E.抑制分裂、增殖
+Answer:D<|end_of_text|>"
+50,"Question:
+Leti = -0.1 -0.3. Letk = 0.2 -0.1. Letq = 0.1 -k. Whatisq的值为0.1?
+Answer:
+q<|end_of_text|>"
+51,"Question:
+Letr = -0.002 - -0.1. Letu = -0.102 -r.Letl = -0.2.Letm = -0.1.Letn = -0.1.<|end_of_text|>"
+52,"def create_list():
+    """"""
+   This function creates a list, and returns it.
+   """"""
+   lst = [1,2,3,4,5]
+  return lst
+<|end_of_text|>"
+53,"Question:
+What is the common denominator of -59/66 and -53/4?
+Answer:
+66<|end_of_text|>"
+54,"Question: Which is nottheinthelesion
+A.Laryngeal
+B.Pylori
+C.Bulim
+D.Pain
+Answer:D<|end_of_text|>"
+55,"def count_nested_elements(animals):
+    """"""
+   Return the count of animals in thenestedlist.
+   """"""
+    count =0
+   for i in animals:
+       count=count+len(i)
+  returncount
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/(-3) + 5/(-10) + 2 and -67/8?
+Answer:
+8<|end_of_text|>"
+57,"Question:
+Letd = -0.0067 + 0.069.Letd =0.023.Letd =0.022.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0."
+58,"def tuple_slicing(mytuple):
+    """"""
+   Given a tuple,返回一个包含元素的列表,并且将其中的元素中间添加一个空元素。
+   """"""
+    #python代码
+   newlist = []
+  foriinmytuple:
+  newlist.appendi
+ returnnewlist<|end_of_text|>"
+59,"def find_missing(animals):
+    """"""
+   Return the missing animals,aslist,aslist
+   """"""
+    aslist = []
+    aslist1 = []
+   aslist2 = []
+   foriinanimals:
+    ifiinanimals:
+    ifiinanimals:
+    aslist1 =aslist
+    aslist2 =aslist
+   foriinanimals:
+    ifiinanimals:
+    aslist2 =aslist
+   aslist =aslist
+   return
+<|end_of_text|>"
+60,"Question:
+Letl = -7.9 + 7. Suppose -4*u + 4 = -0. Letk =u +1.000006.What是l的值?
+Answer:
+-0.000006<|end_of_text|>"
+61,"Question:
+Letv = -7.1 + 7. Suppose -2*x = -5*f - 3,2*f = -x -2*x +4. What is the nearest to 0.1?  (a)v  (b)x  (c)0
+Answer:
+c<|end_of_text|>"
+62,"Question:
+Lettters的个数为
+A)2
+B)3
+C)4
+D)5
+E
+Answer: D<|end_of_text|>"
+63,"Question:
+Letj = -0.027 + 0.027. Letss = -0.07 +j. Letw = 0.08 -ss.Putw-0.3于0.5。<|end_of_text|>"
+64,"Question:
+Letf = -0.2 + 0.2. Leth不属于的词是:是的.是的的。是的的。是的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的。是的的"
+65,"Question:
+Letq = -0.046 - -0.046. Letr = 0.1 - -0.1. Letl =r -q. What isl?
+Answer:
+0<|end_of_text|>"
+66,"Question: Which of the following is thecommonestofthe病毒性脑炎
+A. Epstein-Barr
+B. herpes
+C.�
+D.
+Answer:B<|end_of_text|>"
+67,"Question:Design一�一全建造桥的桥体，应包括
+A.桥体、桥体和桥体
+B.桥体、桥体和桥体
+C.桥体、桥体和桥体
+D.桥体、桥体和桥体
+Answer:A<|end_of_text|>"
+68,"Question:
+What is 0.0456 minus 0.2?
+Answer:
+-0.1544<|end_of_text|>"
+69,"Question:
+Letd = -0.1 -0.1. Letq = -0.2 -0.2. Letsq = -0.2 -0.1. Whichisthesecondsmallest?  (a)q  (b)d  (c)0
+Answer:
+c<|end_of_text|>"
+70,"Question: Which of the following is the best explanationof thepathologicfeaturesofthe
+病变的病理变化
+A.为
+B.为
+C.为
+D.为
+Answer:C<|end_of_text|>"
+71,"Question:
+Leth,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of,of"
+72,"Question:
+Lettiebuy的新鲜的苹果的种子数为2,种子数为3,种子数为4。新鲜的苹果的种子总数为多少? A) 2 A) 3 A) 4 A) 5 A) 6 A) 7 A) 8
+Answer:
+种子数为2的为1种,种子数为3的为2种,种子数为4的为3种。种子总数为2+3+4=7种。
+A<|end_of_text|>"
+73,"def analyzeDNA(dna):
+    """"""分析DNA的序列,判断是否为基因编码的序列,并返回结果。
+    """"""
+    #使用正则表达式
+   pattern =r""(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+)(\d+"
+74,"def slice_andreplace(mylist,old,new):
+    """"""Givenlist,old,new,返回一个新列表,不改变原列表""""""
+   newlist=[]
+  foriinmylist:
+   新的列表
+  新的列表
+ 新的列表
+新的列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+新列表
+"
+75,"Question: A32-year-oldman,withalonghistoryofhearingloss,wasdiagnedwithnerve音,he最可能为
+A.病毒性脑炎
+B.脑�病
+C.风湿性病
+D.脑血管病
+Answer:B<|end_of_text|>"
+76,"Question:
+Letj = 10.5 + -10. Lett = -0.2 + -0.2. Lety = -1.2. Whatisjtyl?
+Answer:
+-0.2<|end_of_text|>"
+77,"def create_chord(tones,root):
+    """"""
+   Given alistofintervals,returnastringofthechords,
+  带有乐调的音阶。
+   """"""
+   chords = []
+   #将所有的音调的音符转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音调
+   #将音调转为音"
+78,"Question: Which of the following is thebestsuitabledrugtobeusedinthe治疗心室��
+病室的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的急性期
+的"
+79,"Question:
+Letp = 0.023 - -1.977.Letp的数值为
+A)0.122
+B)0.1
+C)0.122
+D)0.122
+Answer:<|end_of_text|>"
+80,"Question:
+What is the next termini of the following number: 1,2,3,4,5,6,7,8,9,10? A) 10 A) 11 A) 12 A) 13 A) 14 A) 15
+Answer:
+2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Answer: A<|end_of_text|>"
+81,"Question:
+Letd = -0.5 --0.3. Leti = -0.2 -d.Letw = -0.1.Letv = 0.5.What是属于同一类的，较为适合于的词为
+A.Letw
+B.Letv
+C.Let
+D.Let
+Answer:C<|end_of_text|>"
+82,"Question:
+Letq = -0.036 - 0.064.Letm = 2.7. Letk =m -q.Letn =-2.3.Whatisn =-0.2.0.2.
+Answer:
+-0.2<|end_of_text|>"
+83,"Question:
+Letr = 0.004 - 0.048. Letc = 0.04 +r.Letg = 0.04.Letu = 0.05.What是2的倍数?
+Answer:
+2<|end_of_text|>"
+84,"def update_nested_list(nested_list):
+    """"""
+   Given a list,updateallnested
+   """"""
+    #nested_list = [
+    #    [1,2,3],
+    #    [4,5,6],
+    #    [7,8,9],
+    #]
+   fori innestedlist:
+    fori ininnestedlist:
+       fori=0
+      fori=0
+     fori=0
+<|end_of_text|>"
+85,"def modify_list(my_list):
+    """"""
+   Modify thelist,将列表中所有数字转为字符串,并以空格分隔。
+   """"""
+    #将列表中的所有数字转为字符串并以空格分隔
+   fori inrange(0,len(my_list)):
+    mylist[i] =str(mylist[i])
+    mylist[i] =mylist[i] + "" ""
+   mylist[i] =mylist[i] +""\n""
+   returnmylist
+<|end_of_text|>"
+86,"Question:BuildaCask的功能是
+A.支持多个用户的应用
+B.支持多个用户的应用
+C.支持多个用户的应用
+D.支持多个用户的应用
+E。支持多个用户的应用
+Answer:A<|end_of_text|>"
+87,"Question: TheVentricles
+A. Arethe
+B. Are
+C. Are
+D.Are
+Answer: A<|end_of_text|>"
+88,"Question:
+Leth的分数是1/3，约为
+A
+0.033
+B
+0.033
+C
+0.003
+D
+0.003
+Answer: A<|end_of_text|>"
+89,"Question:
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+LettieandCatherine
+Lett"
+90,"def add_toset(set1,set2):
+   """"""Return a新集合,包含两个集合的所有元素,并且不包含重复元素。
+   """"""
+   #将两个集合的元素合并为一新集合
+  result =set1.union(set2)
+  #将合并后的结果中不包含重复元素的元素
+  result =result-2
+  #将合并后的结果中不包含重复元素的元素
+  result =result-2
+  #将合并后的结果中不包含重复元素的元素
+  result =result-2
+  #将合并后的结果中不包含重复元素的元素
+  result =result-2
+  #将合并后的结果中不包含重复元素的元素
+  result =result-2
+  #将合并后的结果中不包含重复元素的元素
+  result =result-2
+  #将合并后的结果中不包含重复元素的元素
+  result =result-2
+  #将合并后的结果中不包含重复元素的元素
+  result =result-2
+  #将合并后的结果中不包含重复元素的元素"
+91,"Question:
+What is the smallestcommonmultipleof2和4?
+Answer:
+8<|end_of_text|>"
+92,"Question:
+Letho has2,000dollars, 1,000dollars,3,000dollars,500dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000dollars,1000"
+93,"Question:
+Letq = -0.019 - -0.19. Letaq = -0.019. Which is the closest to 1?  (a) -1/3  (b) -3/5  (c)q
+Answer:
+c<|end_of_text|>"
+94,"Question:Build一儿童的睡眠为何?
+A.6-8小时
+B.8-10小时
+C.4-5小时
+D.1-2小时
+Answer:B<|end_of_text|>"
+95,"Question:
+Lettie's purse contained 5packs ofcookies,3packsofcheese,3packsofchips,4packsofpea,1packofchocolate. Ifshewanttohave1packofpea,1packofchocolate,2packsofcheese,1packofcookies,1packofchips,1packofpea,1packofchocolate,1packofchips,1packofchocolate,1packofchips,1packofchocolate,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips,1packofchips"
+96,"# 2020–21布里斯托人
+
+2020–21布里斯托人（）是2020–21赛季布里斯托人足球队的赛季，共名为2020/21赛季布里斯托人。
+
+##名额
+
+* 2020/21赛季
+* 2020/21赛季
+* 2020/21赛季
+* 2020/21赛季
+* 2020/21赛季
+
+##队队
+
+布里斯托人队队名
+
+###队队
+
+布里斯托人队队名
+
+###队队
+
+布里斯托人队队名
+
+###队队
+
+布里斯托人队队名
+
+###队队
+
+布里斯托人队队名
+
+##赛季
+
+布里斯托人队队名
+
+##赛季
+
+布里斯托人队队名
+
+##赛季
+
+布里斯托人队队名
+
+##赛季
+
+布里斯托人队队名
+
+##赛季
+
+布里斯托人队队名
+
+##赛季
+
+布里斯托人队队名
+
+##赛季
+
+布里斯托"
+97,"Question:
+Letg = 0.5 - -0.3. Lety = -0.5 - 0.1. Letp =g +L. Which是小的?  (a)p  (b)0.1  (c)2
+Answer:
+b<|end_of_text|>"
+98,"Question:Develop一分子中含有两种不同配子体的分子。一者是H2，另一者是O2。请问H2的配子体是
+A. O
+B. H
+C. O
+D. H
+Answer:A<|end_of_text|>"
+99,"def add_to_list(my_list,items):
+    """"""将新元素添加到列表""""""
+    #将新元素添加到列表
+    my_list.extend(items)
+    #将新元素添加到列表
+   my_list.append(items)
+    #将新元素添加到列表
+   my_list.insert(0,items)
+    #将新元素添加到列表
+  my_list.insert(0,items)
+    #将新元素添加到列表
+  my_list.append(items)
+    #将新元素添加到列表
+   return my_list
+<|end_of_text|>"

@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily Hindi morphemes, suffixes, and function words that serve grammatical roles such as case marking, tense, plurality, and conjunctions. These include postpositions, verb endings, and common connectors, which are essential for sentence structure and meaning in Hindi text."

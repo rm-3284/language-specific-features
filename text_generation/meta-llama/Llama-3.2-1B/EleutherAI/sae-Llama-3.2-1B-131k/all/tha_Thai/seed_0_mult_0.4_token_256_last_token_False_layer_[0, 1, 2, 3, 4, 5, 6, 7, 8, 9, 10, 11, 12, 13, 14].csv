@@ -1,0 +1,744 @@
+seed,generated_text
+0,"Question: Which of the following is a feature of chronic gastroparesis?
+A. Presence of increased blood pressure in the neck
+B. Presence of increased blood pressure in the leg
+C. Presence of increased blood pressure in the arm
+D. Presence of increased blood pressure in the heart
+Answer: D<|end_of_text|>"
+1,"Question:
+Let d = 0.061 + -0.061. Let s = 0.02 + 0.08. Let m = s + d. What is the smallest value in m, 0.5, 0.3?
+Answer:
+0.3<|end_of_text|>"
+2,"Question:
+Let q = -3.59 - -3.51. Let z = q + 0.08. Let x = -0.2 + z. What is the closest to 1 in x, -2/7, 3?
+Answer:
+x<|end_of_text|>"
+3,"Question:
+Let g be (-2 - -3)*(-1 - 1). Let x be 0/((-3)/(-6)*-3). Suppose x = -2*l - 3. What is the remainder when g is divided by l?
+Answer:
+0<|end_of_text|>"
+4,"Question:
+Let v = -0.02 - 0.08. Let i = 0.17 + v. Let g = i + -0.08. Which is the closest to 2/3?  (a) g  (b) -3  (c) -1/4
+Answer:
+c<|end_of_text|>"
+5,"Question:
+Let x = 0.061 - 0.038. Let s = 0.037 + x. What is the smallest value in -2/7, s, 0.3?
+Answer:
+-2/7<|end_of_text|>"
+6,"def calculate_tractor_work(time_employed, work_performed):
+    """"""Calculate the amount of work performed per hour of work
+    >>> calculate_tractor_work(3, 2)
+    	         -> 2
+    >>> calculate_tractor_work(5, 3)
+    	         -> 1.33
+    >>> calculate_tractor_work(7, 4)
+    	         -> 0.5
+    >>> calculate_tractor_work(3, 1)
+    	         -> 3
+    >>> calculate_tractor_work(3, 3)
+    	         -> 3
+    >>> calculate_tractor_work(3, 2)
+    	         -> 2
+    >>> calculate_tractor_work(3, 3)
+    	         -> 3
+    >>> calculate_tractor_work(3, 2)
+    	         -> 2
+    >>> calculate_tractor_work(3, 3)
+    	         -> 3
+    >>> calculate_tractor_work(3, 2)
+    	         -> 2
+    >>> calculate_tractor_work(3, 3)
+    	         -> 3
+    >>> calculate_tractor_work(3, 2)
+    	         -> 2
+    >>> calculate"
+7,"# John D. Murthmia
+
+John D. Murthmia (อรมวส์; born 17 august 1967) เปลี่ยนชื่อเล่นจากวงรีรับจารด์เป็นชื่อเล่นเมื่อวันที่ 31 พฤษภาคม 2560 เปลี่ยนชื่อเล่นเมื่อวันที่ 31 มิ.ส.ปี.ส.ว.ม. (ปัจจุบันอยู่ในวงรรรรรรรภังงามาเฟง) เปลี่ยนชื่อเล่นเมื่อวันที่ 31 ธันวาคม 2555 เปลี่ยนชื่อเล่นเมื่อวันที่ 31 มิ.ส.ป.ส.ว.ม. (ปัจจุบันอยู่ในวงรรรภงามาเฟง) เปลี่ยนชื่อเล่นเมื่อวันที่ 31 มิ.ส.ป.ส.ว.ม. (ปัจจุบันอยู่ในวงรรรภงามาเฟง) เปลี่ยนชื่อเล่นเมื่อวันที่ 31 มิ.ส"
+8,"Question:
+Let x be (-3)/((-6)/(-4)) + 0. Let s be (-2 - x)*-1 + -1. Suppose -s*u + 2 = -3. Calculate the remainder when 27 is divided by u.
+Answer:
+3<|end_of_text|>"
+9,"Question:
+Let x be (-2)/((-6)/((-30)/(-4))). Suppose 5*j = -x*j + 10. Suppose 0 = -j*n + 3*n. Is n a multiple of 2?
+Answer:
+True<|end_of_text|>"
+10,"Question: Which of the following is the most common cause of death in pregnant women with chronic hyperthyroidism?
+A. Anaphylaxis
+B. Acquired immune deficiency disorder
+C. Thrombosis
+D. Myocardial infarction
+Answer: A<|end_of_text|>"
+11,"Question: A 25-year-old pregnant woman presents to the emergency room with severe leg pain. She has been experiencing leg pain for the past 3 months. She has no symptoms of any other disease. On physical examination she has leg pain, leg swelling and leg deformity. She has also noticed that her leg is very large and her legs are not parallel to each other. On blood work she found that her blood pressure is 120/80 mm. she has severe arthropathy and she has an elevated level of serum level of GGT
+A. Sclerosed diffusion
+B. Sclerosed diffusion with raised level of serum level of GGT
+C. Sclerosed diffusion with raised level of serum level of GGT and also she has an elevated level of serum level of factor1175
+D. Sclerosed diffusion with raised level of serum level of factor1175 and also she has an elevated level of serum level of GGT
+Answer: A<|end_of_text|>"
+12,"Question:
+Let i = 0.5 + -0.3. Let f = 0.07 + 0.03. Let m = i + f. Which is the nearest to m?  (a) -0.5  (b) 1/3  (c) -2/7
+Answer:
+a<|end_of_text|>"
+13,"Question:
+Let h be (-1 + 3)/(1/(-2)). Suppose -2*d - 2*d = -h. Let k be (-2 - 2/(-8))*-8. What is the remainder when d is divided by k?
+Answer:
+2<|end_of_text|>"
+14,"Question: Which of the following is the most common cause of Acute Flutopiche Kinesia?
+A. Hereditary factor
+B. Hereditary factor
+C. Hereditary factor
+D. Hereditary factor
+Answer: D<|end_of_text|>"
+15,"Question:
+Let y = -0.01 + 0.31. Let f = -0.5 - y. Let m = 0.05 - f. Which is the nearest to m?  (a) 2/7  (b) 1  (c) -2/3
+Answer:
+a<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.037. Let i = 0.057 + j. Let f = -0.06 - i. Which is the smallest value?  (a) f  (b) -2  (c) 0.3
+Answer:
+b<|end_of_text|>"
+17,"Question:
+Let f = 0.03 - 0.038. Let x = 0.061 + f. Let i = x - 0.03999959. What is i rounded to seven decimal digits?
+Answer:
+-0.0000006<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3. Let i = 0.2 - y. Let u = i - -0.3. What is the closest to 1 in -3, u, 3?
+Answer:
+u<|end_of_text|>"
+19,"Question:Build a Java application that takes a list of numbers from the user and calculates the sum of the first 6 digits of the numbers. If the user wants to stop the process at any point, they should type a number less than 6. If they want to skip the calculation, they should type a number equal to 6.
+```javascript
+var i = 1;
+    while(i <= 6){
+        number = prompt('Enter a number');
+        if(number == '6'){
+            break;
+        } else if(number!=6){
+            sum += number;
+        }
+    }
+    console.log(sum);
+```<|end_of_text|>"
+20,"Question: Which of the following is a characteristic of the circulatory system?
+A. Saturated blood circulation
+B. Saturated blood flow
+C. Saturated blood flow and blood pressure
+D. Saturated blood flow and blood pressure and blood circulation
+Answer: D<|end_of_text|>"
+21,"Question:
+Let g = -0.06 + 0.3. Let i = 0.38 + g. Let k = 0.07 + i. Which is the closest to 0.1?  (a) -0.5  (b) k  (c) -2
+Answer:
+b<|end_of_text|>"
+22,"Question: Which of the following is a characteristic of the following?
+A. A positive loop structure
+B. A positive loop structure
+C. A positive loop structure
+D. A positive loop structure
+Answer: D<|end_of_text|>"
+23,"Question: Which of the following is not a characteristic of atherosclerosis?
+A. Presence of thickened arterial wall
+B. Presence of local tissue damage
+C. Presence of blood clot
+D. Presence of local tissue damage and blood clot
+Answer: D<|end_of_text|>"
+24,"Question: The following is true of the circulatory system
+A. Blood is circulated through every tissue in the body
+B. The circulatory system is the only system that circulates blood
+C. The circulatory system is the only system that transports gases
+D. The circulatory system is the only system that transports nutrients
+Answer: A<|end_of_text|>"
+25,"# C. P. S. Arvonรักงามมิสมงาม
+
+บทวิจารณ์บทสัมมว่านที่มีวิจารณ์ดนรัชดี พงษ์ศรีงอมราโชกงามรอดี (สังว่างดี) (ปีงษ์ศุระ) (พักตรา) (จบรมารา) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี) (สังว่างดี"
+26,"Question:
+Let s = -4.5 + 4. Let f = 0.037 + -0.037334. Let x = f + 0.337334. Which is the closest to s?  (a) 2/7  (b) x  (c) 1/3
+Answer:
+a<|end_of_text|>"
+27,"Question:Design a Java program to check whether the given number is a multiple of 3 or not? If so, display the message ""FizzFizzFizz"" otherwise, display the message ""Fizz"" or ""FizzFizz"" depending on the given number
+```<?php
+    $number = 123456789;
+    if ((number_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557_2567_2557"
+28,"Question:
+Let f = 0.05 - 0.05. Let i be (-2)/6*9/(-6). Let r be (-2)/(-6) + i/(-6). Which is the closest to f?  (a) -1/4  (b) r  (c) 0.3
+Answer:
+a<|end_of_text|>"
+29,"Question:Write a Julia code snippet to Check Extreme Weather Today: Weather report today's weather forecast is going to be cloudy skies with a thunderstorms possible Weather forecast today is supposed to be partly cloudy skies with a slight breeze Weather forecast today is supposed to be mostly sky clear Weather forecast today is supposed to be mostly sky clear Weather forecast today is supposed to be mostly sky clear Weather forecast today is supposed to be mostly sky clear Weather forecast today is supposed to be mostly sky clear Weather forecast today is supposed to be mostly sky clear Weather forecast today is supposed to be mostly sky clear Weather forecast today is supposed to be mostly sky clear Weather forecast today is supposed to be mostly sky clear
+A. What is the weather today?
+B. What is the weather today?
+C. What is the weather today?
+D. What is the weather today?
+Answer: D<|end_of_text|>"
+30,"Question:
+Let y = -0.02 - -0.17. Let s = y - 0.15. Let u = -0.037 + s. What is the closest to 0.1 in -2, u, 1/2?
+Answer:
+1/2<|end_of_text|>"
+31,"Question:
+Let m = -1.07 + 0.07. Let i = 0.03 + m. Let x = -0.07 + i. Which is the nearest to 0.2?  (a) x  (b) -1/3  (c) 2/7
+Answer:
+c<|end_of_text|>"
+32,"Question:
+Let i = 0.036 - 0.031. Let x = 0.035 + i. Let g = x + -0.001. What is the smallest value in 2/7, g, 0.3?
+Answer:
+g<|end_of_text|>"
+33,"def analyze_tributies(international_tributis):
+    """"""Analytical study of the amount of money collected from each region based on their respective level of development
+
+    Args:
+        international_tributis (list): List of countries and their respective level of development
+
+    Returns:
+        (list): List of countries and their respective level of development
+    """"""
+    i = 1
+    while i <= 3:
+        if international_tributis[i] == 'จริงมิให้ล้มงวงรา':
+            if i == 1:
+                if international_tributis[i] == 'จริงมิให้ล้มงวงรา':
+                    if international_tributis[i] == 'จริงมิให้ล้มงวงรา':
+                        if international_tributis[i] == 'จริงมิให้ล้มงวงรา':
+                            if i == 1:
+                                if international_tributis[i] == 'จริงมิให้ล้มงวงรา':
+                                    if i == 1:
+                                    if international_tributis[i] == 'จริงมิให้ล้มงวงรา':
+                                       "
+34,"Question: Which of the following is the best example of an example of a case study?
+A. Compare and contrast
+B. Analytical study
+C. Descriptive study
+D. Case study
+Answer: D<|end_of_text|>"
+35,"Question:
+What is the smallest common multiple of 6 and 2?
+Answer:
+6<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -0.31. Let i = o + 0.59. Let s = -0.03 + i. What is the smallest value in 0.3, s, 1?
+Answer:
+s<|end_of_text|>"
+37,"# List of members of the House of Representatives of Thailand (2557–2016)
+  บที่นี่มีรายชื่อสมาชิกราชวิสามัญสั่งดังตัวเลขที่บอกว่ามาจากไหน โดยมีบทวิสามัญสั่งดังตัวเลขที่บอกว่ามาจากไหนมีให้มาตราตรวายสิ่งว่าดีๆง่ายๆล่ะก็หรือไม่คอยรับสนองมั่นอย่างงูสดุจจันอยู่มั่นคงๆล่ะก็หรือไม่คอยรับใช้เหมือนกันหรือไม่คอยรับใช้เหมือนกันหรือไม่คอยรับใช้เหมือนกันหรือไม่คอยรับใช้เหมือนกันหรือไม่คอยรับใช้เหมือนกันหรือไม่คอยรับใช้เหมือนกันหรือไม่คอยรับใช้เหมือนกันหรือไม่คอยรับใช้เหมือนกันหรือไม่คอยรับใช"
+38,"Question:
+What is the common denominator of 83/102 and 79/12?
+Answer:
+306<|end_of_text|>"
+39,"Question:
+Let i = -0.07 + 0.07. Let x be (-10)/(-4) - (-5 + 1). Let z be (x/(-6))/((-1)/6). Which is the closest to i?  (a) z  (b) -2/7  (c) 0.07
+Answer:
+c<|end_of_text|>"
+40,"# -*- coding:utf-8 -*-
+import numpy as _N
+import numpy.linalg as _NLA
+import numpy.com._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N
+import numpy._N"
+41,"Question:
+Let a = -8.5 + 8. Let q = a - -0.3. Let d = -0.037 + q. What is the smallest value in 2/7, d, 1?
+Answer:
+d<|end_of_text|>"
+42,"Question:
+Let q = 0.13 - 0.1. Let d = -0.09 + q. Let f = d - -0.07. What is the closest to f in -0.4, 0.5, 2?
+Answer:
+0.5<|end_of_text|>"
+43,"Question:
+Let k = -0.037 + 0.037. Let w = -0.01 - k. Let d = -0.07 + w. Which is the closest to -1?  (a) -0.4  (b) d  (c) 1/3
+Answer:
+a<|end_of_text|>"
+44,"Question:
+Let o = -2.7 + 2.3. Let i = o + 0.3. Let d = i - 0.7. Which is the closest to 1/4?  (a) -0.3  (b) d  (c) 2/7
+Answer:
+c<|end_of_text|>"
+45,"Question:
+Let x = 0.02 + 0.38. Let d = 0.36 + x. Let v = -0.3 - d. What is the closest to 2 in 0.2, 2/7, v?
+Answer:
+2/7<|end_of_text|>"
+46,"Question: Which one of the following is the most common presentation of acute mydmosclerosis?
+A. Intimal thickening
+B. Intimal thickening and smooth muscle thickening
+C. Intimal thickening and thickened vessel wall
+D. Intimal thickening and thickened vessel wall with local tissue damage
+Answer: D<|end_of_text|>"
+47,"# -*- coding:utf-8 -*-
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/* eslint eslint eslint定的ลบ*/
+/*"
+48,"Question: Which of the following is the most common cause of death in this condition?
+A. Acquired immune deficiency
+B. Chronic obstructive
+C. HIV
+D. SARS
+Answer: A<|end_of_text|>"
+49,"Question:Design a Java program that reads a string from the user and checks if the string contains the letter 'A' or not. If the string contains the letter 'A' it should be displayed on the screen and if it does not contain the letter 'A' it should be displayed on the screen.
+``` 
+/* Function to check if the string contains the letter A or not */
+function checkAString (String s) {
+    if (s.indexOf('A')!= -1) {
+        return true;
+    } else {
+        return false;
+    }
+}
+```
+<|end_of_text|>"
+50,"Question:
+Let g = 0.028 + 0.061. Let z = g + -0.07. Let u = z - -0.08. Which is the nearest to -1?  (a) u  (b) -2/3  (c) 0.2
+Answer:
+b<|end_of_text|>"
+51,"Question:
+Let w = -0.2 + 0.1. Let z = -0.07 - -0.31. Let i = z + -0.24. Which is the closest to w?  (a) -3  (b) i  (c) 1/2
+Answer:
+b<|end_of_text|>"
+52,"def create_new_list():
+    """"""This function creates a new list and fills it with values from a given list""""""
+
+    my_list = [1,2,3,4,5]
+    new_list = [1,2,3,4,5]
+    if my_list == new_list:
+        return True
+    else:
+        return False<|end_of_text|>"
+53,"Question:
+What is the common denominator of -59/66 and -77/138?
+Answer:
+1386<|end_of_text|>"
+54,"Question:
+Let u = -0.5 + 0.5. Let i = 0.05 - -0.95. Let k be (-2)/((-8)/((-48)/(-6))). Which is the closest to u?  (a) k  (b) i  (c) 0.4
+Answer:
+c<|end_of_text|>"
+55,"def get_first_name(animals):
+    first_name = animals[0]
+    return first_name
+
+animals = ['หมา','แมลงงาม','แมลงงาม']
+first_name = get_first_name(animals)
+print(first_name)<|end_of_text|>"
+56,"Question:
+What is the common denominator of 77/8 and 103/72?
+Answer:
+72<|end_of_text|>"
+57,"Question:
+Let w = -0.019 + 0.021. Let q = w + -0.02. Which is the nearest to 1?  (a) 2/3  (b) q  (c) -0.3
+Answer:
+a<|end_of_text|>"
+58,"def update_giveaways(offers, max_giveaways):
+    """"""Update the number of giveaways per month based on the offer and maximum number of giveaways
+    offers: List of offers
+    max_giveaways: Maximum number of giveaways per month
+
+    return: Number of giveaways per month
+    """"""
+
+    for i in range(len(offers)):
+        if offers[i]['type'] == 'off_' and offers[i]['status'] == 'active':
+            if offers[i]['max_giveaways'] =='max_giveaways':
+                if offers[i]['status'] == 'active' and offers[i]['max_giveaways'] =='max_giveaways':
+                    continue
+                else if offers[i]['status'] == 'active' and offers[i]['max_giveaways']!='max_giveaways':
+                    if offers[i]['max_giveaways'] > max_giveaways:
+                        continue
+                else if offers[i]['status'] == 'active' and offers[i]['max_giveaways'] =='max_giveaways':
+                    continue
+                else if offers[i]['status'] == 'active' and offers[i]['max_giveaways']!=max_giveaways:
+                    if offers[i]['max_giveaways']"
+59,"def find_mineral_info(minerals):
+    """"""Return information about the minerals in the list, including their position, name, and color""""""
+    for i in range(len(minerals)):
+        if minerals[i].position == 'S' || minerals[i].position == 'F' || minerals[i].position == 'E' || minerals[i].position == 'A':
+            if minerals[i].name == 'Zircon' || minerals[i].name == 'Tourmalinite' || minerals[i].name == 'Tourmalinite' || minerals[i].name == 'Zircon':
+                if minerals[i].color == 'Gold' || minerals[i].color == 'Silver' || minerals[i].color == 'Gold':
+                    return f'{minerals[i].name} is a { minerals[i].color} mineral'
+    return 'No mineral information available'
+<|end_of_text|>"
+60,"Question:
+Let a = -0.03 + 0.03. Let q = -0.7 + 0.5. Which is the closest to a?  (a) -2/7  (q 0.7)
+Answer:
+q<|end_of_text|>"
+61,"Question:
+Let q = -7.75 - -7.9. Let p = -0.05 + q. Which is the closest to -2/7?  (a) -1  (b) p  (c) 0.5
+Answer:
+b<|end_of_text|>"
+62,"def find_mineral_name(mineral):
+    """"""
+    Return the name of the mineral if it is a mineral
+    otherwise, return the name of the mineral if it is a mineral
+    otherwise, return the name of the mineral if it is a mineral
+    otherwise, return the name of the mineral if it is a mineral
+    otherwise, return the name of the mineral if it is a mineral
+    otherwise, return the name of the mineral if it is a mineral
+    otherwise, return the name of the mineral if it is a mineral
+    otherwise, return the name of the mineral if it is a mineral
+    otherwise, return the name of the mineral if it is a mineral
+    otherwise, return the name of the mineral if it is a mineral
+    otherwise, return the name of the mineral if it is a mineral
+    otherwise, return the name of the mineral if it is a mineral
+    otherwise, return the name of the mineral if it is a mineral
+    otherwise, return the name of the mineral if it is a mineral
+    otherwise, return the name of the mineral if it is a mineral
+    otherwise, return the name of the mineral if it is a mineral
+    otherwise, return the name of the"
+63,"Question:
+What is the remainder when 61 is divided by 21?
+Answer:
+17<|end_of_text|>"
+64,"Question:
+Let q = -0.2 + 0.3. Let m = -0.07 + q. Let v = m + 0.093. What is v rounded to one decimal point?
+Answer:
+0.1<|end_of_text|>"
+65,"Question:
+Let x = -0.066 + 0.069. Let i = 0.059 + x. Let j = -0.019 - i. What is the smallest value in -2, j, 1/3?
+Answer:
+-2<|end_of_text|>"
+66,"Question:
+Let f = -1.3 + 0.3. Let d be ((-2)/(-8))/((-3)/(-18)). Which is the closest to d?  (a) -3  (b) f  (c) -1/4
+Answer:
+c<|end_of_text|>"
+67,"Question: Which of the following is the most common cause of death in a patient with HIV?
+A. Sepsis
+B. Cardiac arrest
+C. Hepatotoxicity
+D. Hemorrhagic disease
+Answer: A<|end_of_text|>"
+68,"Question:
+What is 3/50 of a litre in millilitres?
+Answer:
+600<|end_of_text|>"
+69,"Question:
+Let i = -0.037 + 0.037. Let w = 0.3 + -0.3. Let q = w - i. What is the smallest value in q, 2, 0.3?
+Answer:
+0.3<|end_of_text|>"
+70,"Question: Which of the following is the best example of the application of information technology in medical treatment?
+A. Management of emergency
+B. Management of chronic disease
+C. Management of public health
+D. Management of health care delivery system
+Answer: A<|end_of_text|>"
+71,"Question:
+Let a = 0.035 + 0.255. Let i = -0.3 - a. Which is the closest to i?  (a) -0.3  (b) -2/3  (c) 0.5
+Answer:
+b<|end_of_text|>"
+72,"Question:
+Let i = -0.4 + 0.3. Let d = 0.02 + -0.08. Let s = d - i. What is the smallest value in 1, s, 0.2?
+Answer:
+0.2<|end_of_text|>"
+73,"def update_ingredients(ingredients):
+    """"""Update the ingredients list with new information about the food products""""""
+    new_info = ['new information about the food products']
+    for i in range(len(ingredients)):
+        if i % 2 == 0:
+            new_info[i] = 'new information about the food products'
+        else:
+            new_info[i] = 'old information about the food products'
+    return new_info
+
+<|end_of_text|>"
+74,"def create_ensemble_size(size, n):
+    """"""
+    Create an ensemble of size n, where each member of the ensemble is a different size
+    (i.e. size = 3, n = 3)
+    """"""
+
+    if size == 3:
+        if n == 3:
+            return [i for i in range(1, 6)]
+        else:
+            return []
+    else:
+        return []
+<|end_of_text|>"
+75,"Question: A 3-year-old child presents with left-sided hearing loss and a redness of the skin around the ear. On examination, he found that the middle ear is filled with air, but the tym鼓ม is not displaced. Which of the following is the most likely diagnosis?
+A. Traumatic middle ear
+B. Ototoxicity
+C. Scoliosis
+D. Traumatic growth
+E. Traumatic brain
+Answer: A<|end_of_text|>"
+76,"Question:
+Let y = 0.5 + -0.1. Let q = -0.08 + y. Let i = -0.083 + q. What is the closest to -1 in i, 0.3, 2/7?
+Answer:
+i<|end_of_text|>"
+77,"def create_ensemble(actors, style):
+    """"""Create an ensemble of actors based on their style and preferences""""""
+
+    actors = [actor1, actor2, actor3, actor4, actor5]
+    style = [style1, style2, style3, style4, style5]
+
+    if style == 'classic':
+        if actor1 == 'actor1' && actor2 == 'actor2' && actor3 == 'actor3' && actor4 == 'actor4' && actor5 == 'actor5'
+        if actor1 == 'actor1' && actor2 == 'actor2' && actor3 == 'actor3' && actor4 == 'actor4'
+        if actor1 == 'actor1' && actor2 == 'actor2' && actor3 == 'actor3'
+        if actor1 == 'actor1' && actor2 == 'actor2'
+        if actor1 == 'actor1'
+        if actor2 == 'actor2'
+        if actor3 == 'actor3'
+        if actor4 == 'actor4'
+        if actor5 == 'actor5'
+        if actor1 == 'actor1' && actor2 == 'actor2' && actor3 == 'actor3' && actor"
+78,"Question: Which of the following is the most common cause of sudden death in children?
+A. Myogenic hyperthyroidism
+B. Sudden death in Hechtmorellariousclerosis
+C. Sudden death in Hechtmorellariousclerosis
+D. Sudden death in Hechtmorellariousclerosis
+Answer: A<|end_of_text|>"
+79,"Question:
+Let x = 0.07 - 0.07. Let f = 0.03 + 0.07. Which is the nearest to x?  (a) 2  (b) f  (c) 0.5
+Answer:
+b<|end_of_text|>"
+80,"Question:
+What is the lowest common multiple of 24 and 6?
+Answer:
+24<|end_of_text|>"
+81,"Question:
+Let o = -0.5 - -0.3. Let x be 2/(2/1 + 0). Which is the nearest to o?  (a) 3/8  (b) x  (c) -2/9
+Answer:
+a<|end_of_text|>"
+82,"Question:
+Let g = -0.036 + 0.136. Let v = g + -0.09. Let k be (-2)/((-1 + 2)*1). Which is the nearest to 2/7?  (a) k  (b) 2/7  (c) v
+Answer:
+b<|end_of_text|>"
+83,"Question:
+What is the third biggest value in -1/3, -2/7, -0.1, 2/3?
+Answer:
+-2/7<|end_of_text|>"
+84,"def update_weather_conditions(current_weather):
+    """"""
+    Update the weather condition based on the current weather
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+    If the current weather is rain, make it thunderstorm
+   "
+85,"def modify_list_of_2d_array_elements_if_condition_satisfied(2DArray):
+    """"""
+    This function takes a 2D array as input and returns a modified 2D array
+    if the condition is satisfied
+    """"""
+    if 2DArray[0][0] == 'A' && 2DArray[0][1] == 'A':
+         return [2DArray[0][0], 2DArray[0][1]]
+    else:
+        return [2DArray[0][0], 2DArray[0][1]]
+
+<|end_of_text|>"
+86,"Question: Which of the following is the best indication for a bone marrow transplant?
+A. Acquired immune deficiency factors
+B. Congenital disorders
+C. Chronic myelopองศน disease
+D. Metabolic disorders
+Answer: B<|end_of_text|>"
+87,"Question: The following is a characteristic of a typical middle-aged person:
+A. Gait is rather stiff
+B. No obvious problems in walking
+C. Gait is rather stiff
+D. Gait is rather stiff
+Answer: A<|end_of_text|>"
+88,"Question:
+Let i be 2/((-4)/(-3)) - 9. Suppose 0 = -4*f + 3*j - 19, -2*f + 4*j = -0*j - 18. Let a be (-8)/6*(-3 - f). What is the smallest common multiple of i and a?
+Answer:
+18<|end_of_text|>"
+89,"Question:
+Let g = -0.031 + 0.049. Let m = 0.014 + g. Let d = m - 0.019. What is the closest to 2 in 3, d, -3/8?
+Answer:
+3<|end_of_text|>"
+90,"def add_to_set_and_select(arr):
+    """"""Add a value to a set and select a value from the set based on the index of the value""""""
+    my_set = set()
+    my_set.add(1)
+    my_select = my_set[1]
+    return my_select
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 159 is divided by 43?
+Answer:
+31<|end_of_text|>"
+92,"Question:
+Let p be 2/((-16)/(-18)) + 1. Let s be p/(3/(-6)*1). Let v be 2/((-8)/(-18)) + 2. Which is the closest to s?  (a) 2/7  (b) v  (c) -2/3
+Answer:
+a<|end_of_text|>"
+93,"Question:
+Let i = 0.019 - -0.291. Let j = 0.28 + i. What is the smallest possible number of milliseconds needed to make a note down the following information by j?
+A) 1.5 B) 2.5 C) 3.5 D) 4.5 E) 5.5
+Answer:
+3.5
+<|end_of_text|>"
+94,"Question: The most common cause of death in children with severe acute myopic is:
+A. Glaucoma
+B. Acquired immune deficiency
+C. Pneumonia
+D. Cardiac arrest
+Answer: D<|end_of_text|>"
+95,"Question:
+Let o = 0.2 + 0.08. Let q = o - 0.02. Let j = 0.01 + q. Which is the closest to -1/3?  (a) 1  (b) j  (c) 0.2
+Answer:
+b<|end_of_text|>"
+96,"# -*- coding:utf-8 -*-
+
+import os
+import time
+import json
+import subprocess
+
+import logging
+import time
+from collections import OrderedDict
+
+import os.path
+import time
+from threading import current所ถ้าหรือมี?
+import os
+import sys
+
+import os.path
+import time
+from threading import current所ถ้าหรือมี?
+import os
+import sys
+
+import os.path
+import time
+from threading import current所ถ้าหรือมี?
+import os
+import sys
+
+import os.path
+import time
+from threading import current所ถ้าหรือมี?
+import os
+import sys
+
+import os.path
+import time
+from threading import current所ถ้าหรือมี?
+import os
+import sys
+
+import os.path
+import time
+from threading import current所ถ้าหรือมี?
+import os
+import sys
+
+import os.path
+import time
+from threading import current所ถ้าหรือมี?
+import os
+import sys
+
+import os.path
+import time
+from threading import current所ถ้าหรือมี?
+import os
+import sys
+
+import os.path
+import time
+from threading import current所ถ้าหรือมี?
+import os
+import sys
+
+import"
+97,"Question:
+Let i = 0.5 - 0.3. Let u = 0.03 + i. Let v = -0.053 + u. Which is the closest to v?  (a) -1  (b) 0.3  (c) 3
+Answer:
+b<|end_of_text|>"
+98,"Question:
+Let a = -4.35 - -4.3. Let q = a + 0.15. Let f = q - 0.35. Which is the closest to f?  (a) -2/7  (b) -1/3  (c) 0.1
+Answer:
+c<|end_of_text|>"
+99,"def find_unique_ingredients(ingredients):
+    """"""Return a list of ingredients that are not repeated in the given list""""""
+
+    ingredients = [1, 2, 3, 4, 5]
+    unique_ingredients = []
+
+    for i in range(1, len(ingredients)):
+        if i % 2 == 0:
+            unique_ingredients.append(ingredients[i])
+        else:
+            unique_ingredients.append(ingredients[i-1])
+    return unique_ingredients
+
+<|end_of_text|>"

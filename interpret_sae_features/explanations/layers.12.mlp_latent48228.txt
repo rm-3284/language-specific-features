@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily Russian morphemes, function words, and endings that mark grammatical relationships, verb conjugations, noun/adjective declensions, and common syntactic connectors. These tokens are crucial for sentence structure, tense, case, agreement, and linking clauses, reflecting the morphological richness and syntactic dependencies of Russian language."

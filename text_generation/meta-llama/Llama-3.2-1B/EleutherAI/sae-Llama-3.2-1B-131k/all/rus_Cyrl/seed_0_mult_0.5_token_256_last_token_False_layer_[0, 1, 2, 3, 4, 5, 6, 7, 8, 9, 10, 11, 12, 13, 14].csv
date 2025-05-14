@@ -1,0 +1,690 @@
+seed,generated_text
+0,"Question:Create a Python script snippet that Determines Extreme Weather: Temperature и Вода в сети в Москве в 2018 года. В этой задаче необходимо сначала получить данные об уровне температуры и снега на различных уровнях в Москве, затем получить данные об объеме воды в сети в этих же сведениях. В итоговом результатах должно быть объехать в одной строке всех данных. Ра�
+```
+import requests
+import csv
+
+# Функция для получения данных о сноб на разных уровнях в Москве
+def get_snow():
+    # Формирование URL для запроса на сноб
+    url = ""https://вкос-1.1.3.3:80/snow/1.0.0/1.0.0/1.0.0.1?_v=1.0.0.1""
+    # Достаем данные из файла с сноб
+    data = open('s_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_"
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 + d. Let b = s - -0.01. What is b rounded to 2 decimal places?
+Answer:
+0.01<|end_of_text|>"
+2,"Question:
+Let l = -3.4 - -3. Let g = 0.0000018 + l. What is g rounded to 7 decimal degrees?
+Answer:
+0.0000018<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Let k = g - 0.19. Let v = -0.06 + k. What is v rounded to 2 decimal places?
+Answer:
+-0.08<|end_of_text|>"
+4,"Question:
+Let v = 11.4 - 11. Let j = 0.05 - 0.05. Let x = j + v. What is the closest to 0.2 in -4, 3, x?
+Answer:
+x<|end_of_text|>"
+5,"Question:Develop a Ruby program snippet на проверку сущности в PostgreSQL на Python. С помощью этого веб-аппарата, клики с этого сайта, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-строка, веб-стр"
+6,"def count_even_numbers(my_list):
+    """"""Write a function that takes a list of numbers as input and returns the count of even numbers in the list.
+    # Test 1:
+    assert count_even_numbers([]) == 0
+    # Test 2:
+    assert count_even_numbers([1]) == 0
+    # Test 3:
+    assert count_even_numbers([1, 3, 5, 7, 9, 11, 13, 15, 17, 19]) == 8
+    # Test 4:
+    assert count_even_numbers([1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21]) == 10
+    # Test 5:
+    assert count_even_numbers([1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23]) == 12
+    """"""
+    count = 0
+    for num in my_list:
+        if num % 2 == 0:
+            count += 1
+    return count<|end_of_text|>"
+7,"# 2008–09 VК ФК «ДЮСЛ» (Хоккьо)
+
+Сорока девятая команда в ФК «ДЮСЛ» на 2008-2009 года. В 2008 году команда получила права на играть в 4-й диво.
+
+## Дополнительные источники
+
+* http://www.rsssf.com/football/asia-2008.html
+* http://www.football-soccer.ru/football/football_2008_09.html
+* http://football-teams.net/football-teams/football-teams-2008/football-teams-2008-2009/football-teams-2008-2009-2010/football-teams-2008-2009-2010-2011/football-teams-2008-2009-2010-2011-2012/football-teams-2008-2009-2010-2011-2012-2013/football-teams-2008-2009-2010-2011-2012-2013-2014/football-teams-2008-2009-2010-2011-2012"
+8,Question:Build a Python module versих-1.0.3.1_1.0.3.2_1.0.3.3_1.0.3.4_1.0.3.5_1.0.3.6_1.0.3.7_1.0.3.8_1.0.3.9_1.0.3.10_1.0.3.11_1.0.3.12_1.0.3.13_1.0.3.14_1.0.3.15_1.0.3.16_1.0.3.17_1.0.3.18_1.0.3.19_1.0.3.20_1.0.3.21_1.0.3.22_1.0.3.23_1.0.3.24_1.0.3.25_1.0.3.26_1.0.3.27_1.0.3.28_1.0.3.29_1.0.3.30_1.0.3.31
+9,"Question:
+Let x = -0.1 + 0.1. Let p = 0.1 + x. Let l = 0.1 - 0.1. Which is the nearest to l?  (a) p  (b) -3/4  (c) 1/3
+Answer:
+c<|end_of_text|>"
+10,"Question:Create a C# script snippet that Checks High Flossing: Types Of Dental Floss For Dummies for Professionals: 4.1: Choosing Toothпомойки Based On Your Toothпомойки Type: 4.1.1: Flossing вЂо?Dumb"" Floss: 4.1.2: Flossing вЂ"" ""Professional"" Floss: 4.1.3: Flossing вЂ"" ""Professional"" Floss: 4.1.4: Flossing вЂ"" ""Professional"" Floss: 4.1.5: Flossing вЂ"" ""Professional"" Floss: 4.1.6: Flossing вЂ"" ""Professional"" Floss: 4.1.7: Flossing вЂ"" ""Professional"" Floss: 4.1.8: Flossing вЂ"" ""Professional"" Floss: 4.1.9: Flossing вЂ"" ""Professional"" Floss: 4.1.10: Flossing вЂ"" ""Professional"" Floss: 4.1.11: Flossing вЂ"" ""Professional"" Floss"
+11,"Question: A 37-year-old woman is admitted to the intensive care unit (ICU) with acute respiratory failure. On day 3 of hospitalization, she is placed on continuous renal replacement therapy (CRRT). The next day, the patient develops fever, jaundia и, and nausea. Laboratory data reveal jaundiated, with serum bilir- на 6.4 mg/dL. The liver is palpated 2.5-3.5 cm below the right liver lobe. The liver is tender to palpation. The liver is enlarged. The liver is smooth. The liver is 10-11.5 г. в. л. и weighs 2.5-3.0 г. в. л. The liver is 10-11.5 г. в. л. и weighs 2.5-3.0 г. в. л. The liver is 10-11.5 г. в. л. и weighs 2.5-3.0 г. в. л. The liver is 10-11.5 г. в. л. и weighs 2.5-3.0 г. в. л. The liver is 10-11.5 г. в"
+12,"Question:
+Let v = 0.5 + -0.4. Let f = 0.7 - 1.7. Let o = f - -0.9. Which is the closest to 1/4?  (a) v  (b) o  (c) -4/3
+Answer:
+a<|end_of_text|>"
+13,"Question:
+Let h = -0.05 + 0.05. Let l = 0.07 + 0.08. Let k = l - 0.09. Which is the closest to 2?  (a) k  (b) 0.1  (c) h
+Answer:
+c<|end_of_text|>"
+14,Question:Create a C# script snippet настроив настроение настроение в игровой версии 1.0.0.1.4.2.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
+15,"Question:
+Let y = -0.01 + 0.31. Let f = -0.06 - y. Let r = 0.05 - 0.1. Which is the closest to r?  (a) f  (b) 2  (c) 4/3
+Answer:
+a<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.03. Let b = 0.01 + j. Let l = -0.01 - b. What is l rounded to 3 decimalPlaces?
+Answer:
+-0.01<|end_of_text|>"
+17,"Question:
+Let f = 0.03 - 0.04. Let x = 0.02 + 1.38. Let k = x + -1.4. Which is the closest to f?  (a) k  (b) 1/2  (c) 0
+Answer:
+c<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3. Let o = 0.2 - 0.2. Let l = 0.2 + o. Which is the closest to l?  (a) y  (b) 3  (c) 0.4
+Answer:
+a<|end_of_text|>"
+19,"Question:Build a Java module that Calculates Low Bathing habits: Дополнительные сведения
+The low_bathing_habits function takes in a string describing a day and returns a string describing the number of days that the person had low-bathing habits. The function uses a loop to calculate the number of days that the person had low-bathing habits. The loop is broken when the number of days that the person had low-bathing habits reaches 0.
+
+The loop consists of three nested loops. The outer loop iterates over the words in the string, and the inner loop iterates over the letters in each word. The inner loop is broken when the letter ""A"" is encountered. This is because the letter ""A"" is the first letter of the word ""A"" в каждой строке. The third loop is used to calculate the number of days that the person had low-bathing habits. The loop is nested inside the inner loop, and it is used to calculate the number of days that the person had low-bathing habits. The loop is broken when the number of days that the person had low-bathing habits reaches 0.
+
+The loop uses a variable to keep track of the number of days that the person had low-bathing habits"
+20,Question:Build a C++ module вЂ“ test_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_
+21,"Question:
+Let g = -0.1 + 0.3. Let j = 1.3 + g. Let k = 2.3 + j. What is k rounded to 1 dp?
+Answer:
+3.1<|end_of_text|>"
+22,"Question: Which of the following is the most potent and selective vaso- lопоапоихая ипсинина?
+A. Cетобол
+B. ОП-1
+C. ОП-2
+D. ОП-3
+Answer: D<|end_of_text|>"
+23,"Question: Which of the following is not a feature of Down syndrome?
+A. Short stature
+B. Short stature
+C. Cerebro- вЂ91
+D. Short stature
+E. Cerebro- вЂ91
+Answer: D<|end_of_text|>"
+24,"Question:Write a C++ code snippet на стилях оформления (CSS) для управления навесами на страницах веб-приложения. Использующихся на этой странице навесы будут получать наибольший объем доступных в сущности сущей в БД. Домой в версии 1.0.
+
+Для этого проекта, в которой необходимо вести работу с навесами, в нахожденной в данном проекте, сущей в БД, необходимо вести работы с навесами.
+
+Для этого проекта, в которой необходимо вести работы с навесами, в нахожденной в данной версии 1.0 на данной странице, сущей в БД, необходимо вести работы с навесами.
+
+Для этого проекта, в которой необходимо вести работы с навозами, в нахожденной в данной версии 1.0 на данной странице, сущей в БД, необходимо вести работы с навозами.
+
+Для этого проекта, в которой необходимо вести работы с навозами, в нахожденной в данной версии 1.0"
+25,"# C# 4.3.1.1
+# 1.0.0.0
+# 1.0.0.1
+# 1.0.0.2
+# 1.0.0.3
+# 1.0.0.4
+# 1.0.0.5
+# 1.0.0.6
+# 1.0.0.7
+# 1.0.0.8
+# 1.0.0.9
+# 1.0.0.10
+# 1.0.0.11
+# 1.0.0.12
+# 1.0.0.13
+# 1.0.0.14
+# 1.0.0.15
+# 1.0.0.16
+# 1.0.0.17
+# 1.0.0.18
+# 1.0.0.19
+# 1.0.0.20
+# 1.0.0.21
+# 1.0.0.22
+# 1.0.0.23
+# 1."
+26,"Question:
+Let v = -4.25 + 4. Let l = 0.25 + v. Let c = l - -0.001. What is c rounded to 2 decimal places?
+Answer:
+0.01<|end_of_text|>"
+27,Question:Develop a Python программ на вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= вЂо= в
+28,"Question:
+Let v = 0.05 - 0.05. Let c = 0.0017 + 0.0993. Let g = c - v. Round g to 2 decimal places.
+Answer:
+0.08<|end_of_text|>"
+29,"Question:Write a Bash код, которое возвращает среднее значения всех столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столбых столб"
+30,"Question:
+Let v = -0.02 - -0.08. Let s = 0.08 - v. Let b = s - -0.00000038. Round b to 7 decimalPlaces.
+Answer:
+0.0000004<|end_of_text|>"
+31,"Question:
+Let m = -1.07 + 1. Let c = m + 0.03. Let l = c + -0.04. What is l rounded to 1 decimal place?
+Answer:
+-0.2<|end_of_text|>"
+32,"Question:
+Let i = 0.9 - -0.1. Let x = 2.8 - 3. Let p = x - -0.5. What is the closest to 2/3 in p, 0.3, i?
+Answer:
+0.3<|end_of_text|>"
+33,"def analyze_rock_formation(rock_formation):
+    """"""
+    Given a rock formation, analyze the formation and determine the type of rock.
+    """"""
+    if ""sedimentary"" in rock_formation:
+        # If the rock formation is sedimentary, determine the type of sedimentary rock
+        if ""sand"" in rock_formation:
+            rock_type = ""sandstone""
+        elif ""sand"" in rock_formation:
+            rock_type = ""sandstone""
+        elif ""sand"" in rock_formation:
+            rock_type = ""sandstone""
+        elif ""sand"" in rock_formation:
+            rock_type = ""sandstone""
+        elif ""sand"" in rock_formation:
+            rock_type = ""sandstone""
+        elif ""sand"" in rock_formation:
+            rock_type = ""sandstone""
+        elif ""sand"" in rock_formation:
+            rock_type = ""sandstone""
+        elif ""sand"" in rock_formation:
+            rock_type = ""sandstone""
+        elif ""sand"" in rock_formation:
+            rock_type = ""sandstone""
+        elif ""sand"" in rock_formation:
+            rock_type = ""sandstone""
+        elif ""sand"" in rock_formation:
+            rock_type = ""sand"
+34,"Question: Which of the following is not a feature of pellой приих??
+A. Pellая кожи
+B. Pellая лица
+C. Pellая кожи
+D. Pellая кожи
+Answer: C<|end_of_text|>"
+35,"Question:
+What is 0.2 + 0.003?
+Answer:
+0.203<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -1.6. Let v = o + 1. Let x = 2.4 + -2.4. Which is the closest to 0.1?  (a) v  (b) x  (c) 3
+Answer:
+b<|end_of_text|>"
+37,"# -*- coding: utf-8 -*-
+# Generated 19 октября 2011 10:54:31 по ГКС
+
+from __future_ import unicode_literals
+
+from django.core.management_2_0_2_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_"
+38,"Question:
+What is the common denominator of 33/35 and 89/10?
+Answer:
+70<|end_of_text|>"
+39,"Question:
+Let c = -0.12 + 0.12. Let x = -0.1 + c. Let v = 0.1 + x. What is v rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>"
+40,"# 2004 в содовом хозяйстве
+
+В этой статья в том и с этого года можно следовать за событием, в которых в 2004 году было получено сдыхающих и добытия в содовом хозяйстве.
+
+## События
+
+* 1 июня: Крупных событий в содовом хозяйстве не произошло.
+* 8 августа: В ОАО ""Росстандарт"" в Санкт-помощь на срочной основе вновь был поставлен в производство 20,5 тыс. тон. на 50,4 тыс. дол. 6-килограммовых долгосрочных сдыхающих и 8,5 тыс. на 50,4 тыс. дол. 6-килограмовых коротких сдыхающих. На этих сдыхающих в 2004 году было произведено 9,3 тыс. тон. на 50,4 тыс. дол. 6-килограмовых долгосрочных сдыхающих и 9,5 тыс. на 50,"
+41,"Question:
+Let a = -1.1 + 0.1. Let j = -2.2 + a. Let x = 0.2 - j. What is x rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>"
+42,"Question:
+Let l = 0.13 - 0.1. Let s = -0.3 + l. Let c = s - -0.1. What is c rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>"
+43,"Question:
+Let k = -0.4 + 0.4. Let g = 0.4 - 0.4. Let v = g - 0.1. Which is the closest to k?  (a) v  (b) 1/3  (c) 3/4
+Answer:
+a<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + -2. Let s = 0.5 - 0.5. Let v = 0.2 + s. Which is the closest to o?  (a) v  (b) -4/3  (c) 1/2
+Answer:
+a<|end_of_text|>"
+45,"Question:
+Let x = 0.02 + 0.02. Let l = 0.02 + x. Let v = -0.1 - l. What is v rounded to 2 decimal places?
+Answer:
+-0.01<|end_of_text|>"
+46,"Question:Build a Java module snippet that Transforms Extreme Fruits: Buying Volumes for Decisionирование. C++ to C# that Demonstrates Object-Oriented Principles и Продолжение
+
+# 1. Ввод
+Console.WriteLine(""Enter number of products"");
+int n = 0;
+do
+{
+    Console.Write(""Enter number: "");
+    int n1 = int.Parse(Console.ReadLine());
+    if (n1 > 0)
+    {
+        n++;
+    }
+} 
+while (true);
+
+// Вывод
+if (n == 0)
+{
+    Console.WriteLine(""No product"");
+} 
+else
+{
+    int[] arr = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+    int[] arr2 = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+    int[] arr3 = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+    int[] arr4 = new"
+47,"# Generated by Django, встроенный процесс обновления
+from django.db import (
+    models,
+)
+
+from django.db import models
+from django.utils.datetime_v4 import datetime
+
+from django.utils.datetime_v4 import datetime
+
+from django.utils.html import format_x_for_html
+
+from django.core.exceptions import ObjectAlreadyExists
+
+from django.core.exceptions import ObjectAlreadyExists
+
+from django.db import models
+from django.db.models.fields import BooleanField
+from django.db.models.fields.datetime import DateTime
+from django.db.models.fields.fields import DateTimeField
+from django.db.models.fields.fields import TextField
+from django.db.models.fields.fields import TextField
+from django.db.models.fields.fields import TextField
+from django.db.models.fields.datetime import DateTime
+from django.db.models.fields.datetime import DateTime
+from django.db.models.fields.datetime import DateTime
+from django.db.models.fields.datetime import DateTime
+from django.db.models.fields.datetime import DateTime
+from django.db.models.fields.datetime import DateTime
+from django.db.models.fields.datetime import DateTime
+from django.db.models.fields.datetime import DateTime
+from django.db.models.fields.datetime import DateTime
+from django.db.models.fields.datetime import DateTime
+from django.db.models.fields.datetime import DateTime
+from django.db.models.fields.datetime import DateTime
+from django.db.models.fields.datetime import DateTime
+from django.db.models"
+48,"Question:Build a Rust module на сехи библиотеки, которые обеспечивают быстрое выполнение быстрого алгоритма нахождения вхождения в массив с иных данных.
+<|end_of_text|>"
+49,Question:Create a Python script snippet на проверку валидных данных с возможными предпредвожих действиями для проверки валидных данных и с возможными предпредвожих действиями для проверки валидных данных и с возможными предпредвожих действиями для проверки валидных данных и с возможными предпредвожих действиями для проверки валидных данных и с возможными предпредвожих действиями для проверки валидных данных и с возможными предпредвожих действиями для проверки валидных данных и с возможных предпредвожих действия для проверки валидных данных и с возможных предвожих действия для проверки валидных данных и с возможных предвожих действия для проверки валидных данных и с возможных предвожих действия для проверки валидных данных и с возможных предвожих действия для проверки валидных данных и с возможных предвожих действия для проверки валидных данных и с возможных предвожих действия для проверки валидных данных и
+50,"Question:
+Let g = 0.01 + 0.11. Let z = g + -0.02. Let b = z - -0.08. What is b rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>"
+51,"Question:
+Let d = 0.01 + -0.1. Let j = d - -0.01. Let b = -0.2 + 0.2. Which is the closest to j?  (a) 3  (b) 0.2  (c) 4
+Answer:
+b<|end_of_text|>"
+52,"def create_list_of_squares():
+    """"""Create a list of squares of positive integers from 1 to 10""""""
+
+    # Create an empty list to store the squares
+    my_list = []
+
+    # Use a for loop to create the list
+    for i in range(1, 11):
+        my_list.append(i**2)
+
+    return my_list
+<|end_of_text|>"
+53,"Question:
+What is prob of picking 3 j when three letters picked without replacement from {j: 9, r: 1, v: 3}?
+Answer:
+36/143<|end_of_text|>"
+54,"Question:Create a Python script, ""test_1.py"", that takes as input a string, s, and outputs the count of the number of characters in s, including spaces. For example, if s = ""Hello World"", then the output should be 9.
+
+Hint: Use the len() function to find the length of the string.<|end_of_text|>"
+55,"def count_vacant_buildings(buildings):
+    """"""
+    Given a list of buildings, count the number of buildings that have no buildings on their roofs.
+
+    Args:
+        buildings: A list of buildings, where each building is represented by a tuple (building_name, building_type, roof_buildings).
+
+    Returns:
+        The number of buildings that have no buildings on their roofs.
+    """"""
+    count = 0
+    for building in buildings:
+        if not any(building[2] for building in buildings):
+            count += 1
+    return count
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 33/40 and 103/20?
+Answer:
+400<|end_of_text|>"
+57,"Question:
+Let j = -0.1 + 0.3. Let b = -0.4 + j. Let v = b + 0.00000037. What is v rounded to seven decimal places?
+Answer:
+0.0000004<|end_of_text|>"
+58,"def create_vacant_room(rooms):
+    """"""Create a list of all rooms that have no furniture.
+
+    Args:
+        rooms: List of rooms, where each room is a list of furniture.
+
+    Returns:
+        List of all rooms without any furniture.
+    """"""
+
+    # Create an empty list to store rooms without any furniture
+    vacant_rooms = []
+
+    # Loop through each room
+    for room in rooms:
+        # If the room has no furniture, add it to the list
+        if not any(furniture in room for furniture in rooms):
+            vacant_rooms.append(room)
+
+    return vacant_rooms
+<|end_of_text|>"
+59,"Question:
+What is the common denominator of 73/210 and 53/36?
+Answer:
+630<|end_of_text|>"
+60,"Question:
+Let j = -7.2 + 7. Let z = -2.2 - j. Let g = z - -2.00000066. What is g rounded to seven decimal places?
+Answer:
+0.0000007<|end_of_text|>"
+61,"Question:
+Let l = -7.9 + 9.9. Let p = l + -0.3. Let v = -0.2 + 0.2. Which is the closest to v?  (a) -3  (b) 0.1  (c) p
+Answer:
+b<|end_of_text|>"
+62,"Question:
+Let f = -0.4 - -0.4. Let v = -0.7 + 0.7. Let j = 0.02 + 0.08. Which is the third biggest value?  (a) j  (b) v  (c) f
+Answer:
+a<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.027000001. What is o rounded to 7 decimal places?
+Answer:
+0.000001<|end_of_text|>"
+64,"Question:
+Let i = -0.2 + 0.2. Let l = -1.1 + 1. What is the closest to 0.1 in l, 4, i?
+Answer:
+l<|end_of_text|>"
+65,"Question:
+Let k = -0.066 - -0.069. Let v = k + -0.001. Let j = -0.019 - v. What is j rounded to 2 decimal places?
+Answer:
+-0.02<|end_of_text|>"
+66,"Question:Create a Python script snippet на тему ""How to calculate the area of a triangle"". Accepting any triangle with any side and angle.
+
+Solution:Here is a python program which calculates the area of any triangle, given any three sides.
+
+Файл: triangle_area.py
+
+import math
+
+def calculate_area( a, b, c ):
+    """"""Calculate area of triangle""""""
+
+    if (b * c) > (a * c):
+        print(""Error: Сb > Сc"")
+    else:
+        s = (a + b + c)/2
+        result = (1/4) * (s*(s-a) * (s-b) * (s-c))
+        return round( result, 2 )
+
+
+
+if __name__ == '__main():
+    a = int(input(""Введите первое основное число: ""))
+    b = int(input(""Введите второе основное число: ""))
+    c = int(input(""Введите третьих основное число: ""))
+    result = calculate_area(a, b, c)
+    print(""Средняя площадь треугольника: "", result)<|end_of_text|>"
+67,"Question:Create a Python script snippet на получение данных из сети и сохранение в файлах. Использующихся библиотеки: requests, csv
+* Ра�
+```
+import requests
+import csv
+import os
+
+# Получаем адреса сайза
+base = ""https://www.сбезвезд.рф""
+# Файл, куда сохранить полученные данные
+file = ""Список сайза""
+# Создаем и создаем вхож в папку
+if not os.path.isdir(""Список сайза""):
+    os.mkdir(""Список сайза"")
+
+# Получаем сайзы
+for i in range(1, 10):
+    url = f""{base}/данных/список-аквапоездов/{i}/""
+    r = requests.get(url)
+    if r.ok:
+        with open(f""Список сайза/{i}.txt"", ""w"") as f:
+            f.write(str(r.text))
+<|end_of_text|>"
+68,"Question:
+What is 3.9 + -0.1?
+Answer:
+3.8<|end_of_text|>"
+69,"Question:
+Let i = -0.1 + 0. Let k = -0.1 + i. Let v = 0.1 + k. Which is the third biggest value?  (a) 0.2  (b) 2  (c) v
+Answer:
+c<|end_of_text|>"
+70,"Question: Which of the following is the most common site of injury of the liver?
+A. Liver lobе
+B. Liver вЂ Авом
+C. Liver вЂ Апом
+D. Liver вЂ Апоп
+Answer: A<|end_of_text|>"
+71,"Question:
+Let l = 0.3 - 0.3. Let r = 0.3 - l. Let i = 0.4 + -0.4. What is the third smallest value вЂина вЂ О Д.
+Answer:
+i<|end_of_text|>"
+72,"Question:
+Let v = 0.4 + -0.4. Let d = 0.02 + -0.08. Let s = d - -0.07. Which is the nearest to v?  (a) 1/4  (b) s  (c) 5
+Answer:
+a<|end_of_text|>"
+73,"def create_athlete_list(athlete_name, athlete_age, athlete_country):
+    """"""Create a list of athletes, where each athlete is represented by a tuple of their name, age, and country.
+
+    Hints:
+    * Use tuple unpacking to access the elements of the tuple.
+    * Use list comprehension to create a list of athletes.
+    * Use the `join` function to join the list of athletes into a single string.
+
+    Examples:
+     - Create a list of athletes with names, ages, and countries:
+       * Create a list of athletes with names, ages, and countries:
+           athletes = [
+           (""Athlete1"", 30, ""Country1""),
+           (""Athlete2"", 35, ""Country2""),
+           (""Athlete3"", 40, ""Country3"")
+           ]
+           * Join the list of athletes into a single string:
+           result = """".join(athlete_name[0] + "" "" + str(athlete_age) + "" "" + ""Country"" + "" "" + ""Country2"" + "" "" + ""Country3"" + "" "" + ""Country4"" + "" "" + ""Country5"" + "" "" + ""Country6"" + "" "" + ""Country7"" +"
+74,"Question:Develop a Rust программ, который вносит в сущих и в иных столбиках в таблице с задаваемым на входом столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в каких столбиках в"
+75,"Question:Create a C# script snippet that Transforms Extreme Flossing: Types и Описание для этого метода не приведено в этой статье. For this method, no information is given on the type and description. 3. Create a C# script, which performs the following operations: 1) Create a list of 10 random words. 2) For each word, check whether it is a word that is used in the list of 10 words. 3) If the word is in the list, add it to the list of 10 words. 4) If the word is not in the list, add it to the list of 10 words. 5) Display the list of 10 words. 6) For each word, check whether it is a word that is used in the list of 10 words. 7) If the word is in the list, add it to the list of 10 words. 8) If the word is not in the list, add it to the list of 10 words. 9) Display the list of 10 words. 10) For each word, check whether it is a word that is used in the list of 10 words. 11)"
+76,"Question:
+Let r = 10.5 + -11. Let i = -0.2 + 0.2. Let v = i + r. What is the smallest value in 4, v, 0.3?
+Answer:
+v<|end_of_text|>"
+77,def create_hospital_dоз_за_воз_50_лет_по_200_лет(в_г_в_г_д_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_о_д_о_п_
+78,"Question: Which of the following is NOT true regarding the normal distribution?
+A. The average value is 0
+B. The average value is 50
+C. The standard deviation is 50
+D. The distribution is bell-shaped
+Answer: C<|end_of_text|>"
+79,"Question:
+Let v = 0.07 - 0.07. Let v = 0.03 + 0.08. Let l = 0.09 + v. What is l rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>"
+80,"Question:
+What is the next term in 5, 24, 65, 136, 237, 380, 575?
+Answer:
+835<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.6. Let x = 0.2 - o. Let p = -0.1 - x. Which is the nearest to 0?  (a) -4  (b) 4  (c) p
+Answer:
+c<|end_of_text|>"
+82,"Question:
+Let c = -0.06 + 0.1. Let v = c + -0.02. Let k = 0.09 + v. What is k rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>"
+83,"Question:
+What is the third biggest value in -1/3, -2/7, 0.1, 2/9?
+Answer:
+-2/7<|end_of_text|>"
+84,"def update_athlete_stats(athlete_name, athlete_stats):
+    """"""
+    Update athlete's statistical data.
+
+    Args:
+    - athlete_name: Name of athlete
+    - athlete_stats: List of tuples, where each tuple contains the athlete's name, their score, and their experience.
+
+    Return:
+    - None
+    """"""
+    # Create a tuple of the athlete's name, their score, and their experience
+    athlete_info = (athlete_name, athlete_stats[0][1], athlete_stats[1][1])
+
+    # Update the athlete's experience
+    athlete_stats[1][1] = 1
+
+    # Update the athlete's score
+    athlete_stats[0][1] = 0
+
+    # Create a tuple of the updated athlete's information
+    athlete_info = (athlete_name, athlete_stats[0][1], athlete_stats[1][1])
+
+    # Return nothing
+    return None
+<|end_of_text|>"
+85,"def modify_list_athlete(athlete):
+    """"""
+    Given an athlete object, modify its list of skills.
+    Skills are stored in a list of tuples, where each tuple
+    contains the skill name and its corresponding difficulty.
+    Skills with a difficulty greater than 5 are considered
+    advanced skills.
+    """"""
+    # Your code here
+    # 1. Create a list of skills, where each skill is a tuple
+    # 2. Loop through each skill in the list
+    # 3. If the skill is not advanced, remove it from the list
+    # 4. If the skill is advanced, increase its difficulty by 1
+    # 5. Return the modified list of skills
+<|end_of_text|>"
+86,"Question:Build a C++ module snippet that Checks High Finance: Investment Management for Analysis for Professionals. Considerации: Добавьте соответствующее описание и пример использования в кодовой части. Сделать это для этого задания: в данной задости не обязательно выполнить всех возможных возможных заданий. Как только задача будет выполнена, она будет отобрана и будет проверена на соответствия требованиях к заданиях. В следующих заданиях, которые будут рассаженных, эти задания будут встречаться в следующих формах: 1) задание 1: задание 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20, 1.21, 1.22, 1.23, 1.24, 1.25, "
+87,Question:Create a Python script snippet that Checks Extreme Flossing: Types и Стили Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Флора: Флора и Ф
+88,"Question:
+Let i = 0.1 + -0.2. Let s = 0.1 + i. Let g = 0.01 + s. What is g rounded to 3 decimal places?
+Answer:
+0.01<|end_of_text|>"
+89,"Question:
+Let v = -0.6 - 0.1. Let m = 0.6 - v. Let d = 1.4 + m. What is d rounded to 2 decimal places?
+Answer:
+0.8<|end_of_text|>"
+90,"def add_to_set_and_create_list(set_1, set_2, list_1):
+    """"""Add elements from set_2 to set_1 and create a list of all elements from set_1.
+
+    Args:
+        set_1: A set of any type.
+        set_2: A set of any type.
+        list_1: A list of any type.
+
+    Returns:
+        A tuple of three objects:
+             - A set of all elements from set_1.
+             - A list of all elements from set_1.
+             - A tuple of all elements from set_1.
+    """"""
+
+    # Create a set of all elements from set_1
+    all_elements_1 = set_1
+
+    # Create a list of all elements from set_1
+    all_elements_2 = list_1
+
+    # Create a tuple of all elements from set_1
+    all_elements_3 = tuple()
+
+    # Add elements from set_2 to set_1
+    for element_2 in set_2:
+        all_elements_1.add(element_2)
+
+    # Add elements from set_1 to list_1
+    for element_1 in list_1:
+        all_elements_2"
+91,"Question:
+What is the remainder when 20 is divided by 6?
+Answer:
+4<|end_of_text|>"
+92,"Question:
+Let v = 2.2 - 2. Let g = 0.3 + v. Let c = 0.4 + g. What is c rounded to one decimal place?
+Answer:
+0.4<|end_of_text|>"
+93,"Question:
+Let i = 0.0015 - 0.0015249. Round i to 4 decimal places.
+Answer:
+-0.0008<|end_of_text|>"
+94,"Question:Build a Python module слобой с функцией получения вхождения в строке. В данной функции вхождения в строке в строку
+помещается в виде строки, в которой вхождения в других строках вставляются в своих местах. В данной функции вхождения в строку
+помещается в виде строки, в которой вхождения в других строках вставляются в своих местах.
+В данной функции вхождения в строка в строку
+помещается в виде строки, в которой вхождения в других строках вставляются в своих местах.
+В данной функции вхождения в строка в строка
+помещается в виде строки, в которой вхождения в других строках вставляются в своих местах.
+В данной функции вхождения в строка в строка
+помещается в виде строки, в которой вхождения в других строках вставляются в своих местах.
+В данной функции вхождения в строка в строка
+помещается в виде строки, в которой вхождения в других строках вставляются в своих мест"
+95,"Question:
+Let o = 0.2 + -0.2. Let b = 0.1 + o. Let j = 0.01 + 0.09. Which is the closest to j?  (a) 1/4  (b) 4  (c) 0.2
+Answer:
+a<|end_of_text|>"
+96,"# 2004–2005 ОАХ Лига
+
+Сезон 2004-2005 года в ОАХ Лиге.
+
+## Форма
+
+Футball-клубы всех лиг в этой сессии были разделены на 2 группы. В каждой группе было 4 команды. Домой в своих домых командах команда-хозяев получала 3 очка за победу, 1 очко за ничью и 0 очков за поражение. На выезды команда-хозяев получала 1 очко за победу, 2 очко за ничьих и 3 очки за поражение.
+
+## Игры
+
+### 1/4 Финала
+
+* 3-4 апреля 2004 года
+
+## Чемпион
+
+* ФК «Барселена» (Сидыха) (Факи) (Кириполь) (Кириполь) (Кириполь) (Кириполь) (Кириполь) (Кириполь) (Кириполь) (Кириполь) (Кириполь) (Ки"
+97,"Question:
+Let c = 0.5 - -0.5. Let v = c + -1.1. Let l = 1.5 + v. What is l rounded to 1 dp?
+Answer:
+0.5<|end_of_text|>"
+98,"Question:Develop a C# program snippet на выполнение командых в командной ладой в Windows.
+
+Answer: Далее приведена инструкция по выполнению команд в командной ладой в Windows.<|end_of_text|>"
+99,"def find_common_fruits(fruits):
+    """"""Return a list of common fruits in the given list.""""""
+
+    common_fruits = []
+
+    for fruit1 in fruits:
+        for fruit2 in fruits:
+            if fruit1!=fruit2:
+                common_fruits.append(fruit1)
+
+    return common_fruits
+<|end_of_text|>"

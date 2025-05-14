@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly prefixes, roots, or suffixes within Italian words, often marking morphological boundaries or meaningful subword units, such as verb endings, noun roots, or common affixes. These segments frequently correspond to points of high linguistic or semantic relevance within the word structure."

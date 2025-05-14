@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily Bulgarian morphemes, suffixes, and function words, especially those forming relative pronouns (e.g., \"която\", \"който\"), comparative or grammatical endings (e.g., \"ъ\", \"г\"), and other short connective elements. These tokens are important for marking grammatical relationships, tense, and reference within sentences."

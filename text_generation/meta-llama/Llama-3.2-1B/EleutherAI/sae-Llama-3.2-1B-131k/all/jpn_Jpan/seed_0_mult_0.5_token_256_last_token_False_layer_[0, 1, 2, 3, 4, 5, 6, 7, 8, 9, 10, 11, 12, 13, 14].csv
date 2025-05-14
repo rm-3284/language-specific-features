@@ -1,0 +1,568 @@
+seed,generated_text
+0,Question:WriteaPythonコードで、サブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブ
+1,"Question:
+Let d = 0.2 + -0.3. Let q = 0.2 - d. Let b = q - 0.1. What is b rounded to 2 dps?
+Answer:
+-0.1<|end_of_text|>"
+2,"Question:
+Let q = -3.4 - -3. Let m = q - -0.8. Let w = m + -0.2. Which is the closest to 0.1?  (a) 1  (b) w  (c) -0.5
+Answer:
+c<|end_of_text|>"
+3,"Question:
+Let g = 0.11 - -0.44. Let f = g - 0.57. Let m = -0.49 - f. What is m rounded to 1dp?
+Answer:
+-0.5<|end_of_text|>"
+4,"Question:
+Let v = -11.4 - -10. Let q = v - -0.7. Let g = q + -0.5. What is g rounded to 1 dp?
+Answer:
+-0.5<|end_of_text|>"
+5,"Question:
+Let o = 0.2 - 0.2. Let g = 0.4 - o. Let b = 1.8 - g. What is b rounded to 1dp?
+Answer:
+1<|end_of_text|>"
+6,"def carpenter練習問題
+#1.手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手"
+7,# 2-手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+8,"Question:
+Let o = -0.1 + 0.1. Let t = 0.1 - o. Let w = -0.1 - t. Which is the closest to -0.1?  (a) 2/3  (b) w  (c) 0.5
+Answer:
+b<|end_of_text|>"
+9,"Question:
+Let r = -0.2 - -0.1. Let p = 0.7 - r. Let l = p - 0.6. Which is the closest to l?  (a) 2  (b) 1  (c) -3
+Answer:
+b<|end_of_text|>"
+10,Question:CreateaPythonプログラマ手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+11,Question: A 35-year-old woman who is a housewife and housecleaning company has been on homeopathic medicine for the last 10 years. She has been given the following homeopathic remedies:Armenistanforcitumbusamnabacca2mbandbarka3mgtoxosthmbaerzle3mgtoxosthmbaerzle3mgtoxosthmbaerzle3mgtoxosthmbaerzle3mgtoxosthmbaerzle3mgtoxosthmbaerzle3mgtoxosthmbaerzle3mgtoxosthmbaerzle3mgtoxosthmbaerzle3mgtoxosthmbaerzle3mgtoxosthmbaerzle3mgtoxosthmbaerzle3mgtoxosthmbaerzle3mgtoxosthmbaerzle3mgtoxosthmbaerzle3mgtoxosthmbaerzle3mgtoxosthmbaerzle3mgtoxosthmbaer
+12,"Question:
+Let r = 0.0117 - 0.051. Let q = r - -0.41. Let c = q - 0.44. What is c rounded to 2 decimalplaces?
+Answer:
+-0.1<|end_of_text|>"
+13,"Question:
+Let h = -0.1 - -0.1. Let i = 0.7 - h. Let d = 0.6 - i. What is d roundedto 1dp?
+Answer:
+0.6<|end_of_text|>"
+14,"Question: Which of the following is not a feature of CFS?
+A. Fatigue
+B. Hallucatioric収着した幻覚
+C. Physicalimpairment
+D. Somnambulatory
+Answer: D<|end_of_text|>"
+15,"Question:
+Let y = -0.01 - -0.1. Let d = -0.06 - y. Let r = d - -0.4. Which is the closest to 1?  (a) r  (b) 0.2  (c) -2/3
+Answer:
+b<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.22. Let b = 0.17 - j. Let l = -0.2 - b. What is l rounded to 1 dp?
+Answer:
+-0.3<|end_of_text|>"
+17,"Question:
+Let f = 0.4 - 0.4. Let h = 0.3 - f. Let c = h - 0.5. What is c rounded to 1 decimalplaceholder?
+Answer:
+-0.8<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3.8. Let o = -2.8 - y. Let c = o - -3.1. What is c roundedto 1dp?
+Answer:
+3<|end_of_text|>"
+19,"Question:BuildaPython scriptthatreadsCSVfileandprintthecontentsthatisnotintheCSVfile.
+<|end_of_text|>"
+20,"Question: Which of the following is not a feature ofHIV-
+A. Lymphadenopathy
+B. Oral ulcers
+C. Oral ulcers
+D. Oral ulcers
+E. Oral ulcers
+Answer: D<|end_of_text|>"
+21,"Question:
+Let g = -0.1 - -0.3. Let y = 1.1 - g. Let h = 0.3 - y. Which is the closest to 0.1?  (a) -0.5  (b) h  (c) -2/3
+Answer:
+b<|end_of_text|>"
+22,"Question: Which of the following is not a feature ofCoomb'snegativetest
+A. Abscisspeaella
+B. Presenceofmethylbband
+C. Abscisspeaella
+D. Abscisspeaella
+E. Abscisspeaella
+Answer: D<|end_of_text|>"
+23,"Question: Which of the following is not true about the common bile duct :
+A. It is a canal
+B. It is formed by the union ofthe bileheaps
+C. It is covered bythe bilemembra
+D. It is formed bythe unionofthecommonheaps
+Answer: C<|end_of_text|>"
+24,Question:WriteaPythoncodetodesetupa3人の学生の授業手続きを手助手手とした手間取った手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+25,"# Cognitio
+
+Cognitio（コニトイ）とは、人生の中手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手"
+26,"Question:
+Let c = -4.9 - -5. Let l = 0.5 - c. Let w = l - -0.4. Which is the closest to w?  (a) -2/7  (b) 0.3  (c) 1
+Answer:
+b<|end_of_text|>"
+27,"Question:DevelopaCMLaCisrTtrHcTgFfGtOtRrOeSbBcC
+a. 4
+b. 3
+c. 5
+d. 6
+Answer: d<|end_of_text|>"
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.2 - t. Let r = -0.3 - c. What is r rounded to 1 dp?
+Answer:
+-0.3<|end_of_text|>"
+29,Question:WriteaPythonプログラミ手間手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+30,"Question:
+Let y = -0.1 - -0.2. Let c = 0.4 - y. Let b = -0.5 - c. What is b roundedto 1dp?
+Answer:
+-0.4<|end_of_text|>"
+31,"Question:
+Let m = -1.7 - -1.8. Let i = 0.03 - m. Let c = i - 0.1. Which is the nearest to c?  (a) 0.5  (b) 1  (c) 2/3
+Answer:
+a<|end_of_text|>"
+32,"Question:
+Let i = 18.9 - 19. Let q = 0.2 - i. Let c = q - 0.3000033. What is c rounded to 7 decimalplaces?
+Answer:
+-0.0000033<|end_of_text|>"
+33,"def analyzetemperature(temperature):
+    """"""This function takes a temperature and determines whether it is too hot, toocold, orjustrighttemperatureforthebodytokeephealthy.
+    """"""
+    if temperature > 100:
+        print(""TooHot"")
+    elif temperature < 100:
+        print(""TooCold"")
+    else:
+        print(""JustRightTemperature"")
+<|end_of_text|>"
+34,"Question: Which of the following is not a criteria of anorexia nervosa?
+A. Self-starved
+B. Self-derisic
+C. Exaggeratedidea of形の安否
+D. Abnormally低身高
+Answer: C<|end_of_text|>"
+35,"Question:
+What is 0.2 - 0.003?
+Answer:
+0.197<|end_of_text|>"
+36,"Question:
+Let o = 0.6 - 1.6. Let r = 0.8 - o. Let i = -0.7 - r. What is i rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>"
+37,# -*-作業手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+38,"Question:
+What is the common denominator of 3/35 and 89/10?
+Answer:
+140<|end_of_text|>"
+39,"Question:
+Let c = -0.12 - -0.5. Let x = -0.4 - c. Let m = 0.5 - x. What is m rounded to 1 dp?
+Answer:
+0.5<|end_of_text|>"
+40,"# Stwch
+# https://www.acomhtech.com/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp/wp"
+41,"Question:
+Let v = -8.5 - -8. Let c = -1.5 - v. Let d = -0.5 - c. What is d roundedto1dp?
+Answer:
+-1<|end_of_text|>"
+42,"Question:
+Let l = 0.3 - 0.3. Let d = -0.3 - l. Let c = 0.3 - d. What is c rounded to 1 decimal数で、連続した数と見当たらない数をそれぞ手に分けて入手する手間を減少させたい手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手"
+43,"Question:
+Let q = -0.4 - -0.5. Let w = q - -0.5. Let d = -0.5 - w. Which is the closest to d?  (a) 0  (b) -0.4  (c) 2/3
+Answer:
+a<|end_of_text|>"
+44,"Question:
+Let o = 2.1 - 2. Let s = 0.5 - o. Let q = 1.4 - s. What is q rounded to one dp?
+Answer:
+1<|end_of_text|>"
+45,"Question:
+Let t = 0.9 - 1. Let c = -0.1 - t. Let m = -0.3 + c. Which is the closest to m?  (a) 0.5  (b) -2  (c) 0.4
+Answer:
+a<|end_of_text|>"
+46,Question:WriteaPythonコードで、サブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブサブ
+47,# Atraversing the Universe: The Life and Work of JamesT.C.W.英作手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+48,"Question: Which of the following is not a criterion of diagnosing anoxic brain
+A. Petbitalbral震伏
+B.�EKG示無電圧変変
+C.�体温下下半身が上手動動作が見失
+D.�手の血圧が低下
+E.�胸意手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手"
+49,"Question:DesignaetrhysmofthepotentiandfortheHillCementedOsteopatenosfortheaunilateralhipjoint.Usinga10cm×10cm×10cmblockofHillCementedAnatomyskull骨�tothe�unilateralhipjoint.Usinga10cm×10cm×10cmblockofHillCementedAnatomyskull骨�tothe�unilateralhipjoint.Usinga10cm×10cm×10cmblockofHillCementedAnatomyskull骨�tothe�unilateralhipjoint.Usinga10cm×10cm×10cmblockofHillCementedAnatomyskull骨�tothe�unilateralhipjoint.
+a10cm×10cm×10cmblockofHillCementedAnatomyskull骨�tothe�unilateralhipjoint.
+Usinga10cm×10cm×10cmblockofHillCementedAnatomyskull骨�tothe�unilateralhipjoint.
+Usinga10cm×10cm×10cmblockofHillCementedAnatomyskull骨�tothe�unilateralhipjoint"
+50,"Question:
+Let g = 4.5 - 0.5. Let r = g - 2.6. Let b = r - -4.3. What is b rounded to 1 dp?
+Answer:
+-0.3<|end_of_text|>"
+51,"Question:
+Let w = -0.2 - -0.2. Let q = -0.3 - -0.3. Let i = q + 0.8. Which is the closest to w?  (a) i  (b) -2/7  (c) 2
+Answer:
+b<|end_of_text|>"
+52,"def create_list(animals):
+    """"""Create a list of animals and their sounds.""""""
+    sounds = []
+    for animal in animals:
+        if animal == ""lion"":
+            sounds.append(""roar"")
+        elif animal == ""elephant"":
+            sounds.append(""trhmm"")
+        elif animal == ""gabriel"":
+            sounds.append(""chirp"")
+        else:
+            sounds.append(""unknown"")
+    return sounds
+<|end_of_text|>"
+53,"Question:
+What is the common denominator of -55/16 and -49/4?
+Answer:
+16<|end_of_text|>"
+54,"Question:
+Let d = -0.5 + 1.5. Let r = 0.5 - d. Let c = 0.2 - r. What is c roundedto2dp?
+Answer:
+-0.2<|end_of_text|>"
+55,"def count_unique_mammal_species(animals):
+    """"""
+    Given a list of animals, count the number of unique mammal species.
+    """"""
+    # Initialize an empty set to store the unique species
+    unique_species = set()
+
+    # Iterate over the animals
+    for animal in animals:
+        # If the species is not already present in the set
+        if animal['species'] not in unique_species:
+            # Add the species to the set
+            unique_species.add(animal['species'])
+
+    # Return the number of unique species
+    return len(unique_species)
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>"
+57,"Question:
+Let w = -0.3 - -0.3. Let q = -0.4 + 0.4. Let f = q - w. What is f rounded to 1dp?
+Answer:
+-0.1<|end_of_text|>"
+58,"def nested_list_comprehend(animals):
+    """"""Given a list of animals, find the animals that are not mammals.
+
+    Args:
+        animals (list): A list of animals.
+
+    Returns:
+        list: A list of animals that are not mammals.
+    """"""
+    not_mammals = []
+    for animal in animals:
+        if not animal.isMammal():
+            not_mammals.append(animal)
+    return not_mammals
+<|end_of_text|>"
+59,"def find_unique_animals(animals):
+    """"""
+    Given a list of animals, find the animals that are not present in any of the other animals.
+
+    Args:
+        animals (list): A list of animals.
+
+    Returns:
+        unique_animals (list): A list of animals that are not present in any of the other animals.
+    """"""
+    unique_animals = []
+    for animal in animals:
+        if not any(animal in animal for animal in animals):
+            unique_animals.append(animal)
+    return unique_animals
+
+<|end_of_text|>"
+60,"Question:
+Let h = -7.9 - -7. Let d = -2.4 - h. Let g = d - -1.9999981. What is g rounded to 6 decimalplaces?
+Answer:
+-0.000002<|end_of_text|>"
+61,"Question:
+Let l = -7.9 - -7.9. Let p = -0.3 + 0.3. Which is the closest to l?  (a) p  (b) 1  (c) 0.5
+Answer:
+a<|end_of_text|>"
+62,"Question:
+Let f = -0.4 - -0.5. Let v = f - -0.4. Let i = 0.7 - v. What is i rounded to 1 decimal点?
+Answer:
+1<|end_of_text|>"
+63,"Question:
+Let o = -0.5 + 1.5. Let q = o + -1.2. Let t = q + 0.2. What is t rounded to 1dp?
+Answer:
+0.2<|end_of_text|>"
+64,"Question:
+Let q = -22.6 - -22. Let t = q - -1.6. Let w = -1.5 - t. What is w rounded to 1 dp?
+Answer:
+-1.5<|end_of_text|>"
+65,"Question:
+Let c = -0.5 - -0.5. Let i = 0.1 - c. Let q = -0.4 - i. What is q rounded to 1dp?
+Answer:
+-1<|end_of_text|>"
+66,"Question:
+Let f = -1.2 - -0.8. Let o = -0.5 - f. Let h = -0.5 - o. What is h rounded to 1 decimalplace?
+Answer:
+-1<|end_of_text|>"
+67,"Question: Which of the following is not a feature of Chlamydia trachomovale?
+A. Meningitis
+B. Uretral involvement
+C. Uterovaginal ulcers
+D. Endrtral ulcer
+E. Enteroscopic perforated
+Answer: D<|end_of_text|>"
+68,"Question:
+What is 3.9 - -0.1?
+Answer:
+4.01<|end_of_text|>"
+69,"Question:
+Let i = -22.1 - -22. Let y = -0.1 - i. Let b = 2.1 - y. What is b rounded to 1 dp?
+Answer:
+2<|end_of_text|>"
+70,"Question: Which of the following is not a riskfactorfor gout-
+A. Obesity
+B. Diabetes
+C. H身手
+D. H身手
+E. H身手
+A. H身手
+B. H身手
+C. H身手
+D. H身手
+E. H身手
+A. H身手
+B. H身手
+C. H身手
+D. H身手
+E. H身手
+A. H身手
+B. H身手
+C. H身手
+D. H身手
+E. H身手
+A. H身手
+B. H身手
+C. H身手
+D. H身手
+E. H身手
+A. H身手
+B. H身手
+C. H身手
+D. H身手
+E. H身手
+A. H身手
+B. H身手
+C. H身手
+D. H身手
+E. H身手
+A. H身手
+B. H身手
+C. H身手
+D. H身手
+E. H身手
+A. H身手"
+71,"Question:
+Let l = 0.3 - 0.4. Let r = 0.3 - l. Let i = 0.4 - r. What is i roundedto 1 decimalplace?
+Answer:
+0<|end_of_text|>"
+72,"Question:
+Let i = -0.4 - -0.5. Let d = 0.4 - i. Let c = d - 0.5. What is c rounded to 1dp?
+Answer:
+-0.1<|end_of_text|>"
+73,"def update_list(animals):
+    """"""This function updates a list of animals to reflect the animals that have been rescued.
+    
+    The list of animals is given as an argument, and the function updates the list to reflect
+    the animals that have been rescued. If an animal is already in the list, its name should
+    not be updated. If an animal is not in the list, its name should be added to the list.
+    
+    The function shouldreturntheupdatedlistofanimals.
+    """"""
+    
+    rescued_animals = []
+    
+    for animal in animals:
+        if animal not in rescued_animals:
+            rescued_animals.append(animal)
+    
+    return rescued_animals
+
+<|end_of_text|>"
+74,"def create_mosaic(artwork, numtile):
+    """"""
+    Create a mosaic of an artwork using a nestedfor
+    """"""
+    #TODO: Implement the nestedfor to create themosic
+    return
+<|end_of_text|>"
+75,Question: A 35-year-old woman who is a housemaid presents to the emergency room with chest pain. The chestpainwasol収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収収
+76,"Question:
+Let y = 10.5 - 11. Let i = -0.2 - y. Let d = i - -0.2. Is d <= 1/3?
+Answer:
+False<|end_of_text|>"
+77,"def create_tuple_from_list(mylist):
+    """"""Create a tuple from a list""""""
+
+    # TODO: Write code to create a tuple from thelist
+    return tuple
+
+<|end_of_text|>"
+78,"Question: Which of the following is not true about the heart
+A. Leftventralsheafis
+B. Leftventralsheafis
+C. Rightventralsheafis
+D. Rightventralsheafis
+Answer: D<|end_of_text|>"
+79,"Question:
+Let i = 0.023 - 0.033. Let f = i - -0.024. Let c = f - -0.024. What is c roundedto2 decimalplaces?
+Answer:
+0.01<|end_of_text|>"
+80,"Question:
+What is the third biggest value in -3, 0.4, 2/7, -1/4?
+Answer:
+-1/4<|end_of_text|>"
+81,"Question:
+Let o = -2.5 - -2.5. Let c = 0.2 - o. Let p = c - 0.4. Which is the closest to p?  (a) -3  (b) -2/9  (c) -1/4
+Answer:
+b<|end_of_text|>"
+82,"Question:
+Let c = -0.5 - -0.7. Let v = 0.7 - c. Let q = -0.4 - v. What is q roundedto 1dp?
+Answer:
+-0.8<|end_of_text|>"
+83,"Question:
+Let w = 0.7 - 0.7. Let h = 0.7 - w. Let c = 0.6 - h. Which is the closest to 1?  (a) c  (b) -0.5  (c) -2/3
+Answer:
+a<|end_of_text|>"
+84,"def update_temperature(temperature):
+    """"""Update temperature to 60°F if temperature < 60°F""""""
+    if temperature < 60:
+        temperature = 60
+    return temperature
+
+<|end_of_text|>"
+85,"def nested_tuple_exercise(temperature):
+    """"""
+    Given a temperature, find the temperature at which the temperature is 10°C.
+    """"""
+    temperature = float(temperature)
+    if temperature < 10:
+        temperature = temperature - 10
+    elif temperature > 10:
+        temperature = temperature - 10
+    if temperature == 10:
+        return temperature
+<|end_of_text|>"
+86,"Question: Which of the following is not an indication oflapchiotonterostavmalplasty?
+A. Hyponormalftedtois
+B. Hyponormalftedtois
+C. Hyponormalftedtois
+D. Hyponormalftedtois
+Answer: D<|end_of_text|>"
+87,"Question: The following is a sample of a transcript of a clinicaltrial
+A. A study of the effects of a drugA. A study of the effects of a drugB. A study of the effects of a drugB. A study of the effects of a drugC. A study of the effects of a drugC. A study of the effects of a drugD. A study of the effects of a drugD. A study of the effects of a drugE. A study of the effects of a drugE. A study of the effects of a drugF. A study of the effects of a drugF. A study of the effects of a drugG. A study of the effects of a drugG. A study of the effects of a drugH. A study of the effects of a drugH. A study of the effects of a drugI. A study of the effects of a drugI. A study of the effects of a drugJ. A study of the effects of a drugJ. A study of the effects of a drugK. A study of the effects of a drugK. A study of the effects of a drugL. A study of the effects of a drugL. A study of the effects of a drugM"
+88,"Question:
+Let i = 0.1 - -0.2. Let h = -0.6 + i. Let m = h - -0.7. What is m roundedto 1 dp?
+Answer:
+-0.8<|end_of_text|>"
+89,"Question:
+Let d = -0.6 - -0.8. Let m = 0.6 - d. Let o = 1.5 - m. What is o rounded to 1 dp?
+Answer:
+1<|end_of_text|>"
+90,"def add_to_set(animals):
+    """"""
+    Given a list of animals, add them to a set.
+    """"""
+    animals_set = set()
+    for animal in animals:
+        animals_set.add(animal)
+    return animals_set
+
+<|end_of_text|>"
+91,"Question:
+What is the remainderwhen 44ismod4isdividedby5? A) 1B) 3C) 4D) 5E) 6
+Answer:
+Letthequotientof44mod5beq.4q1q2q3q4q5
+q1q2q3q4q5=4
+q1q2q3q4q5=4
+q1q2q3q4q5=4
+q1q2q3q4q5=4
+q1q2q3q4q5=4
+q1q2q3q4q5=4
+q1q2q3q4q5=4
+q1q2q3q4q5=4
+q1q2q3q4q5=4
+q1q2q3q4q5=4
+q1q2q3q4q5=4
+q1q2q3q4q5=4
+q1q2q3q4q5=4
+q1q2q3q4q5=4
+q1q2q3q4q5"
+92,"Question:
+Let l = 2.2 - 2. Let g = 0.3 - l. Let h = 0.7 - g. What is h rounded to 1 dp?
+Answer:
+2<|end_of_text|>"
+93,"Question:
+Let i = 0.5 - 1. Let c = 0.7 - i. Let h = c - -0.9. What is h roundedto 1dp?
+Answer:
+-1<|end_of_text|>"
+94,"Question: The most common form of gout in India is-
+A. Anakalgau
+B. Purpuricgau
+C. Anakalgau
+D. Anakalgau
+E. Anakalgau
+A. Anakalgau
+B. Anakalgau
+C. Anakalgau
+D. Anakalgau
+E. Anakalgau
+A. Anakalgau
+B. Anakalgau
+C. Anakalgau
+D. Anakalgau
+E. Anakalgau
+A. Anakalgau
+B. Anakalgau
+C. Anakalgau
+D. Anakalgau
+E. Anakalgau
+A. Anakalgau
+B. Anakalgau
+C. Anakalgau
+D. Anakalgau
+E. Anakalgau
+A. Anakalgau
+B. Anakalgau
+C. Anakalgau
+D. Anakalgau
+E. Anakalgau
+A. Anakalgau
+B. Anakalgau
+C. Anakalgau
+D. Anakalgau
+E. Anak"
+95,"Question:
+Let o = 0.2 - 0.2. Let q = 0.8 - o. Let w = 0.5 - q. What is w rounded to 1dp?
+Answer:
+1<|end_of_text|>"
+96,# 2004欧連オオ手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+97,"Question:
+Let c = 0.5 - 0.5. Let q = c - 0.5. Let l = q - -0.5. Which is the closest to 1?  (a) l  (b) 0.3  (c) 0.5
+Answer:
+b<|end_of_text|>"
+98,"Question:DevelopaCustodianshipistheabilitytoacordwiththechildandtomakeastrongbondwiththem.
+A. Custodianship
+B. Custody
+C. Custodying
+D. Custodyingandaducation
+Answer: A<|end_of_text|>"
+99,"def find_unique_animal(animals):
+    """"""Given a list of animals, find the animal that is not in thelist.
+
+    Args:
+        animals (list): Alistof animals
+
+    Returns:
+        str: The name of the animalthatisnotinthelist
+    """"""
+    #Findtheanimalthatisnotinlist
+    notinlist =set(animals)
+    ifnotinlist:
+        returnnotinlist
+<|end_of_text|>"

@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly parts of proper nouns, place names, and personal names, often in various languages and scripts. These tokens frequently appear as meaningful subword units within longer names or terms, especially in contexts involving transliteration, multilingual text, or named entities."

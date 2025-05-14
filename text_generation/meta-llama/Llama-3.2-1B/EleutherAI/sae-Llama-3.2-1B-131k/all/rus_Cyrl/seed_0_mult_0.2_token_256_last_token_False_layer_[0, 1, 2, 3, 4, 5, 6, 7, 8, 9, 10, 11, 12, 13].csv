@@ -1,0 +1,1061 @@
+seed,generated_text
+0,"Question:Write a Python code snippet to Check Low Nail care: Trimming Nails for Decision Making for Professionals. Consider the Trust and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is some sample python code which implements a simple nail trimming algorithm based off of user input:
+```python 
+# Prompt user for input
+print(""Please enter the length of your fingernails:"")
+length = float(input())
+
+# Define minimum acceptable nail length
+min_length = 2.5
+
+# Perform dry run to determine whether nails need trimming
+if (length < min_length):
+    print(""Your nails are too short! Please trim them."")
+elif ((min_length <= length) & (length < 4)):
+    print(""Your nails are close to the minimum length. They may benefit from being trimmed."")
+else:
+    print(""Your nails are long enough! No further action is required at this time."")
+```
+In this code we first prompt the user to enter their nail length. We define a minimum acceptable nail length of 2.5cm. Then we perform a ""dry run"" by checking whether the entered value is less than the minimum"
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 + d. Let b = s - -0.01. What is b rounded to 2 dps?
+Answer:
+0.02<|end_of_text|>"
+2,"Question:
+Let l = -3.4 - -3. Let m = 0.2 - l. Let w = m + -0.2. Which is the closest to 0?  (a) w  (b) 3  (c) -1
+Answer:
+a<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Let k = g - 0.3. Let v = -0.3 + k. Which is the closest to 0.1?  (a) -0.4  (b) v  (c) -2/9
+Answer:
+c<|end_of_text|>"
+4,"Question:
+Let v = 0.02 - -1.98. Let t = 1.7 + v. Let l = t + -0.3. Which is the nearest to 2/3?  (a) l  (b) -3  (c) -1/4
+Answer:
+c<|end_of_text|>"
+5,"Question:
+Let o = 0.09 - 0.09. Let g = 0.04 + o. Let b = 0.06 + g. Which is the closest to 0?  (a) 0.2  (b) 0.4  (c) 1/2
+Answer:
+a<|end_of_text|>"
+6,"def count_even_numbers(numbers):
+    """"""
+    Write a function that takes a list of numbers and returns the number of even numbers in the list.
+
+    You can use the count() method to count the number of even numbers in the list.
+
+    You can use the if statement to check if a number is even or not.
+
+    You can use the range() function to create a list of numbers from 0 to 10.
+
+    You can use the len() function to get the length of a list.
+
+    You can use the sum() function to sum up the values in a list.
+
+    You can use the print() function to print the result to the console.
+
+    You can use the range() function to create a list of numbers from 0 to 10.
+
+    You can use the len() function to get the length of a list.
+
+    You can use the sum() function to sum up the values in a list.
+
+    You can use the print() function to print the result to the console.
+
+    You can use the range() function to create a list of numbers from 0 to 10.
+
+    You can use the len() function to get the length of a list.
+
+    You can use the sum() function to sum up the values in"
+7,"# 1998–99 Czech Hockey League season
+
+The 1998–99 Czech Hockey League season was the 45th season of the Czech Hockey League, the top level of ice hockey in Czech Republic. 8 teams participated in the league, and HC Sparta Praha won the championship.
+
+## Regular season
+
+|  | Club | GP | W | D | L | Goals | Bases | Pts |
+| 1 | HC Sparta Praha | 56 | 39 | 4 | 13 | 279:152 | 1.77 | 82 |
+| 2 | HC Dukla Trenчин | 56 | 35 | 5 | 16 | 255:169 | 1.52 | 75 |
+| 3 | HC Sparta Praha II | 56 | 30 | 5 | 21 | 231:174 | 1.34 | 65 |
+| 4 | HC Vsete | 56 | 26 | 5 | 25 | 197:185 | 1.06 | 57 |
+| 5 | HC Sparta Praha B | 56 | 25 | 4 | 27 | 212:215 | 0.97"
+8,"Question:Develop a Python program snippet to Check High Toilet hygiene: Avoiding Contamination for Engineer for Experts. Incorporate if/else or switch/case statements to handle various cases related to the Responsibility. Dry-run, ensure your control flow logic is clear and well-commented.
+
+Solution:Here is python code which checks high toilet hygiene avoiding contamination for engineer experts incorporating if else statement : 
+
+```python 
+def check_toilet():
+    # dry run 
+    print(""Dry Run"")
+
+    # user input 
+    user_input = float(input(""Enter water level (in cm): ""))
+    
+    # calculate amount of water needed 
+    water_needed = 0.5 * user_input 
+
+    # check if sufficient water is present 
+    if water_needed <= 10: 
+        print(f""Water Level is sufficient! No need to flush."") 
+    elif water_needed > 10 and water_needed < 20: 
+        print(""Water Level is moderate. Please flush after use."") 
+    else: 
+        print(""Water Level is low. Please add more water before flushing."") 
+
+
+if __name__ == '__main__': 
+    check_toilet() 
+```<|end_of_text|>"
+9,"Question:
+Let x = -0.1 - -0.1. Let p = 0.1 + x. Let l = p - 0.1. Which is the nearest to l?  (a) 2/9  (b) -3  (c) 0.1
+Answer:
+c<|end_of_text|>"
+10,"Question:Create a Python script snippet that Determines Extreme Oral health habits: Avoiding Tobacco for Engineer for Beginners. Use if/else or switch/case statements to conditionally perform different actions based on the Transparency. Dry-run, then include comments that outline the control flow and explain our decision-making process.
+
+Solution:Here is a python script which determines extreme oral hygiene habits by avoiding smoking. The script uses `if` statements to check whether each of the three variables (frequency of brushing teeth, flossing, and use of mouthwash) falls below 2 times per week. If any one of these values is less than 2, the user receives feedback indicating that they need to improve their oral care routine. Otherwise, they receive congratulatory messages congratulating them on good oral hygiene practices. 
+
+```python
+# Define variables
+frequency_brush = 0 # Frequency of Brushing Teeth
+frequency_floss = 0 # Frequency of Flossing
+frequency_mouthwash = 0 # Frequency of Mouthwash
+
+# Prompt user to enter information about their oral care habits
+print(""Please enter your daily oral care habits:"")
+print(""Frequency of Brushing Teeth:"")
+while True:
+    try:
+        frequency_brush = float(input())
+        break
+    except ValueError"
+11,"Question: A 50-year-old man with a history of alcoholism presents with a 2-month history of abdominal pain and jaundice. Laboratory studies show an elevated serum bilirubin concentration and anemia. A liver biopsy specimen shows necrotic hepatocytes and macrophage infiltration. Electron microscopy of liver cells reveals platelet-like inclusions. The liver biopsy specimen is most likely to show which of the following?
+A. Giant cells
+B. Hepatocyte cell bodies
+C. Hepatocyte cytoplasm
+D. Hepatocyte nuclei
+Answer: A<|end_of_text|>"
+12,"Question:
+Let r = 0.5 + -0.4. Let f = 0.3 - r. Let t = -0.3 - f. Which is the nearest to 0?  (a) t  (b) 0.1  (c) 2/9
+Answer:
+b<|end_of_text|>"
+13,"Question:
+Let h = -0.1 + 0.1. Let i = 0.1 + h. Let x = 0.6 - i. What is x rounded to the nearest integer?
+Answer:
+0<|end_of_text|>"
+14,"Question:Design a C# function snippet to Check High Finance: Loan Calculations for Analysis for Beginners. Implement if/else or switch/case statements to handle different conditions related to the Safety. Provide detailed comments explaining your control flow and the reasoning behind each decision.
+
+Solution:Here is a possible implementation of such a function in C#:
+
+    ```c#
+    /// <summary>
+    /// Checks high finance loan calculations for analysis for beginners.
+    /// </summary>
+    public static bool CheckHighFinanceLoanCalculationsForAnalysis()
+    {
+        // Define variables
+        double principal = 100_000;    // Loan amount
+        int years = 5;                // Number of years
+        double interestRate = 0.05;     // Interest rate
+
+        // Calculate monthly payment
+        double monthlyPayment = principal * interestRate / 12 / (1 - Math.Pow((1 + interestRate), (-years * 12)));
+
+        // Determine whether loan is safe based on risk tolerance
+        double riskTolerance = 0.3;    // Risk tolerance (percentage)
+        double safeLoan = principal * riskTolerance / 100;     // Safe loan amount
+
+        return monthlyPayment <= safeLoan;
+    }
+    ```
+    
+   "
+15,"Question:
+Let y = -0.01 - 0.31. Let f = -0.5 - -0.8. Let s = y - f. Which is the nearest to 0?  (a) s  (b) 3/2  (c) -2/9
+Answer:
+a<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.03. Let b = 0.01 + j. Let l = -0.01 - b. What is l rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>"
+17,"Question:
+Let f = 0.2 - 0.1. Let x = 0.1 + f. Let c = x - 0.1. What is c rounded to 1 decimal place?
+Answer:
+-0.1<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3.8. Let o = -2.8 + y. Let c = o - -3.1. What is c rounded to the nearest integer?
+Answer:
+3<|end_of_text|>"
+19,"Question:Build a Ruby module snippet that Checks Extreme Flossing: Correct Flossing Technique for Engineer for Experts. Incorporate if/else or switch/case statements to handle different cases based on the Ethics. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here's a possible implementation of such a function in Ruby:
+
+    def check_extreme_flossing(ethic)
+      case ethic
+        when :engineer
+          ""Correct flossing technique for engineers""
+        else 
+          ""Invalid input"" 
+      end
+    end
+
+This function takes one argument - `ethic`, which can take two values: `:engineer` or any other value. The function uses a `case` statement to evaluate the value of `ethic`. If the value is equal to `:engineer`, then the function returns a string indicating correct flossing technique for engineers. Otherwise, it returns an error message.<|end_of_text|>"
+20,"Question:Build a Python module snippet that Transforms High Transportation: Public Transit Schedules for Engineer for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Reliability. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here's a possible implementation of this functionality in Python:
+```python
+import requests
+from bs4 import BeautifulSoup
+
+
+def get_bus_schedule(route):
+    """"""Get bus schedule information from website.""""""
+
+    # Define URL
+    url = f""https://www.google.com/search?q={route} public transportation schedule""
+
+    # Make request
+    page = requests.get(url)
+
+    # Parse HTML
+    soup = BeautifulSoup(page.content, ""html.parser"")
+
+    # Find relevant section
+    div = soup.find(""div"", class_=""BNegw"")
+
+    # Get time intervals
+    time_intervals = []
+    for span in div.find_all(""span""):
+        time_interval = [int(x) for x in re.findall(""\d+"", span.text)]
+        time_intervals.append(time_interval)
+
+    return time_intervals
+
+
+if __name__ == ""__main__"":
+    routes = [""Bus Route 1"", ""Bus Route 2""]
+
+    # Loop through each route
+    for route in routes:
+"
+21,"Question:
+Let g = -0.1 + -1.9. Let j = 1.9 + g. Let k = 2.3 + j. Round k to 1 dp.
+Answer:
+2.3<|end_of_text|>"
+22,"Question: Which of the following is the most common cause of upper gastrointestinal bleeding in the elderly?
+A. Peptic ulcer
+B. Mallory-Weiss syndrome
+C. Gastrointestinal malignancy
+D. Esophageal varices
+Answer: B<|end_of_text|>"
+23,"Question: Which of the following is not true about the common cold?
+A. Rhinovirus is the causative agent
+B. It is a viral infection
+C. It is self limiting
+D. It is caused by bacterial infection
+Answer: B<|end_of_text|>"
+24,"Question:Write a C++ code snippet to Transform Low Finance: Loan Calculations for Engineer for Experts. Consider the Ethics and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is a possible implementation of loan calculations in C++, including ethical considerations:
+
+    #include <iostream>
+    #include <cmath>
+    
+    // Function prototypes
+    double calculateMonthlyPayment(double principal, double interestRate, int term);
+    double calculateSimpleInterest(double principal, double interestRate, int term);
+    double calculateCompoundInterest(double principal, double interestRate, int term);
+    void printLoanInfo(double principal, double interestRate, int term, double monthlyPayment, double simpleInterest, double compoundInterest);
+    
+    int main() {
+        // User input
+        std::cout << ""Enter loan amount: "";
+        double principal;
+        std::cin >> principal;
+    
+        std::cout << ""Enter annual interest rate: "";
+        double interestRate;
+        std::cin >> interestRate;
+    
+        std::cout << ""Enter number of years: "";
+        int term;
+        std::cin >> term;
+    
+        // Calculate monthly payment
+"
+25,"# Heterosiphon
+
+Heterosiphon is a genus of flowering plants in the family Asteraceae.
+
+* Heterosiphon acuminatus - Peru
+* Heterosiphon alpinus - Bolivia, Peru, Ecuador, Colombia
+* Heterosiphon angustifolius - Ecuador
+* Heterosiphon arachnoideus - Ecuador
+* Heterosiphon atratus - Peru
+* Heterosiphon barbellatus - Peru
+* Heterosiphon bicolor - Peru
+* Heterosiphon bicolor - Ecuador
+* Heterosiphon bidentatus - Peru
+* Heterosiphon bidentatus - Ecuador
+* Heterosiphon bidentatus - Bolivia
+* Heterosiphon brachystachyus - Peru
+* Heterosiphon calycosus - Ecuador
+* Heterosiphon campanulatus - Peru
+* Heterosiphon caryophyllus - Peru
+* Heterosiphon chapaensis - Peru
+* Heterosiphon chrysantha - Peru
+* Heterosiphon chrysantha - Ecuador
+"
+26,"Question:
+Let s = -4.25 + 4. Let l = 0.25 + s. Let w = l - -0.0019. What is w rounded to three dps?
+Answer:
+0.002<|end_of_text|>"
+27,"Question:Develop a Python program snippet to Transform Extreme Hair care: Dealing with Hair Problems for Engineer for Professionals. Incorporate if/else or switch/case statements to handle various cases related to the Ethics. Dry-run, ensure your control flow logic is clear and well-commented.
+
+Solution:Here is python code which implements decision making based upon user input through command line interface. The main function prompts the user to enter their choice of hair problem they wish to solve. Based upon this selection, appropriate action is taken by calling functions associated with each possible scenario. 
+
+```python 
+# Import necessary libraries
+import os
+from datetime import date
+
+
+def main():
+    # Define variables
+    today = date.today()
+    current_date = f""{today.day}/{today.month}/{today.year}""
+
+    print(f""Welcome to Extreme Hair Care! Today's Date: {current_date}"")
+
+    while True:
+        # Display menu of options
+        print(""1. Dandruff"")
+        print(""2. Split Ends"")
+        print(""3. Oily Scalp"")
+        print(""4. Thinning Hair"")
+        print(""5. Other"")
+        choice = input(""\nEnter your selection: "")
+
+        # Process user input
+        if choice == ""1"":
+            solve_d"
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.2 - t. Let r = -0.3 - c. What is r rounded to 1 decimal place?
+Answer:
+-1<|end_of_text|>"
+29,"Question:Write a Julia code snippet to Update Low Dental hygiene: Flossing for Analysis for Professionals. Consider the Trust and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is some sample julia code which implements update low dental hygiene based on flossing frequency:
+
+ ```julia 
+function update_low_dental_hygiene(data::DataFrame)
+    # Define variables 
+    min_floss = 0
+    max_floss = 5
+
+    # Calculate average number of days since last flossed
+    avg_days = mean(data[!,:last_floss])
+    
+    # Check if average number of days since last floss is greater than or equal to minimum allowed value
+    if avg_days >= min_floss
+        # If yes, check if current value of 'Flossing' column is greater than or equal to maximum allowed value
+        if data[!,""Flossing""] >= max_floss
+            # If yes, set new value of 'LowDentalHygiene' column to true 
+            data[!,""LowDentalHygiene""] = ""Yes""
+        else
+           "
+30,"Question:
+Let y = -0.02 - -0.17. Let s = y - 0.15. Let l = s - -0.00192. What is l rounded to 4 decimal places?
+Answer:
+0.002<|end_of_text|>"
+31,"Question:
+Let m = -1.07 + 1. Let q = m + 0.03. Let l = 0.04 - q. Which is the nearest to -1/2?  (a) l  (b) 3  (c) -1/2
+Answer:
+c<|end_of_text|>"
+32,"Question:
+Let i = 0.002 - -0.003. Let x = 0.003 + i. Let g = x + -0.0065. What is g rounded to 2 dps?
+Answer:
+-0.02<|end_of_text|>"
+33,"def analyze_data(data):
+    """"""
+    This function takes a list of data points and returns a list of tuples, where each tuple contains the data point and its corresponding index in the list.
+    The data points are in the form of a list of tuples, where each tuple contains the x and y coordinates of a point on a graph.
+    The function should use nested for loops to iterate over the data points and their corresponding indices, and return a list of tuples in the correct format.
+    """"""
+    result = []
+    for i, point in enumerate(data):
+        for j, coord in enumerate(point):
+            result.append((coord, i))
+    return result
+<|end_of_text|>"
+34,"Question: Which of the following is not a feature of anorexia nervosa?
+A. Amenorrhea
+B. Weight loss
+C. Self starvation
+D. Eating disorder not otherwise specified
+Answer: A<|end_of_text|>"
+35,"Question:
+What is prob of picking 2 e and 1 z when three letters picked without replacement from {z: 1, e: 4, o: 2, s: 1, j: 1}?
+Answer:
+6/70<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -0.6. Let r = o + 0. Let x = r + -0.1. Which is the nearest to 0?  (a) -2/7  (b) x  (c) 3
+Answer:
+b<|end_of_text|>"
+37,"# List of tallest buildings in Moscow
+
+The following is a list of the tallest buildings in Moscow. The tallest buildings in Moscow are the tallest buildings in Russia.
+
+The tallest buildings in Moscow, as of 2022
+
+## Tallest buildings
+
+The tallest buildings in Moscow are:
+
+## See also
+
+* List of tallest buildings in Russia
+* List of tallest buildings in the world
+* List of tallest buildings in Europe<|end_of_text|>"
+38,"Question:
+What is the common denominator of 3/10 and 89/10?
+Answer:
+10<|end_of_text|>"
+39,"Question:
+Let t = -0.06 + -0.04. Let x = t - -0.08. Let r = 0.04 + x. What is r rounded to one dp?
+Answer:
+0.6<|end_of_text|>"
+40,"# 2009–10 Ligue 2
+
+The 2009–10 Ligue 2 season was the 78th season of the second tier of the French football league system. The season began on 27 July 2009 and ended on 17 May 2010.
+
+| Season | 2009–10 |
+| Champions | Stade Brestois |
+| Promoted | Stade Brestois2 Ligue 1 |
+| Relegated | USO Mont-de-MarsacFC Sète |
+| Champions League | Stade Brestois |
+| Europa League | FC Metz |
+| Intertoto Cup | Stade Lorientais |
+| Matches played | 380 |
+| Goals scored | 1,015 (2.65 per match) |
+| Top goalscorer | Frédéric Kanoute(25 goals) |
+| Biggest home win | Stade Lorientais 8–0 USO Mont-de-Marsac |
+| Biggest away win | USO Mont-de-Marsac 0–5 Stade Brestois |
+| Highest scoring | USO Mont-de-Marsac 0–5 Stade Brestois |
+| Longest winning run | 7 matchesStade Brestois"
+41,"Question:
+Let a = -1.1 + 0.1. Let j = -1.2 + a. Let x = j + 1.9. What is x rounded to 1 decimal place?
+Answer:
+1<|end_of_text|>"
+42,"Question:
+Let l = 0.3 - 0.1. Let s = -0.3 + l. Let d = s - -0.1. What is d rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>"
+43,"Question:
+Let k = -0.0376 - -0.03758323. Round k to 5 dps.
+Answer:
+-0.00012<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + -2. Let s = 0.1 - o. Let v = 1.0000054 + s. Round v to 6 decimal places.
+Answer:
+0.000005<|end_of_text|>"
+45,"Question:
+Let x = 0.02 + 0.02. Let d = 0.04 + x. Let v = -0.1 - d. What is v rounded to 2 decimal places?
+Answer:
+-0.1<|end_of_text|>"
+46,"Question:Build a Python module snippet that Transforms High Finance: Loan Calculations for Analysis for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Trust. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here's a python module that implements loan calculations for analysis for beginners:
+
+    ```python
+    import math
+    
+    def calculate_monthly_payment(income, loan_amount, interest_rate):
+        """"""
+        Calculates monthly payment of a loan based on income, 
+        loan amount, and interest rate.
+        
+        Args:
+            income (float): Annual income of borrower.
+            loan_amount (float): Amount borrowed.
+            interest_rate (float): Annual interest rate as a decimal.
+            
+        Returns:
+            float: Monthly payment.
+        """"""
+    
+        # Calculate monthly interest rate
+        monthly_interest = interest_rate / 12
+    
+        # Calculate monthly payment
+        monthly_payment = (loan_amount * monthly_interest) / (1 - math.pow((1 + monthly_interest), (-12)))
+    
+        return monthly_payment
+    
+    def calculate_monthly_repayment(income, loan_amount, interest_rate, 
+                                    number_of_payments, compounding_frequency):
+        """"""
+        Calculates monthly repayment of a loan based on"
+47,"# Generated by Django 2.2.6 on 2019-11-09 10:34
+
+from django.db import migrations, models
+
+
+class Migration(migrations.Migration):
+
+    dependencies = [
+        ('main_app', '0002_auto_20191109_1328'),
+    ]
+
+    operations = [
+        migrations.AlterField(
+            model_name='product',
+            name='name',
+            field=models.CharField(max_length=200, unique=True),
+        ),
+    ]
+<|end_of_text|>"
+48,"Question:Build a Python module snippet that Updates Low Hygiene during illness: Disinfecting Surfaces for Engineer for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Responsibility. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here's some sample python code which implements this functionality:
+
+ ```python 
+def update_low_hygiene(responsibility):
+    """"""Updates low hygiene status according to responsibility.""""""
+
+    # Define possible responsibilities and their associated actions
+    responsibilities = {
+        'Engineer': disinfect_surfaces,
+        'Professional': call_healthcare_professional
+    }
+    
+    # Check if given responsibility exists
+    if responsibility in responsibilities:
+        # Call appropriate action for given responsibility
+        responsibilities[responsibility]()
+    else:
+        raise ValueError(f""Invalid responsibility '{responsibility}'"")
+    
+    # Update global variable indicating low hygiene level
+    global LOW_HYGIENE
+    LOW_HYGIENE = True
+``` 
+
+In this code we define a dictionary `responsibilities` where each key corresponds to a responsibility and the corresponding value is a function that performs the relevant action. We then use a nested if statement to check whether the given responsibility is present in the dictionary."
+49,"Question:Design a Python function snippet to Determine Low Nail care: Filing and Shaping Nails for Analysis for Experts. Implement if/else or switch/case statements to handle different conditions related to the Reliability. Provide detailed comments explaining your control flow and the reasoning behind each decision.
+
+Solution:Here is a possible implementation of such a function in python:
+```python
+def determine_low_nailcare(filing_and_shaping):
+    """"""
+    Determines whether nail care was performed properly based on input from expert
+
+    Args:
+        filing_and_shaping (str): Input from expert describing their opinion of nail care
+
+    Returns:
+        str: Description of level of nail care provided by expert
+
+    Raises:
+        ValueError: If input does not match any known levels of nail care
+
+    """"""
+    # Define list of possible inputs from experts
+    expert_levels = [
+        ""Poor"", 
+        ""Fair"", 
+        ""Good"", 
+        ""Excellent""
+    ]
+    
+    # Check if input matches any known levels of nail care
+    if filing_and_shaping in expert_levels:
+        return f""{filing_and_shaping} - This indicates low nail care.""
+    else:
+        raise ValueError(""Invalid input"")
+```
+This function takes in one argument -"
+50,"Question:
+Let g = 0.1 - 0. Let h = 0.2 + g. Let r = 0.2 - h. What is r rounded to one decimal place?
+Answer:
+1<|end_of_text|>"
+51,"Question:
+Let d = -0.0022 + -0.0028. Let j = d + 0.10000006. Round j to 7 decimal places.
+Answer:
+0.0000001<|end_of_text|>"
+52,"def create_list_of_squares(numbers):
+    """"""
+    Create a list of squares of the input numbers.
+    The list should be created using the range function.
+    """"""
+    result = []
+    for i in range(len(numbers)):
+        result.append(numbers[i] * numbers[i])
+    return result
+<|end_of_text|>"
+53,"Question:
+What is prob of picking 1 j and 1 y when two letters picked without replacement from yjyjyjyjj?
+Answer:
+6/15<|end_of_text|>"
+54,"Question:Create a Python script snippet that Transforms Low Nose care: Proper Nose Blowing for Engineer for Professionals. Use if/else or switch/case statements to conditionally perform different actions based on the Trust. Dry-run, then include comments that outline the control flow and describe the logic behind each decision.
+
+Solution:Here is python script which demonstrates use of conditional statement ""if"" : 
+
+```python 
+# Define variables 
+trust_level = int(input(""Enter your trust level (1 - low, 2 - medium, 3 - high): ""))
+action = """"
+
+# Perform dry run of logic 
+if trust_level == 1: 
+    print(""Low trust level detected! Performing low nose care procedures."") 
+    action = ""Blow nose gently"" 
+elif trust_level == 2: 
+    print(""Medium trust level detected! Performing moderate nose care procedures."") 
+    action = ""Use tissue to gently wipe away mucus from nostrils"" 
+elif trust_level == 3: 
+    print(""High trust level detected! Performing thorough nose care procedures."") 
+    action = ""Use saline solution to flush out nasal passages"" 
+else: 
+    print(""Invalid input! Please enter value between 1 and 3 inclusive."") 
+
+# Display result"
+55,"def count_primes(n):
+    """"""
+    Given a positive integer n, return the number of prime numbers less than or equal to n.
+
+    Examples:
+    >>> count_primes(10)
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                "
+56,"Question:
+What is the common denominator of 11/8 and 103/24?
+Answer:
+24<|end_of_text|>"
+57,"Question:
+Let j = -0.001 + 0.0010000001. What is j rounded to 7 decimal places?
+Answer:
+0.0000001<|end_of_text|>"
+58,"def nested_loops_and_indexing(my_list):
+    """"""
+    Given a list of strings, return a list of strings that are not in the original list.
+    The list of strings should be sorted alphabetically.
+    """"""
+
+    # Your code here
+
+    return sorted(set(my_list) - set(my_list))
+<|end_of_text|>"
+59,"Question:
+What is the common denominator of 71/2 and 57/10?
+Answer:
+10<|end_of_text|>"
+60,"Question:
+Let h = -0.046 + 0.04600367. What is h rounded to six dps?
+Answer:
+0.000004<|end_of_text|>"
+61,"Question:
+Let l = -7.9 - -8. Let s = -0.1 + l. Let j = -0.1 - s. What is j rounded to 1 decimal place?
+Answer:
+-0.2<|end_of_text|>"
+62,"Question:
+Let f = -0.4 - -0.4. Let v = f - -0.3. Let z = 0.2 + v. Round z to one decimal place.
+Answer:
+0.2<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.027000001. What is o rounded to 7 decimal places?
+Answer:
+0.0000001<|end_of_text|>"
+64,"Question:
+Let i = -0.2 + 0.2. Let l = -1.1 + i. Let v = -0.1 + l. What is v rounded to one decimal place?
+Answer:
+-0.1<|end_of_text|>"
+65,"Question:
+Let k = -0.046 - -0.0460000028. Round k to 7 decimal places.
+Answer:
+0.0000028<|end_of_text|>"
+66,"Question:
+Let f = -1.2 + 0.8. Let o = -0.5 - f. Let h = o - -0.3. What is h rounded to 1 decimal place?
+Answer:
+0.3<|end_of_text|>"
+67,"Question:Design a Python function snippet to Check High Finance: Budgeting for Analysis for Professionals. Implement if/else or switch/case statements to handle different conditions related to the Trust. Provide detailed comments explaining your control flow and the reasoning behind each decision.
+
+Solution:Here is a possible implementation of such a function in python:
+```python
+def check_highfinance(income, expenses):
+    """"""
+    This function checks whether someone has sufficient funds 
+    to cover their living expenses based on their income and expenses
+
+    Parameters:
+        income (float): The individual's annual income
+        expenses (list[float]): A list containing all of their monthly expenses
+    
+    Returns:
+        bool: Whether the person has enough money to cover their living expenses
+    """"""
+    # Calculate total monthly expenditure
+    total_expense = sum(expenses)
+
+    # Determine how much money is left over after paying bills
+    remaining_income = income - total_expense
+
+    # If there is enough money left over, return True
+    if remaining_income >= 0:
+        return True
+
+    # Otherwise, return False
+    else:
+        return False
+```
+This function takes two arguments - `income` which represents the person's annual income, and `expenses`, which is a list"
+68,"Question:
+What is 3.9 take away 0.2?
+Answer:
+3.7<|end_of_text|>"
+69,"Question:
+Let i = -0.1 + 0. Let k = -0.1 + i. Let v = 0.1 + k. Which is the third biggest value?  (a) 0.2  (b) v  (c) 1/6
+Answer:
+b<|end_of_text|>"
+70,"Question: Which of the following is the best marker for the diagnosis of thyroid cancer?
+A. Thyroglobulin
+B. Thyroid stimulating hormone
+C. Thyroid peroxidase
+D. TSH
+Answer: C<|end_of_text|>"
+71,"Question:
+Let l = 0.3 - 0.2. Let r = -0.3 - l. Let i = 0.4 - r. What is i rounded to 1 decimal place?
+Answer:
+0.4<|end_of_text|>"
+72,"Question:
+Let m = 0.4 + -0.4. Let d = 0.4 + -0.3. Let h = d - m. What is h rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>"
+73,"def create_artwork(artist_name, artwork_title, artwork_description):
+    """"""Create a new artwork with the given artist name, title, and description.
+
+    The artwork should be represented as a list of tuples, where each tuple contains the name of the artwork, the artist's name, and the artwork's description.
+
+    For example, if the artist's name is ""John Doe"" and the artwork title is ""Sculpture"", the artwork should be represented as:
+
+    [
+        (""John Doe"", ""Sculpture""),
+        (""John Doe"", ""Sculpture""),
+        (""John Doe"", ""Sculpture""),
+        (""John Doe"", ""Sculpture""),
+        (""John Doe"", ""Sculpture""),
+        (""John Doe"", ""Sculpture""),
+        (""John Doe"", ""Sculpture""),
+        (""John Doe"", ""Sculpture""),
+        (""John Doe"", ""Sculpture""),
+        (""John Doe"", ""Sculpture""),
+        (""John Doe"", ""Sculpture""),
+        (""John Doe"", ""Sculpture""),
+        (""John Doe"", ""Sculpture""),
+        (""John Doe"", ""Sculpture""),
+        (""John Doe"","
+74,"Question:Develop a Rust program snippet to Check High Nail care: Moisturizing Hands and Nails for Engineer for Professionals. Incorporate if/else or switch/case statements to handle various cases related to the Ethics. Dry-run, ensure your control flow logic is clear and well-commented.
+
+Solution:Here is a possible implementation of such a function written in Rust:
+```rust
+fn check_high_nail_care(ethic: &str) -> String {
+    match ethic {
+        ""Engineering"" => {
+            // Code for checking high nail care for engineers goes here
+
+            return format!(""High nail care recommendations for engineers include:\n\
+                - Regular manicures and pedicures\n\
+                - Using gloves when doing household chores\n\
+                - Avoiding exposure to chemicals and toxins"");
+        }
+        _ => {
+            return format!(
+                ""High nail care recommendations for other professions can vary based on individual circumstances.\n\
+                Please consult your doctor or healthcare provider for specific guidance.""
+            );
+        }
+    };
+}
+```
+In this example, we use a `match` expression to determine which set of recommendations to return depending on the value of the `ethic` parameter. If the provided ethic is `""Engineering""`, then the function returns a"
+75,"Question:Build a Python module snippet that Updates Low Finance: Stock Market Analysis for Analysis for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Reliability. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here's some sample python code which implements an update function for low finance stock market analysis:
+
+ ```python 
+def update_low_finance(reliability):
+    """"""Update low finance stock market analysis based on reliability score.""""""
+
+    # Define possible outcomes and their probabilities
+    outcomes = [""Buy"", ""Hold"", ""Sell""]
+    proba = [0.65, 0.25, 0.1]
+    
+    # Use random number generator to determine outcome
+    import random
+    rand_num = random.uniform(0, 1)
+    chosen_outcome = random.choices(population=outcomes, weights=proba)[0]
+    
+    # Print updated analysis
+    print(""Based on the current information, we recommend:"",chosen_outcome)
+    
+    return chosen_outcome
+``` 
+
+In this code, we define three possible outcomes (""Buy"", ""Hold"", and ""Sell"") and their associated probabilities. We then use the built-in `random` module to generate a random number"
+76,"Question:
+Let y = 0.1 - -0.1. Let k = -0.4 + y. Let g = -1.2 + k. What is g rounded to 1 dp?
+Answer:
+-0.3<|end_of_text|>"
+77,"def create_room_layout(room_dimensions, furniture_list):
+    """"""
+    Given a list of furniture objects and a list of room dimensions,
+    return a list of furniture objects placed in the room.
+    """"""
+    room_layout = []
+    for furniture in furniture_list:
+        furniture.x = furniture.x * room_dimensions[0]
+        furniture.y = furniture.y * room_dimensions[1]
+        room_layout.append(furniture)
+    return room_layout
+<|end_of_text|>"
+78,"Question: Which of the following is not true regarding the normal distribution?
+A. It is symmetrical
+B. It is bell shaped
+C. It is not a measure of central tendency
+D. It is a measure of dispersion
+Answer: C<|end_of_text|>"
+79,"Question:
+Let x = 0.023 - 0.033. Let f = x - -0.01. Let b = f + -0.026. What is b rounded to 2 dps?
+Answer:
+-0.03<|end_of_text|>"
+80,"Question:
+What is the next term in 5, 24, 65, 136, 243, 390, 575?
+Answer:
+810<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.7. Let x = 0.2 - o. Let p = x - 0.20000054. What is p rounded to 7 decimal places?
+Answer:
+-0.0000005<|end_of_text|>"
+82,"Question:
+Let g = -0.036 - 0.064. Let v = g + 0.09. Let k = v + -0.05000008. Round k to 7 decimal places.
+Answer:
+-0.0000001<|end_of_text|>"
+83,"Question:
+Let x = 0.017 - 0.017006. Round x to 6 decimal places.
+Answer:
+-0.000006<|end_of_text|>"
+84,"def update_athlete_stats(athlete_stats, new_stats):
+    """"""
+    Update the athlete's statistics with new values.
+
+    Parameters:
+        athlete_stats (dict): A dictionary containing the athlete's current statistics.
+        new_stats (dict): A dictionary containing the new statistics to be updated.
+
+    Returns:
+        None
+    """"""
+    for stat, value in new_stats.items():
+        if stat in athlete_stats:
+            athlete_stats[stat] = value
+        else:
+            print(f""Error: {stat} is not in the athlete's statistics."")
+<|end_of_text|>"
+85,"def modify_list(my_list):
+    """"""
+    Modify the given list by replacing all elements that are not equal to 5 with 5.
+    """"""
+    for i in range(len(my_list)):
+        if my_list[i]!=5:
+            my_list[i]=5
+    return my_list
+
+<|end_of_text|>"
+86,"Question:Build a Python module snippet that Updates High Finance: Loan Calculations for Engineer for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Reliability. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here is a python module which implements loan calculations for engineers taking into account reliability of borrower. It uses `if` statement to check whether the given value falls under certain categories (low, medium or high) depending upon which appropriate interest rate will be applied. The function also takes into account the default payment schedule as specified by the user. 
+
+```python 
+def calculate_loan(reliability):
+    """"""Calculates monthly payment amount for a given loan amount, 
+    interest rate and tenure.""""""
+    
+    # Define variables
+    loan_amount = float(input(""Enter loan amount: ""))
+    interest_rate = float(input(""Enter interest rate: ""))
+    monthly_payment = 0
+    total_interest = 0
+
+    # Calculate monthly payment
+    monthly_interest = interest_rate / 12
+    month = 1
+    while month <= 12:
+        monthly_interest = interest_rate / 12
+        monthly_payment += loan_amount * monthly_interest / (1 - math.pow((1 + monthly"
+87,"Question:Create a Python script snippet that Displays Extreme Toilet hygiene: Keeping Toilet Area Clean for Analysis for Experts. Use if/else or switch/case statements to conditionally perform different actions based on the Safety. Dry-run, then include comments that outline the control flow and describe the decision-making process.
+
+Solution:Here is python code which displays extreme toilet hygiene keeping area clean for analysis by experts : 
+
+```python 
+# Import necessary libraries
+import os
+from PIL import Image
+
+# Define function to display message depending upon safety level
+def show_message(safety):
+    # Check whether the input value is within range of safe levels 
+    if (0 <= safety) and (safety < 3):
+        print(""Toilet area is very dirty! Please clean immediately."")
+    
+    elif safety == 3:
+        print(""Toilet area is slightly dirty. Please wipe down surfaces."")
+        
+    else:
+        print(""Toilet area is relatively clean. No further action required"")
+        
+# Create directory to store images
+if not os.path.exists(""images""):
+    os.mkdir(""images"")
+    
+# Get path of current directory
+current_dir = os.path.dirname(__file__)
+    
+# Loop through all files in directory and check their names
+for filename in os.listdir(current"
+88,"Question:
+Let i = 0.1 - -0.1. Let s = -0.1 + i. Let m = -0.01 + s. What is m rounded to one dp?
+Answer:
+-0.2<|end_of_text|>"
+89,"Question:
+Let n = -0.031 - 0.049. Let m = n + 0.06. Let d = m - 0.03000004. What is d rounded to 7 decimal places?
+Answer:
+-0.0000001<|end_of_text|>"
+90,"def add_to_set(set, element):
+    """"""Add an element to a set if it is not already present.
+    
+    Args:
+        set: The set to add the element to.
+        element: The element to add to the set.
+    
+    Returns:
+        The updated set with the added element.
+    """"""
+    if element not in set:
+        set.add(element)
+    return set
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 103 is divided by 29?
+Answer:
+20<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 2. Let g = 0.3 + p. Let h = 0.2 + g. What is the smallest value in -2/7, h, 2/5?
+Answer:
+-2/7<|end_of_text|>"
+93,"Question:
+Let i = 0.001 - -1.999. Let j = 2.1 + i. Let v = -0.9 + j. Which is the closest to 1?  (a) v  (b) 2/7  (c) -3
+Answer:
+b<|end_of_text|>"
+94,"Question:Build a Python module snippet that Transforms High Bathing routine: Drying Off Completely for Engineer for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Consent. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here's a possible implementation of such a function written in python:
+```python 
+def dry_off(consent):
+    """"""Dries off completely after bathing
+    
+    Args:
+        consent (str): User provided consent string
+
+    Returns:
+        str: Message indicating whether user was dried off or not
+
+    Raises:
+        ValueError: If invalid input provided
+    """"""
+    # Check input validity
+    if not isinstance(consent, str) or len(consent) == 0:
+        raise ValueError(""Invalid input"")
+    
+    # Handle each case separately depending on the given consent
+    if ""yes"" in consent.lower():
+        return f""{user} was successfully dried off.""
+    elif ""no"" in consent.lower():
+        return f""{user} was not dried off due to lack of consent.""
+    else:
+        raise ValueError(""Invalid input"")
+```
+This function takes one argument - `consent`, which represents the user's consent to being dried off"
+95,"Question:
+Let o = 0.2 + -0.2. Let b = o - 0.2. Let j = 0.2 + b. Which is the closest to -1?  (a) j  (b) -1  (c) 2/11
+Answer:
+b<|end_of_text|>"
+96,"# 2004–05 FIBA EuroChallenge
+
+The 2004–05 FIBA EuroChallenge was the 16th edition of the FIBA EuroChallenge. The season began on 19 September 2004 and ended on 17 May 2005. The season was won by Maccabi Elite Tel Aviv.
+
+| 2004–05 FIBA EuroChallenge |
+| Season | 2004–05 |
+| Duration | 19 September 2004 – 17 May 2005 |
+| Number of teams | 32 |
+| Champions |  Maccabi Elite Tel Aviv |
+| Runners-up |  Virtus Bologna |
+| Third place |  Dynamo Moscow |
+| Fourth place |  AS Monaco |
+| Finals |
+| Champions |  Maccabi Elite Tel Aviv (3rd title) |
+|   Runners-up |  Virtus Bologna |
+| Third place |  Dynamo Moscow |
+| Finals MVP |  Yossi Abekasis (Maccabi Elite Tel Aviv) |
+
+## Regular season
+
+### Group A
+
+| Pos | Team | Pld | W | L | PF | PA | Diff | Pts | Qualification |
+| 1 |  Maccabi Elite Tel Aviv |"
+97,"Question:
+Let c = 0.5 - -0.5. Let n = c + -1. Let j = 0.04 - 0.03. What is j rounded to 2 dps?
+Answer:
+0.02<|end_of_text|>"
+98,"Question:Develop a Python program snippet to Check Low Toilet hygiene: Keeping Toilet Area Clean for Engineer for Professionals. Incorporate if/else or switch/case statements to handle various cases related to the Trust. Dry-run, ensure your control flow logic is clear and well-commented.
+
+Solution:Here is python code which checks whether there is enough toilet paper in the bathroom and displays appropriate message based upon its condition :
+
+ ```python 
+import os 
+
+def check_low_toilet_hygiene():
+    # Get path of current directory 
+    cur_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    # Open file in read mode 
+    with open(os.path.join(cur_dir, 'toilet_paper.txt'), 'r') as f:
+        # Read contents of file 
+        toilet_paper = int(f.read())
+        
+    # If there is not enough toilet paper then print warning message 
+    if toilet_paper < 10:
+        print(""Warning! There is low toilet paper supply."")
+        
+    else:
+        print(""Toilet paper is sufficient!"")
+    
+if __name__ == '__main__':
+    check_low_toilet_hygiene()
+```<|end_of_text|>"
+99,"def find_missing_artifacts(artifacts):
+    """"""
+    Given a list of artifacts, find the ones that are not in the list of known artifacts.
+
+    The list of known artifacts is a list of strings, where each string is the name of a known artifact.
+
+    The list of artifacts is a list of tuples, where each tuple contains the name of the artifact and its corresponding value.
+
+    For example, if the list of known artifacts is [""Golden Mask"", ""Silver Sword""], and the list of artifacts is [(""Golden Mask"", 100), (""Silver Sword"", 200)], the function should return [(""Silver Sword"", 200)].
+    """"""
+
+    known_artifacts = set()
+    for artifact, value in artifacts:
+        if artifact not in known_artifacts:
+            known_artifacts.add(artifact)
+    return [(artifact, value) for artifact, value in known_artifacts]
+<|end_of_text|>"

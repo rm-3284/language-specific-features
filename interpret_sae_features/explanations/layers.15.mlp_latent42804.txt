@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily morphemes, syllables, or short word fragments in Thai and English, often marking key semantic units such as nouns, verbs, locations, or grammatical particles. These segments frequently appear at the boundaries of words or phrases, and are important for identifying meaning, structure, or named entities within multilingual or code-mixed text."

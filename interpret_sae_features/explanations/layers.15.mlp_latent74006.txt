@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly prefixes, roots, or stems within Portuguese words, often marking the beginning or core of nouns, verbs, or adjectives, and are frequently associated with technical, formal, or compound terms. These segments are crucial for word formation and meaning, especially in morphologically rich contexts."

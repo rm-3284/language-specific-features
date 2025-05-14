@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily single Hindi characters or short morphemes that function as grammatical markers, case endings, or parts of compound words, often appearing at word boundaries or within inflected forms, indicating their importance in the structure and meaning of Hindi sentences."

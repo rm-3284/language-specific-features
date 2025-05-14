@@ -1,0 +1,644 @@
+seed,generated_text
+0,"Question:Write a Python code snippet to Determine Low Hygiene in shared und bathrooms: Proper Toilet und Handwaschmaschinen zu benutzen. Implemente die Funktion in einem Python-Code, der mit dem Programm ""Python"" arbeitet. Implemente die Funktion in einem Python-Code, der mit dem Programm ""Python"" arbeitet.
+Python Code, um zu bestimmen, ob es eine hygienereiche Toilette und eine handtücherbereitete Dusche ist
+import os
+os.system(""cls"")
+print(""Dieses Programm wird eine Entscheidung über eine hygienereiche Toilette und eine handtücherbereitete Dusche in einem Wohnhaus oder in einer Wohnung fällt. Die Entscheidung wird in einer Datei ""und"" ""und"" ""e"" und ""e"" ""und"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" ""e"" """
+1,"Question:
+Let d = 0.03 + -0.13. Let z = 0.02 + d. Let b = -0.01 + z. What is b rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+2,"Question:
+Let q = -3.4 - -3. Let m = 0.2 - q. Let w = -0.2 + m. Which is the closest to 0?  (a) w  (b) 3  (c) -1
+Answer:
+a<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Let k = -0.04 - g. Let m = -0.06 + k. What is m rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>"
+4,"Question:
+Let v = -0.02 - -0.02. Let m = 0.03 + v. Let g = m + -0.3. What is g rounded to 2 decimal places?
+Answer:
+-0.1<|end_of_text|>"
+5,"Question:
+Let z = 0.09 - 0.09. Let g = 0.04 - z. Let b = 0.06 + g. What is b rounded to 2 decimal places?
+Answer:
+-0.04<|end_of_text|>"
+6,"def calculate_bridge_length(bridge_length, bridge_width, bridge_height, water_depth):
+    """"""
+    Calculate the length of a bridge by adding the bridge length, bridge width, and bridge height.
+    The bridge height is added to the bridge length, so the bridge length is always the same.
+    The bridge width is added to the bridge length, so the bridge length is always the same.
+    The bridge height is added to the bridge length, so the bridge length is always the same.
+    The bridge length is always the same.
+    """"""
+    return bridge_length + bridge_width + bridge_height + water_depth
+
+<|end_of_text|>"
+7,"# 2.1: The Basic Postulates of Quantum Mechanics
+
+## Introduction
+
+The goal of this lecture is to explain the basic principles of quantum mechanics. Quantum mechanics is an important theory of modern physics, which is used to explain all of the physical phenomena in the subatomic and in the macroscopic world. The basic postulates of quantum mechanics are the principles of the wave mechanics, the principles of the quantummechanik, the principles of the statistical und quantummechanik, the principles of the quantentheorie und der quantenmechanik. The quantummechanik is the mathematical basis of the quantentheorie und der quantenmechanik. It is also the basis of the quantenmechanik. The quantenmechanik is the mathematical basis of the quantentheorie und der quantenmechanik. It is also the basis of the quantenmechanik.
+
+The quantentheorie und der quantenmechanik is the mathematical basis of the quantentheorie und der quantenmechanik. It is also the basis of the quantentheorie und der quantenmechanik. It is also the basis of the quantentheorie und der quantenmechanik. It"
+8,"Question:Develop a Python program snippet to Check High Hand hygiene: Cleaning Hands Before Touching Own Face for Engineer for Professionals. Incorporate if/else oder switch/case. Bitte beachte, dass die Sprüche nicht zu alt oder zu alt. Das ist ein Problem, wenn man nur an die Sprüche und nicht an die Bedingungen und das Ziel. Die Entscheidung, wie man mit den Sprüchen umgehen, ist nicht einfach. Im Folgenden werden einige Beispiele für die Entscheidung gezeigt.<|end_of_text|>"
+9,"Question:
+Let k = -0.1 - -0.1. Let p = 0.1 + 0. Let d = 0.4 - p. What is the nearest to k in d, 1/2, -2?
+Answer:
+d<|end_of_text|>"
+10,"Question:Create a Java Script snippet that Determines Extreme Hygiene: Hand Hygiene mit einem App und Handseelschutz mit einem Handseelschutzmittel. Implemente diese Regeln in ein Anwendung und verfuege sie als HTML-Code in ein HTML-Formular. Die Anwendung sollte eine Benutzerkennung, eine Passwortverwaltung und eine Verwaltung von Passwort und Benutzerkennung umfassen. Verwende JavaScript, HTML und CSS.
+```
+<!doctype HTML>
+<html>
+    <head>
+        <title>JavaScript, HTML, CSS</title>
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+            }
+.container {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+    </head>
+    <body>
+        <div class=""container"">
+            <h1>JavaScript, HTML, CSS</h1>
+            <p>JavaScript, HTML, CSS</p>
+            <p>JavaScript, HTML, CSS</p>
+            <p>JavaScript, HTML, CSS</p>
+            <p>JavaScript, HTML, CSS</p>
+            <p>JavaScript, HTML,"
+11,"Question: A 4-year-old boy has a history of a mild stroke. Which of the following is the best way to prevent a stroke?
+A. Atenzio, 100 mg, 3 × täglich
+B. Atenzio, 200 mg, 3 × täglich
+C. Atenzio, 200 mg, 3 × täglich
+D. Atenzio, 200 mg, 2 × täglich
+Answer: A<|end_of_text|>"
+12,"Question:
+Let r = 0.5 + -0.4. Let f = 0.3 - r. Let z = -0.3 - f. What is the nearest to z in -2, 0.1, -2/3?
+Answer:
+0.1<|end_of_text|>"
+13,"Question:
+Let h = -0.1 + 0.1. Let w = 0.1 + h. Let x = 0.6 - w. What is x rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>"
+14,"Question:Design a C# - Programm, um eine Windows-Programm mit einer einfachen Dateinamenverwaltung zu erstellen. Die Datei sollte eine einfachen Inhalte enthalten, wie die Namen der Dateien. Die Datei sollte eine einfache Datei-Verwaltung mit einer einfachen Datei-Verwaltung verfügen. Die Datei sollte auch eine einfache Datei-Verwaltung mit einer einfachen Datei-Verwaltung verfügen.
+<|end_of_text|>"
+15,"Question:
+Let y = -0.01 - 0.1. Let m = -0.06 - -0.1. Let u = y - m. Round u to one dp.
+Answer:
+0<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.04. Let b = 0.01 + j. Let l = -0.07 - b. What is l rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>"
+17,"Question:
+Let u = 0.2 - 0.1. Let h = 0.3 + u. Let c = h - 0.1. What is c rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - -0.2. Let u = -2.8 + y. Let c = u - -3.1. What is c rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>"
+19,"Question:Build a Java module snippet that Checks Extreme Flossreinigung: Entfernen Schleim aus Mund und Zähnen mit Hilfe von Mikrostrahlen. Implemente diese in eine Java-App.
+```
+public class CheckFlosseReinigung {
+    public static void main(String[] args) {
+        // TODO: Implementiert
+    }
+}
+```
+```
+public class CheckFlosseReinigung {
+    public static void main(String[] args) {
+        // TODO: Implementiert
+    }
+}
+```
+```
+public class CheckFlosseReinigung {
+    public static void main(String[] args) {
+        // TODO: Implementiert
+    }
+}
+```
+```
+public class CheckFlosseReinigung {
+    public static void main(String[] args) {
+        // TODO: Implementiert
+    }
+}
+```
+```
+public class CheckFlosseReinigung {
+    public static void main(String[] args) {
+        // TODO: Implementiert
+    }
+}
+```
+```
+public class CheckFlosseReinigung {
+    public static void main(String[] args) {
+        // TODO: Implementiert
+    }
+}
+```
+```
+public class CheckFlos"
+20,"Question:Build a TypeScript module snippet that Transforms High Handwashing und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund ist, und Gesund"
+21,"Question:
+Let g = -0.1 + -1.9. Let y = 1.1 + g. Let k = 0.3 + y. What is k rounded to 1 dp?
+Answer:
+-0.2<|end_of_text|>"
+22,"Question: Which of the following is a common cause of Acute Myeloid Leukämie?
+A. Transfusions
+B. Rauschen
+C. Diphtherie
+D. Infektion
+Answer: A<|end_of_text|>"
+23,"Question: Which of the following is not a feature of atherosclerosis?
+A. Hyperlipidemia
+B. Hyperglycemia
+C. Hyperinsulin
+D. Hypercoagulation
+Answer: C<|end_of_text|>"
+24,"Question:Write a C# code snippet to Transform Low Hand hygiene in der medizinischen Versorgung: Patienten und Angehörige. Beispiele: Patienten, die aufgrund von Infizierungen oder Krankenhausbesuch eine Verwarnung erhielt, müssen die Handhygiene anhand des Patienten- und Angehörigen-Handels an der Behandlungspflicht betreffenden Ansteckungsgefährlichkeiten und der Verletzungsgefährlichkeit und die entsprechenden Anweisungen beachten. In diesem Fall ist die Verwarnung nicht als Verwarnung zu betrachten, wenn der Patient nicht mit der Ansteckungsgefährlichkeit und der Verletzungsgefährlichkeit in Verbindung zu bringen ist. In diesem Fall ist die Verwarnung als Verwarnung zu betrachten, wenn der Patient mit der Ansteckungsgefährlichkeit und der Verletzungsgefährlichkeit in Verbindung zu bringen ist. In diesem Fall ist die Verwarnung als Verwarnung zu betrachten, wenn der Patient mit der Ansteckungsgefährlichkeit und der Verletzungsgefährlichkeit in Verbindung zu bringen"
+25,"# H. P. B. Schlag
+
+H. P. B. Schlag ist ein deutscher Buchhändler, der seit 1994 in der Dörfchenstadt Schlag (Möhring, Landkreis Oberfranken) in Oberfranken, Bayern, tätig ist. Der Buchhändler ist Mitglied der Deutschen Buchhändler- und Verlagsvereinigung und verfügt über eine 600 m² große Verlags- und Bücherei, in der über 10.000 Bücher und Medien angeboten werden. Der Buchhändler betreut über 100.000 Kunden im gesamten Buchhandel. Der H. P. B. Schlag ist ein Mitglied der Buchhändler- und Verlagsvereinigung (BVV). 
+
+## Geschichte
+
+H. P. B. Schlag wurde 1994 in Schlag, einem Ortsteil der Gemeinde Möhring im Landkreis Oberfranken, gegründet. Das Geschäft befindet sich in der Dörfchenstadt Schlag, die nach einer 1993 erfolgten Verwaltungseinheit zur Stadt Möhring wurde"
+26,"Question:
+Let b = -4.1 + -0.9. Let d = b - -4.6. Let p = -1.4 + d. What is p rounded to zero decimal places?
+Answer:
+-2<|end_of_text|>"
+27,"Question:Develop a Python program snippet to Transform Low Hygiene in der Haushalts- und Bettwäsche: Reinigung und Pflege bei der Haushalts- und Bettwäsche nach den Empfehlungen des Hygiene- und Reinigungsschutzes. Implemente verschiedene Möglichkeiten, um die Reinigung und Pflege der Haushalts- und Bettwäsche zu verbessern. Lasse deinen Code de einerseits von der Seite der Haushalts- und Bettwäsche, anderseits von der Seite des Hygiene- und Reinigungsschutzes abhängen. Implementiere die relevanten Methoden und Funktionen, um eine optimale Hygiene bei der Haushalts- und Bettwäsche zu gewährleisten. Lasse deinen Code durch die Nutzung von Python, der Programmiersprache, abhängig von der jeweiligen Zielgruppe. Lasse deinen Code de einerseits von der Seite der Haushalts- und Bettwäsche, anderseits von der Seite des Hygiene- und Reinigungsschutzes abhängen. Implementiere die relevanten Methoden und Funktionen,"
+28,"Question:
+Let n = 0.05 - 0.05. Let c = 0.2 - n. Let r = -0.3 - c. What is r rounded to 1 dp?
+Answer:
+-0.2<|end_of_text|>"
+29,Question:Write a Julia code snippet to Update Low Flosszähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Zähne Z
+30,"Question:
+Let y = -0.02 - -0.17. Let s = y - 0.07. Let u = s - -0.4. What is u rounded to 1 dp?
+Answer:
+0.3<|end_of_text|>"
+31,"Question:
+Let m = -1.07 - -1. Let q = m + 0.03. Let n = 0.04 - q. What is n rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>"
+32,"Question:
+Let i = 0.002 - -0.038. Let z = 0.06 + i. Let g = z + -0.06. What is g rounded to 3 decimal places?
+Answer:
+0<|end_of_text|>"
+33,"def analyze_data(data):
+    """"""
+    This function takes a list of data points and performs a series of
+    calculations on them. The data points are stored in a list, where each
+    element is a tuple of the form (x, y, z). The function should return a
+    dictionary with the following keys:
+    - ""mean"": The mean value of the data points
+    - ""std"": The standard deviation of the data points
+    - ""skewness"": The skewness of the data points
+    - ""kurtosis"": The kurtosis of the data points
+    """"""
+    # Your code here
+
+if __name__ == ""__main__"":
+    data = [(1, 2, 3), (4, 5, 6), (7, 8, 9)]
+    analyze_data(data)
+<|end_of_text|>"
+34,"Question: Which of the following is not a feature of an acute inflammation?
+A. Anatomie
+B. Hyperthermie
+C. Hyperleber
+D. Hyperleber
+Answer: C<|end_of_text|>"
+35,"Question:
+What is 0.2 take away 0.2?
+Answer:
+0<|end_of_text|>"
+36,"Question:
+Let u = 0.6 + -0.6. Let r = 0.1 + -0.3. Let z = r - u. What is z rounded to 1 dp?
+Answer:
+0.2<|end_of_text|>"
+37,"# 1996 U.S. Open
+
+Die 1996 U.S. Open, auch die 1996. U.S. Open, war ein Großturnier im Tennis, das vom 21. bis 27. Juli 1996 in New York stattfand. Die Turnierbezeichnung lautete: „AT&T U.S. Open“. Die Turnierspruchung erfolgte im New Yorker U.S. Open Plaza. Die Turnierspruchung war das 13. Turnier im dritten, im dritten und im vierten Jahr in New York, die Turnierbezeichnung lautete: „New York Open“. Die Turnierbezeichnung lautete: „New York Open“. Es war das 22. Turnier der ATP, die 10. Turnier der Damen in der Weltspielzeit und der 3. Turnier der Weltmeisterschaft in New York. Das Turnier fand auf dem U.S. Open Plaza in New York statt. Die Turnierbezeichnung lautete: „New York Open“. Die Turnierbezeichnung lautete: „New York Open“. Das Turnier fand auf dem U.S. Open Plaza in New York statt.
+
+|  U.S"
+38,"Question:
+What is the common denominator of 33/10 and 89/10?
+Answer:
+10<|end_of_text|>"
+39,"Question:
+Let c = -0.12 + -0.18. Let k = -0.28 + c. Let n = 0.2 + k. What is n rounded to one dp?
+Answer:
+0.3<|end_of_text|>"
+40,"# St. Martin (Lauter, Oberhausen)
+
+St. Martin ist eine evangelische Kirche in Lauter, einem Ortsteil von Oberhausen im Kreisverband Lauter im Landkreis Lauter. Die Kirche gehört zur Evangelischen Kirche im Rhein-Ahmelbund. 
+
+## Geschichte
+
+Die Kirche wurde 1885/86 erbaut. Das Kirchlein ist ein eingeschossiger, rechteckiger, massiver Fachwerkbau, der im Osten mit einem gedeckten, zweieckigen, flach geneigten, schmäleren, eingezogenen und leicht abgewalmten Achteck angefügt ist. Der Anbau wurde 1886/87 mit einem, im Osten liegenden, zweieckigen, flach geneigten, schmäleren, eingezogenen und leicht abgewalmten Achteck angefügt. Die eingestellten, schmäleren, eingefassten, flach geneigten, schmäleren, eingefassten, flach geneigten, schmäleren, eingefassten,"
+41,"Question:
+Let a = -1.1 + 0.7. Let j = -2.2 + a. Let h = -0.2 - j. What is h rounded to 1 dp?
+Answer:
+-0.2<|end_of_text|>"
+42,"Question:
+Let l = 0.13 - 0.1. Let z = -0.3 + l. Let n = -0.3 + z. What is n rounded to zero dps?
+Answer:
+-1<|end_of_text|>"
+43,"Question:
+Let k = -0.2 + 0.2. Let w = -0.2 - k. Let d = -0.1 - w. What is d rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>"
+44,"Question:
+Let k = -2.1 + 2. Let s = 0.1 - k. Let y = 1.4 - s. What is y rounded to one dp?
+Answer:
+1<|end_of_text|>"
+45,"Question:
+Let g = 0.02 + 0.02. Let d = g - 0.2. Let v = -0.1 - -0.3. What is the closest to 0.1 in d, v, -2?
+Answer:
+v<|end_of_text|>"
+46,"Question:Build a Java program that uses the Math class to compute the sum of the first n positive integers, where n is an input. Your program should use a for loop to iterate over the first n positive integers, and should use the sum() method of the Math class to compute the sum.
+
+Solution:Here is some sample java code which uses the Math class to compute the sum of the first n positive integers:
+
+    public class MathSum {
+    
+    public static void main(String[] args) {
+    
+        // Get the input from the user
+        Scanner scanner = new Scanner(System.in);
+        
+        // Read the input
+        System.out.println(""Bitte geben Sie die Anzahl n ein:"");
+        int n = scanner.nextInt();
+        
+        // Erstellen einer Variablen, welche die Summe der ersten n positiven Zahlen
+        int sum = 0;
+        
+        // Iteration über die erste n positiven Zahlen
+        for (int i = 1; i <= n; i++) {
+            sum += i;
+        }
+        
+        // Ausgeben der Summe
+        System.out.println(""Die Summe der ersten "" + n + "" positiven Zahlen beträgt: "" + sum);
+    
+    }
+    
+}
+In"
+47,"# Achtung, Doktor!
+
+Achtung, Doktor! (engl. „Dr. M. K. und die Klinik auf der anderen Seite“) ist eine 1977 erschienene Romanfassung des gleichnamigen Fernseh- und Kinofilms, die 1999 im Rahmen einer Verfilmung des Romans von 1988 durch die Deutsche Film- und Medien-Gesellschaft (DFG) neu aufgeführt wurde. Die Geschichte ist die deutsche Version der englischen Erstfassung von 1977. In den 1980er Jahren wurden zahlreiche deutsche und internationale Fassungen aufgeführt, unter anderem die 1999 erfolgte deutsche Erstfassung. In der englischen Fassung wird die Verfilmung als Achtung, Doktor! bezeichnet.
+
+## Handlung
+
+Der deutsche Doktor M. K. ist ein bekannter und beliebter Arzt. In der Klinik auf der anderen Seite ist seine Kollegin die Ärztin Dr. M. K. und die Patientin die Frau M. K. Die beiden sind ein Paar und verbringen ihre Freizeit gemeinsam. Die K"
+48,"Question:Build a Java program that reads a file of numbers and prints the sum of all the numbers in the file. If the file contains no numbers, print an appropriate message.
+Solution:Here is a simple program in Java, which reads a file of numbers and prints the sum of all the numbers in the file. If the file contains no numbers, it prints an appropriate message.<|end_of_text|>"
+49,"Question:Create a Java Script snippet that Transforms High Handwashing und Hygienepflege: Waschmittel und Seifen für die Handseiten von Personen, die mit einer Infizierung infiziert sind, die durch eine Krankheit oder eine Operation erkrankt sind. Diese Infektionen sind: Infections, die durch Krankheit oder Operation erkrankt sind. Diese Infektionen sind: Infections, die durch Krankheit oder Operation erkrankt sind.
+Die Infektionen sind: Infections, die durch Krankheit oder Operation erkrankt sind. Diese Infektionen sind: Infections, die durch Krankheit oder Operation erkrankt sind. Diese Infektionen sind: Infections, die durch Krankheit oder Operation erkrankt sind. Diese Infektionen sind: Infections, die durch Krankheit oder Operation erkrankt sind. Diese Infektionen sind: Infections, die durch Krankheit oder Operation erkrankt sind. Diese Infektionen sind: Infections, die durch Krankheit oder Operation erkrankt sind. Diese Infektionen sind: Infections, die durch Krankheit oder Operation erkrankt sind"
+50,"Question:
+Let g = -0.2 + 0.2. Let z = -0.2 + 0.5. Let l = 0.5 + z. What is the closest to g in l, 1/4, -2/3?
+Answer:
+l<|end_of_text|>"
+51,"Question:
+Let w = -0.002 + 0.1. Let z = -0.102 - w. Let n = -0.2 + z. Round n to 1 dp.
+Answer:
+-0.1<|end_of_text|>"
+52,"def create_new_list(list):
+    """"""Create a new list by appending the elements of the input list in reverse order.""""""
+    new_list = []
+    for i in range(len(list) - 1, -1, -1):
+        new_list.append(list[i])
+    return new_list
+<|end_of_text|>"
+53,"Question:
+What is prob of picking 1 g, 1 y, and 1 r when three letters picked without replacement from {y: 2, r: 2, g: 1}?
+Answer:
+2/5<|end_of_text|>"
+54,"Question:Develop a Python program snippet to Transform Low Flossgewaswurzel. Implement if/else oder switch/case und fachsprachlich korrekte Schreibweisen. Test und optimieren deines Programms. Implemente fachsprachliche Korrekthe, Test und Optimierung deines Programms. Implemente fachsprachliche Korrekthe, Test und Optimierung deines Programms.
+Question:Develop a Python program, which will transform low flossgewaswurzel. Implement if/else oder switch/case und fachsprachlich korrekte Schreibweisen. Test und optimieren deines Programms. Implement fachsprachliche Korrekthe, Test und Optimierung deines Programms.<|end_of_text|>"
+55,"def count_primes(n):
+    """"""
+    Given a positive integer n, return the number of prime numbers less than or equal to n.
+    """"""
+    # Initialize a list to store the prime numbers
+    prime_numbers = []
+
+    # Iterate over the numbers from 2 to n
+    for i in range(2, n+1):
+        # Check, ob der Präzis ist n, ist n auch ein Primzahl
+        if i % 2 == 0:
+            # Wenn der Präzis ist, und n auch ein Primzahl, ist der Zehner teilbar
+            if i % 10 == 0:
+                # Wenn der Zehner teilbar ist, ist der Zehner teilbar
+                if i % 100 == 0:
+                    # Wenn der Zehner teilbar ist, ist der Zehner teilbar
+                    if i % 1000 == 0:
+                        # Wenn der Zehner teilbar ist, ist der Zehner teilbar
+                        if i % 10000 == 0:
+                            # Wenn der Zehner teilbar ist, ist der Zehner teilbar
+                            prime_numbers.append(i)
+    return len(prime_numbers)
+"
+56,"Question:
+What is the common denominator of 11/8 and 103/24?
+Answer:
+24<|end_of_text|>"
+57,"Question:
+Let w = -0.1 + 0.3. Let b = -0.4 + 0.3. Let f = -0.2 - b. What is the smallest value in f, w, 0?
+Answer:
+f<|end_of_text|>"
+58,"def create_new_rock_type(rock_type, new_rock_type):
+    """"""
+    Create a new rock type by adding a new rock to the existing rock type.
+    The new rock must be added in the correct order, starting from the beginning of the rock type.
+    """"""
+    # Your code here
+    new_rock = ""New Rock""
+    if new_rock_type in rock_type:
+        return rock_type
+    else:
+        return rock_type + [new_rock]
+
+<|end_of_text|>"
+59,"def find_dog_owners(dog_names, dog_owners):
+    """"""
+    Find all dog owners who have a dog with the name ""Max"".
+
+    :param dog_names: The list of dog names
+    :param dog_owners: The list of dog owners
+    :return: A list of all dog owners who have a dog with the name ""Max""
+    """"""
+    max_dog = ""Max""
+    max_dog_owners = []
+    for dog in dog_names:
+        if dog == max_dog:
+            for owner in dog_owners:
+                if owner == ""Max"":
+                    max_dog_owners.append(owner)
+    return max_dog_owners
+<|end_of_text|>"
+60,"Question:
+Let h = -0.2 + 0.2. Let z = -0.7 + h. Let u = -0.4 + z. What is u rounded to one dp?
+Answer:
+-0.1<|end_of_text|>"
+61,"Question:
+Let l = -7.9 + 8. Let s = -0.1 + l. Let h = -0.1 - s. What is the smallest value in h, 0.5, 0?
+Answer:
+0<|end_of_text|>"
+62,"Question:
+Let f = -0.4 - -0.4. Let a = -0.7 + 0.7. What is the closest to f in 0.1, -0.2, a?
+Answer:
+a<|end_of_text|>"
+63,"Question:
+What is the common denominator of -79/8 and 61/16?
+Answer:
+16<|end_of_text|>"
+64,"Question:
+Let q = -0.2 + 0.2. Let b = -1.1 + q. Let l = -0.2 + 0.2. Which is the closest to l?  (a) 0.2  (b) 1/3  (c) b
+Answer:
+a<|end_of_text|>"
+65,"Question:
+Let h = -0.2 - -0.2. Let p = 0.1 - h. Let j = -0.1 - p. What is the smallest value in -5, j, 1/6?
+Answer:
+-5<|end_of_text|>"
+66,"Question:Create a Python script snippet that Checks Low Flossing: Correct Flossing Technique for Analysis for Beginners. Use if/else oder die Schleifung. Implemente eine Variante mit Klassentrennung, die eine Kombination aus Klassentrennung und Schleifung erfordert. Implemente eine Variante mit Klassentrennung, die eine Kombination aus Schleifung und Klassentrennung erfordert. Implemente eine Variante mit Klassentrennung, die eine Kombination aus Schleifung und Klassentrennung erfordert. Implemente eine Variante mit Klassentrennung, die eine Kombination aus Klassentrennung, Schleifung und Klassentrennung erfordert. Implemente eine Variante mit Klassentrennung, die eine Kombination aus Klassentrennung, Schleifung, Klassentrennung und Schleifung erfordert.
+```
+# Check Low Flossing: Correct Flossing Technique for Analysis for Beginners
+# mit if/else oder die Schleifung
+# implemente eine Variante mit Klassentrennung,"
+67,Question:Create a Python script snippet that Determines High Hand hygiene in undisturbed undisturbed water. Implement appropriate if/else or switch/case statements undisturbed undisturbed water. Use of variables is optional. The program should use the following input: - Wasserstärke (in Millivolt) - Wasserdruck (in Millibar) - Temperatur (in Grad Celsius) - Wasserqualität (in Schritt) - Wasserfarbe (in Schritt) - Wasserhäufigkeit (in Millimeter) - Wasserstau (in Millimeter) - Wasserdruck (in Millibar) - Wasserhöhe (in Millimeter) - Wasserhäufigkeit (in Millimeter) - Wasserstau (in Millimeter) - Wasserhöhe (in Millimeter) - Wasserstau (in Millimeter) - Wasserhöhe (in Millimeter) - Wasserhäufigkeit (in Millimeter) - Wasserstau (in Millimeter) - Wasserhöhe (in Millimeter) - Wasserhäufigkeit (in Millimeter) - Wasserstau (in Millimeter) - Wasserhöhe (in Millimeter) - Wasserhäufigkeit (in Mill
+68,"Question:
+What is 3.9 minus -0.1?
+Answer:
+4.0<|end_of_text|>"
+69,"Question:
+Let i = -0.1 + 0.3. Let a = 0.2 + i. Let m = -1.7 - a. What is m rounded to the nearest integer?
+Answer:
+-2<|end_of_text|>"
+70,"Question: Which of the following is a cause of neonatal hyperchloremia
+A. Hypercholinergie
+B. Hyperglycemia
+C. Hyperammonie
+D. Hyperkalcium
+Answer: C<|end_of_text|>"
+71,"Question:
+Let l = 0.3 - 0.4. Let r = -0.3 - l. Let g = 0.4 - r. What is g rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>"
+72,"Question:
+Let m = -0.4 + 0.4. Let d = 0.02 + -0.08. Let h = d - m. What is h rounded to 1 dp?
+Answer:
+-0.2<|end_of_text|>"
+73,"def create_fashion_collection(fashion_items, color, size):
+    """"""
+    Creates a fashion collection of fashion items in a specific color and size.
+
+    Args:
+        fashion_items: A list of fashion items, e.g. ['T-Shirt', 'Blazer', 'Skirt']
+        color: The desired color of the fashion items
+        size: The desired size of the fashion items
+
+    Returns:
+        A list of fashion items in the desired color and size
+    """"""
+    fashion_collection = []
+    for fashion_item in fashion_items:
+        if fashion_item in color:
+            fashion_collection.append(fashion_item)
+    return fashion_collection
+<|end_of_text|>"
+74,"def slice_and_ternary(my_list):
+    """"""
+    Given a list of strings, return a new list with only the strings that start with 'a' or 'e'.
+    Use a ternary operator to check the first character of each string.
+    Use slicing to get only the first character of each string.
+    """"""
+    return [s for s in my_list if s[0] in 'ae']
+<|end_of_text|>"
+75,"Question:Create a C# Script und place in die ""Spiel"" f. die ""Lehre"".<|end_of_text|>"
+76,"Question:
+Let y = 0.1 - -0.1. Let d = -0.4 + y. Let g = -1.2 + d. What is g rounded to 1 dp?
+Answer:
+-0.3<|end_of_text|>"
+77,"def create_astronomical_data(planet, position, time):
+    """"""Create a list of astronomical data for a given planet, position, and time.
+    
+    The list should contain the following data:
+    - The planet's name
+    - The position of the planet in its orbit
+    - The time of the observation
+    - The distance to the planet in kilometers
+    - The brightness of the planet in magnitudes
+    - The wavelength of the light emitted by the planet in nanometers
+    - The color of the light emitted by the planet in the RGB color space
+    - The intensity of the light emitted by the planet in the CIE-Ca-Mb-Cha color space
+    - The temperature of the planet in Kelvin
+    - The atmosphere of the planet
+    - The surface of the planet
+    - The landmass of the planet
+    - The ocean of the planet
+    - The air of the planet
+    - The vegetation of the planet
+    - The animal life of the planet
+    - The human population of the planet
+    - The political system of the planet
+    - The religion of the planet
+    - The economy of the planet
+    - The trade of the planet
+   "
+78,"Question: Which of the following is not a feature of the 'D' undulation?
+A. Rupture of the uterine fundus
+B. Rupture of the uterine myom
+C. Rupture of the uterine muscul
+D. Rupture of the uterine myom
+Answer: C<|end_of_text|>"
+79,"Question:
+Let n = 0.023 - 0.223. Let f = n - -0.2. Let u = -0.1 + f. What is u rounded to one decimal place?
+Answer:
+-0.2<|end_of_text|>"
+80,"Question:
+What is the next term in 12, 24, 36, 48, 60, 72?
+Answer:
+84<|end_of_text|>"
+81,"Question:
+Let h = -2.6 - -2.5. Let k = 0.2 - h. Let p = -0.1 - k. What is p rounded to zero decimal places?
+Answer:
+0<|end_of_text|>"
+82,"Question:
+Let u = -0.06 - 0.04. Let v = u + 0.09. Let k = -0.09 + v. Round k to one dp.
+Answer:
+-0.1<|end_of_text|>"
+83,"Question:
+What is the third biggest value in -1, 1, -2/3?
+Answer:
+-1<|end_of_text|>"
+84,"def update_undiscounted_items(inventory, update_values):
+    """"""
+    Updates the inventory with new values.
+
+    :param inventory: The inventory.
+    :param update_values: The new values.
+    """"""
+    for item in inventory:
+        for update in update_values:
+            item.update(update)
+<|end_of_text|>"
+85,"def modify_list(my_list):
+    """"""Modify the elements in the list by adding a prefix to each element.
+    
+    The prefix should be a string that is formed by concatenating the current element with the previous element.
+    
+    The list should be modified in place.
+    
+    Example:
+    >>> my_list = ['a', 'b', 'c', 'd']
+    >>> modify_list(my_list)
+    ['a', 'ab', 'abc', 'abcd']
+    
+    Hint: Use the `+` operator to concatenate strings.
+    
+    Hintergrund: In der Programmierung sind viele Fälle, in denen man eine Liste mit Stringen verfassen muss. Die Liste kann dabei mit einer Variante auf eine Liste mit Zeichenkombinationen umgewandelt werden. Hier werden diese Zeichenkombinationen dann mit der Methode `str.join` zusammengefasst.
+    
+    """"""
+    for i in range(len(my_list)):
+        my_list[i] = my_list[i] + str(my_list[i - 1])
+    return my_list
+<|end_of_text|>"
+86,"Question:Build a Python module snippet that Determines High Hygiene in shared und die Wohnung: Mit und ohne Wohnungsmiete. Implemente eine einfache und effiziente Lösung, die alle Anforderungen erfügt. Implemente eine einfach und effiziente Lösung, die alle Anforderungen erfügt.
+Solution:Implemente eine einfache und effiziente Lösung, die alle Anforderungen erfügt.
+Implemente eine einfache und effiziente Lösung, die alle Anforderungen erfügt.<|end_of_text|>"
+87,"Question:Create a Python script snippet that Displays Extreme Online Shopping: Payment Processing for Engineer for Beginners. Use if/else oder switch/case und implemente eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die eine Variante, die"
+88,"Question:
+Let w = 0.1 - -0.2. Let s = -0.1 + w. Let m = -0.01 + s. What is m rounded to one dp?
+Answer:
+-0.2<|end_of_text|>"
+89,"Question:
+Let n = -0.6 - 0.4. Let m = 0.6 - n. Let d = 1.1 + m. What is d rounded to one dp?
+Answer:
+2<|end_of_text|>"
+90,"def add_to_set(set, element):
+    """"""Add an element to a set""""""
+    if element in set:
+        return set
+    else:
+        return set.add(element)
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 20 is divided by 1?
+Answer:
+0<|end_of_text|>"
+92,"Question:
+Let s = 2.2 - 2. Let g = 0.3 + -0.2. Let l = s + g. What is l rounded to one dp?
+Answer:
+-0.1<|end_of_text|>"
+93,"Question:
+Let i = 0.001 - -1.999. Let j = 0.1 + i. Let f = -0.9 + 0.9. Which is the nearest to j?  (a) f  (b) -1/5  (c) 0
+Answer:
+a<|end_of_text|>"
+94,"Question:Build a Go program that reads a list of numbers from a file, sorts them in ascending order, and writes the sorted list to a file. Use the `std` package.
+<|end_of_text|>"
+95,"Question:
+Let h = 0.2 + 1.8. Let b = 0.8 - h. Let j = 0.2 + b. Round j to 0 decimal places.
+Answer:
+0<|end_of_text|>"
+96,"# 2003–04 in der Schweiz
+
+Dieser Artikel gibt einen Überblick über die in der Schweiz ab 2003 abgehandelten Themen.
+
+## Politik
+
+### Staats- und Regierungswahlen
+
+* 13. und 14. Juni 2003: Staats- und Regierungswahlen
+
+### Politik in den Kantone
+
+* 14. und 15. Juni 2003: Staats- und Regierungswahlen in den Kantonen
+
+### Politik in der Schweiz
+
+* 12. und 13. Oktober 2003: Staats- und Regierungswahlen in der Schweiz
+
+### Schweiz in Europa
+
+* 1. und 2. März 2004: EU-Verfassungskonstituierende Wahlen
+
+### Öffentliches Leben
+
+* 30. Oktober 2003: Schweizerische Staatsverfassung
+
+## Sport
+
+* 2003: Olympische Spiele in Athen
+* 2003: Schweizer Meister im Ski-Abfahrt
+* 2003: Schweizer Meister im Ski-Rennlauf
+* 2003: Schweizer Me"
+97,"Question:
+Let c = 0.5 - -0.3. Let u = c + -0.8. Let v = 0.5 + u. What is v rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>"
+98,"Question:Develop a Java program snippet to Check Low Flossed: Oral Hygiene für Erwachsene und Kinder. Implemente Verwirklichung von Konfigurationen wie ""Die Flosse ist sauber"" und ""Die Zähne sind sauber"". Erstelle eine Klassen, die die Konfigurationen implementiert und implementiere die Konfiguration ""Die Zähne sind sauber"". Implementiere die Konfiguration ""Die Flosse ist sauber"". Implementiere die Konfiguration ""Die Zähne sind sauber"" und ""Die Flosse ist sauber"". Implementiere die Konfiguration ""Die Zähne sind sauber"" und ""Die Flosse ist sauber"". Implementiere die Konfiguration ""Die Zähne sind sauber"" und ""Die Flosse ist sauber"".
+<|end_of_text|>"
+99,"def add_to_set(my_set, new_elements):
+    """"""
+    Adds new_elements to my_set.
+    The new_elements are added in the order they appear in new_elements.
+    """"""
+    for element in new_elements:
+        if element not in my_set:
+            my_set.add(element)
+
+<|end_of_text|>"

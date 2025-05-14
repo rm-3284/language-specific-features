@@ -1,0 +1,1 @@
+"The highlighted tokens frequently mark Turkish grammatical suffixes, numerals, time expressions (years, months, days), quantifiers, and common function words. These patterns are typical in Turkish text for expressing dates, quantities, durations, and grammatical relationships."

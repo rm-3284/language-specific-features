@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly German morphemes, word stems, and grammatical endings, often marking inflections, compounds, or function words. These tokens frequently appear at the boundaries of words or phrases, indicating their importance for understanding German syntax, morphology, and sentence structure."

@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily function words, particles, and common connectors in Chinese (and some in Vietnamese and English), such as grammatical markers, conjunctions, and punctuation. These tokens are essential for sentence structure, logical flow, and connecting clauses or ideas, often marking relationships, transitions, or the boundaries of statements."

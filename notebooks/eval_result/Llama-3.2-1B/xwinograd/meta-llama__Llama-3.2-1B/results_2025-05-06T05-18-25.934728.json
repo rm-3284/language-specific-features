@@ -1,0 +1,343 @@
+{
+  "results": {
+    "xwinograd": {
+      "acc,none": 0.7199370645088784,
+      "acc_stderr,none": 0.006571695244334514,
+      "alias": "xwinograd"
+    },
+    "xwinograd_en": {
+      "alias": " - xwinograd_en",
+      "acc,none": 0.8129032258064516,
+      "acc_stderr,none": 0.008089739024656687
+    },
+    "xwinograd_fr": {
+      "alias": " - xwinograd_fr",
+      "acc,none": 0.6506024096385542,
+      "acc_stderr,none": 0.05265151356440471
+    },
+    "xwinograd_jp": {
+      "alias": " - xwinograd_jp",
+      "acc,none": 0.5995828988529719,
+      "acc_stderr,none": 0.01583062906365963
+    },
+    "xwinograd_pt": {
+      "alias": " - xwinograd_pt",
+      "acc,none": 0.6615969581749049,
+      "acc_stderr,none": 0.02923231657730264
+    },
+    "xwinograd_ru": {
+      "alias": " - xwinograd_ru",
+      "acc,none": 0.5968253968253968,
+      "acc_stderr,none": 0.02768250629102932
+    },
+    "xwinograd_zh": {
+      "alias": " - xwinograd_zh",
+      "acc,none": 0.6388888888888888,
+      "acc_stderr,none": 0.021416529751730983
+    }
+  },
+  "groups": {
+    "xwinograd": {
+      "acc,none": 0.7199370645088784,
+      "acc_stderr,none": 0.006571695244334514,
+      "alias": "xwinograd"
+    }
+  },
+  "group_subtasks": {
+    "xwinograd": [
+      "xwinograd_en",
+      "xwinograd_fr",
+      "xwinograd_jp",
+      "xwinograd_pt",
+      "xwinograd_ru",
+      "xwinograd_zh"
+    ]
+  },
+  "configs": {
+    "xwinograd_en": {
+      "task": "xwinograd_en",
+      "dataset_path": "Muennighoff/xwinograd",
+      "dataset_name": "en",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc: Dict) -> int:\n    \"\"\"\n    Return index of the correct choice.\n\n    Note: We are using the \"multiple input\" mode of the multiple-choice\n        output-type, which means we use different contexts with the same target\n        for the different choices, rather than the same context and different targets.\n    \"\"\"\n    answer_to_num = {\"1\": 0, \"2\": 1}\n    return answer_to_num[doc[\"answer\"]]\n",
+      "doc_to_target": "def doc_to_target(doc: Dict) -> str:\n    \"\"\"\n    Return the target completion.\n\n    Note that this does not depend on the correct choice as we are using\n    \"multiple input\" mode.\n    \"\"\"\n    idx = doc[\"sentence\"].index(\"_\") + 1\n    return doc[\"sentence\"][idx:].strip()\n",
+      "doc_to_choice": "def doc_to_choice(doc: Dict) -> List[str]:\n    \"\"\"Return the choices that will be used as contexts in \"multiple input\" mode.\"\"\"\n    idx = doc[\"sentence\"].index(\"_\")\n    options = [doc[\"option1\"], doc[\"option2\"]]\n    return [doc[\"sentence\"][:idx] + opt for opt in options]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "xwinograd_fr": {
+      "task": "xwinograd_fr",
+      "dataset_path": "Muennighoff/xwinograd",
+      "dataset_name": "fr",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc: Dict) -> int:\n    \"\"\"\n    Return index of the correct choice.\n\n    Note: We are using the \"multiple input\" mode of the multiple-choice\n        output-type, which means we use different contexts with the same target\n        for the different choices, rather than the same context and different targets.\n    \"\"\"\n    answer_to_num = {\"1\": 0, \"2\": 1}\n    return answer_to_num[doc[\"answer\"]]\n",
+      "doc_to_target": "def doc_to_target(doc: Dict) -> str:\n    \"\"\"\n    Return the target completion.\n\n    Note that this does not depend on the correct choice as we are using\n    \"multiple input\" mode.\n    \"\"\"\n    idx = doc[\"sentence\"].index(\"_\") + 1\n    return doc[\"sentence\"][idx:].strip()\n",
+      "doc_to_choice": "def doc_to_choice(doc: Dict) -> List[str]:\n    \"\"\"Return the choices that will be used as contexts in \"multiple input\" mode.\"\"\"\n    idx = doc[\"sentence\"].index(\"_\")\n    options = [doc[\"option1\"], doc[\"option2\"]]\n    return [doc[\"sentence\"][:idx] + opt for opt in options]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "xwinograd_jp": {
+      "task": "xwinograd_jp",
+      "dataset_path": "Muennighoff/xwinograd",
+      "dataset_name": "jp",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc: Dict) -> int:\n    \"\"\"\n    Return index of the correct choice.\n\n    Note: We are using the \"multiple input\" mode of the multiple-choice\n        output-type, which means we use different contexts with the same target\n        for the different choices, rather than the same context and different targets.\n    \"\"\"\n    answer_to_num = {\"1\": 0, \"2\": 1}\n    return answer_to_num[doc[\"answer\"]]\n",
+      "doc_to_target": "def doc_to_target(doc: Dict) -> str:\n    \"\"\"\n    Return the target completion.\n\n    Note that this does not depend on the correct choice as we are using\n    \"multiple input\" mode.\n    \"\"\"\n    idx = doc[\"sentence\"].index(\"_\") + 1\n    return doc[\"sentence\"][idx:].strip()\n",
+      "doc_to_choice": "def doc_to_choice(doc: Dict) -> List[str]:\n    \"\"\"Return the choices that will be used as contexts in \"multiple input\" mode.\"\"\"\n    idx = doc[\"sentence\"].index(\"_\")\n    options = [doc[\"option1\"], doc[\"option2\"]]\n    return [doc[\"sentence\"][:idx] + opt for opt in options]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "xwinograd_pt": {
+      "task": "xwinograd_pt",
+      "dataset_path": "Muennighoff/xwinograd",
+      "dataset_name": "pt",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc: Dict) -> int:\n    \"\"\"\n    Return index of the correct choice.\n\n    Note: We are using the \"multiple input\" mode of the multiple-choice\n        output-type, which means we use different contexts with the same target\n        for the different choices, rather than the same context and different targets.\n    \"\"\"\n    answer_to_num = {\"1\": 0, \"2\": 1}\n    return answer_to_num[doc[\"answer\"]]\n",
+      "doc_to_target": "def doc_to_target(doc: Dict) -> str:\n    \"\"\"\n    Return the target completion.\n\n    Note that this does not depend on the correct choice as we are using\n    \"multiple input\" mode.\n    \"\"\"\n    idx = doc[\"sentence\"].index(\"_\") + 1\n    return doc[\"sentence\"][idx:].strip()\n",
+      "doc_to_choice": "def doc_to_choice(doc: Dict) -> List[str]:\n    \"\"\"Return the choices that will be used as contexts in \"multiple input\" mode.\"\"\"\n    idx = doc[\"sentence\"].index(\"_\")\n    options = [doc[\"option1\"], doc[\"option2\"]]\n    return [doc[\"sentence\"][:idx] + opt for opt in options]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "xwinograd_ru": {
+      "task": "xwinograd_ru",
+      "dataset_path": "Muennighoff/xwinograd",
+      "dataset_name": "ru",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc: Dict) -> int:\n    \"\"\"\n    Return index of the correct choice.\n\n    Note: We are using the \"multiple input\" mode of the multiple-choice\n        output-type, which means we use different contexts with the same target\n        for the different choices, rather than the same context and different targets.\n    \"\"\"\n    answer_to_num = {\"1\": 0, \"2\": 1}\n    return answer_to_num[doc[\"answer\"]]\n",
+      "doc_to_target": "def doc_to_target(doc: Dict) -> str:\n    \"\"\"\n    Return the target completion.\n\n    Note that this does not depend on the correct choice as we are using\n    \"multiple input\" mode.\n    \"\"\"\n    idx = doc[\"sentence\"].index(\"_\") + 1\n    return doc[\"sentence\"][idx:].strip()\n",
+      "doc_to_choice": "def doc_to_choice(doc: Dict) -> List[str]:\n    \"\"\"Return the choices that will be used as contexts in \"multiple input\" mode.\"\"\"\n    idx = doc[\"sentence\"].index(\"_\")\n    options = [doc[\"option1\"], doc[\"option2\"]]\n    return [doc[\"sentence\"][:idx] + opt for opt in options]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    },
+    "xwinograd_zh": {
+      "task": "xwinograd_zh",
+      "dataset_path": "Muennighoff/xwinograd",
+      "dataset_name": "zh",
+      "test_split": "test",
+      "doc_to_text": "def doc_to_text(doc: Dict) -> int:\n    \"\"\"\n    Return index of the correct choice.\n\n    Note: We are using the \"multiple input\" mode of the multiple-choice\n        output-type, which means we use different contexts with the same target\n        for the different choices, rather than the same context and different targets.\n    \"\"\"\n    answer_to_num = {\"1\": 0, \"2\": 1}\n    return answer_to_num[doc[\"answer\"]]\n",
+      "doc_to_target": "def doc_to_target(doc: Dict) -> str:\n    \"\"\"\n    Return the target completion.\n\n    Note that this does not depend on the correct choice as we are using\n    \"multiple input\" mode.\n    \"\"\"\n    idx = doc[\"sentence\"].index(\"_\") + 1\n    return doc[\"sentence\"][idx:].strip()\n",
+      "doc_to_choice": "def doc_to_choice(doc: Dict) -> List[str]:\n    \"\"\"Return the choices that will be used as contexts in \"multiple input\" mode.\"\"\"\n    idx = doc[\"sentence\"].index(\"_\")\n    options = [doc[\"option1\"], doc[\"option2\"]]\n    return [doc[\"sentence\"][:idx] + opt for opt in options]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0
+      }
+    }
+  },
+  "versions": {
+    "xwinograd": 1.0,
+    "xwinograd_en": 1.0,
+    "xwinograd_fr": 1.0,
+    "xwinograd_jp": 1.0,
+    "xwinograd_pt": 1.0,
+    "xwinograd_ru": 1.0,
+    "xwinograd_zh": 1.0
+  },
+  "n-shot": {
+    "xwinograd_en": 0,
+    "xwinograd_fr": 0,
+    "xwinograd_jp": 0,
+    "xwinograd_pt": 0,
+    "xwinograd_ru": 0,
+    "xwinograd_zh": 0
+  },
+  "higher_is_better": {
+    "xwinograd": {
+      "acc": true
+    },
+    "xwinograd_en": {
+      "acc": true
+    },
+    "xwinograd_fr": {
+      "acc": true
+    },
+    "xwinograd_jp": {
+      "acc": true
+    },
+    "xwinograd_pt": {
+      "acc": true
+    },
+    "xwinograd_ru": {
+      "acc": true
+    },
+    "xwinograd_zh": {
+      "acc": true
+    }
+  },
+  "n-samples": {
+    "xwinograd_en": {
+      "original": 2325,
+      "effective": 2325
+    },
+    "xwinograd_fr": {
+      "original": 83,
+      "effective": 83
+    },
+    "xwinograd_jp": {
+      "original": 959,
+      "effective": 959
+    },
+    "xwinograd_pt": {
+      "original": 263,
+      "effective": 263
+    },
+    "xwinograd_ru": {
+      "original": 315,
+      "effective": 315
+    },
+    "xwinograd_zh": {
+      "original": 504,
+      "effective": 504
+    }
+  },
+  "config": {
+    "model": "hf",
+    "model_args": "pretrained=meta-llama/Llama-3.2-1B",
+    "model_num_parameters": 1235814400,
+    "model_dtype": "torch.bfloat16",
+    "model_revision": "main",
+    "model_sha": "4e20de362430cd3b72f300e6b0f18e50e7166e08",
+    "batch_size": "auto:4",
+    "batch_sizes": [
+      64,
+      64,
+      64,
+      64,
+      64
+    ],
+    "device": "cuda:0",
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": null,
+    "random_seed": 0,
+    "numpy_seed": 1234,
+    "torch_seed": 1234,
+    "fewshot_seed": 1234
+  },
+  "git_hash": null,
+  "date": 1746508537.5846791,
+  "pretty_env_info": "PyTorch version: 2.5.1+cu121\nIs debug build: False\nCUDA used to build PyTorch: 12.1\nROCM used to build PyTorch: N/A\n\nOS: Ubuntu 22.04.3 LTS (x86_64)\nGCC version: (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0\nClang version: 14.0.0-1ubuntu1.1\nCMake version: version 3.31.2\nLibc version: glibc-2.35\n\nPython version: 3.10.12 (main, Nov  6 2024, 20:22:13) [GCC 11.4.0] (64-bit runtime)\nPython platform: Linux-6.6.56+-x86_64-with-glibc2.35\nIs CUDA available: True\nCUDA runtime version: 12.2.140\nCUDA_MODULE_LOADING set to: LAZY\nGPU models and configuration: GPU 0: Tesla P100-PCIE-16GB\nNvidia driver version: 560.35.03\ncuDNN version: Probably one of the following:\n/usr/lib/x86_64-linux-gnu/libcudnn.so.8.9.6\n/usr/lib/x86_64-linux-gnu/libcudnn_adv_infer.so.8.9.6\n/usr/lib/x86_64-linux-gnu/libcudnn_adv_train.so.8.9.6\n/usr/lib/x86_64-linux-gnu/libcudnn_cnn_infer.so.8.9.6\n/usr/lib/x86_64-linux-gnu/libcudnn_cnn_train.so.8.9.6\n/usr/lib/x86_64-linux-gnu/libcudnn_ops_infer.so.8.9.6\n/usr/lib/x86_64-linux-gnu/libcudnn_ops_train.so.8.9.6\nHIP runtime version: N/A\nMIOpen runtime version: N/A\nIs XNNPACK available: True\n\nCPU:\nArchitecture:                         x86_64\nCPU op-mode(s):                       32-bit, 64-bit\nAddress sizes:                        46 bits physical, 48 bits virtual\nByte Order:                           Little Endian\nCPU(s):                               4\nOn-line CPU(s) list:                  0-3\nVendor ID:                            GenuineIntel\nModel name:                           Intel(R) Xeon(R) CPU @ 2.00GHz\nCPU family:                           6\nModel:                                85\nThread(s) per core:                   2\nCore(s) per socket:                   2\nSocket(s):                            1\nStepping:                             3\nBogoMIPS:                             4000.36\nFlags:                                fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ss ht syscall nx pdpe1gb rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq ssse3 fma cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm abm 3dnowprefetch pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm mpx avx512f avx512dq rdseed adx smap clflushopt clwb avx512cd avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves arat md_clear arch_capabilities\nHypervisor vendor:                    KVM\nVirtualization type:                  full\nL1d cache:                            64 KiB (2 instances)\nL1i cache:                            64 KiB (2 instances)\nL2 cache:                             2 MiB (2 instances)\nL3 cache:                             38.5 MiB (1 instance)\nNUMA node(s):                         1\nNUMA node0 CPU(s):                    0-3\nVulnerability Gather data sampling:   Not affected\nVulnerability Itlb multihit:          Not affected\nVulnerability L1tf:                   Mitigation; PTE Inversion\nVulnerability Mds:                    Mitigation; Clear CPU buffers; SMT Host state unknown\nVulnerability Meltdown:               Mitigation; PTI\nVulnerability Mmio stale data:        Vulnerable: Clear CPU buffers attempted, no microcode; SMT Host state unknown\nVulnerability Reg file data sampling: Not affected\nVulnerability Retbleed:               Mitigation; IBRS\nVulnerability Spec rstack overflow:   Not affected\nVulnerability Spec store bypass:      Mitigation; Speculative Store Bypass disabled via prctl\nVulnerability Spectre v1:             Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:             Mitigation; IBRS; IBPB conditional; STIBP conditional; RSB filling; PBRSB-eIBRS Not affected; BHI SW loop, KVM SW loop\nVulnerability Srbds:                  Not affected\nVulnerability Tsx async abort:        Mitigation; Clear CPU buffers; SMT Host state unknown\n\nVersions of relevant libraries:\n[pip3] mypy-extensions==1.0.0\n[pip3] numpy==1.26.4\n[pip3] onnx==1.17.0\n[pip3] optree==0.13.1\n[pip3] pytorch-ignite==0.5.1\n[pip3] pytorch-lightning==2.5.0.post0\n[pip3] torch==2.5.1+cu121\n[pip3] torchaudio==2.5.1+cu121\n[pip3] torchinfo==1.8.0\n[pip3] torchmetrics==1.6.1\n[pip3] torchsummary==1.5.1\n[pip3] torchtune==0.5.0\n[pip3] torchvision==0.20.1+cu121\n[conda] Could not collect",
+  "transformers_version": "4.47.0",
+  "upper_git_hash": null,
+  "tokenizer_pad_token": [
+    "<|end_of_text|>",
+    "128001"
+  ],
+  "tokenizer_eos_token": [
+    "<|end_of_text|>",
+    "128001"
+  ],
+  "tokenizer_bos_token": [
+    "<|begin_of_text|>",
+    "128000"
+  ],
+  "eot_token_id": 128001,
+  "max_length": 131072,
+  "task_hashes": {
+    "xwinograd_en": "42cb2f07b7aae334312f3eb2ee2a14d96111bbbd5018d4a0154faa976e344d68",
+    "xwinograd_fr": "796ddd3db0a1636668d092d8b6eb95054a1795f302a04115c2dbbee3cfb3d2a8",
+    "xwinograd_jp": "88b3e446ad833e7d2c1db98e79eaaaabd89d3b837c1a162704501e02fdc9cbac",
+    "xwinograd_pt": "069dd06b01dd588056f28e02dbf5bacba8ec50d6aa3324614bfed9249e57d1d0",
+    "xwinograd_ru": "069b5544534b70a07b9a7ca9ef7ecc0c3636ac61396c010342889e611083541d",
+    "xwinograd_zh": "760303825d7f932e7417c25bf2e717f43579760df5c77abafe3464a287ced9c5"
+  },
+  "model_source": "hf",
+  "model_name": "meta-llama/Llama-3.2-1B",
+  "model_name_sanitized": "meta-llama__Llama-3.2-1B",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": false,
+  "chat_template": null,
+  "chat_template_sha": null,
+  "start_time": 572.996792824,
+  "end_time": 751.019763882,
+  "total_evaluation_time_seconds": "178.02297105800005"
+}

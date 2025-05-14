@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly Turkish suffixes, inflections, and root morphemes, especially those involving \"gö\", \"kü\", \"ü\", \"ö\", and other vowel-rich or agglutinative elements, often marking grammatical features like possession, plurality, tense, or forming nouns and adjectives. These tokens are central to Turkish word formation and meaning."

@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly prefixes, suffixes, and stems within Portuguese words, often marking grammatical or semantic units such as verb conjugations, noun/adjective endings, or morphemes that contribute to word formation and meaning. These segments frequently appear at the boundaries of words or as part of longer, morphologically complex terms."

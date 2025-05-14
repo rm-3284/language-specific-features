@@ -1,0 +1,1072 @@
+seed,generated_text
+0,"Question:Write a Python code snippet to Display Extreme Nail care: Trimming Nails for Decision Making for Experts. Consider the Trust and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is some sample python code which implements the logic described above:
+
+    # Define input variables
+    age = 18
+    height = 170 cm
+    weight = 65 kg
+    
+    # Calculate BMI
+    bmi = weight / (height * height)
+    
+    # Define thresholds for each condition
+    low_bmi_threshold = 18.5
+    normal_bmi_threshold = 25
+    high_bmi_threshold = 30
+    
+    # Determine whether user is underweight, normal weight or overweight based on their BMI value
+    if bmi < low_bmi_threshold:
+        print(""User is considered underweight"")
+        
+    elif bmi >= low_bmi_threshold and bmi <= normal_bmi_threshold:
+        print(""User has a normal weight"")
+        
+    else:
+        print(""User is considered obese"")
+        
+     # Implement decision making process based on user’s age and gender 
+    if age >= 65:
+        print(""Due"
+1,"Question:
+Let d = 0.03 + -0.13. Let z = 0.02 + d. Let u = -0.01 + z. What is u rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+2,"Question:
+Let q = -3.4 - -3. Let m = 0.2 - q. Let w = m + -0.2. Which is the closest to 0?  (a) w  (b) 3  (c) -1
+Answer:
+a<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Let w = g - 0.3. Let m = -0.3 + w. Which is the closest to 0.1?  (a) m  (b) -0.3  (c) 2/9
+Answer:
+c<|end_of_text|>"
+4,"Question:
+Let v = -0.02 - -0.02. Let t = 0.03 + v. Let o = t + -0.08. Which is the nearest to 2/3?  (a) -1  (b) o  (c) -1/4
+Answer:
+b<|end_of_text|>"
+5,"Question:Develop a Ruby program snippet to Determine Extreme Handwashing technique: Using Hand Sanitizer for Analysis for Beginners. Incorporate if/else or switch/case statements to handle various cases related to the Consent. Dry-run, ensure your control flow logic is clear and well-commented.
+
+Solution:Here’s a possible implementation of this requirement in Ruby:
+
+1. Define constants for each step in the hand washing process (e.g., wet hands, apply soap, lather, rinse, dry hands)
+2. Prompt the user to enter their name and age
+3. Check whether the user has provided valid consent by asking them to confirm they agree to participate in the study. If they do not agree, exit the program.
+4. Ask the user how often they use hand sanitizers and store this value in a variable called `frequency`.
+5. Based on the frequency of hand sanitizing, determine which extreme hand washing technique to use (if any). For instance, if the user uses hand sanitizers more than twice a day, they may choose to use the “extreme” method. Otherwise, they might opt for the “regular” method.
+6. Implement an if statement to check whether the user has used any of the following techniques before:
+    * Regular hand washing"
+6,"def count_even_numbers(numbers):
+    """"""Write a function that takes a list of numbers as an argument and returns the number of even numbers in the list. Use a for loop and the count() method to solve this exercise.""""""
+    count = 0
+    for num in numbers:
+        if num % 2 == 0:
+            count += 1
+    return count
+<|end_of_text|>"
+7,"# 2.º Regimiento de Artillería
+
+El 2.º Regimiento de Artillería (2.º RA) es una unidad de artillería del Ejército de Tierra de España, perteneciente al Ejército del Aire. 
+
+## Historia
+
+El 2.º Regimiento de Artillería fue creado el 18 de marzo de 1936, y se formó en el cuartel general de la 1.ª División del Ejército del Aire, con el número de 2.º Regimiento de Artillería, en el municipio de Alcalá de Henares, de la provincia de Madrid.
+
+El 2.º Regimiento de Artillería fue uno de los primeros regimientos de artillería en entrar en combate en la Guerra Civil española. El 2.º Regimiento de Artillería fue uno de los regimientos de artillería que participó en la toma de Madrid y la batalla de Arganda, así como en la batalla de Aranda de Duero.
+
+Tras la derrota de la Guerra Civil, el 2.º Regimiento de Artillería fue"
+8,"Question:Develop a Python program snippet to Determine High Hand hygiene outside the home: Cleaning Hands Before Eating for Decision Making for Professionals. Incorporate if/else or switch/case statements to handle various cases related to the Reliability. Dry-run, ensure your control flow logic is clear and well-commented.
+
+Solution:Here is python code which determines high hand hygiene based upon whether someone washes their hands before eating at home or not. The code uses `if` / `elif` conditional statements alongside a dictionary to store different responses depending on user input. Additionally, there is also a default case to provide a general message when no other condition matches. 
+
+```python 
+# Define variables
+hand_washed = False # Variable to store if person washed hands
+response = """" # Variable to store final message
+
+# Prompt user for information
+print(""Please enter 'yes' if the person washed their hands"")
+print(""or 'no' if they did not:"")
+hand_washed = input()
+
+# Check if user answered correctly
+if hand_washed == ""yes"":
+    print(""Great! Now please tell me about their profession"")
+    
+    # Ask additional questions regarding profession 
+    while True:
+        print(""What is their occupation?"")
+        profession = input()
+        
+        if"
+9,"Question:
+Let x = -0.2 - -0.1. Let p = 0.7 - x. Let l = p - 0.1. Which is the nearest to l?  (a) 2  (b) -1  (c) -3
+Answer:
+b<|end_of_text|>"
+10,"Question:Create a Python script snippet that Determines Extreme Nose care: Clearing Nasal Passages for Decision Making for Beginners. Use if/else or switch/case statements to conditionally perform different actions based on the Safety. Dry-run, then include comments that outline the control flow and how you handle different scenarios.
+
+Solution:Here is a python script which determines extreme nose care by clearing nasal passages for decision making for beginners. The script uses `if` / `elif` conditional statements to check whether safety conditions are met before performing specific tasks. A dry run of the script is included at the beginning followed by detailed explanations of the control flow and how each scenario is handled. 
+
+```python 
+# Script Name: Determine_ExtremeNoseCare_ClearNasalPassagesForDecisionMakingBeginners.py
+# Description: A simple script to determine extreme nose care by clearing nasal passages for decision making for beginners.
+# Usage: Simply execute the script and follow the instructions.
+# Requirements: Python 3.x
+# Usage: Simply execute the script and follow the instructions.
+
+
+def clearNasalPassage(safety):
+    """"""This function determines whether extreme nose care is necessary 
+    and performs the appropriate action depending on the given safety level.""""""
+
+    # Define variables
+    action ="
+11,"Question: A 50-year-old man with a history of alcoholism presents with a 2-day history of abdominal pain and vomiting. On physical examination, his temperature is 37.8degC (100.0degF), his blood pressure is 90/60 mm Hg, and his pulse is 110/min. His abdomen is distended, with a palpable spleen and bowel sounds are absent. Laboratory studies show a WBC count of 8,000/mL, and a platelet count of 100,000/mL. Which of the following is the most likely diagnosis?
+A. Acute pancreatitis
+B. Acute alcoholic hepatitis
+C. Acute bacterial peritonitis
+D. Acute viral hepatitis
+Answer: B<|end_of_text|>"
+12,"Question:
+Let r = 0.011 + -0.011000006. Round r to seven dps.
+Answer:
+-0.0000001<|end_of_text|>"
+13,"Question:
+Let h = -0.1 + 0.1. Let w = 0.07 + 0.03. Let y = w - h. Which is the closest to y?  (a) 0.3  (b) -1  (c) 2/9
+Answer:
+c<|end_of_text|>"
+14,"Question:Design a C# function snippet to Calculate High Handling personal items: Caring for Electronics for Decision Making for Experts. Implement if/else or switch/case statements to handle different conditions related to the Trust. Provide detailed comments explaining your control flow and the reasoning behind each decision.
+
+Solution:Here is a possible implementation of this functionality in C#:
+
+    ```c#
+    // Function Name: CalculateHandlingCost
+    // Description: Calculates the handling cost based on the weight and size of the package
+    public static double CalculateHandlingCost(double weight, int size) {
+        double cost = 0;
+    
+        // If the package is under 1 kg, no handling fee applies
+        if (weight <= 1) {
+            return 0;
+        }
+    
+        // Else, calculate the handling cost based on the weight and size of the package
+        else {
+            cost = weight * 0.5 + size * 0.3;
+        }
+    
+        return cost;
+    }
+    
+    ```
+    
+    This function takes two arguments: `weight` (the weight of the package in kilograms) and `size` (the dimension of the package in centimeters). It calculates the handling cost by first checking whether the package is under 1"
+15,"Question:
+Let y = -0.01 - 0.01. Let f = -0.06 - -0.06. Let s = y - f. Which is the nearest to 0?  (a) s  (b) 3/2  (c) -2/15
+Answer:
+c<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.04. Let y = 0.01 + j. Let l = -0.07 - y. Which is the smallest value?  (a) l  (b) -2  (c) 0.3
+Answer:
+b<|end_of_text|>"
+17,"Question:
+Let u = 0.009 - 0.011. Let h = 0.042 + u. Let c = h - 0.0398. What is c rounded to 3 dps?
+Answer:
+-0.001<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3. Let o = 0.2 - y. Let u = 0.1 - o. What is u rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>"
+19,"Question:Build a Java module snippet that Checks Extreme Social Media: Social Media Marketing for Decision Making for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Consent. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here is a possible implementation of this requirement as a java module:
+```java
+import java.util.*;
+public class CheckExtremeSocialMedia {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        System.out.println(""Enter name of social media platform:"");
+        String platform = scan.nextLine();
+
+        // Define array of platforms
+        String[] platforms = {""Facebook"", ""Instagram"", ""Twitter"", ""YouTube""};
+
+        // Prompt user to enter their consent
+        System.out.print(""Do you give permission to use your data? (y/n): "");
+        char consent = scan.next().charAt(0);
+
+        // Use switch statement to check which platform was entered
+        switch (platform) {
+            case platforms[0]:
+                if (consent == 'y') {
+                    System.out.println(""Checking Facebook..."");
+                    System.out.println(""Your account has been verified."");
+                    break;
+                } else {
+                    System.out.println(""Error! Your account has not"
+20,"Question:Build a Python module snippet that Transforms Extreme Transportation: Traffic Congestion for Engineer for Experts. Incorporate if/else or switch/case statements to handle different cases based on the Transparency. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here is python code which implements transforming extreme transportation problem into a form suitable for engineers : 
+
+```python 
+def transform_extreme_transport(data):
+    """"""Transformes given dataset of traffic congestion into one suitable 
+    for engineer use
+    
+    Args:
+        data (DataFrame): DataFrame containing information about 
+            traffic conditions
+        
+    Returns:
+        DataFrame: Transformed dataframe with new columns indicating
+            severity of congestion and probability of occurrence
+    """"""
+
+    # Define list of possible values for'severity' column
+    severities = ['low','medium','high']
+    
+    # Define list of possible values for 'probability' column
+    probabilities = [0.15, 0.3, 0.45]
+    
+    # Create new column'severity' indicating level of congestion
+    data['severity'] = np.where((data['traffic_volume'] > 200000) & 
+                                (data['congested_time'] < 60), 
+                                'high', 
+                               "
+21,"Question:
+Let g = -0.1 + -1.9. Let y = 1.9 + g. Let k = 2.3 + y. Which is the closest to 0.1?  (a) -0.5  (b) k  (c) -2
+Answer:
+a<|end_of_text|>"
+22,"Question: Which of the following is a common cause of anterior wall MI?
+A. Myocardial infarction
+B. Acute aortic dissection
+C. Atherosclerosis
+D. Takotsubo syndrome
+Answer: B<|end_of_text|>"
+23,"Question: Which of the following is not true about the common cold?
+A. It is a viral infection
+B. It is a self-limited infection
+C. It is characterized by nasal obstruction
+D. It is caused by a group of viruses
+Answer: C<|end_of_text|>"
+24,"Question:Write a C++ code snippet to Transform Low Online Shopping: Product Availability for Engineer for Experts. Consider the Ethics and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is some sample code written in C++ that implements product availability checking based on stock levels:
+
+    #include <iostream>
+    #include <string>
+    
+    int main() {
+        std::cout << ""Enter the name of the product: "";
+        std::string prodName;
+        std::cin >> prodName;
+    
+        // Check if the product exists in the database
+        bool found = false;
+        for (auto& [key, value] : db) {
+            if (key == prodName) {
+                found = true;
+                break;
+            }
+        }
+    
+        if (!found) {
+            std::cerr << ""Product not found"" << std::endl;
+            return 1;
+        }
+    
+        // Get the current stock level from the database
+        int stockLevel = db[prodName][""stock""];
+    
+        // Check if there are enough units available
+        if (stockLevel >= 5) {
+            std"
+25,"# Héctor Gómez
+
+Héctor Gómez (Buenos Aires, 25 de julio de 1981) es un exfutbolista argentino. Jugaba de delantero y su último club fue el Club Atlético Huracán de la Primera División de Argentina. Es padre del futbolista argentino Nicolás Gómez.
+
+## Trayectoria
+
+Comenzó su carrera como jugador en el Club Atlético Huracán de la Primera División de Argentina, con el que llegó a disputar 24 partidos en la temporada 2000-01. Tras una temporada en el club, firmó con el Club Atlético Banfield de la Primera División de Argentina. En Banfield, disputó 43 partidos y marcó 3 goles.
+
+En 2005, fichó por el Club Atlético Independiente de la Primera División de Argentina, club con el que disputó 29 partidos y marcó 5 goles.
+
+En 2006, fue cedido al Club Atlético San Lorenzo de Almagro de la Primera División de Argentina, club con el que disputó 25 partidos y marcó "
+26,"Question:
+Let s = -4.25 + 4. Let l = 0.25 + s. Let w = l - -0.15. Which is the closest to w?  (a) -2/9  (b) 1/3  (c) 1
+Answer:
+b<|end_of_text|>"
+27,"Question:Develop a Python program snippet to Transform Extreme Hair care: Conditioning and Moisturizing for Engineer for Beginners. Incorporate if/else or switch/case statements to handle various cases related to the Ethics. Dry-run, ensure your control flow logic is clear and well-commented.
+
+Solution:Here is a python script which implements condition based decision making through `if` statement : 
+
+```python 
+def transform_extreme_haircare(condition):
+    """"""Transform extreme hair care by conditioning and moisturizing based 
+    on user input.""""""
+
+    # Define variables
+    shampoo = ""Yes""
+    conditioner = ""No""
+    oil = ""Yes""
+    
+    # Check condition and set value of variables accordingly
+    if (condition == 'Yes'):
+        shampoo = ""Yes""
+        conditioner = ""No""
+        oil = ""No""
+        
+    elif (condition == 'No'):
+        shampoo = ""No""
+        conditioner = ""Yes""
+        oil = ""Yes""
+        
+     else: 
+        print(""Invalid Input"")
+        
+     return f""{shampoo}, {conditioner}, {oil}""
+
+
+# Driver Code
+print(transform_extreme_haircare('Yes'))
+print(transform_extreme_haircare('No'))
+print(transform_extreme_haircare('Maybe'))
+"
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.2 - t. Let r = -0.3 - c. What is r rounded to 1 decimal place?
+Answer:
+-0.3<|end_of_text|>"
+29,"Question:Write a Julia code snippet to Update Low Fitness: Calorie Tracking for Decision Making for Professionals. Consider the Transparency and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is some sample julia code which implements update low fitness function based on calorie tracking for professionals considering transparency : 
+
+```julia 
+function update_low_fitness(individual::Individual)
+    # dry run 
+    println(""Current individual:"", individual)
+
+    # calculate fitness value 
+    fitness = calculate_fitness(individual)
+    
+    # check if current individual has lower fitness than previous one 
+    if (fitness < previous_fitness)
+        # set new best individual 
+        previous_fitness = fitness 
+
+        # print message indicating change in best individual 
+        println(""New Best Individual: "", individual)
+    end 
+
+    return individual
+end
+```
+
+ In this implementation we first perform a dry run by printing out the current individual being evaluated. Then we calculate the fitness value of the individual using the `calculate_fitness` function. We then compare the current fitness value with the previously stored value (`previous_fitness`). If the current fitness value is lower, we know that our current individual has"
+30,"Question:
+Let y = -0.009 - -0.00900000267. Round y to 7 dps.
+Answer:
+0.0000002<|end_of_text|>"
+31,"Question:
+Let m = -1.07 - -1. Let q = m + 0.03. Let f = 0.04 - q. Which is the nearest to -1/2?  (a) 2/3  (b) 0.4  (c) f
+Answer:
+c<|end_of_text|>"
+32,"Question:
+Let i = 0.002 - -0.003. Let x = 0.009 + i. Let g = x + -0.0095. What is g rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+33,"def analyze_data(data):
+    """"""
+    This function takes in a list of data points and returns a list of the 
+    average values of each data point, as well as the standard deviation of 
+    the data points.
+
+    Args:
+        data (list): A list of data points, where each data point is a 
+                    tuple of the form (x, y).
+
+    Returns:
+        list: A list of the average values of each data point, as well as 
+              the standard deviation of the data points.
+    """"""
+
+    # Initialize variables
+    total = 0
+    count = 0
+    avg = []
+    std = []
+
+    # Loop through each data point
+    for point in data:
+        # Calculate the average value of the data point
+        total += point[0] * point[1]
+        count += 1
+
+        # Calculate the standard deviation of the data points
+        std.append((total / count) ** 0.5)
+
+    # Return the average values and standard deviation of the data points
+    return avg, std
+<|end_of_text|>"
+34,"Question: Which of the following is not a feature of anorexia nervosa?
+A. Amenorrhea
+B. Weight loss
+C. Palpitations
+D. Hypothyroidism
+Answer: B<|end_of_text|>"
+35,"Question:
+What is prob of picking 2 w and 1 e when three letters picked without replacement from {w: 2, e: 1, o: 2, s: 1, n: 1}?
+Answer:
+1/35<|end_of_text|>"
+36,"Question:
+Let o = 0.004 + -0.004000000014. What is o rounded to seven dps?
+Answer:
+-0.0000001<|end_of_text|>"
+37,"# List of members of the Constituent Assembly of Colombia
+
+The Constituent Assembly of Colombia was the highest legislative body of the Republic of Colombia, created by the Constitution of 1886, as well as the first legislative body that was elected by universal suffrage. It was composed of 135 deputies, which included 3 women. The Constitution of 1886 established a system of bicameralism, in which the lower house was the Congress of Colombia, and the upper house was the Senate of Colombia.
+
+The Constituent Assembly of Colombia was formed on 15 February 1886, and it was dissolved on 25 March 1886, when the new Constitution of 1886 was approved. The deputies of the Constituent Assembly were elected by universal suffrage. The deputies were elected in the following provinces:
+
+* Antioquia
+* Cundinamarca
+* La Guajira
+* Magdalena
+* Nariño
+* Norte de Santander
+* Boyacá
+* Tolima
+* Huila
+* Caquetá
+* Cauca
+* Huila
+* Valle del Cauca
+* Cesar
+* Magdalena
+* Antioquia
+* Bolívar
+* Atlántico"
+38,"Question:
+What is the common denominator of 3/10 and 89/10?
+Answer:
+10<|end_of_text|>"
+39,"Question:
+Let t = -0.06 + -0.04. Let x = t - -0.11. Let y = 0.01002 + x. Round y to 5 dps.
+Answer:
+0.00002<|end_of_text|>"
+40,"# 2002-es magyar labdarúgókupa
+
+A 2002-es Magyar Labdarúgókupa, a 58. Magyar Labdarúgókupa (en español: Copa de la República de 2002), fue la 58. edición de la competición. La final se disputó el 15 de mayo de 2002 en el Estadio Santiago Bernabéu de Madrid, en la que el equipo campeón fue el Real Madrid. El campeón se clasificó para la siguiente edición de la Liga de Campeones de la UEFA 2002-2003.
+
+## Partidos
+
+### Segunda fase
+
+Los partidos de la segunda fase se jugaron entre el 23 y el 25 de mayo de 2002, en los siguientes partidos:
+
+* Real Madrid CF v Real Betis: 0-1
+* Real Zaragoza v Atlético de Madrid: 1-0
+* Club Deportivo Tenerife v Real Madrid: 1-0
+* Real Madrid CF v Club Deportivo Tenerife: 2-0
+* Real Betis v Real Zaragoza: 2-"
+41,"Question:
+Let a = -1.1 + 0.7. Let j = -1.2 - a. Let x = j + 0.9. What is x rounded to 1 decimal place?
+Answer:
+1<|end_of_text|>"
+42,"Question:
+Let l = 0.3 - 0.1. Let d = -0.3 + l. Let f = -0.3 - d. What is the closest to f in -0.4, 0.5, -1?
+Answer:
+-0.4<|end_of_text|>"
+43,"Question:
+Let u = -0.0376 - -0.0337. What is u rounded to 2 dps?
+Answer:
+-0.04<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + -2. Let s = 0.1 - o. Let y = 1.4 - s. What is y rounded to one dp?
+Answer:
+1.4<|end_of_text|>"
+45,"Question:
+Let x = 0.02 + 0.02. Let d = 0.15 + x. Let v = -0.1 - d. What is v rounded to 2 decimal places?
+Answer:
+-0.1<|end_of_text|>"
+46,"Question:Build a Java module snippet that Transforms High Handwashing technique: Using Hand Sanitizer for Engineer for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Responsibility. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here is a possible implementation of this requirement in java:
+
+1) First we define our enumerated type which will represent each responsibility level (low, medium, high):
+```java 
+public enum RESPONSIBILITY_LEVEL {
+    LOW, 
+    MEDIUM, 
+    HIGH
+}
+``` 
+2) Then we create a class that represents a hand sanitizer dispenser:
+```java 
+class HandSanitizer {
+    private int quantity;
+    
+    // getter and setter methods omitted for brevity
+}
+``` 
+
+3) Next we define a method that calculates how much money can be saved by using hand sanitizers instead of soap and water:
+```java 
+public double calculateMoneySaved(ResponsibilityLevel responsibility) {
+        double moneySaved = 0;
+
+        switch (responsibility) {
+            case LOW:
+                moneySaved = 50 * quantity;
+                break;
+                
+            case MEDIUM:
+                moneySaved = 75 * quantity;
+                break;
+                
+            case HIGH:
+                moneySaved"
+47,"# Generated by Django 2.2.6 on 2019-10-09 10:34
+
+from django.db import migrations, models
+
+
+class Migration(migrations.Migration):
+
+    dependencies = [
+        ('core', '0002_auto_20191008_1931'),
+    ]
+
+    operations = [
+        migrations.AlterField(
+            model_name='producto',
+            name='imagen',
+            field=models.ImageField(upload_to='productos'),
+        ),
+    ]
+<|end_of_text|>"
+48,"Question:Build a Python module snippet that Updates Low Ear hygiene: Cleaning Outer Ear for Decision Making for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Trust. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here is python code which updates low ear hygiene by cleaning outer ear incorporating `if`/`else` statement to handle different cases depending on user input trust level : 
+
+```python 
+def clean_ear(trust):
+    """"""Update low ear hygiene by cleaning outer ear.""""""
+
+    # Define possible actions based on trust level 
+    actions = {
+         ""low"": [""Wash hands before handling"", ""Use cotton swab""], 
+         ""medium"": [""Use antibacterial solution"", ""Avoid touching eyes""], 
+         ""high"": [""Wear gloves"", ""Use alcohol swab""]
+    }
+    
+    # Check if valid value was entered 
+    if not isinstance(trust, str) or len(trust)!=1: 
+        return ""Invalid input""
+        
+    # Get action based on trust level 
+    action = actions[trust]
+
+    # Print instructions 
+    print(""Instructions:"")
+    for i in range(len(action)):
+        print(""* {}"".format(action[i]))
+
+   "
+49,"Question:Design a Python function snippet to Transform Low Nail care: Moisturizing Hands and Nails for Analysis for Experts. Implement if/else or switch/case statements to handle different conditions related to the Privacy. Provide detailed comments explaining your control flow and the reasoning behind each decision.
+
+Solution:Here is one possible implementation of this function in python:
+
+
+```python 
+def transform_low_nail_care(data):
+    """"""
+    This function transforms low nail care dataset by moisturizing hands and nails 
+    for analysis by experts
+    
+    Parameters:
+        data (DataFrame): The input dataframe containing the raw data
+        
+    Returns:
+        DataFrame: A transformed version of the input dataframe with additional columns
+            -'moisturized_hands' (boolean): Indicates whether the user has applied 
+                moisturizer to their hands
+            -'moisturized_nails' (boolean): Indicates whether the user has applied 
+                moisturizer to their nails
+            
+    Raises:
+        ValueError: If the input dataframe does not contain the required columns
+            
+    Control Flow:
+              |----------------------|
+              | Control Flow        |
+              |----------------------|
+        | If statement         | 
+        | else                  | 
+        | Switch case           | 
+       "
+50,"Question:
+Let g = 0.0124 - -0.0117. Let h = g - 0.123. Let o = h - -0.121. What is o rounded to two dps?
+Answer:
+0.12<|end_of_text|>"
+51,"Question:
+Let w = -0.002 + 0.0020008. What is w rounded to six dps?
+Answer:
+0.000001<|end_of_text|>"
+52,"def create_list_of_squares(n):
+    """"""
+    Create a list of squares of the first n numbers.
+
+    Args:
+        n (int): The number of numbers to square.
+
+    Returns:
+        list: A list of the squares of the first n numbers.
+    """"""
+    return [i**2 for i in range(1, n+1)]
+
+<|end_of_text|>"
+53,"Question:
+What is prob of picking 1 j and 1 y when two letters picked without replacement from yjyjyjyjj?
+Answer:
+6/15<|end_of_text|>"
+54,"Question:Develop a Python program snippet to Calculate Low Flossing: Frequency of Flossing for Analysis for Beginners. Incorporate if/else or switch/case statements to handle various cases related to the Ethics. Dry-run, ensure your control flow logic is clear and well-commented.
+
+Solution:Here's some sample python code which implements low flossing frequency calculation based off of user inputted data:
+
+ ```python 
+# Define variables
+age = int(input(""Enter age: ""))
+gender = str(input(""Enter gender (M/F): "")).upper()
+height = float(input(""Enter height in meters: ""))
+weight = float(input(""Enter weight in kilograms: ""))
+
+# Calculate BMI
+bmi = round((weight / (height * height)), 2)
+
+# Define conditions for different levels of risk
+if bmi < 18.5:
+    print(""Underweight"")
+elif bmi >= 18.5 and bmi <= 24.9:
+    print(""Normal Weight"")
+elif bmi > 24.9 and bmi <= 29.9:
+    print(""Overweight"")
+elif bmi > 29.9:
+    print(""Obese"")
+    
+# Check if user is male or female    
+if gender == ""M"":    
+    # Calculate daily cal"
+55,"def count_unique_elements(my_list):
+    """"""
+    Return the number of unique elements in the list.
+
+    Hint: You can use the built-in function ""set()"" to get the unique elements.
+    """"""
+    unique_elements = set(my_list)
+    return len(unique_elements)
+
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 103/24?
+Answer:
+24<|end_of_text|>"
+57,"Question:
+Let w = -0.0067 + 0.0066971. What is w rounded to 4 dps?
+Answer:
+0.0002<|end_of_text|>"
+58,"def nested_loops_and_indexing(my_list):
+    """"""
+    Write a function that takes a list of integers and returns a new list with the elements of the original list in reverse order, but with the first and last elements removed.
+
+    The function should use nested loops and indexing to solve the problem.
+
+    Example:
+    >>> nested_loops_and_indexing([1, 2, 3, 4, 5])
+    [4, 3, 2, 1]
+    """"""
+    new_list = []
+    for i in range(len(my_list)):
+        if i == 0 or i == len(my_list) - 1:
+            continue
+        new_list.append(my_list[i])
+    return new_list
+<|end_of_text|>"
+59,"Question:
+What is the common denominator of 71/2 and 57/10?
+Answer:
+10<|end_of_text|>"
+60,"Question:
+Let h = -0.046 + 0.0460031. What is h rounded to six dps?
+Answer:
+0.000003<|end_of_text|>"
+61,"Question:
+Let l = -7.7 - -7.9. Let p = -0.3 + l. Let x = -0.2 - p. What is x rounded to 1 decimal place?
+Answer:
+-0.2<|end_of_text|>"
+62,"Question:
+Let g = -0.4 - -0.4. Let a = -0.7 - g. Let z = 0.7 + a. What is z rounded to 1 decimal place?
+Answer:
+1<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.0270214. Round o to 6 decimal places.
+Answer:
+0.000021<|end_of_text|>"
+64,"Question:
+Let q = -0.2 + 0.2. Let l = -1.1 - q. Let v = -0.1 + l. What is v rounded to one decimal place?
+Answer:
+-0.1<|end_of_text|>"
+65,"Question:
+Let c = -0.046 - -0.0460000028. Round c to 7 dps.
+Answer:
+0.0000028<|end_of_text|>"
+66,"Question:Build a Python module snippet that Checks Low Flossing: Choosing Dental Floss for Analysis for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Responsibility. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here is a possible implementation of this requirement in python:
+
+
+```python 
+def check_low_flossing(responsibility):
+    """"""
+    This function checks whether the user has low flossing habits 
+    by analyzing their dental floss usage.
+
+    Args:
+        responsibility (str): The person who uses the dental floss
+    
+    Returns:
+        str: A message indicating whether the user has good or bad 
+        flossing habits.
+        
+    Raises:
+        ValueError: If the input responsibility is not recognized.
+    """"""
+    # Define a dictionary containing the responsibilities and their corresponding messages
+    RESPONSIBILITIES = {
+        ""dentist"": ""Your dentist will provide you with proper instructions on how to floss effectively."",
+        ""hygienist"": ""A hygienist can help you improve your flossing technique and teach you new methods."",
+        ""patient"": ""As a patient, you must follow the recommendations of your dentist regarding flossing.""
+    }
+
+    #"
+67,"Question:Design a Python function snippet to Transform Extreme Finance: Budgeting for Analysis for Beginners. Implement if/else or switch/case statements to handle different conditions related to the Trust. Provide detailed comments explaining your control flow and the reasoning behind each decision.
+
+Solution:Here is a possible implementation of this requirement in python:
+
+
+```python 
+def transform_extreme_finance(df):
+    """"""This function takes as input a dataframe df containing information 
+    about extreme finance transactions and transforms it into a new dataframe 
+    with additional columns based on specific criteria
+    
+    Parameters:
+        df (pandas DataFrame): The input dataframe
+        
+    Returns:
+        pandas DataFrame: A transformed version of the original dataframe
+    """"""
+
+    # Define a list of columns to remove from the dataframe
+    cols_to_remove = [""Unnamed: 0"", ""Date""]
+
+    # Create a new empty dataframe to store the transformed data
+    transformed_df = pd.DataFrame()
+
+    # Loop over each row of the input dataframe
+    for index, row in df.iterrows():
+
+        # Extract the relevant information from the current row
+        transaction_amount = row[""Transaction Amount""]
+        transaction_date = row[""Transaction Date""]
+        trust_name = row[""Trust Name""]
+        
+        # Check whether the transaction was made"
+68,"Question:
+What is 3.9 take away 0.2?
+Answer:
+3.7<|end_of_text|>"
+69,"Question:
+Let i = -0.0461 + 0.04609546. What is i rounded to six dps?
+Answer:
+0.000005<|end_of_text|>"
+70,"Question: Which of the following is the best marker to assess the severity of liver disease?
+A. Bilirubin
+B. AST
+C. ALT
+D. Albumin
+Answer: C<|end_of_text|>"
+71,"Question:
+Let l = 0.021 - 0.0210094. What is l rounded to 6 decimal places?
+Answer:
+-0.000009<|end_of_text|>"
+72,"Question:
+Let m = -0.4 + 0.3. Let d = 0.4 + m. Let z = -0.1 - d. What is z rounded to 1 decimal place?
+Answer:
+-1<|end_of_text|>"
+73,"def create_artwork(artist_name, artwork_title, artwork_description):
+    """"""Create a new artwork and add it to the artist's portfolio.
+    
+    The artwork should be represented as a dictionary with the following keys:
+    - ""title"": The title of the artwork.
+    - ""description"": A brief description of the artwork.
+    - ""medium"": The medium used to create the artwork (e.g. ""painting"", ""sculpture"", etc.).
+    - ""year"": The year the artwork was created.
+    - ""artist"": The name of the artist who created the artwork.
+    - ""price"": The price of the artwork.
+    
+    The artwork should be added to the artist's portfolio, which is a list of dictionaries with the following keys:
+    - ""title"": The title of the artwork.
+    - ""description"": A brief description of the artwork.
+    - ""medium"": The medium used to create the artwork (e.g. ""painting"", ""sculpture"", etc.).
+    - ""year"": The year the artwork was created.
+    - ""artist"": The name of the artist who created the artwork.
+    - ""price"": The price of the artwork.
+    
+    The artist's portfolio should be represented as a"
+74,"def slice_and_dice(my_list, start, end, step):
+    """"""
+    Given a list and a range of indices, return a new list containing the elements
+    at the specified indices, starting from the specified start index and ending
+    at the specified end index. The step parameter determines the increment
+    between each element in the resulting list.
+    """"""
+    new_list = []
+    for i in range(start, end, step):
+        new_list.append(my_list[i])
+    return new_list
+
+<|end_of_text|>"
+75,"Question: A 3-year-old child has an anterior open fracture of the lower end of the femur. Which of the following is the best method to treat the fracture?
+A. Internal fixation
+B. Plastering
+C. External fixation
+D. Bone grafting
+Answer: A<|end_of_text|>"
+76,"Question:
+Let y = 0.008 - -0.004. Let q = -0.012 + y. Let g = -0.0101 - q. Round g to 3 dps.
+Answer:
+-0.009<|end_of_text|>"
+77,"def create_tuple_from_string(string):
+    """"""Create a tuple from a string using the tuple() function.
+    
+    The string should be a comma-separated list of numbers.
+    For example: ""1, 2, 3""
+    The tuple should be created using the tuple() function.
+    """"""
+    numbers = string.split("","")
+    return tuple(int(num) for num in numbers)
+<|end_of_text|>"
+78,"Question: Which of the following is not true about the anatomy of the anterior mediastinum?
+A. Right phrenic nerve is formed by the union of the 4th and 5th cervical nerves
+B. Right phrenic nerve is formed by the union of the 4th and 5th cervical nerves
+C. The right phrenic nerve is formed by the union of the 4th and 5th cervical nerves
+D. The right phrenic nerve is formed by the union of the 4th and 5th cervical nerves
+Answer: A<|end_of_text|>"
+79,"Question:
+Let x = 0.023 - 0.033. Let f = x - -0.01. Let u = f + -0.026. What is u rounded to 2 dps?
+Answer:
+-0.03<|end_of_text|>"
+80,"Question:
+What is the next term in 12, 24, 36, 48, 60, 72?
+Answer:
+84<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.5. Let x = -0.2 - o. Let p = x - -0.4. Which is the nearest to p?  (a) -3  (b) -2/9  (c) -1/4
+Answer:
+b<|end_of_text|>"
+82,"Question:
+Let u = -0.036 - 0.064. Let v = u + 0.09. Let k = -0.09 + v. Round k to one dp.
+Answer:
+0<|end_of_text|>"
+83,"Question:
+Let w = 0.017 - 0.018. Let h = 0.03 + w. Let c = 0.03 + h. Which is the nearest to 2/3?  (a) -1  (b) c  (c) -2
+Answer:
+b<|end_of_text|>"
+84,"def update_medication(medication, new_medication):
+    """"""
+    Write a function that updates the medication dictionary with the new medication.
+    The function should take two arguments: medication, which is a dictionary containing the old medication, and new_medication, which is a dictionary containing the new medication.
+    The function should update the medication dictionary with the new medication, and return the updated dictionary.
+    """"""
+    medication.update(new_medication)
+    return medication
+<|end_of_text|>"
+85,"def modify_tuple_elements(my_tuple):
+    """"""
+    Given a tuple of integers, modify the elements of the tuple using indexing and slicing.
+    The first element of the tuple should be incremented by 1, the second element should be decremented by 1, and the third element should be multiplied by 2.
+    Return the modified tuple.
+    """"""
+    my_tuple[0] += 1
+    my_tuple[1] -= 1
+    my_tuple[2] *= 2
+    return my_tuple
+<|end_of_text|>"
+86,"Question:Build a Python module snippet that Determines Extreme Finance: Loan Calculations for Engineer for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Reliability. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here is a python module snippet that determines extreme finance loan calculations for engineers based on reliability:
+
+
+```python 
+def determine_extreme_finance(reliability):
+    """"""Determine whether a given reliability level indicates 'Extreme Finance' risk
+
+    Args:
+        reliability (float): The reliability score of the loan applicant
+
+    Returns:
+        bool: Whether the provided reliability level indicates 'Extreme Finance' risk
+    """"""
+    
+    # Define conditions for each possible reliability level
+    conditions = {
+                                               # Low reliability
+                                                 [""Very Low"", ""<0.3""]: False, 
+                                                 [""Low"","
+87,"Question:Create a Python script snippet that Displays Extreme Eye hygiene: Cleaning Eyelids for Analysis for Experts. Use if/else or switch/case statements to conditionally perform different actions based on the Transparency. Dry-run, then include comments that outline the control flow and how you handle different scenarios.
+
+Solution:Here is some sample python code which implements conditional logic (using `if`/`elif` statements) to display instructions depending on the level of transparency of the eyelid sample being analyzed:
+
+ ```python 
+# dry run first
+print(""Dry Run:"")
+lid_transparency = ""Transparent"" # set default value
+if lid_transparency == ""Transparent"":
+    print(""Clean eyelid gently with cotton swab moistened with alcohol."")
+elif lid_transparency == ""Translucent"":
+    print(""Wash hands before touching eyes. Gently clean lashes with oil-free makeup remover."")
+elif lid_transparency == ""Oily"":
+    print(""Wash face thoroughly with mild soap and warm water. Avoid rubbing eyes."")
+else: 
+    print(""Invalid input! Please enter 'Transparent', 'Translucent' or 'Oily'."")
+``` 
+
+In this example we start by defining a variable called `lid_transparency` and setting its initial value to `""Transparent""` ("
+88,"Question:
+Let w = 0.1 - -0.2. Let s = -0.1 + w. Let m = -0.1 + s. Which is the closest to m?  (a) 0.1  (b) 2/5  (c) -3
+Answer:
+a<|end_of_text|>"
+89,"Question:
+Let n = -0.031 - 0.005. Let m = 0.0344 + n. Round m to 3 decimal places.
+Answer:
+0.002<|end_of_text|>"
+90,"def add_to_set(set, element):
+    """"""Add an element to a set using the addition assignment operator.
+
+    The set should be updated with the new element, and the function should return the updated set.
+
+    Args:
+        set (set): The set to add the element to.
+        element (object): The element to add to the set.
+
+    Returns:
+        set: The updated set with the new element.
+    """"""
+    set += (element, )
+    return set
+
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 103 is divided by 29?
+Answer:
+26<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 2. Let g = 0.3 + p. Let h = 0.2 + g. What is the smallest value in -2, h, 3?
+Answer:
+-2<|end_of_text|>"
+93,"Question:
+Let i = 0.001 - -1.999. Let j = 0.1 + i. Let f = -0.0000014 + j. Round f to six dps.
+Answer:
+-0.000001<|end_of_text|>"
+94,"Question:Build a Go module snippet that Checks High Regular health check-ups: Preventive Measures for Good Health for Analysis for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Reliability. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here's some sample Go code that implements a function called `checkHealth` which takes a string parameter representing the name of a health condition and returns a boolean value indicating whether the given condition requires regular medical attention (`true`) or not (`false`). The implementation uses an `if`/`else` statement to determine the result based on the value of the `reliability` field in the input JSON object. Note that this is just one possible way to implement this functionality; there may be other approaches that could achieve the same result while following best practices such as using a `switch` statement or defining separate functions for each case.
+```go
+package main
+
+import (
+    ""encoding/json""
+    ""fmt""
+    ""io/ioutil""
+    ""log""
+    ""net/http""
+)
+
+// HealthCondition represents a health condition
+type HealthCondition struct {
+    Name        string    `json:""name""`
+    Description string    `json:""description""`
+    Reliability"
+95,"Question:
+Let o = 0.2 + 1.8. Let w = o - 1. Let t = w + 0.2. What is t rounded to 0 dps?
+Answer:
+3<|end_of_text|>"
+96,"# 2004–05 Fútbol Club Barcelona season
+
+The 2004–05 season was the 108th season of competitive football by FC Barcelona, the club's 98th season in the top flight of Spanish football, and the 110th season in total. The season began on 18 August 2004 and ended on 22 May 2005.
+
+| 2004–05 season |
+| President | Joan Laporta |
+| Head coach | Frank Rikard |
+| Stadium | Camp Nou |
+| La Liga | 2nd |
+| Copa del Rey | Quarterfinals |
+| Supercopa de España | Runners-up |
+| UEFA Champions League | Round of 16 |
+| UEFA Cup | Quarterfinals |
+| Top goalscorer | League: Ronaldinho (17)All: Ronaldinho (20) |
+|  |
+
+FC Barcelona
+
+## Squad
+
+Note: Flags indicate national team as defined under FIFA eligibility rules. Players may hold more than one non-FIFA nationality.
+
+| | No. | Pos.  | Nation | Player |
+| 1 | GK |  ESP | Víctor Valdés |
+| 2 | DF |  ESP | Carles Puyol |
+| 3 | DF"
+97,"Question:
+Let c = 0.5 - -0.3. Let u = c + -0.8. Let v = 0.5 - u. Which is the closest to v?  (a) -1  (b) 0.3  (c) 3
+Answer:
+b<|end_of_text|>"
+98,"Question:Develop a Java program snippet to Check Low Personal Organization: Reminder Notifications for Decision Making for Beginners. Incorporate if/else or switch/case statements to handle various cases related to the Responsibility. Dry-run, ensure your control flow logic is clear and well-commented.
+
+Solution:Here's some sample java code which implements reminder notifications based on personal organization level (beginner, intermediate, advanced):
+
+    public class PersonalOrganization {
+    
+        private int level;
+        private String name;
+    
+        // Constructor
+        public PersonalOrganization(String name) {
+            this.name = name;
+            this.level = 1; // Beginner
+        }
+    
+        // Method to check low personal organization
+        public void checkLowPersonalOrganization() {
+        
+            if (this.level == 1) {
+                System.out.println(""Hello "" + this.name + "", today is "" + Date.today() + "". Do you need help organizing your tasks?"");
+                
+            } else if (this.level == 2) {
+                System.out.println(""Hi "" + this.name + "", how was your day? Did you manage to complete all your tasks?"");
+                
+            } else if (this.level == 3) {
+                System.out.println(""Hey there "" + this.name + ""! How are you doing"
+99,"def psychologist_intersection_exercise(personality_type):
+    """"""
+    You are a psychologist and you have been asked to study the personality types of a group of people. You have been given a list of personality types and you need to write a program that will determine the most common personality type in the group.
+
+    The program should use the ""in"" operator to check if a personality type is in the list of personality types, and if it is, it should print the name of the personality type. If the personality type is not in the list, it should print ""Unknown"".
+
+    The program should also use the ""if-else"" statement to check if the personality type is ""Introvert"" or ""Extrovert"". If it is, it should print ""This person is an introvert or extrovert"".
+
+    The program should also use the ""if-else"" statement to check if the personality type is ""Sensing"" or ""Intuitive"". If it is, it should print ""This person is a sensing or intuitive"".
+
+    The program should also use the ""if-else"" statement to check if the personality type is ""Thinking"" or ""Feeling"". If it is, it should print ""This person is a thinking or feeling"".
+
+    The program"

@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly function words, pronouns, and common connectors in Vietnamese, such as possessive and relational markers, as well as frequently used nouns and adjectives. These tokens often serve to indicate relationships between entities, possession, inclusion, or specification, and are essential for structuring complex noun phrases and clauses."

@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly proper nouns, especially names of people, places, and media titles, often appearing in multiple languages and scripts. These tokens frequently occur in contexts involving legal, journalistic, or entertainment references, and are often accompanied by titles, roles, or institutional affiliations."

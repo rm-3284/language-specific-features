@@ -1,0 +1,1 @@
+"Highly activated tokens are overwhelmingly punctuation marks (especially commas) and whitespace, often appearing at the start of sentences or clauses, and frequently in multilingual contexts, indicating a focus on structural or boundary tokens rather than semantic content."

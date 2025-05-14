@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly Turkish morphemes, suffixes, and proper names, as well as grammatical particles and inflections. There is a focus on word endings, possessive or case suffixes, and named entities, reflecting the agglutinative structure of Turkish and the importance of morphological boundaries and named entity recognition in the language."

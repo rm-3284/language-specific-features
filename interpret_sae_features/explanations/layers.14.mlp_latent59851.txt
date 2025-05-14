@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily Vietnamese nouns, noun phrases, and key modifiers that denote entities, locations, roles, or important actions and attributes within sentences. These tokens often serve as the main subjects, objects, or descriptive elements, and are frequently used to convey core information, context, or relationships in the text."

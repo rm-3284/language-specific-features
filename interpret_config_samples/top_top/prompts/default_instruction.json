@@ -1,0 +1,30 @@
+[
+  {
+    "role": "system",
+    "content": "You are a meticulous AI researcher conducting an important investigation into patterns found in language. Your task is to analyze text and provide an explanation that thoroughly encapsulates possible patterns found in it.\nGuidelines:\n\nYou will be given a list of text examples on which special words are selected and between delimiters like <<this>>. If a sequence of consecutive tokens all are important, the entire sequence of tokens will be contained between delimiters <<just like this>>. How important each token is for the behavior is listed after each example in parentheses.\n\n- Try to produce a concise final description. Simply describe the text latents that are common in the examples, and what patterns you found.\n- If the examples are uninformative, you don't need to mention them. Don't focus on giving examples of important tokens, but try to summarize the patterns found in the examples.\n- Do not mention the marker tokens (<< >>) in your explanation.\n- Do not make lists of possible explanations. Keep your explanations short and concise.\n- The last line of your response must be the formatted explanation, using [EXPLANATION]:\n\n\n"
+  },
+  {
+    "role": "user",
+    "content": "\nExample 1:  and he was <<over the moon>> to find\nActivations: (\"over\", 5), (\" the\", 6), (\" moon\", 9)\nExample 2:  we'll be laughing <<till the cows come home>>! Pro\nActivations: (\"till\", 5), (\" the\", 5), (\" cows\", 8), (\" come\", 8), (\" home\", 8)\nExample 3:  thought Scotland was boring, but really there's more <<than meets the eye>>! I'd\nActivations: (\"than\", 5), (\" meets\", 7), (\" the\", 6), (\" eye\", 8)\n"
+  },
+  {
+    "role": "assistant",
+    "content": "\n[EXPLANATION]: Common idioms in text conveying positive sentiment.\n"
+  },
+  {
+    "role": "user",
+    "content": "\nExample 1:  a river is wide but the ocean is wid<<er>>. The ocean\nActivations: (\"er\", 8)\nExample 2:  every year you get tall<<er>>,\" she\nActivations: (\"er\", 2)\nExample 3:  the hole was small<<er>> but deep<<er>> than the\nActivations: (\"er\", 9), (\"er\", 9)\n"
+  },
+  {
+    "role": "assistant",
+    "content": "\n[EXPLANATION]: The token \"er\" at the end of a comparative adjective describing size.\n"
+  },
+  {
+    "role": "user",
+    "content": "\nExample 1:  something happening inside my <<house>>\", he\nActivations: (\"house\", 7)\nExample 2:  presumably was always contained in <<a box>>\", according\nActivations: (\"a\", 5), (\"box\", 9)\nExample 3:  people were coming into the <<smoking area>>\".\n\nHowever he\nActivations: (\"smoking\", 2), (\"area\", 4)\nExample 4:  Patrick: \"why are you getting in the << way?>>\" Later,\nActivations: (\"way\", 4), (\"?\", 2)\n"
+  },
+  {
+    "role": "assistant",
+    "content": "\n[EXPLANATION]: Nouns representing a distinct objects that contains something, sometimes preciding a quotation mark.\n"
+  }
+]

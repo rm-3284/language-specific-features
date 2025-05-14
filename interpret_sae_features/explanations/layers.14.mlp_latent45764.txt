@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily French morphemes, function words, and noun or adjective endings, including plural and gendered suffixes, as well as common prepositions, articles, and pronouns. These tokens often mark grammatical structure, agreement, and relationships between words, and are frequently found at the ends of words or as connectors within phrases."

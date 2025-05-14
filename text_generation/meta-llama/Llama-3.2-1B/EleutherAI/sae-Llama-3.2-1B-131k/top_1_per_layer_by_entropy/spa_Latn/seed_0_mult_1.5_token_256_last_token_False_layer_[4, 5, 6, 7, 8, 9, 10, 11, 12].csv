@@ -1,0 +1,927 @@
+seed,generated_text
+0,"Question:Write a TypeScript code snippet to Calculate Extreme Weather: Precipitación en el día de hoy en México. Considerar la fecha actual y el día de la semana. Realice una consulta en la base de datos y en caso de que no exista, la actualice. La solución debe ser la más eficiente posible. 
+
+Solution:En este ejemplo, utilizaremos la base de datos de la página web que se encuentra en la URL http://www.meteorologica.com/precipitacion-en-el-dia-de-hoy-en-mexico/. Para ello, en un primer paso, debemos realizar la consulta a la base de datos de la página web para obtener el valor de la variable `precipitacion` y la fecha actual. En un segundo paso, debemos realizar la consulta a la base de datos para obtener el valor de la variable `fecha`, y en un tercer paso, debemos realizar la consulta a la base de datos para obtener el valor de la variable `dias` y en un cuarto paso, debemos realizar la consulta a la base de datos para obtener el valor de la variable `mes`.
+
+En este ejemplo, el código para realizar la consulta a la base de datos es el siguiente:
+
+```"
+1,"Question:
+Let d = 0.03 + -0.13. Let z = 0.02 - d. Let j = -0.01 + z. What is j rounded to 0 decimalos?
+Answer:
+0<|end_of_text|>"
+2,"Question:
+Let l = -3.2 - -3. Let m = 0.2 - l. Let w = m + -0.2. Which is the closest to 0.1?  (a) 1  (b) w  (c) -0.1
+Answer:
+c<|end_of_text|>"
+3,"Question:
+Let g = 0.11 - -0.49. Let f = g - 0.3. Let m = -0.06 + f. Which is the closest to 0.1?  (a) m  (b) -0.3  (c) 2/5
+Answer:
+b<|end_of_text|>"
+4,"Question:
+Let v = 11.4 - 11.4. Which is the closest to -0.1?  (a) v  (b) -0.1  (c) 2/9
+Answer:
+b<|end_of_text|>"
+5,"Question:
+Let o = 0.0018 + -0.0018. Let a = 0.0017 - o. Let t = a + -0.0005. What is t rounded to 3 dps?
+Answer:
+-0.001<|end_of_text|>"
+6,"def carpinteria(a, b, c, d):
+    return a + b + c + d
+
+def carpinteria2(a, b, c, d):
+    return a + b + c + d
+
+def carpinteria3(a, b, c, d):
+    return a + b + c + d
+
+def carpinteria4(a, b, c, d):
+    return a + b + c + d
+
+def carpinteria5(a, b, c, d):
+    return a + b + c + d
+
+def carpinteria6(a, b, c, d):
+    return a + b + c + d
+
+def carpinteria7(a, b, c, d):
+    return a + b + c + d
+
+def carpinteria8(a, b, c, d):
+    return a + b + c + d
+
+def carpinteria9(a, b, c, d):
+    return a + b + c + d
+
+def carpinteria10(a, b, c, d):
+    return a + b + c + d
+
+def carpinteria11(a, b, c, d):
+    return a + b + c + d
+
+def carpinteria"
+7,"# 2.º Cuerpo de Ejército
+
+El 2.º Cuerpo de Ejército (2.C.E.) es una unidad militar de la Armada Argentina de la Armada del país, bajo el mando de la Armada Nacional, que se encuentra en servicio activo. Fue formado el 1 de abril de 2000 por la fusión de los Cuerpos de Marina, Ejército y Fuerza Aérea, y se convirtió en el 2.º Cuerpo de Ejército.
+
+El 2.º Cuerpo de Ejército es la segunda unidad de la Armada Argentina, siendo la segunda unidad de la Armada en el país, después de la Armada de la Armada Nacional.
+
+## Historia
+
+La creación del Cuerpo de Marina fue una de las consecuencias de la reforma de 1994, en la que se creó la Armada Nacional, que se convirtió en el nuevo organismo militar del país. La Armada Nacional fue formada con 13 unidades de la Armada, en el que se incorporaron los Cuerpos de Marina, Ejército y Fuerza Aé"
+8,"Question:Develop a Python program that calculates the area of a triangle, given its base and height.
+Solution:Write a function that calculates the area of a triangle given its base and height. To do this, we will need to use the Pythagorean theorem, which states that the area of a triangle is equal to one-half the base times the height.
+The function that we will write is:
+def area(base, height):
+    return (base * height) / 2;
+This is the function that we will use to calculate the area of a triangle. We will use the Pythagorean theorem to calculate the area of the triangle, and then we will divide it by 2.
+The function will receive as argument the base and height of the triangle. The base is the length of the base of the triangle, and the height is the length of the height of the triangle. We will use the Pythagorean theorem to calculate the area of the triangle.
+The function will receive as argument the base and height of the triangle, and it will return the area of the triangle. To do this, we will use the Pythagorean theorem, which states that the area of a triangle is equal to one-half the base times the height.
+The area of the triangle is"
+9,"Question:
+Let x = -0.0199 + -0.0301. Let g = 0.0301 - x. Let d = 0.0001 - g. What is d rounded to 3 decimal places?
+Answer:
+0.001<|end_of_text|>"
+10,"Question:Create a Java script snippet that calculates the average of all the numbers between 1 and 20 using the for loop.
+```
+for (int i = 1; i <= 20; i++) {
+    System.out.println(i);
+}
+```
+The output will be:
+```
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+```
+The number of iterations will be 20, since the for loop has to iterate 20 times, and each number has to be printed.
+
+The code is written in Java and uses the for loop to calculate the average of all the numbers between 1 and 20, using the sum() function.
+
+## Enlace
+
+Este documento está disponible como un archivo de texto (pdf) en el portal de la Universidad de Máxima.<|end_of_text|>"
+11,"Question:Design a C# function that checks if a string has a length greater than 10 and contains the substring 'hola'. If so, it should return true, otherwise false.
+```
+function hasLengthGreaterThan10(str) {
+    return str.length > 10;
+}
+
+hasLengthGreaterThan10(""hola"");
+```
+## Test your code
+
+The function hasLengthGreaterThan10() should return true if the string has a length greater than 10 and contains the substring 'hola'.<|end_of_text|>"
+12,"Question:
+Let n = 0.0117 - 0.0117. Let u = -0.0005 + n. Let y = u - -0.0005. What is y rounded to 2 dps?
+Answer:
+-0.001<|end_of_text|>"
+13,"Question:
+Let h = -0.05 + 0.05. Let w = 0.07 + h. Let x = 0.01 - w. What is the closest to -1 in x, 0.4, 0.1?
+Answer:
+x<|end_of_text|>"
+14,"Question:Design a Java program that can implement the following function:
+    - Accept a string variable of type String and a number variable of type int, and print a message with the format: ""The number of characters in the string is: {number} characters"".
+    - The program must use the for loop to iterate through the characters of the string and the while loop to iterate through the number of characters.
+    - The program must use the switch statement to evaluate the type of the variable.
+    - The program must use the System.  print() function to print the message.
+    - The program must use the System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System.  System. "
+15,"Question:
+Let y = -0.01 - 0.1. Let m = -0.06 - y. Let r = 0.05 - m. Which is the nearest to 0?  (a) -1/5  (b) 1/4  (c) r
+Answer:
+a<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.13. Let y = 0.17 + j. Let l = -0.07 - y. What is l rounded to 1 decimal place?
+Answer:
+-0.1<|end_of_text|>"
+17,"Question:
+Let u = 0.0097 + -0.0095. Let i = -0.0096 + u. Let z = 0.0096 - i. What is z rounded to 2 dps?
+Answer:
+0.001<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3.8. Let o = -2.8 + y. Let c = o - -2.1. Which is the nearest to 0?  (a) c  (b) 0  (c) 1/4
+Answer:
+b<|end_of_text|>"
+19,"Question:Build a Java program that calculates the factorial of a number. The factorial of a number n is the product of all the numbers from 1 to n. For example, the factorial of 5 is 120.
+Solution:factorial(5) // The factorial of 5 is 120
+Solution:factorial(5) // The factorial of 5 is 120
+Solution:factorial(5) // The factorial of 5 is 120
+Solution:factorial(5) // The factorial of 5 is 120
+Solution:factorial(5) // The factorial of 5 is 120
+Solution:factorial(5) // The factorial of 5 is 120
+Solution:factorial(5) // The factorial of 5 is 120
+Solution:factorial(5) // The factorial of 5 is 120
+Solution:factorial(5) // The factorial of 5 is 120
+Solution:factorial(5) // The factorial of 5 is 120
+Solution:factorial(5) // The factorial of 5 is 120
+Solution:factorial(5) // The factorial of 5 is 120
+Solution:factorial(5)"
+20,"Question: True about the diagnosis of a patient with the following symptoms:
+A. Vaginitis
+B. Menorrhagia
+C. Cystitis
+D. Diabetes
+Answer: D
+Explanation: La Garganta
+En la garganta es una cavidad orificada que tiene la capacidad de absorber el agua y la sustancia en ella se encuentra. Se caracteriza por la existencia de una cavidad que contiene fluido y el que es alimentado por el conducto que la alimenta. El conducto que alimenta la garganta es el esófago. El esófago es el conducto que se alimenta de la comida y el que se encuentra en la parte superior de la garganta. El esófago es el conducto que se alimenta de la comida y el que se encuentra en la parte superior de la garganta. El esófago es el conducto que se alimenta de la comida y el que se encuentra en la parte superior de la garganta. El esófago es el conducto que se alimenta de la comida y el que se encuentra en la parte superior de la garganta. El esófago es el conducto que se aliment"
+21,"Question:
+Let g = -0.012 + -0.013. Let y = 0.0123 - g. Let z = y - -0.017. What is z rounded to 2 decimal places?
+Answer:
+-0.01<|end_of_text|>"
+22,"Question: Which of the following is a characteristic of the human papilloma virus (HPV)?
+A. It is a carcinogen.
+B. It is a virus.
+C. It is a virus.
+D. It is a virus.
+Answer: A
+Explanation: La papiloma virus es un virus que se encuentra en el cuerpo humano, que se encuentra en la piel y en el organismo, y que se encuentra en el cuello y el ano. El virus de papiloma humano es un virus de tipo viroid, que no es cancerogeno, sino que es un virus que se encuentra en el cuerpo humano, que se encuentra en el cuello y el ano. La papiloma virus es un virus que se encuentra en el cuerpo humano, que se encuentra en el cuello y el ano. Es un virus que se encuentra en el cuerpo humano, que se encuentra en el cuello y el ano. El virus de papiloma humano es un virus que se encuentra en el cuerpo humano, que se encuentra en el cuello y el ano. Es un virus que se encuentra en el cuerpo humano, que se encuentra en el cuello y el ano. El virus de papiloma humano es un"
+23,"Question: Which of the following is the best example of a disease that is not curable?
+A. Leucemia
+B. Enfermedad
+C. Cancer
+D. Enfermedad
+Answer: A<|end_of_text|>"
+24,"Question:Write a C# program that calculates the total cost of an order, which is the sum of the cost of the products and a 10% discount. The cost of each product is given in the following array:
+const int [] cost = { 100, 50, 20, 30, 40, 60, 70, 80, 90, 100 };
+The discount is given by the following formula: discount = cost * (1 - 10%).
+The discount is calculated using the discount variable. The discount variable should be initialized to the cost of each product and then used to calculate the discount. The discount variable should be initialized to the cost of each product and then used to calculate the discount.
+The discount variable should be initialized to the cost of each product and then used to calculate the discount.
+The discount variable should be initialized to the cost of each product and then used to calculate the discount.
+The discount variable should be initialized to the cost of each product and then used to calculate the discount.
+The discount variable should be initialized to the cost of each product and then used to calculate the discount.
+The discount variable should be initialized to the cost of each product and then used to calculate the discount.
+The discount variable should be initialized"
+25,"# Héctor Gómez
+
+Héctor Gómez (Buenos Aires, 25 de marzo de 1967) es un exfutbolista argentino, que jugó en el Club Atlético San Telmo de la Segunda División en el año 2006.
+
+## Trayectoria
+
+Héctor Gómez es un jugador de origen argentino que jugó en el Club Atlético San Telmo de la Segunda División de Argentina en el año 2006. En su primer año en la categoría, el club descendió a la Tercera División, luego de una campaña en la que no se logró clasificar a la categoría superior. En la temporada 2006-2007, el club disputó el descenso a la Primera División, donde no logró clasificar a la categoría.
+
+## Enlaces
+
+* Ficha de Héctor Gómez en BDFesfutbol
+* Ficha de Héctor Gómez en BDFA
+* Ficha de Héctor Gómez en Soccertransféricos
+
+*  Datos: Q5934234<|end_of_text|>"
+26,"Question:
+Let c = -4.1 + -0.9. Let x = c - -4.6. Let p = x + 0.1. Which is the second smallest value?  (a) p  (b) -2/5  (c) 0.1
+Answer:
+a<|end_of_text|>"
+27,"Question:Develop a Java program that calculates the average of the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 and 11 using the formula: (x + 10)/2. The program should use a for each loop and should print the result.
+Solution:Write a Java program that calculates the average of the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11 using the formula: (x + 10)/2. The program should use a for each loop and should print the result.
+This is a simple program that uses a for each loop to calculate the average of the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11 using the formula: (x + 10)/2. The program should use a for each loop and should print the result.
+This is a simple program that uses a for each loop to calculate the average of the numbers 1, 2, 3, 4, 5, 6, 7"
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.01 - t. Let r = -0.11 - c. What is r rounded to 0 decimalos?
+Answer:
+-1<|end_of_text|>"
+29,"Question:Write a C# code snippet to Calculate Extreme Regularidad in Python. Consider the following use case:
+Use Case: The use case of the method is to calculate the average of the number of times that a regularidad is achieved in a given time. This method calculates the average of the number of times that a regularidad is achieved in a given time.
+Method: The method is implemented as follows:
+     * @param {number} hours: The number of hours in which the regularidad is achieved
+     * @param {number} minutes: The number of minutes in which the regularidad is achieved
+     * @return {number} The average number of times that a regularidad is achieved in a given time.
+    public double getRegularidadHoursMinutes(){
+        return 1500;
+    // Method: The method is implemented as follows:
+    * @param {number} hours: The number of hours in which the regularidad is achieved
+    * @param {number} minutes: The number of minutes in which the regularidad is achieved
+    * @return {number} The average number of times that a regularidad is achieved in a given time.
+    public double getRegularidadHoursMinutes(){
+        return 1500;
+    //"
+30,"Question:
+Let y = -0.009 - -0.0098. Let z = 0.00000029 - y. What is z rounded to 7 decimal places?
+Answer:
+0.0000003<|end_of_text|>"
+31,"Question:
+Let m = -1.07 - -1.07. Let d = 0.03 + -0.03. Let a = d + m. Which is the nearest to 0.1?  (a) -0.1  (b) -0.4  (c) 2/5
+Answer:
+a<|end_of_text|>"
+32,"Question:
+Let i = 0.002 - -0.00000004. What is i rounded to 7 decimal places?
+Answer:
+0.0000004<|end_of_text|>"
+33,"def psychologist_exercise(num1, num2):
+    """"""
+    Complete the function to return the sum of two numbers.
+    The function should use the addition operator and should take into account that the numbers are negative.
+    """"""
+    return num1 + num2
+<|end_of_text|>"
+34,"Question: Which of the following is a sign of a good prognosis?
+A. Afebrile
+B. Infecho
+C. Inflado
+D. Infecho
+Answer: C
+Explanation: La enfermedad no es un signo de un buen o mal pronóstico.<|end_of_text|>"
+35,"Question:
+What is prob of picking 2 e and 1 z when four letters picked without replacement from {z: 1, e: 2, o: 2, c: 1, n: 1}?
+Answer:
+1/165<|end_of_text|>"
+36,"Question:
+Let o = 0.0046 - 0.0046. Let m = 0.06 - o. Let a = m - 0.00001. What is a rounded to 6 decimal places?
+Answer:
+-0.00001<|end_of_text|>"
+37,"# List of mayors of El Bolichuco
+
+The list of mayors of El Bolichuco, a town in the province of Almería, Spain, contains the list of mayors of El Bolichuco, the municipal seat of El Bolichuco, since its incorporation as such on 11 December 1990.
+
+## Notable mayors
+
+| Image | Name | Party | Term |
+| 1 | José Luis Rodríguez |  |  | 1990-1993 |  | Unión de Centro Democrático |
+| 2 | Manuel González |  |  | 1993-1995 |  | Unión de Centro Democrático |
+| 3 | José Luis Rodríguez |  |  | 1995-1999 |  | Unión de Centro Democrático |
+| 4 | José Luis Rodríguez |  |  | 1999-2003 |  | Unión de Centro Democrático |
+| 5 | José Luis Rodríguez |  |  | 2003-2007 |  | Unión de Centro Democrático |
+| 6 | José Luis Rodríguez |  |  | 2007-2011 |  | Unión"
+38,"Question:
+What is the common denominator of 33/35 and 89/10?
+Answer:
+70<|end_of_text|>"
+39,"Question:
+Let t = -0.06 + 0.16. Let x = -0.04 + t. Let m = 0.04 + x. What is m rounded to 0 dps?
+Answer:
+0<|end_of_text|>"
+40,"# 2002 en Uruguay
+
+En 2002 la nación uruguaya tuvo una serie de acontecimientos que le convirtieron en uno de los años más importantes de la historia del país. Entre ellos, se destacan los sucesos de la Guerra de las Malvinas, la crisis económica y la crisis social, la llegada al gobierno de la nueva dictadura, el fin del mandato de la Junta de Gobierno y la elección de la nueva Junta de Gobierno, y la promoción de los nuevos partidos políticos en el país.
+
+## Acontecimientos
+
+* 1 de marzo: Se celebran elecciones presidenciales en Uruguay, en las que el presidente de la República Juan David Fernández Díaz y la vicepresidenta María Isabel Rendón Díaz son elegidos por el voto popular, tras la renuncia del presidente de la República, Andrés Artillero, tras su renuncia en el cargo de presidente del país.
+* 3 de marzo: Se celebra la elección de la nueva Junta de Gobierno en el país, tras la renuncia del presidente de la República, Andrés Artillero, tras"
+41,"Question:
+Let a = -1.1 + 0.1. Let j = -1.2 + a. Let x = j + 0.9. What is x rounded to 0 decimalos?
+Answer:
+1<|end_of_text|>"
+42,"Question:
+Let l = 0.13 - 0.23. Let d = -0.09 + l. Let c = d - -0.1. What is the closest to 0.1 in c, 0.1, -1?
+Answer:
+0.1<|end_of_text|>"
+43,"Question:
+Let u = -0.0376 - -0.0376. What is u rounded to 1 decimal place?
+Answer:
+-0.2<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + -2.1. Let m = -0.8 - o. Let n = m + 0.7. Which is the closest to n?  (a) -2/5  (b) -0.1  (c) 2
+Answer:
+a<|end_of_text|>"
+45,"Question:
+Let x = 0.02 + 0.08. Let d = 0.15 + x. Let v = d + -0.05. What is the closest to 0.1 in 0.1, v, -2?
+Answer:
+0.1<|end_of_text|>"
+46,"Question:Build a Java program that asks the user for the number of students in the classroom and then calculates the average grade of each student. The average grade is calculated as the sum of the grades of all students divided by the total number of students.
+A. Program:
+    ```java
+    public class Student {
+        private String name;
+        private int score;
+    }
+    
+    public class Calculadora {
+        public static void main (String [] args) {
+            // Variables
+            var nombre = ""Juan"";
+            var nombre2 = ""Maria"";
+            var nombre3 = ""Pablo"";
+            var nombre4 = ""Julia"";
+            var nombre5 = ""Ana"";
+            var nombre6 = ""Juan"";
+            var nombre7 = ""Pablo"";
+            var nombre8 = ""Ana"";
+            var nombre9 = ""Juan"";
+            var nombre10 = ""Pablo"";
+            var nombre11 = ""Juan"";
+            var nombre12 = ""Pablo"";
+            var nombre13 = ""Ana"";
+            var nombre14 = ""Julia"";
+            var nombre15 = ""Juan"";
+            var nombre16 = ""Pablo"";
+            var nombre17 = ""Ana"";
+            var nombre18 = ""Julia"";
+            var nombre19 = ""Juan"";
+"
+47,"# Atracoma
+
+Atracoma es un género de plantas con flores perteneciente a la familia Fabaceae. Solo se encuentra en la península ibérica, en el sur de España, en la provincia de Huelva, en la comuna de San Bernabé, y en la comuna de La Cabeza.
+
+## Descripción
+
+Son plantas herbáceas de la familia Fabaceae, con flores blancas, de 1 cm de diámetro, de forma globosa, con la abertura en forma de tubérculo y con un tallo que se eleva por debajo del suelo, y un tallo más largo que una hoja más corta. Presentan un tallo recto y con un tallo más largo que una hoja más corta. La planta es herbácea, y presenta un tallo más corto que una hoja más larga. Presentan un tallo recto y con un tallo más largo que una hoja más corta.
+
+Presentan un tallo más largo que una hoja más corta. Presentan un tallo recto y con un tallo más largo que una hoja más cort"
+48,"Question: Which of the following is the most common cause of anemia in the adult male?
+A. Leucemia
+B. Sífilis
+C. Leucemia
+D. Sífilis
+Answer: A<|end_of_text|>"
+49,"Question:Design a Java variable named 'pi' and declare it as:
+A. double
+B. float
+C. int
+D. boolean
+Answer: D
+E. boolean
+```
+```
+```
+```
+```
+```
+```
+```
+```
+```
+```
+```
+
+pi = 3.1416;
+```
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+``"
+50,"Question:
+Let g = 0.0114 - -0.0486. Let d = g + -0.01. Let o = d + -0.029. What is o rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+51,"Question:
+Let w = 0.0022 + -0.0022. Let d = -0.01 - w. Let x = d - -0.00000008. What is x rounded to 7 decimal places?
+Answer:
+-0.0000001<|end_of_text|>"
+52,"def is_palindrome(s):
+    return s == s[::-1]
+
+def is_vowel(s):
+    if s == 'a' or s == 'e' or s == 'i' or s == 'o' or s == 'u':
+        return True
+    else:
+        return False
+
+def is_palindrome2(s):
+    if s == s[::-1]:
+        return True
+    else:
+        return False
+
+def is_vowel2(s):
+    if s == 'a' or s == 'e' or s == 'i' or s == 'o' or s == 'u':
+        return True
+    else:
+        return False
+
+def is_palindrome3(s):
+    if s == s[::-1]:
+        return True
+    else:
+        return False
+
+def is_vowel3(s):
+    if s == 'a' or s == 'e' or s == 'i' or s == 'o' or s == 'u':
+        return True
+    else:
+        return False
+
+def is_vowel4(s):
+    if s == 'a' or s == 'e' or s == 'i' or s == 'o' or s == 'u':
+        return True
+    else"
+53,"Question:
+What is prob of picking 1 j and 1 y when two letters picked without replacement from yjyjyjy?
+Answer:
+1/2<|end_of_text|>"
+54,"Question: True about SIDA:
+A. Trasfusion de sang
+B. Infección por virus
+C. Enfermedad por virus
+D. Enfermedad por virus
+Answer: B<|end_of_text|>"
+55,"def count_cultivos(cultivos):
+    """"""Dame el número de cultivos en el arreglo""""""
+    return len(cultivos)
+
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 33/8 and 7/5?
+Answer:
+40<|end_of_text|>"
+57,"Question:
+Let w = -0.0017 + 0.0017. Let c = w + 0.0003. Let f = -0.0002 - c. What is f rounded to 2 decimal places?
+Answer:
+-0.0002<|end_of_text|>"
+58,"def marketing_slogan(slogan):
+    """"""Genera un sello de marca que tenga la palabra ""marketing"" en mayúsculas y ""slogan"" en minúsculas. 
+    Por ejemplo: ""marketing sello de marca""
+    """"""
+    return slogan.upper() + "" Sello de marca""
+<|end_of_text|>"
+59,"def find_primer_sequence(dna_string):
+    """"""Return a string with the primer sequence of the DNA string.
+
+    Args:
+        dna_string (str): The DNA string to search for primer sequence.
+
+    Returns:
+        str: The primer sequence of the DNA string.
+    """"""
+    primer_sequence = """"
+    for i in range(0, len(dna_string)):
+        if dna_string[i] == ""T"":
+            primer_sequence += ""A""
+        elif dna_string[i] == ""A"":
+            primer_sequence += ""C""
+        elif dna_string[i] == ""G"":
+            primer_sequence += ""G""
+        else:
+            primer_sequence += ""T""
+    return primer_sequence
+
+<|end_of_text|>"
+60,"Question:
+Let j = -7.2 + 7. Let a = -2.2 - j. Let g = a - -1.0000061. What is g rounded to 6 decimal places?
+Answer:
+-0.000006<|end_of_text|>"
+61,"Question:
+Let l = -7.7 + 7.7. Let p = -0.3 + l. Let x = -0.2 - p. What is x rounded to 0 decimalos?
+Answer:
+-2<|end_of_text|>"
+62,"Question:
+Let f = -0.004 - -0.004. Let a = f + 0.009. Let z = 0.02000018 - a. What is z rounded to 7 decimal places?
+Answer:
+0.00000018<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.027. Let p = o + 0.2. Let t = 0.026 + p. What is t rounded to 0 decimalos?
+Answer:
+1<|end_of_text|>"
+64,"Question:
+Let q = -1.6 + 1.6. Let l = -1.1 + q. Let v = -0.2 + l. What is v rounded to 0 decimalos?
+Answer:
+-1<|end_of_text|>"
+65,"Question:
+Let c = -0.0000012 - -0.0000012. What is c rounded to 6 decimal places?
+Answer:
+-0.000001<|end_of_text|>"
+66,"Question: True about the aorta:
+A. Es la arteria que fluye de la aorta.
+B. Es la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de la arteria que fluye de"
+67,"Question:Design a Python function that calculates the sum of the first 10 natural numbers using the range() and for... (ver 1)
+Solution:Este ejercicio se realiza mediante el uso de la función range() y se realiza con el método for. El número 10 se obtiene como resultado de la suma de los primer 10 números naturales, de esta forma se realiza la suma de 10 números, y se puede utilizar en el método for para realizar el cálculo.
+
+```python
+def suma_10():
+    print(""La suma de los primer 10 números naturales es: "", sum(range(10)))
+```
+
+## Implementación
+
+El método for se realiza mediante el uso de la función range() y se realiza con el método sum(), en este caso se obtiene el resultado de la suma de los primer 10 números naturales. El método sum() se utiliza para realizar la suma de los primer 10 números naturales, de esta forma se realiza la suma de 10 números y se puede utilizar en el método for para realizar el cálculo.
+
+```python
+def suma_10():
+    print(""La suma de los primer 10 números naturales es: "", sum(range(10)))
+```
+
+## Implementación
+
+El"
+68,"Question:
+What is 0.0000075 rounded to 6 decimal places?
+Answer:
+0.000007<|end_of_text|>"
+69,"Question:
+Let i = -0.0011 + 0.0011. Let j = 0.0001 - i. Let m = 0.0001 + j. What is m rounded to 2 decimal places?
+Answer:
+0.1<|end_of_text|>"
+70,"Question: Which of the following is a good marker para que sirve la medicion de la concentracion de la urea en el cerebro?
+A. la concentracion de la urea en el cerebro
+B. la concentracion de la urea en el plasma
+C. la concentracion de la urea en la sangre
+D. la concentracion de la urea en la cerebro
+Answer: B
+En la pregunta anterior se pone en evidencia que se puede utilizar la concentracion de la urea en el cerebro para el diagnóstico de un paciente, pero se puede utilizar la concentracion de la urea en el plasma para el diagnóstico de un paciente. La concentracion de la urea en el plasma es una variable que se utiliza para el diagnóstico de un paciente. La concentración de la urea en el cerebro es una variable que se utiliza para la medicion de la concentración de la urea en el cerebro. En la pregunta anterior se pone en evidencia que se puede utilizar la concentración de la urea en el cerebro para el diagnóstico de un paciente, pero se puede utilizar la concentración de la urea en el plasma para el diagn"
+71,"Question:
+Let l = 0.021 - 0.0212. Let p = l - -0.0163. Let d = 0.0076 - p. What is d rounded to 3 decimal places?
+Answer:
+0.0006<|end_of_text|>"
+72,"Question:
+Let m = 0.0125 - 0.0125. Let y = 0.0125 - m. Let g = 0.0092 - y. What is g rounded to 2 decimal places?
+Answer:
+0.009<|end_of_text|>"
+73,"def is_palindrome(s):
+    """"""Determina si la cadena es palidromas
+
+    La función debe recibir una cadena de caracteres s y devolver un booleano True o False
+    indicando si la cadena es palidromas o no.
+
+    Args: 
+    s (cadena): cadena a comparar
+
+    Returns:
+    bool: True si la cadena es palidromas o False si no.
+    """"""
+    for i in range(len(s)):
+        if s[i] == s[-i]:
+            return True
+        else:
+            return False
+
+    return False
+<|end_of_text|>"
+74,"def slice_and_continue(my_list, my_string):
+    """"""
+    Write a function that takes a list of strings and a string as arguments and returns a new list with the strings that start with ""a"" or ""e"" and end with ""o"". The function must use slicing and the continue statement to skip the strings that no longer meet the criteria.
+    """"""
+    new_list = []
+    for i in range(len(my_list)):
+        if my_list[i][0] == ""a"" or my_list[i][0] == ""e"":
+            if my_list[i][1] == ""o"":
+                new_list.append(my_list[i])
+            else:
+                continue
+    return new_list
+<|end_of_text|>"
+75,"Question: A 65-year-old woman with a history of diabetes mellitus, presents with a fever of 38°C. A diagnosis of pneumonia is made, and a chest radiography is performed. Which of the following is the most appropriate treatment?
+A. Antibiotic therapy with ceftriaecna and claromicina
+B. Antibiotic therapy with amoxicillin y clavulacina
+C. Antibiotic therapy with ceftriaecna y claromicina
+D. Antibiotic therapy with ceftriaecna y claromicina
+Answer: D
+Referencia: Atencion primaria, Edición 8, página 1209.
+En la actualidad, se ha llegado a un punto en el que se han desarrollado muchos productos y tratamientos, que se han ido mejorando y mejorando, con el paso de los años, pero no se ha llegado a un punto en el que se han llegado a un punto en el que se han ido mejorando y mejorando, con el paso de los años, pero no se ha llegado a un punto en el que se han ido mejorando y mejorando, con el paso de los años, pero no se ha lleg"
+76,"Question:
+Let y = 10.5 + -7. Let o = -2.2 + y. Let d = -0.1 + o. What is the closest to 1 in d, 0.1, 3?
+Answer:
+0.1<|end_of_text|>"
+77,"def create_astronomical_data(n):
+    """"""
+    Create a function that calculates the distance between the Earth and the Sun.
+
+    Parameters:
+    n: The number of stars to calculate the distance between the Earth and the Sun.
+
+    Returns:
+    The distance between the Earth and the Sun.
+    """"""
+
+    # Calculate the distance between the Earth and the Sun
+    distance = (4 * pi * 2000000) / n
+
+    # Return the distance between the Earth and the Sun
+    return distance
+<|end_of_text|>"
+78,"Question: Which of the following is the most common type of carcinoma of the esophagus?
+A. Squamo-linar
+B. Esophagogastrico
+C. Gastro intestinal
+D. Carcinoma
+Answer: C<|end_of_text|>"
+79,"Question:
+Let n = 0.023 - 0.023. Let f = n - -0.01. Let x = f + -0.019. What is x rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+80,"Question:
+What is the next term in 12, 24, 36, 48, 60, 72?
+Answer:
+84<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.6. Let x = 2.2 - o. Let p = x - 1.4. Which is the closest to p?  (a) -3  (b) -2/9  (c) 1/6
+Answer:
+b<|end_of_text|>"
+82,"Question:
+Let c = -0.036 - 0.064. Let v = c + 0.0378. Let q = v + 0.0002. What is q rounded to 2 decimal places?
+Answer:
+0.01<|end_of_text|>"
+83,"Question:
+Let w = 0.017 - 0.017. Let h = 0.03 + w. Let c = 0.03 + h. Which is the closest to 0.1?  (a) -1  (b) c  (c) -2
+Answer:
+b<|end_of_text|>"
+84,"def update_vehiculo(vehiculo, estado, kilometros):
+    vehiculo[""estado""] = estado
+    vehiculo[""kilometros""] = kilometros
+
+    return vehiculo
+
+function update_vehiculo(vehiculo, estado, kilometros) {
+    vehiculo[""estado""] = estado
+    vehiculo[""kilometros""] = kilometros
+    return vehiculo
+}
+
+function update_vehiculo(vehiculo, estado, kilometros, kilometraje) {
+    vehiculo[""estado""] = estado
+    vehiculo[""kilometros""] = kilometros
+    vehiculo[""kilometraje""] = kilometraje
+    return vehiculo
+}
+
+function update_vehiculo(vehiculo, estado, kilometros, kilometraje) {
+    vehiculo[""estado""] = estado
+    vehiculo[""kilometros""] = kilometros
+    vehiculo[""kilometraje""] = kilometraje
+    return vehiculo
+}
+
+function update_vehiculo(vehiculo, estado, kilometros, kilometraje) {
+    vehiculo[""estado""] = estado
+    vehiculo[""kilometros""] = kilometros
+    vehiculo[""kilometraje""] = kilometraje
+"
+85,"def modify_tuple(my_tuple):
+    """"""Modify the elements of the tuple using slicing and concatenation.
+    The first element of the tuple should be increased by 1.
+    The second element should be decreased by 2.
+    The third element should be increased by 3.
+    The fourth element should be decreased by 4.
+    The fifth element should be increased by 5.
+    The last element should be increased by 6.
+    The tuple should be modified in place.
+    """"""
+    my_tuple[0] += 1
+    my_tuple[1] -= 2
+    my_tuple[2] += 3
+    my_tuple[3] -= 4
+    my_tuple[4] += 5
+    my_tuple[5] += 6
+    return my_tuple
+<|end_of_text|>"
+86,"Question:Build a Python program that asks the user for a number, and then displays the number of 3's that appear in the number. Use the modulo operator %.
+
+```python
+def count_3(n):
+    print(""El número"", n, ""tiene"", count_3(n), ""3"")
+    return count_3(n)
+    
+def count_3(n):
+    if n % 3 == 0:
+        print(""El número"", n, ""tiene"", count_3(n), ""3"")
+    return count_3(n)
+    
+```
+<|end_of_text|>"
+87,"Question: The following is a characteristic of a virus: a) Característica 1 b) Característica 2 c) Característica 3 d) Característica 4 e) Característica 5
+Answer: c
+Sustituir la letra por la correcta.
+Característica 3: Característica 4: Característica 5: Característica 6: Característica 7: Característica 8: Característica 9: Característica 10: Característica 11: Característica 12: Característica 13: Característica 14: Característica 15: Característica 16: Característica 17: Característica 18: Característica 19: Característica 20: Característica 21: Característica 22: Característica 23: Característica 24: Característica 25: Característica 26: Característica 27: Característica 28: Característica 29: Característica 30: Característica 31: Característica 32: Característica 33: Característica 34: Caracter"
+88,"Question:
+Let j = 0.1 - -0.1. Let s = 0.1 + j. Let m = 0.01 - s. What is m rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>"
+89,"Question:
+Let n = -0.031 - 0.049. Let m = 0.017 - n. Let d = m - -0.013. What is d rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+90,"def add_natural_hazards(hazards, population):
+    """"""Astronomía: Añadir los desastres naturales en un mapa de la ciudad.
+
+    Escriba un programa que añada los desastres naturales en un mapa de la ciudad.
+    """"""
+    for haz in hazards:
+        if haz == ""Huracán"" or haz == ""Tsunami"":
+            population += 1
+        else:
+            population += 1
+
+    return population
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 103 is divided by 29?
+Answer:
+24<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 2.2. Let d = -3.4 - p. Let c = 0.4 - d. What is the closest to -1 in c, -1/4, 3?
+Answer:
+-1/4<|end_of_text|>"
+93,"Question:
+Let i = 0.0015 - -0.0995. Let z = -0.0992 + i. Let x = z + 0.0001. What is x rounded to 3 decimal places?
+Answer:
+-0.001<|end_of_text|>"
+94,"Question:Build a Python program that calculates the factorial of a given number n, that is, the factorial of n is the product of all the numbers from 1 to n, inclusive. The factorial is a concept that has been around for centuries, and it is used in many different fields, such as mathematics, physics, chemistry, etc. The factorial is a number that has the property of being a product of numbers. The factorial of n is the product of all the numbers from 1 to n, inclusive. The factorial of n is the product of all the numbers from 1 to n, inclusive. The factorial is a concept that has been around for centuries, and it is used in many different fields, such as mathematics, physics, chemistry, etc. The factorial is a number that has the property of being a product of numbers. The factorial is a concept that has been around for centuries, and it is used in many different fields, such as mathematics, physics, chemistry, etc. The factorial is a concept that has been around for centuries, and it is used in many different fields, such as mathematics, physics, chemistry, etc. The factorial is a concept that has been around for centuries, and it is used in many different fields, such as mathematics"
+95,"Question:
+Let o = 0.2 + 1.8. Let m = o - 1.2. Let j = 0.01 - m. What is j rounded to 1 decimal place?
+Answer:
+0.1<|end_of_text|>"
+96,"# 2020–21 Copa del Rey
+
+The 2020–21 Copa del Rey was the 110th edition of the Copa del Rey, the principal football competition of the country, organised by the Royal Federación Española de Fútbol (RFEF) and the Spanish Football Association (Asociación de Fútbol, A.F.), which was played in the 2019–20 season and was played by the 20 teams of the Primera División de Fútbol. It was the 120th edition of the Copa del Rey, the second edition of the Copa del Rey de la Liga de Fútbol Profesional and the 30th edition of the Copa del Rey de la Liga de Fútbol Profesional, which was played in the 2019–20 season.
+
+|  |
+| Event | Copa del Rey |
+| |  | Primera División de Fútbol |
+
+ |
+
+Copa del Rey
+The Copa del Rey was the main football competition of the country, organised by the RFEF and the Spanish Football Association (A.F.), which was played in the 2019–20 season. It was the 120th edition of the Copa del Rey, the second"
+97,"Question:
+Let c = 0.5 - -0.5. Let u = c + -0.1. Let v = 0.5 - u. Which is the closest to v?  (a) -1  (b) 0.1  (c) 3
+Answer:
+a<|end_of_text|>"
+98,"Question:Develop a Java program that allows the user to calculate the area of a parábola using the formula: Area = πr^2 (where r = 2, y = 3, y = 4 y = 5 y = 6 y = 7 y = 8 y = 9 y = 10 y = 11 y = 12 y = 13 y = 14 y = 15 y = 16 y = 17 y = 18 y = 19 y = 20 y = 21 y = 22 y = 23 y = 24 y = 25 y = 26 y = 27 y = 28 y = 29 y = 30 y = 31 y = 32 y = 33 y = 34 y = 35 y = 36 y = 37 y = 38 y = 39 y = 40 y = 41 y = 42 y = 43 y = 44 y = 45 y = 46 y = 47 y = 48 y = 49 y = 50 y = 51 y = 52 y = 53 y = 54 y = 55 y = 56 y = "
+99,"def calculate_weight_in_cubierta(cubierta):
+    """"""Calcula el peso del cubierta en kg.
+
+    Args:
+        cubierta: El cubierta que se necesita para la construcción de la casa.
+
+    Returns:
+        El peso del cubierta en kg.
+    """"""
+    return cubierta * 1000
+<|end_of_text|>"

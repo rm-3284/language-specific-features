@@ -1,0 +1,1 @@
+"The highlighted tokens are common morphemes or suffixes in German (\"ue\") and Hindi (\"क\", \"की\", \"के\", \"को\", \"से\", etc.), often marking grammatical relationships such as possession, case, or plurality, and are frequently found at word endings or as postpositions."

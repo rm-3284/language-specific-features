@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily Hindi verb forms, suffixes, and auxiliary markers that indicate tense, aspect, mood, or agreement, as well as common noun and adjective endings. These tokens are essential for constructing grammatical and meaningful sentences in Hindi, often appearing at the end of words to convey actions, states, or relationships."

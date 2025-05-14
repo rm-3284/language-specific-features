@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily Chinese nouns, verbs, and function words that serve as key elements in sentence structure, often marking subjects, objects, actions, or important modifiers. These tokens frequently appear at the start or end of phrases, and are essential for conveying the main meaning or grammatical relationships within the sentence."

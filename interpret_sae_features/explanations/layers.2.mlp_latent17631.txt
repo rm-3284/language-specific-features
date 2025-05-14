@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly Spanish (and some Portuguese) word endings and morphemes, such as verb and noun suffixes (-ar, -ado, -ción, -ión, -er, -os, -es, -ía, -ando, -iendo), as well as common function words (el, la, de, en, y, su, los, las). These patterns reflect grammatical inflections, gender/number agreement, and frequent connectors in Romance languages."

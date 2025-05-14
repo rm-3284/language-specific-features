@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily Japanese function words, particles, and common suffixes or inflections that mark grammatical relationships, connect clauses, or indicate possession, location, or action. These tokens are essential for sentence structure and meaning, often appearing at phrase or clause boundaries, and are frequently used in both formal and informal contexts."

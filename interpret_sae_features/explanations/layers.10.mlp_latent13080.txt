@@ -1,0 +1,1 @@
+"High activations are found on common Hindi postpositions, conjunctions, and grammatical markers such as \"के\", \"से\", \"की\", \"का\", \"में\", \"और\", and similar short tokens, which function as connectors or case markers in Hindi syntax."

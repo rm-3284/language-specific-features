@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily function words, common particles, conjunctions, pronouns, and frequently used morphemes in Vietnamese, as well as punctuation and quotation markers. These tokens are essential for sentence structure, grammatical relationships, and discourse flow, often marking beginnings, endings, or transitions in sentences and direct speech."

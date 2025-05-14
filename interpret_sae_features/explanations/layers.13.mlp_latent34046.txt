@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly prefixes, roots, and suffixes within Portuguese words, often marking morphological boundaries or derivational elements that contribute to word formation and meaning. These segments frequently appear at the start or end of words, indicating their role in constructing complex words from smaller morphemes."

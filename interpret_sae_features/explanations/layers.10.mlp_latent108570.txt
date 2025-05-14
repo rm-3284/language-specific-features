@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly Italian word stems, prefixes, and suffixes, often marking verb conjugations, noun/adjective derivations, or forming compound words. These segments are crucial for morphological construction and meaning in Italian, frequently appearing at the start or end of words to indicate tense, plurality, or word family."

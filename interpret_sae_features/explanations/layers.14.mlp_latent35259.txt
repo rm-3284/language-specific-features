@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily function words, common suffixes, and frequent morphemes in Portuguese, as well as high-frequency connectors and grammatical elements that structure sentences, such as conjunctions, pronouns, prepositions, and verb endings. These elements are essential for sentence cohesion and meaning, and often appear at clause or phrase boundaries."

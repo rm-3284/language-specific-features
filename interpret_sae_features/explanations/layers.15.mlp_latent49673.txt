@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily function words, verb endings, pronouns, and common connectors in Portuguese, often marking grammatical relationships, verb conjugations, and clause boundaries. These tokens are essential for sentence structure, cohesion, and conveying tense, person, or logical connections within and between clauses."

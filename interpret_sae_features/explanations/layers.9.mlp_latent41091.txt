@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily nouns, noun phrases, or key descriptive terms that denote entities, objects, people, places, or important concepts within the sentence. These tokens often serve as the main subject or object, or otherwise carry the core informational content of the sentence."

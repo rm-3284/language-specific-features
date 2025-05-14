@@ -1,0 +1,1 @@
+"The highlighted tokens are Turkish morphemes, suffixes, or stems that frequently appear at the end or within words, often marking grammatical features such as tense, possession, plurality, or forming nouns and verbs. These segments are crucial for word formation and meaning in Turkish morphology."

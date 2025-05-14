@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily function words (such as articles, conjunctions, prepositions, and auxiliary verbs) and common noun phrases that serve as structural anchors in sentences. These tokens often mark the boundaries of clauses, introduce or connect ideas, and are essential for grammatical cohesion and meaning flow in both narrative and informational contexts."

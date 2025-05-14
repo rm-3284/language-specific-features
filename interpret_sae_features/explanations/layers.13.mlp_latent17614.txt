@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily suffixes, inflections, or morphemes in Hindi and related scripts, often marking grammatical features such as case, number, tense, or forming part of compound words. These tokens frequently appear at word boundaries or as part of agglutinative constructions, reflecting the morphological richness of the language."

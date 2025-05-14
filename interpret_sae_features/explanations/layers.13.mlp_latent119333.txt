@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly morphemes, roots, and affixes within Bulgarian words, often marking derivational or inflectional changes (such as forming nouns, adjectives, or verbs). These segments frequently correspond to meaningful subword units that contribute to the grammatical structure or semantic core of the word, including common suffixes, prefixes, and stems."

@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly Vietnamese morphemes, syllables, or word segments, often marking the start or end of compound words, place names, or key nouns. These tokens frequently appear in contexts involving geography, administration, or descriptive attributes, and are often components of multi-syllabic words or phrases central to the sentence meaning."

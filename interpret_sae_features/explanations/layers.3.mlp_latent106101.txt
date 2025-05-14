@@ -1,0 +1,1 @@
+"The text frequently highlights Hindi tokens related to indefinite pronouns and possessives, such as forms of \"किसी\", \"की\", \"का\", and \"के\", as well as other common grammatical morphemes. These tokens often appear in contexts expressing generality, possession, or relation, and are central to sentence structure and meaning in Hindi."

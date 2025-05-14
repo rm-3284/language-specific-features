@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly Turkish morphemes, roots, and affixes, often marking noun and verb stems, derivational or inflectional endings, and compound word boundaries. These tokens frequently appear at the start or end of words, indicating their importance in Turkish word formation and morphological structure."

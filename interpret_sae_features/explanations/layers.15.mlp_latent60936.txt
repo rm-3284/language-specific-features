@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily proper nouns, place names, and key content words in Korean and multilingual text, often marking named entities, important objects, or significant actions within sentences. These tokens frequently appear at the start or end of phrases, and include both native and foreign names, as well as terms central to the sentence's meaning."

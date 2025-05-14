@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily verb stems, suffixes, and noun roots in Portuguese, often marking key semantic content such as actions, states, or important objects. These tokens frequently appear at the start or within verbs and nouns, indicating morphological boundaries or inflectional changes, and are central to the meaning and structure of the sentence."

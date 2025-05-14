@@ -1,0 +1,639 @@
+seed,generated_text
+0,"Question:Write a Python code that calculates the average of the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 and 11, but that, en es la primera vez que se introduce una nueva variable en el programa. 
+
+Se debe incluir un esfuerzo adicional para que el programa sea más eficiente, por lo que se debe optimizar el código y es importante que se utilice un bucle que se repita el número de veces que se requiera. 
+
+## Objetivo del ejercicio
+
+Se debe crear un programa que calcule el promedio de los números que se introducen en el programa. 
+
+## Especificaciones del programa
+
+* Se debe crear un programa que calcule el promedio de los números que se introducen en el programa.
+* Se debe incluir un esfuerzo adicional para que el programa sea más eficiente, por lo que se debe optimizar el código y se debe utilizar un bucle que se repita el número de veces que se requiere.
+* Se debe incluir un bucle que se repita el número de veces que se requiere. 
+
+## Código del programa
+
+"
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 + d. Let u = s - -0.01. What is the third smallest value in u, 0.3, 0.1?
+Answer:
+0.1<|end_of_text|>"
+2,"Question:
+Let l = -3 + 5. Let c be 3/(3/(-2)*l). Let t = 2.1 + 0.1. Which is the third biggest value?  (a) c  (b) t  (c) -0.2
+Answer:
+c<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Let w = -0.04 + g. Let m = -0.06 + w. Which is the closest to 0.1?  (a) m  (b) 0.3  (c) 2/5
+Answer:
+b<|end_of_text|>"
+4,"Question:
+Let v = 0.02 - -0.08. Let t = 0.17 + v. Let y = t + -0.08. Which is the closest to 1?  (a) y  (b) 2/3  (c) -1/4
+Answer:
+b<|end_of_text|>"
+5,"Question:Develop a Ruby program that calculates the result of the expression (x / 2) * 3, where x is an integer variable. The program should print the result in the console.
+
+Solution:Para solucionar este problema, vamos a utilizar la función de la variable se puede usar para calcular el resultado de la division entre dos números. Para hacerlo, vamos a utilizar la función divide, pero la función divide no se puede utilizar directamente, pues no nos permite calcular el resultado de la division entre dos números. Para calcular el resultado de la division, se debe utilizar la función divide, pero en este caso se debe pasar como argumento el resultado de la división, y no el número a dividir. Además, es necesario que se use la función divide en forma de se puede hacer un tipo de es una función que permite hacer las operaciones matemáticas que se requiere para resolver el problema. Para hacerlo, se debe utilizar la función divide, pero en este caso se debe pasar como argumento el resultado de la división, y no el número a dividir. Además, es necesario que se use la función divide en forma de se puede hacer un tipo de es una función que permite hacer las operaciones matemáticas que se"
+6,"def carpenter_intersection(a, b, c, d):
+    """"""Es un ejercicio de suma que va a sumar las tres variables a, b y c, y se va a comparar si es menor que 10.
+
+    Se va a mostrar un mensaje de aviso si la suma es menor a 10.
+
+    Args: 
+        a: Introduce el valor de a
+        b: Introduce el valor de b
+        c: Introduce el valor de c
+        d: Introduce el valor de d
+
+    Returns: 
+        Se va a mostrar un mensaje de aviso si la suma es menor que 10
+    """"""
+    suma = a + b + c + d
+    if suma < 10:
+        print(""La suma es menor que 10"")
+    else:
+        print(""La suma es mayor que 10"")
+<|end_of_text|>"
+7,"# 2-5. Escribe un programa que pida al usuario que ingrese un número y que le dé el resultado de su división por 2, 3 y 5. Si el número es par, debe ser divisible por 2 y 3, pero no debe ser divisible por 5. Si es impar, debe ser divisible por 2, 3 y 5, pero debe ser divisible por 3 y no por 5. Si no es posible dividir el número, debe imprimir un mensaje de error y no debe ser válido.
+
+def dividePor (numero):
+    if numero % 2 == 0:
+        print(""El número es par"")
+    if numero % 3 == 0:
+        print(""El número es divisible por 3"")
+    if numero % 5 == 0:
+        print(""El número es divisible por 5"")
+    else:
+        print(""No se puede dividir el número"")
+dividePor(10)
+dividePor(2)
+dividePor(3)
+dividePor(5)
+<|end_of_text|>"
+8,"Question:Develop a Python program that calculates the factorial of a number, using recursion and no functions.
+Solution:Write a recursive function that calculates the factorial of a number, without using functions.
+
+Solution:Write a recursive function that calculates the factorial of a number, without using functions. 
+
+``` 
+def factorial(n):
+    if n == 0 || n == 1
+        return 1;
+    else
+        return n * factorial(n-1);
+```<|end_of_text|>"
+9,"Question:
+Let x = -0.2 - -0.1. Let p = 0.1 - x. Let l = p - 0.1. Which is the closest to l?  (a) 2  (b) 1  (c) -3
+Answer:
+b<|end_of_text|>"
+10,"Question:Create a Java Class, que es la esencia de un proyecto, que se debe implementar en un servidor web, que es un proyecto que se puede desarrollar con el lenguaje Java y que se puede utilizar para mostrar un esquema de esquema de un sistema de esquemas de esquema de una web, que se puede utilizar para mostrar un esquema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema de esquema de un sistema"
+11,"Question: A patient with a fracture femur esquena in su esfuerzo es necesario un procedimiento de corrección que no es de conservación, es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es es"
+12,"Question:
+Let r = 0.011 + -0.071. Let f = 0.039 + r. Let t = -0.004 - f. What is t rounded to 2 dps?
+Answer:
+0.01<|end_of_text|>"
+13,"Question:
+Let h = -0.05 + 0.05. Let w = 0.07 + h. Let x = 0.007 - w. What is x rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>"
+14,"Question:Design un programa que pida al usuario un numero, por pantalla mostrar todos los numeros que se encuentra entre 5 y 100, pero que no son multiplos de 3, se debe utilizar un bucle que es lo que se quiere, para realizarlo se puede utilizar un bucle for o un bucle while, pero el programa debe ser lo más simple posible.
+<|end_of_text|>"
+15,"Question:
+Let y = -0.01 - 0.01. Let m = -0.06 - y. Let r = 0.05 - m. Which is the nearest to 0?  (a) -1  (b) r  (c) 2/9
+Answer:
+b<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.22. Let y = 0.17 + j. Let l = -0.07 - y. Which is the second smallest value?  (a) l  (b) 0.2  (c) 0.5
+Answer:
+b<|end_of_text|>"
+17,"Question:
+Let u = 0.009 - 0.011. Let h = 0.003 + 0.002. Let z = h + u. What is z rounded to 1 decimal place?
+Answer:
+0.1<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3. Let o = 3.2 - y. Let u = 0.09 - o. Round u to 1 dp.
+Answer:
+0.2<|end_of_text|>"
+19,"Question:Build a Java es6 se debe hacer una calculadora que resuelve la ecuación que se pone a continuación:
+a) Se pide resolver la ecuación: 2x^2-5x-4=0
+b) Se pide resolver la ecuación: 2x^2-5x-4=0
+c) Se pide resolver la ecuación: 2x^2-5x-4=0
+d) Se pide resolver la ecuación: 2x^2-5x-4=0
+Answer: a) Se pide resolver la ecuación: 2x^2-5x-4=0
+b) Se pide resolver la ecuación: 2x^2-5x-4=0
+c) Se pide resolver la ecuación: 2x^2-5x-4=0
+d) Se pide resolver la ecuación: 2x^2-5x-4=0
+Solution: a) Se pide resolver la ecuación: 2x^2-5x-4=0
+b) Se pide resolver la ec"
+20,"Question:Develop a Ruby program that calculates the sum of the first 10 numbers of the Fibonacci series. The Fibonacci series is defined by the recursive formula:
+F(0) = 0, F(1) = 1
+F(n) = F(n-1) + F(n-2)
+In other words, the first 10 numbers of the Fibonacci series are:
+1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89
+The program must calculate the sum of the first 10 numbers of the Fibonacci series and print the result.
+The sum of the first 10 numbers of the Fibonacci series is 55 + 3 + 5 + 13 + 21 + 34 + 55 + 89 = 270.
+In this exercise, we will use the recursive formula to calculate the sum of the first 10 numbers of the Fibonacci series.
+The first number of the Fibonacci series is 0.
+The second number of the Fibonacci series is 1.
+The third number of the Fibonacci series is 2.
+The fourth number of the Fibonacci series is 3.
+The fifth number of the Fibonacci series is 5.
+The sixth number of the Fibonacci"
+21,"Question:
+Let g = -0.012 + 0.003. Let y = 0.0123 - g. Let z = 0.0282 + y. Round z to 3 dps.
+Answer:
+0.001<|end_of_text|>"
+22,"Question: Which of the following is the most common cause of esophageal obstructions in adults?
+A. Esophago-gastric fistula
+B. Torsion de esophago-gastrico
+C. Esophageal cancer
+D. Esophageal tuberculosis
+Answer: A<|end_of_text|>"
+23,"Question: Which of the following is the most common cause of the syndrome of meningoencefalitis?
+A. Enfermedad de Lyme
+B. Toxoplasma
+C. Toxoplasma
+D. Herpes
+Answer: B<|end_of_text|>"
+24,"Question:Write a C# code snippet that calculates the factorial of a number, but this time using a recursive function.
+Solution:In this post, we will see how to calculate the factorial of a number using a recursive function.
+The factorial of a number is the product of all the natural numbers that precede it. For example, the factorial of 5 is 5 x 4 x 3 x 2 x 1 = 120.
+In this post, we will see how to calculate the factorial of a number using a recursive function.
+How to calculate the factorial of a number using a recursive function
+To calculate the factorial of a number, we will use the factorial function that we already have defined in our previous post. The factorial function is defined as follows:
+Recursively, the factorial of a number is the product of all the natural numbers that precede it.
+The factorial of 5 is 5 x 4 x 3 x 2 x 1 = 120.
+The factorial of 3 is 3 x 2 x 1 = 6.
+The factorial of 2 is 2 x 1 = 2.
+The factorial of 0 is 0.
+The factorial of 1 is 1.
+The factorial of a"
+25,"# Héctor Esquena
+
+Héctor Esquena (Buenos Aires, 25 de febrero de 1981) es un esquiador de fútbol, que se ha desempeñado como defensa en el fútbol club Deportivo Tafira de Tenerife, en la Liga Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútbol de Fútb"
+26,"Question:
+Let s = -4.2 + 4.2. Let x = 0.008 + 0.002. Let v = x - s. Which is the second biggest value?  (a) -0.4  (b) v  (c) 0.3
+Answer:
+a<|end_of_text|>"
+27,"Question:Develop a Python program that asks the user to enter a number and that, mediante una variable, se imprima en pantalla el valor de esta variable en los siguientes casos:
+a) Es un número positivo
+b) Es un número negativo
+c) Es un número mayor que 0
+d) Es un número menor que 0
+e) Es un número entero
+f) Es un número decimal
+g) Es un número entera fraccionario
+h) Es un número decimal fraccionario
+i) Es un número no entero
+j) Es un número no entera fraccionario
+k) Es un número no entero fraccionario
+l) Es un número no entero no fraccionario
+m) Es un número no entero no fraccionario
+n) Es un número no entero no fraccionario
+o) Es un número no entero no fraccionario
+p) Es un número no entero no fraccionario
+q) Es un número no entero no fraccionario
+r) Es un número no entero no fraccionario
+s) Es un número no entero no fraccionario
+t) Es un número no entero no fraccion"
+28,"Question:
+Let t = 0.05 - 0.05. Let j = 0.2 - t. Let r = -0.029 - j. Round r to 2 dps.
+Answer:
+-0.02<|end_of_text|>"
+29,"Question:Write a C# code to calculate the number of days in a month of a specified year. If the year is a multiple of 4, the number of days in the year will be divisible by 365. If the year is not a multiple of 4, the number of days in the year will be divisible by 365, except for 3, 97, 200, 2000 y. 2003, 2004 y. 2005 y. 2006 y. 2007 y. 2008 y. 2009 y. 2010 y. 2011 y. 2012 y. 2013 y. 2014 y. 2015 y. 2016 y. 2017 y. 2018 y. 2019 y. 2020 y. 2021 y. 2022 y. 2023 y. 2024 y. 2025 y. 2026 y. 2027 y. 2028 y. 2029 y. 2030 y. 2031 y. 2032 y. 2033 y. 2034 y. 2035 y. 2036 y. "
+30,"Question:
+Let y = -0.009 - -0.041. Let s = y - 0.029. Let u = s - -0.001. What is u rounded to 2 decimal places?
+Answer:
+0.01<|end_of_text|>"
+31,"Question:
+Let m = -1.07 - -1.07. Let w = 0.03 + -0.03. Let a = w + m. Which is the nearest to 0.2?  (a) 0.1  (b) -0.4  (c) 2/5
+Answer:
+a<|end_of_text|>"
+32,"Question:
+Let t = 0.002 - -0.038. Let x = 0.045 + t. Let g = x + -0.048. What is g rounded to 3 decimal places?
+Answer:
+-0.003<|end_of_text|>"
+33,"def calculate_expenses(expenses, cantidad):
+    """"""Calcula el total de los gastos de un cliente.
+
+    Args: 
+        expenses: Es un diccionario con el nombre del cliente y el total de sus gastos.
+        cantidad: Es un entero que representa la cantidad de gastos que tiene el cliente.
+
+    Returns: 
+        El total de gastos del cliente.
+    """"""
+    total = 0
+    for k, v in expenses.items():
+        total += v
+    return total
+<|end_of_text|>"
+34,"Question: Which of the following es un elemento de la familia de los arácnidos?
+A. araña
+B. lagomorfo
+C. anfibio
+D. insecto
+Answer: B<|end_of_text|>"
+35,"Question:
+What is the third biggest value in 0.1, 3/5, -0.3, 1?
+Answer:
+-0.3<|end_of_text|>"
+36,"Question:
+Let o = 0.004 + -0.0042. Let u = 0.048 - o. Let w = u + -0.004. Which is the closest to 0?  (a) w  (b) -1  (c) -0.1
+Answer:
+c<|end_of_text|>"
+37,"# List of esquelas en el cine
+
+La lista de esquelas en el cine es una lista de esquelas de películas que se han hecho en el cine. 
+
+## Enlaces externos
+
+* «Cine.com: Esquelas en el cine». Consultado el 14 de mayo de 2006.
+
+*  Datos: Q1056091<|end_of_text|>"
+38,"Question:
+What is the common denominator of 33/10 and 89/10?
+Answer:
+10<|end_of_text|>"
+39,"Question:
+Let t = -0.028 + -0.022. Let x = -0.04 + t. Let y = 0.04 + x. What is y rounded to 2 dps?
+Answer:
+0.02<|end_of_text|>"
+40,"# 2002-2003 (álbum de la banda)
+
+El álbum 2002-2003 de la banda esquenquera de rock en español La Ciega Tierra es su segundo trabajo en solitario. Es su primer álbum en ser grabado en formato CD y contiene 12 temas, además de dos versiones de los temas ""Pese a estar loco"" y ""La última vez"". 
+
+Es el segundo álbum en solitario de la banda, además de su primer trabajo en formato CD. Es el segundo álbum en solitario de la banda, además de su primer trabajo en formato CD. 
+
+Es el segundo álbum en solitario de la banda, además de su primer trabajo en formato CD. Es el segundo álbum en solitario de la banda, además de su primer trabajo en formato CD.
+
+## Composición
+
+La banda ha realizado un cambio en su sonido, al tener que adaptarse a los cambios de la escena en los años noventa. En este álbum, la banda ha utilizado el rock en español y pop, pero también ha incorporado influencias de otros géneros como el heavy metal y el punk"
+41,"Question:
+Let a = -1.5 + 1.7. Let j = -2.2 + a. Let x = j + 2.9. What is x rounded to 1 decimal place?
+Answer:
+1<|end_of_text|>"
+42,"Question:
+Let l = 0.033 - 0.053. Let d = -0.3 + l. Let f = d - -0.0299992. Round f to 6 decimales.
+Answer:
+0.000001<|end_of_text|>"
+43,"Question:
+Let u = -0.037 + 0.035. Let w = u + -0.029. Let d = -0.036 - w. What is d rounded to 2 decimal places?
+Answer:
+-0.03<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + 0.1. Let m = -0.8 - o. Let n = -0.4 + m. Which is the closest to n?  (a) -2/5  (b) -0.4  (c) 2
+Answer:
+b<|end_of_text|>"
+45,"Question:
+Let x = 0.007 + 0.093. Let d = 0.063 + x. Let v = -0.1 - d. What is v rounded to 2 decimal places?
+Answer:
+0.01<|end_of_text|>"
+46,"Question:Write a Java code snippet that calculates the result of a division between two numbers, and that, if the result is a negative number, it prints “The result is negative”.
+Solution:Write a java code snippet that calculates the result of a division between two numbers, and that, if the result is a negative number, it prints “The result is negative”.
+   //Es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es un es"
+47,"# Generated by esmeres
+# Este es el archivo principal que se ejecuta en el servidor
+# El archivo se llama index.js y se encuentra en el directorio /server
+
+import esmeres
+import esmeres.excepciones
+import esmeres.casos
+import esmeres.excepciones.esmeres.excepciones
+import esmeres.excepciones.esmeres.excepciones
+import esmeres.excepciones.esmeres.excepciones
+import esmeres.excepciones.esmeres.excepciones
+import esmeres.excepciones.esmeres.excepciones
+import esmeres.excepciones.esmeres.excepciones
+import esmeres.excepciones.esmeres.excepciones
+import esmeres.excepciones.esmeres.excepciones
+import esmeres.excepciones.esmeres.excepciones
+import esmeres.excepciones.esmeres.excepciones
+import esmeres.excepciones.esmeres.excepciones
+import esmeres.excepciones.esmeres.excepciones
+import esmeres.excepciones.esmeres.excepciones
+import esmeres.excepciones.esmeres.excepciones
+import"
+48,"Question: Which of the following is the most common cause of an esophageal perforation?
+A. Puede aparecer en el esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la esnoglo es la es"
+49,"Question:Create a Java Class llamada Persona que tenga las siguientes propiedades:
+
+* Nombre
+* Apellido
+* Edad
+* Color de la piel
+* Sexo (Masculino o Femenino)
+
+* Método que se encarga de mostrar el nombre y apellido de la persona.
+
+* Método que se encarga de mostrar el color de la piel de la persona.
+
+* Método que se encarga de mostrar el sexo de la persona.
+
+* Método que se encarga de mostrar el valor de edad de la persona.
+
+* Método que se encarga de mostrar el valor de edad de la persona.
+
+* Método que se encarga de mostrar el valor de edad de la persona.
+
+* Método que se encarga de mostrar el valor de edad de la persona.
+
+* Método que se encarga de mostrar el valor de edad de la persona.
+
+* Método que se encarga de mostrar el valor de edad de la persona.
+
+* Método que se encarga de mostrar el valor de edad de la persona.
+
+* Método que se encarga de mostrar el valor de edad de la persona.
+
+* Método que se encarga de mostrar el valor de edad de la persona.
+
+* Método que se encarga de mostrar el valor de edad de la persona.
+
+* Método que se enc"
+50,"Question:
+Let g = 0.0114 - -0.0486. Let h = g + -0.01. Let o = h + -0.029. What is o rounded to two dps?
+Answer:
+-0.03<|end_of_text|>"
+51,"Question:
+Let w = 0.0022 + -0.0022. Let j = -0.01 - w. Let x = -0.12 - j. What is x rounded to 2 decimal places?
+Answer:
+-0.1<|end_of_text|>"
+52,"def create_list_complement(my_list, escomparacion):
+    """"""Función que crea un listado de números y crea un nuevo listado que es el complemento de otro listado, es decir, crea una lista de números que no son en el listado original""""""
+    #1. Crear un nuevo listado
+    #2. Añadir los números que se encuentra en el listado original
+    #3. Añadir los números que no se encuentra en el listado original
+    #4. Comprobar si es un número entero
+    #5. Comprobar si es un número entero
+    #6. Comprobar si es un número entero
+    #7. Comprobar si es un número entero
+    #8. Comprobar si es un número entero
+    #9. Comprobar si es un número entero
+    #10. Comprobar si es un número entero
+    #11. Comprobar si es un número entero
+    #12. Comprobar si es un número entero
+    #13. Comprobar si es un número entero
+    #14. Comprobar si es un número"
+53,"Question:
+What is prob of picking 1 j and 1 y when two letters picked without replacement from yjyjy?
+Answer:
+1/3<|end_of_text|>"
+54,"Question:Develop a Python program that, given the name of a director, escribe a script que descarga su video de Youtube y le da un toque de esencia a su film, lo que se le da a conocer es que es un gran cineasta.
+<|end_of_text|>"
+55,"def count_cultivos(cultivo):
+    """"""Dame el número de cultivos en el diccionario de cultivos""""""
+
+    cultivos = {""cultivo1"": 2, ""cultivo2"": 3, ""cultivo3"": 5}
+
+    return cultivos[cultivo]
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 33/8 and 7/5?
+Answer:
+40<|end_of_text|>"
+57,"Question:
+Let w = -0.054 + 0.154. Let t = -0.4 + 0.3. Let f = -0.2 - t. What is the smallest value in f, w, 0.2?
+Answer:
+w<|end_of_text|>"
+58,"def marketing_manager_exercise(market_data):
+    """"""Escreva un programa que calcule el número de productos que se vende en el mercado, según la cantidad de productos que hay y la cantidad de días que se ha vendido.
+
+    El programa debe calcular el número de productos vendidos en cada día, es decir, el número de productos que se vendió en cada día se debe calcular por cada producto, y se debe tener en cuenta que no se debe repetir productos.
+    El programa debe calcular el número de productos vendidos en el día 1, el día 2, el día 3 y así sucesivamente.
+
+    Se debe calcular el número de productos vendidos en cada día, es decir, el número de productos que se vendió en cada día se debe calcular por cada producto, y se debe tener en cuenta que no se debe repetir productos.
+    El programa debe calcular el número de productos vendidos en el día 1, el día 2, el día 3 y así sucesivamente.
+
+    Se debe calcular el número de productos vendidos en cada día, es decir, el número de productos que se vendió en cada día se debe calcular por cada producto, y se debe tener en cuenta que no se"
+59,"Question:
+What is the common denominator of 23/2 and 57/25?
+Answer:
+50<|end_of_text|>"
+60,"Question:
+Let h = -7 + 6. Let u = -1.2 - h. Let j = 1.2 - u. Which is the closest to 0?  (a) 0.2  (b) j  (c) 1
+Answer:
+a<|end_of_text|>"
+61,"Question:
+Let l = -7.7 - -7.7. Let p = -0.3 + l. Let x = -0.2 - p. What is x rounded to 1 decimal place?
+Answer:
+-0.2<|end_of_text|>"
+62,"Question:
+Let g = -0.004 - 0.006. Let a = g + 0.009. Let z = 0.009 + a. Round z to 2 dps.
+Answer:
+0.01<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.02702. Let r = o - -0.0372. Let a = r + 0.037. Round a to 3 dps.
+Answer:
+0.003<|end_of_text|>"
+64,"Question:
+Let q = -0.045 + 0.045049. Let p = q - 0.049. What is p rounded to 4 decimal places?
+Answer:
+-0.0001<|end_of_text|>"
+65,"Question:
+Let h = -0.046 - -0.057. Let p = 0.059 + h. Let j = -0.019 - p. What is j rounded to 2 dps?
+Answer:
+-0.02<|end_of_text|>"
+66,"Question:Create a Python script that, cuando se le pida a un cliente, le pida que ingrese su nombre y su apellido y se lo diga, pero al hacerlo, se le pida que ingrese su edad. En caso de que el usuario no sepa su edad, se le pida que ingrese su año de nacimiento. En caso de que el usuario no sepa su año de nacimiento, se le pide que ingrese su año de nacimiento. En caso de que el usuario no sepa su año de nacimiento, se le pide que ingrese su año de nacimiento. En caso de que el usuario no sepa su año de nacimiento, se le pide que ingrese su año de nacimiento. En caso de que el usuario no sepa su año de nacimiento, se le pide que ingrese su año de nacimiento. En caso de que el usuario no sepa su año de nacimiento, se le pide que ingrese su año de nacimiento. En caso de que el usuario no sepa su año de nacimiento, se le pide que ingrese su año de nacimiento. En caso de que el usuario no sepa su año de nacimiento"
+67,"Question:Create a Python script that, con una es la función de la semana, recuerde que la semana ha finalizado y que se esta preparando para el inicio de la nueva.
+A) Se debe escribir un programa que recuerde que la semana ha finalizado y que se esta preparando para el inicio de la nueva.
+B) Se debe escribir un programa que recuerde que la semana ha finalizado y que se esta preparando para el inicio de la nueva.
+C) Se debe escribir un programa que recuerde que la semana ha finalizado y que se esta preparando para el inicio de la nueva.
+D) Se debe escribir un programa que recuerde que la semana ha finalizado y que se esta preparando para el inicio de la nueva.
+E) Se debe escribir un programa que recuerde que la semana ha finalizado y que se esta preparando para el inicio de la nueva.
+F) Se debe escribir un programa que recuerde que la semana ha finalizado y que se esta preparando para el inicio de la nueva.
+G) Se debe escribir un programa que recuerde que la semana ha finalizado y que se esta preparando para el inicio de la nueva.
+"
+68,"Question:
+What is 3/10 of a tonne in kilograms?
+Answer:
+300<|end_of_text|>"
+69,"Question:
+Let d = -0.0461 + 0.046. Let y = d + 0.0001. Let u = y + -0.049. Round u to 2 decimal places.
+Answer:
+-0.01<|end_of_text|>"
+70,"Question: Which of the following is the best marker para la deteccion de diabetes esencial?
+A. Glucosa en sangre
+B. Insulina
+C. Glucose en la orina
+D. Insulina
+Answer: B<|end_of_text|>"
+71,"Question:
+Let l = 0.021 - 0.052. Let r = 0.0481 - l. Let y = 0.0481 - r. What is y rounded to three dps?
+Answer:
+0.007<|end_of_text|>"
+72,"Question:
+Let m = 0.012 + 0.078. Let d = 0.02 - m. Let z = d + 0.000000006. What is z rounded to 7 decimales?
+Answer:
+0.000000006<|end_of_text|>"
+73,"def calculate_gross_ventas(fecha, ventas):
+    """"""Calcula la cantidad de ventas realizadas en una fecha determinada.
+    Se debe calcular el total de ventas realizadas en una fecha determinada.
+    Se debe calcular el total de ventas realizadas en una fecha determinada.
+    Se debe calcular el total de ventas realizadas en una fecha determinada.
+
+    Args:
+    fecha (str): Fecha a calcular.
+    ventas (int): Cantidad de ventas realizadas.
+
+    Returns:
+    total (int): Total de ventas realizadas en una fecha determinada.
+    """"""
+    return ventas
+<|end_of_text|>"
+74,"Question:Develop a Ruby program that calculates the factorial of a number. The factorial of a number n is the product obtained by multiplying all the numbers from 1 to n, except for 1. For example, the factorial of 5 is 5 x 4 x 3 x 2 x 1 = 60. You can do this calculation using the factorial method. The factorial method is as follows: Factorial (n) = n * (n-1) * (n-2) * (n-3) * … * 2 * 1. In this way, you can find the factorial of a number n as: Factorial(n) = n * (n-1) * (n-2) * (n-3) * … * 2 * 1. In this way, you can find the factorial of a number n as: Factorial(n) = n * (n-1) * (n-2) * (n-3) * … * 2 * 1. In this way, you can find the factorial of a number n as: Factorial(n) = n * (n-1) * (n-2) * (n-3) * … *"
+75,"Question:Create a C# library (no es necesario que sea una librería) que reciba por parámetro un string y lo convierta a un array de caracteres. El string puede ser de cualquier longitud. El array debe contener todos los caracteres del string.
+<|end_of_text|>"
+76,"Question:
+Calculate prob of picking 1 n and 1 d when two letters picked without replacement from {n: 2, d: 1, v: 1, x: 1}.
+Answer:
+2/3<|end_of_text|>"
+77,"def create_tuple_from_string(string, es):
+    """"""Crear un nuevo arreglo de las letras del string, y el es, es decir, el segundo elemento
+    se va a quedar en el segundo valor de es, y el primero en el primer valor de es, y así sucesivamente
+    """"""
+    return [string[0], string[1], string[2], string[3], string[4]]
+<|end_of_text|>"
+78,"Question: Which of the following es una causa de disminución de la glomerulosilia?
+A. Diabetes tipo 2
+B. Diarrea
+C. Obesidad
+D. Hipertension
+Answer: B<|end_of_text|>"
+79,"Question:
+Let x = 0.023 - 0.033. Let f = 0.03 - x. Let u = -0.1 + f. What is u rounded to zero decimal places?
+Answer:
+-1<|end_of_text|>"
+80,"Question:
+What is the next term in 12, 24, 36, 48, 60, 72?
+Answer:
+84<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.7. Let x = 0.2 - o. Let p = x - -0.4. Which is the third smallest value?  (a) -3  (b) p  (c) 1/3
+Answer:
+c<|end_of_text|>"
+82,"Question:
+Let u = -0.018 - 0.182. Let v = u + 0.09. Let q = -0.026 + v. Round q to 1 decimal place.
+Answer:
+-0.2<|end_of_text|>"
+83,"Question:
+Let w = 0.017 - 0.058. Let h = 0.035 + w. Let c = 0.035 + h. Which is the nearest to 2/3?  (a) -1  (b) c  (c) -2
+Answer:
+b<|end_of_text|>"
+84,"def update_medidas(medidas, valor):
+    """"""Función que se encarga de actualizar las medidas de un objeto
+    en base a un valor que se le pasa como argumento.
+    """"""
+    for i in range(len(medidas)):
+        if (medidas[i].get(""medida"") == valor):
+            medidas[i].set(""medida"", valor)
+            break;
+    return
+
+
+class Medidor:
+    def __init__(self, nombre, precio, medida):
+        this.nombre = nombre
+        this.precio = precio
+        this.medida = medida
+        this.esMasBarato = false
+
+    def esMasBarato(self, otroMedidor):
+        if (this.precio < otroMedidor.precio):
+            this.esMasBarato = true
+        return
+
+    def setMedida(self, nuevoValor):
+        this.medida = nuevoValor
+        this.esMasBarato = false
+        return
+
+    def setPrecio(self, nuevoPrecio):
+        this.precio = nuevoPrecio
+        return
+
+    def setNombre(self, nuevoNombre):
+        this.nombre = nuevoNombre
+        return
+
+    def setMedida(self, nuevoMedida):
+        this.medida = nuevoMedida
+"
+85,"def modify_tuple(my_tuple):
+    """"""Modifica el contenido de un tuple""""""
+    my_tuple[0] = 3
+    my_tuple[1] = 5
+    my_tuple[2] = 2
+
+    print(my_tuple)
+
+<|end_of_text|>"
+86,"Question:Create a Python script that asks the user to enter a string of characters and, con suerte, que el programa lo muestre en pantalla. Luego, con un bucle se debe imprimir el mismo string pero con una letra en cada esquina. En este caso, la letra se debe cambiar cada 4 caracteres.
+<|end_of_text|>"
+87,Question:Create a Ruby program que es el que realiza un cálculo simple de los impuestos de la familia. El programa debe tener un esquema de lógica sencillo y que no es complicado de entender. El programa debe tener un esquema de lógica sencillo y que no es complicado de entender. El programa debe tener un esquema de lógica sencillo y que no es complicado de entender. El programa debe tener un esquema de lógica sencillo y que no es complicado de entender. El programa debe tener un esquema de lógica sencillo y que no es complicado de entender. El programa debe tener un esquema de lógica sencillo y que no es complicado de entender. El programa debe tener un esquema de lógica sencillo y que no es complicado de entender. El programa debe tener un esquema de lógica sencillo y que no es complicado de entender. El programa debe tener un esquema de lógica sencillo y que no es complicado de entender. El programa debe tener un esquema de lógica sencillo y
+88,"Question:
+Let w = 0.1 - -0.1. Let s = 0.1 + w. Let m = 0.01 - s. Which is the closest to -1/4?  (a) 2/5  (b) m  (c) -3
+Answer:
+b<|end_of_text|>"
+89,"Question:
+Let n = -0.031 - 0.005. Let m = 0.0344 + n. Round m to 3 decimales.
+Answer:
+0.002<|end_of_text|>"
+90,"def add_frases(frase1, frase2, frase3, frase4):
+    """"""Devuelve una frase que se une a las frases ingresadas""""""
+    frase1 += "" y "" + frase2
+    frase2 += "" y "" + frase3
+    frase3 += "" y "" + frase4
+    frase4 += "" y "" + frase1
+    return frase1 + "" y "" + frase2 + "" y "" + frase3 + "" y "" + frase4
+
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 103 is divided by 29?
+Answer:
+20<|end_of_text|>"
+92,"Question:
+Calculate prob of picking 1 n and 1 a when two letters picked without replacement from {n: 2, a: 2, p: 2, f: 1, l: 2}.
+Answer:
+2/21<|end_of_text|>"
+93,"Question:
+Let j = 0.001 - -0.039. Let l = 0.004 + j. Let f = -0.003 + l. Which is the closest to 1?  (a) f  (b) 2/7  (c) -0.2
+Answer:
+b<|end_of_text|>"
+94,"Question:Build a Ruby library que se puede usar para el seguimiento de las ventas y hacer que se puedan conocer el detalle de cada producto vendido. Se debe tener en cuenta que el cliente puede comprar productos de manera diferente, por lo que se debe crear una librería que se pueda utilizar en el sistema de ventas. Es importante que se crea una librería que se pueda utilizar en el sistema de ventas. Es importante que se crea una librería que se pueda utilizar en el sistema de ventas. Es importante que se crea una librería que se puede utilizar en el sistema de ventas. Es importante que se crea una librería que se puede utilizar en el sistema de ventas. Es importante que se crea una librería que se puede utilizar en el sistema de ventas. Es importante que se crea una librería que se puede utilizar en el sistema de ventas. Es importante que se crea una librería que se puede utilizar en el sistema de ventas. Es importante que se crea una librería que se puede utilizar en el sistema de ventas. Es importante que se crea una librería que se puede utilizar en el sistema de ventas. Es importante que se crea una librería que se puede utilizar en el sistema de ventas"
+95,"Question:
+Let o = 0.2 + 1.2. Let m = 0.06 - o. Let j = 0.01 - m. Which is the closest to -1/3?  (a) 0.2  (b) j  (c) -2/3
+Answer:
+c<|end_of_text|>"
+96,"# 2004 en televisión
+
+A lista de eventos de 2004 en el mundo de la televisión se divide en categorías como series, telenovelas, programas de televisión, documentales, especialidades, etc.
+
+## Año 2004
+
+* 27 de marzo: El presidente de la Comisión Nacional de los Derechos Humanos, �ngel Tienda, es detenido por la Policía Nacional del Estado y la Guardia Civil tras ser acusado de ser un agente de la UDA.
+* 27 de marzo: El presidente de la Comisión Nacional de los Derechos Humanos, �ngel Tienda, es detenido por la Policía Nacional del Estado y la Guardia Civil tras ser acusado de ser un agente de la UDA.
+* 28 de marzo: El presidente de la Comisión Nacional de los Derechos Humanos, �ngel Tienda, es detenido por la Policía Nacional del Estado y la Guardia Civil tras ser acusado de ser un agente de la UDA.
+* 29 de marzo: El presidente de la Comisión Nacional de los Derechos Humanos, �ngel Tienda, es detenido por la Polic"
+97,"Question:
+Let c = 0.049 - -0.041. Let u = c + -0.09. Let v = 0.027 + u. What is v rounded to 2 decimal places?
+Answer:
+0.02<|end_of_text|>"
+98,"Question:Develop a Java program that allows the user to calculate the result of a multiplication between two numbers. The user must enter two numbers and the result must be displayed on the screen. The program must be written using classes and objects and the user must be able to modify the numbers to calculate the result of the multiplication.
+<|end_of_text|>"
+99,"def psychologist_intersection_exercise(person, persona):
+    """"""
+    El objetivo de este ejercicio es que el profesor de psicología pueda utilizar el método de operación en una situación real de la vida y se puede utilizar la función de operación en un problema real de la vida.
+    El profesor debe realizar un análisis sobre la situación que le ha tocado a su alumno y debe dar una solución a la misma, es decir, es necesario que el profesor utilice el método de operación en una situación real de la vida.
+    """"""
+    persona = ""Ana""
+    es_cocinera = False
+    es_profesora = True
+
+    if es_cocinera and es_profesora:
+        print(""La profesora es cocinera y es profesora, por lo tanto no puede ser cocinera y no puede ser profesora"")
+    else:
+        print(""La profesora no puede ser cocinera y no puede ser profesora, por lo tanto es cocinera y es profesora"")
+<|end_of_text|>"

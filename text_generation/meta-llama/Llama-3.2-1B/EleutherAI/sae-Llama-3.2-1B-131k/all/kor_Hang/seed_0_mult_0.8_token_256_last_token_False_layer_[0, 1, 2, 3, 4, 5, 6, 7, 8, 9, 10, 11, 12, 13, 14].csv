@@ -1,0 +1,601 @@
+seed,generated_text
+0,"Question:Write a Python SBS (수박) 프로그램 (SBS : 수박orc)
+         예기한 채소�
+         예기한 결과 : 10부기
+             - 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+            - 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+            - 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+            - 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+            - 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+            - 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+            - 1, 2, 3, 4, 5"
+1,"Question:
+Let w = 0.061 + -0.0209. What is w rounded to 3 decimalsoseungsim?
+Answer:
+-1<|end_of_text|>"
+2,"Question:
+Let l = -3.9 - -3.9. Let t = 0.8 + l. Let k = -2.9 + t. What is the closest to k?  (a) -2/3  (b) 0.3  (c) -1
+Answer:
+b<|end_of_text|>"
+3,"Question:
+Let g = 1197 - 1202. Let k be 5/(-2) + 3/(-2). Let w = g + k. Calculate the lowest common multiple of w and 10.
+Answer:
+10<|end_of_text|>"
+4,"Question:
+Let f = 11.9 - 12. Let k = 0.9 - f. Let g = -0.99999997 - k. What is g rounded to 6 decimal parks?
+Answer:
+-1<|end_of_text|>"
+5,Question:Develop a Python program to check the frequency of use of the bathroom. The frequency is calculated by the following formula: (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)
+6,"def count_woo_seong(choseong, numofsong, numofbae) : 
+    # 정수화수, 노래수, 배수
+    # 조합의 개수
+    # 정수화수, 노래수, 배수
+    # 정수화수, 노래수, 배수
+    # 정수화수, 노래수, 배수
+    # 정수화수, 노래수, 배수
+    # 정수화수, 노래수, 배수
+    # 정수화수, 노래수, 배수
+    # 정수화수, 노래수, 배수
+    # 정수화수, 노래수, 배수
+    # 정수화수, 노래수, 배수
+    # 정수화수, 노래수, 배수
+    # 정수화수, 노래수, 배수
+    # 정수화수, 노래수, 배수
+    # 정수화수, 노래수, 배수
+    # 정수화수, 노래수, 배수
+    # 정수화수, 노래수, 배수
+    # 정수화수, 노래수, 배수
+    # 정수화"
+7,"# 2. SBS검정고교
+# 1. 리스트 정렬
+# 2. 정렬한수
+# 3. 정렬한수 정수장수= 정수열
+# 4. 정수열 정수열 = 정수열(정수열) = 정수열(정수열) = 정수열(정수열) = 정수열(정수열)
+# 5. 정수열 정수열 = 정수열(정수열) = 정수열(정수열) = 정수열(정수열) = 정수열(정수열)
+# 6. 정수열 정수열 = 정수열(정수열) = 정수열(정수열) = 정수열(정수열) = 정수열(정수열)
+# 7. 정수열 정수열 = 정수열(정수열) = 정수열(정수열) = 정수열(정수열) = 정수열(정수열)
+# 8. 정수열 정수열 = 정수열(정수열) = 정수열(정수열"
+8,"Question: Which of the following is the most likely to be a consequence of SBS?
+A. SBS, SBS, SBS
+B. SBS, SBS, SBS
+C. SBS, SBS, SBS
+D. SBS, SBS, SBS
+Answer: C<|end_of_text|>"
+9,"Question:
+Let k = -0.0199 + 0.015. What is k rounded to two decimalsoseom?<|end_of_text|>"
+10,Question: Which of the following is the best treatment for the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment of the treatment
+11,"Question: A 37-year old woman developed severe flu. The next day she was admitted to the hospital. She was found to be positive for SBSO, SBSO, and SBSO. Her SBSO was 48, SBSO was 48, and SBSO was 48. She was diagnosed with SBSO, SBSO, and SBSO. She was diagnosed with SBSO, SBSO, and SBSO. She was diagnosed with SBSO, SBSO, and SBSO. She was diagnosed with SBSO, SBSO, and SBSO. She was diagnosed with SBSO, SBSO, and SBSO. She was diagnosed with SBSO, SBSO, and SBSO. She was diagnosed with SBSO, SBSO, and SBSO. She was diagnosed with SBSO, SBSO, and SBSO. She was diagnosed with SBSO, SBSO, and SBSO. She was diagnosed with SBSO, SBSO, and SBSO. She was diagnosed with SBSO, SBSO, and SBSO. She was diagnosed with"
+12,"Question:
+Let n = 1.5 + -0.9. Let f = 2.7 - n. Let t = -0.0129 + f. What is t rounded to 3 decimalsooseo
+Answer:
+-1<|end_of_text|>"
+13,"def count_sungdongs(list_of_sungdongs):
+    """"""Return the number of sungdongs that are not in the list of sungdongs""""""
+    return [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73"
+14,"Question: Which of the following is not a sign of aneony?
+A. Sudden onset of vision
+B. Aneoyn, Sudden onset of vision, and eventually the whole of the eye
+C. Sudden onset of vision, and eventually the whole of the eye
+D. Sudden onset of vision, and eventually the whole of the eye
+Answer: C<|end_of_text|>"
+15,"Question:
+Let g = 0.0149 + 11.9931. What is g rounded to 1 decimal park?<|end_of_text|>"
+16,"Question:
+Let j = 0.021 + -0.017. Let s = 0.0123 - j. Round s to 3 decimalsoosee
+Answer:
+-1<|end_of_text|>"
+17,"Question:
+Let f = 0.019 + 0.032. Let h = 0.003 + f. Let n = h - 0.027. What is n rounded to 1 decimal Park?
+Answer:
+-0.9<|end_of_text|>"
+18,"Question:
+Let g = 3.8 - 3.9. Let o = -2.9 + g. Let k = -1.5 + o. What is the biggest value in k, 2, 0.1?
+Answer:
+2<|end_of_text|>"
+19,"Question:Build a JavaSoll Application
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    - _수정하기
+    -"
+20,"Question: Which of the following is a pathogen?
+A. 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46. 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57. 58. 59. 60. 61. 62. 63. 64. 65. 66. 67. 68. 69. 70. 71. 72. 73. 74. 75. 76. 77. 78. 79. 80. 81."
+21,"Question:
+Let g = 0.0124 + -0.015. Let h = g + 0.032. Let n = h + -0.037. What is n rounded to 2 decimalsoseung신수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수정수수"
+22,"Question: Which of the following is a sign of aneony?
+A. A) Sudden onset of pain
+B. B) Pain with slight swelling
+C. C) Pain with slight swelling and bleeding
+D. D) Pain with slight swelling and bleeding and no injury
+Answer: D<|end_of_text|>"
+23,"Question: Which of the following is not true about the treatment of SBS?
+A. SBS is treated like normal person
+B. SBS is treated like HSR
+C. SBS is treated like SBS
+D. SBS is treated like SBS
+Answer: A<|end_of_text|>"
+24,"Question: The best method to diagnose the location of the site of infection is
+A. Noh-한의
+B. An-한의
+C. So-한의
+D. So-한의
+Answer: D<|end_of_text|>"
+25,# C.조원 (한수교) : [조원(조희원) 1) 1) 10-1-1-1-1-2-2-2-2-3-3-3-4-4-4-5-5-5-6-6-6-7-7-7-8-8-8-9-9-9-10-10-10-11-11-11-12-12-12-13-13-13-14-14-14-15-15-15-16-16-16-17-17-17-18-18-18-19-19-19-20-20-20-21-21-21-22-22-22-23-23-23-24-24-24-25-25-25-26-26-26-27-27-27-28-28-28-29-29-29-30-30-30-31-31-31-32-32-32-33-33-33-34-34-34-35-35-35-36-36-36-37-37-37-38-
+26,"Question:
+Let s = -4.9 + 5. Let l = 0.0096 + 0.029. Let k = l + s. What is k rounded to 2 decimalsose
+Answer:
+-0.1<|end_of_text|>"
+27,Question:Develop a Go programmers'hanjang (한양) 1) 1) 2) 3) 4) 5) 6) 7) 8) 9) 10) 11) 12) 13) 14) 15) 16) 17) 18) 19) 20) 21) 22) 23) 24) 25) 26) 27) 28) 29) 30) 31) 32) 33) 34) 35) 36) 37) 38) 39) 40) 41) 42) 43) 44) 45) 46) 47) 48) 49) 50) 51) 52) 53) 54) 55) 56) 57) 58) 59) 60) 61) 62) 63) 64) 65) 66) 67) 68) 69) 70) 71) 72) 73) 74) 75) 76) 77) 78) 79) 80)
+28,"def create_ensemble(dance, music, dance_floor, dance_floor_1, dance_floor_2, dance_floor_3, dance_floor_4, dance_floor_5, dance_floor_6, dance_floor_7, dance_floor_8, dance_floor_9, dance_floor_10, dance_floor_11, dance_floor_12, dance_floor_13, dance_floor_14, dance_floor_15, dance_floor_16, dance_floor_17, dance_floor_18, dance_floor_19, dance_floor_20, dance_floor_21, dance_floor_22, dance_floor_23, dance_floor_24, dance_floor_25, dance_floor_26, dance_floor_27, dance_floor_28, dance_floor_29, dance_floor_30, dance_floor_31, dance_floor_32, dance_floor_33, dance_floor_34, dance_floor_35, dance_floor_36, dance_floor_37, dance_floor_38, dance_floor_39, dance_floor_40, dance_floor_41, dance_floor_42, dance_floor_43, dance_floor_44, dance_floor_45, dance_floor_46, dance_floor_47, dance_floor_48, dance_floor_49"
+29,"Question:Write a Python Program to Find out the SBS(수성비) for 1, 2, 3, 4, 5, 6, 7, 8, 9, 10. SBS = SBS+ SBS- ADBA (아동부모부기) = 10+ 3+ 2+ 1+ 7+ 5+ 4+ 3+ 2+ 1+ 5= 8+ 6+ 7+ 8+ 9+ 10= 10+ 9+ 8+ 7+ 6+ 5+ 4+ 3+ 2+ 1+ 0+ 0= 0+ 0+ 0+ 0+ 0+ 0+ 0+ 0+ 0+ 0+ 0= 0+ 0+ 0+ 0+ 0+ 0+ 0+ 0+ 0+ 0+ 0= 0+ 0+ 0+ 0+ 0+ 0+ 0+ 0+ 0+ 0+ 0= "
+30,"Question:
+Let n = 0.0099 - 0.019. Let t = n + 0.032. What is t rounded to 2 decimalsoseo?
+Answer:
+-0.1<|end_of_text|>"
+31,"Question:
+Let g = -1.9 + 2. Let k = 2.9 + g. Let n = 0.9 - k. What is the closest to -1/2 in -2, n, 1?
+Answer:
+n<|end_of_text|>"
+32,"Question:
+Let t = 18.9 - 19. Let n = 0.0000038 + t. What is n rounded to 6 decimalosesooseeum?<|end_of_text|>"
+33,"def build_road(num_seo, num_road, num_roadseok, num_roadseok2, num_roadseok3, num_roadseok4, num_roadseok5, num_roadseok6, num_roadseok7, num_roadseok8, num_roadseok9, num_roadseok10, num_roadseok11, num_roadseok12, num_roadseok13, num_roadseok14, num_roadseok15, num_roadseok16, num_roadseok17, num_roadseok18, num_roadseok19, num_roadseok20, num_roadseok21, num_roadseok22, num_roadseok23, num_roadseok24, num_roadseok25, num_roadseok26, num_roadseok27, num_roadseok28, num_roadseok29, num_roadseok30, num_roadseok31, num_roadseok32, num_roadseok33, num_roadseok34, num_roadseok35,"
+34,"Question: Which of the following is most likely to be an outcome of a SBSN?
+A. 10% SBSN
+B. 1% SBSN
+C. 1% SBSN
+D. 10% SBSN
+Answer: A<|end_of_text|>"
+35,"Question:
+What is 0.2 less than -0.2?
+Answer:
+-0.0002<|end_of_text|>"
+36,"Question:
+Let o = 0.0146 + -0.014385. Round o to 6 decimal posesooseose.<|end_of_text|>"
+37,"# 1. N의의ahn seo의원
+# 2. 정수 n의 개수
+# 3. 정수들이 순서대로 정렬한 순서대로 정답을 정답구lee (정수구lee)
+# 4. 정수들이 정렬한 순서대로 정답구lee
+# 5. 정수들의 정렬된 순서대로 정답구lee
+# 6. 정수들의 정렬된 순서대로 정답구lee
+# 7. 정수들의 정렬된 순서대로 정답구lee
+# 8. 정수들의 정렬된 순서대로 정답구lee
+# 9. 정수들의 정렬된 순서대로 정답구lee
+# 10. 정수들의 정렬된 순서대로 정답구lee
+# 11. 정수들의 정렬된 순서대로 정답구lee
+# 12. 정수들의 정렬된 순서대로 정답구lee
+# 13. 정수들의 정렬된 순서대로 정답구lee
+# 14. 정수들의 정렬된 순서대로 정답구lee
+# 15. 정"
+38,"Question:
+What is the common denominator of 3/10 and 27/10?
+Answer:
+10<|end_of_text|>"
+39,"Question:
+Let t = -0.0193 + 0.019999. Round t to 6 decimal numsoseose
+Answer:
+-1<|end_of_text|>"
+40,"# 7.구현
+# 1.조기, 2.한수, 3.수원
+# 4.수원, 5.수원, 6.수원, 7.수원, 8.수원
+# 9.수원, 10.수원, 11.수원, 12.수원, 13.수원, 14.수원, 15.수원
+# 16.수원, 17.수원, 18.수원, 19.수원, 20.수원
+# 21.수원, 22.수원, 23.수원, 24.수원, 25.수원, 26.수원, 27.수원, 28.수원, 29.수원, 30.수원, 31.수원, 32.수원, 33.수원, 34.수원, 35.수원, 36.수원, 37.수원, 38.수원, 39.수원, 40.수원, 41.수"
+41,"Question:
+Let a = -11.5 + 11.7. Let j = -2.8 + a. What is j rounded to 1 decimalogue?
+Answer:
+-1<|end_of_text|>"
+42,"Question:
+Let l = 0.0332 + -0.0282. What is l rounded to 2 decimalsoseungsim? (Reallygood서실비)
+Answer:
+-1<|end_of_text|>"
+43,"Question:
+Let k = -0.0194 - -0.0125. What is k rounded to 2 decimal numbers?
+Answer:
+-0.014<|end_of_text|>"
+44,"Question:
+Let o = 25.9 + -26. Let s = 0.9 - o. What is the closest to 0.1 in -1, s, 0.3?
+Answer:
+s<|end_of_text|>"
+45,"Question: Which of the following is the best method for identifying the site of infection in the body?
+A. Bactera analyst
+B. Ar제어
+C. Ar고사
+D. S조기
+Answer: D<|end_of_text|>"
+46,"Question: Which of the following is the best strategy for treatment of acute kidney failure?
+A. 24hr 20sec
+B. 24hr 20sec + 20sec
+C. 24hr 20sec + 20sec + 20sec
+D. 24hr 20sec + 20sec + 20sec + 20sec
+Answer: C<|end_of_text|>"
+47,"# 10.계정
+# 1. 리스트의 길로, 정수열의 길이, 정수열의 원희의 이름, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75"
+48,"Question: Which of the following is the most likely to be an outcome of a SBS?
+A. Chondoid
+B. Sill
+C. Tae-구
+D. Ta-구
+Answer: C<|end_of_text|>"
+49,"Question: All of the following are indications for use of HANSEONG (H) except
+A. B. S. N. E. J. A. S. M
+1. H = Hyeon기 (혜영기) 2. H = Hahn (한성) 3. H = Hong (홍성) 4. H = Hoon (호성) 5. H = Hang (한성) 6. H = Hang (한성) 7. H = Hang (한성) 8. H = Hang (한성)
+A. H = HANSEONG (한성) 1. H = HANSEONG (한성) 2. H = HANSEONG (한성) 3. H = HANSEONG (한성) 4. H = HANSEONG (한성) 5. H = HANSEONG (한성) 6. H = HANSEONG (한성) 7. H = HANSEONG (한성) 8. H = HANSEONG (한성) 9. H = HANSEONG (한성) 10. H ="
+50,"Question:
+Let g = 4.9914 - 5.011. Let n = g + 0.020. What is n rounded to 2 decimalsoseom?<|end_of_text|>"
+51,"Question:
+Let w = 0.0159 + -0.023. Let l = w + 0.027. What is l rounded to 2 decimalsoseom?
+Answer:
+-1<|end_of_text|>"
+52,"def fashion_market(n, m, fee, s, e, end, start, end_1, end_2, end_3, end_4, end_5, end_6, end_7, end_8, end_9, end10, end11, end12, end13, end14, end15, end16, end17, end18, end19, end20, end_1, end_2, end_3, end_4, end_5, end_6, end_7, end_8, end_9, end10, end11, end12, end13, end14, end15, end16, end17, end18, end19, end20, end_1, end_2, end_3, end_4, end_5, end_6, end_7, end_8, end_9, end10, end11, end12, end13, end14, end15, end16, end17, end18, end19, end20, end_1, end_2, end_3, end_4, end_5, end_6, end_7, end_8,"
+53,"Question:
+What is the common denominator of 37/16 and -77/4?
+Answer:
+4<|end_of_text|>"
+54,"Question: Which of the following is not a sign of acute exacerb of Parkheong? (Parkheong is a Korean term meaning to go back to the normal)
+A. Stool, blood, and wound
+B. Stool, wound, and wound
+C. Stool, wound, and wound
+D. Stool, wound, and wound
+Answer: D<|end_of_text|>"
+55,"def count_wood(wood, min_wood, max_wood):
+    # 1. 반추리, 수수장, 신기한, 심심한
+    # 2. 정수, 정수, 정수, 정수
+    # 3. 정수, 정수, 정수, 정수
+    # 4. 정수, 정수, 정수, 정수
+    # 5. 정수, 정수, 정수, 정수
+    # 6. 정수, 정수, 정수, 정수
+    # 7. 정수, 정수, 정수, 정수
+    # 8. 정수, 정수, 정수, 정수
+    # 9. 정수, 정수, 정수, 정수
+    # 10. 정수, 정수, 정수, 정수
+    # 11. 정수, 정수, 정수, 정수
+    # 12. 정수, 정수, 정수, 정수
+    # 13. 정수, 정수, 정수, 정수
+    # 14. 정수, 정수, 정수, 정수"
+56,"Question:
+What is the common denominator of 11/4 and 7/5?
+Answer:
+10<|end_of_text|>"
+57,"Question:
+Let w = -2.3 + 2.8. Let t = -2.5 + w. What is the biggest value in -2, t, 0.1?
+Answer:
+t<|end_of_text|>"
+58,"def update_choong(choong):
+    # 1. 정수
+    # 2. 정수 변기
+    # 3. 정수 변기 전수
+    # 4. 정수 변기 전수함수
+    # 5. 정수 변기 전수함수
+    # 6. 정수 변기 전수함수
+    # 7. 정수 변기 전수함수
+    # 8. 정수 변기 전수함수
+    # 9. 정수 변기 전수함수
+    # 10. 정수 변기 전수함수
+    # 11. 정수 변기 전수함수
+    # 12. 정수 변기 전수함수
+    # 13. 정수 변기 전수함수
+    # 14. 정수 변기 전수함수
+    # 15. 정수 변기 전수함수
+    # 16. 정수 변기 전수함수
+    # 17. 정수 변기 전수함수
+    # 18. 정수 변기 전수함수
+    # 19. 정수"
+59,"def find_ae_seong(choseong, n, map, map2, map3, map4, map5, map6, map7, map8, map9, map10, map11, map12, map13, map14, map15, map16, map17, map18, map19, map20, map21, map22, map23, map24, map25, map26, map27, map28, map29, map30, map31, map32, map33, map34, map35, map36, map37, map38, map39, map40, map41, map42, map43, map44, map45, map46, map47, map48, map49, map50, map51, map52, map53, map54, map55, map56, map57, map58, map59, map60, map61, map62, map63, map64, map65, map66, map67, map68, map69, map70, map71, map72, map73, map74, map75, map76, map77, map78, map79, map80, map81, map"
+60,"Question: Which of the following is not an advantage of the use of a multibody approach?
+A. Simbada is a simple game
+B. Simbada is a simple game
+C. Simbada is a simple game
+D. Simbada is a simple game
+Answer: B<|end_of_text|>"
+61,"Question:
+Let l = 7.9496 - 8.013. Let f = l + 0.063. What is f rounded to 2 decimalsoosee
+Answer:
+-1<|end_of_text|>"
+62,"def find_min_choseo(choseos):
+    # 최소수 추출하기
+    # 정수_list = [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0"
+63,"Question:
+What is the lowest common multiple of 4 and 21?
+Answer:
+28<|end_of_text|>"
+64,"Question:
+Let q = -22.6 + 23. Let n = q - -1.6. Let w = -1.5 + n. What is the closest to 1 in 2, w, 0.3?
+Answer:
+0.3<|end_of_text|>"
+65,"Question:
+Let k = -0.0203 + 0.020993. Round k to 6 decimal values.<|end_of_text|>"
+66,"Question: Which of the following is an indication of the use of a RDA (Recommendatory dose) for the treatment of aneorese?
+A. Bacterial growth
+B. Sickness
+C. Seongdong
+D. Toe지기
+Answer: A<|end_of_text|>"
+67,"Question: Which of the following is not a part of the normal skin surface?
+A. Seoung
+B. Tact
+C. Sun
+D. Tact
+Answer: A<|end_of_text|>"
+68,"Question:
+What is 0.0000075 rounded to 6 decimal positions?
+Answer:
+0.000007<|end_of_text|>"
+69,"Question:
+Let t = 22 + -22. Let o = 0.0323 + 0.0328. Which is the closest to t?  (a) 2  (b) o  (c) 0.1
+Answer:
+b<|end_of_text|>"
+70,"Question: Which of the following is the best approach to the treatment of a patient with severe acute exsosis?
+A. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+B. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+Answer: B
+의증
+- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+(1) 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13"
+71,"Question:
+Let l = 0.0358 + 0.0094. Let m = l + -0.037. Round m to 1 decimal표수. Exact Value.<|end_of_text|>"
+72,"Question:
+Let m = 122 + -119. Let n be (m/(-3) - 0) + 0. Let h = 6 + n. Calculate the lowest common multiple of h and 18.
+Answer:
+18<|end_of_text|>"
+73,"def update_ensemble(s, n, M):
+    # 1. 정수열의 길(수) = 2
+    # 2. 정수열의 길(수) = 3
+    # 3. 정수열의 길(수) = 4
+    # 4. 정수열의 길(수) = 5
+    # 5. 정수열의 길(수) = 6
+    # 6. 정수열의 길(수) = 7
+    # 7. 정수열의 길(수) = 8
+    # 8. 정수열의 길(수) = 9
+    # 9. 정수열의 길(수) = 10
+    # 10. 정수열의 길(수) = 11
+    # 11. 정수열의 길(수) = 12
+    # 12. 정수열의 길(수) = 13
+    # 13. 정수열의 길(수) = 14
+    # 14. 정수열의 길(수) = 15
+    # 15. 정수열"
+74,"def update_choong(choong):
+    # 정의한 함수
+    # 조현의 수준
+    # 수의 길이
+    # 정수 리스트
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수
+    # 정수"
+75,"Question: A 24-year-old woman is suspected of having been sexually harassed. What is the best approach to the problem? A) ""Let's go out with you"" B) ""Let's go out with you"" A) ""Let's go out with you"" B) ""Let's go out with you"" A) ""Let's go out with you"" B) ""Let's go out with you"" A) ""Let's go out with you"" B) ""Let's go out with you"" A) ""Let's go out with you"" B) ""Let's go out with you"" A) ""Let's go out with you"" B) ""Let's go out with you"" A) ""Let's go out with you"" B) ""Let's go out with you"" A) ""Let's go out with you"" B) ""Let's go out with you"" A) ""Let's go out with you"" B) ""Let's go out with you"" A) ""Let's go out with you"" B) ""Let's go out with you"" A) ""Let's go out with you"" B) ""Let's go out with you"" A) ""Let's go out with you"" B"
+76,"def calculate_choseong(choseong, num, n, m, s, e, a, b, c, d, e, j, k, l, r, n, o, p, q, r, s, t, e, l, m, n, e, 오, 나, 무, 안, 아, 번, 김, 김, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나, 나"
+77,"def create_Dongseo() : 
+    def solution(A, N, S, M) : 
+    (1) n = A.size
+    (2) S = S[0] + S[1] +... + S(n-1) = 100
+    (3) M = M[0] + M[1] +... + M(n-1) = 10
+    (4) S[0] = S[1] =... = S(n-1) = 100
+    (5) M[0] = M[1] =... = M(n-1) = 10
+    (6) A[0] = A[1] =... = A(n-1) = 100
+    (7) S[0] = S[1] =... = S(n-1) = 100
+    (8) M[0] = M[1] =... = M(n-1) = 10
+    (9) A[0] = A[1] =... = A(n-1) = 100
+    (10) S[0] = S[1] =... = S(n-1) ="
+78,"Question: Which of the following is not true about the treatment of severe acute Exsamsa?
+A. Parkjong, 2010, 2009, 2010
+B. Parkjong, 2010, 2009, 2010
+C. Parkjong, 2010, 2009, 2010
+D. Parkjong, 2010, 2009, 2010
+Answer: A<|end_of_text|>"
+79,"Question:
+Let n = 1.9 + -1.8. Let f = 0.0192 - 0.0199929. What is f rounded to 6 decimal amounts. Exact value of Park Ji-soseo. Answer: 1.0 (n) 0.9 (f) 1.0 (Park Ji-soseo) 0.9 (Park Ji-soseo) 1.0 (n) 0.9 (f) 1.0 (Park Ji-soseo) 1.0 (n) 0.9 (f) 1.0 (Park Ji-soseo) 1.0 (n) 0.9 (f) 1.0 (Park Ji-soseo) 1.0 (n) 0.9 (f) 1.0 (Park Ji-soseo) 1.0 (n) 0.9 (f) 1.0 (Park Ji-soseo) 1.0 (n) 0.9 (f) 1.0 (Park Ji-soseo) 1.0 (n) 0.9 (f) 1.0 (Park Ji-soseo) 1."
+80,"Question:
+What is the next term in 12, 24, 38, 48, 56, 66, 72?
+Answer:
+78<|end_of_text|>"
+81,"Question:
+Let o = 2.6 + -2.5. Let k = 0.2 - o. What is the nearest to 1 in -0.5, k, 0.3?
+Answer:
+k<|end_of_text|>"
+82,"Question:
+Let g = 0.0199 + -0.0139. What is g rounded to 2 decimal numbers?
+Answer:
+0.007<|end_of_text|>"
+83,"Question:
+What is the closest to 0.1 in 1, -2/3, -0.4, 0.3, 1/2?
+Answer:
+0.3<|end_of_text|>"
+84,"def update_choong_seo(choongse, list):
+    for i in range(1, 10):
+        if list[1] > list[2] > list[3] > list[4] > list[5] > list[6] > list[7] > list[8] > list[9] > list[0] > list[2] > list[3] > list[4] > list[5] > list[6] > list[7] > list[8] > list[9] > list[0] > list[2] > list[3] > list[4] > list[5] > list[6] > list[7] > list[8] > list[9] > list[0] > list[2] > list[3] > list[4] > list[5] > list[6] > list[7] > list[8] > list[9] > list[0] > list[2] > list[3] > list[4] > list[5] > list[6] > list[7] > list[8] > list[9] > list[0]"
+85,"def modify_chose(chose, n, num, num2, num3, num4, num5, num6, num7, num8, num9, num10):
+    # 1. 3원 전원 4원 전원 5원 전원 6원 전원 7원 전원 8원 전원 9원 전원 10원 전원
+    # 1. 1) 총계 = 0
+    # 2. 2) 총계 = 0
+    # 3. 3) 총계 = 0
+    # 4. 4) 총계 = 0
+    # 5. 5) 총계 = 0
+    # 6. 6) 총계 = 0
+    # 7. 7) 총계 = 0
+    # 8. 8) 총계 = 0
+    # 9. 9) 총계 = 0
+    # 10. 10) 총계 = 0
+    # 1) 1. 1) 총계 = 0
+    # 2) 2) 총계 = 0"
+86,"Question: Which of the following is the best indication for a normal anaeroua SBSA test?
+A. Park's test
+B. MBCA test
+C. BACTERA test
+D. SBSA test
+Answer: B<|end_of_text|>"
+87,"Question: The most common cause of PMS is
+A. Ane기
+B. N정기
+C. S정기
+D. N마기
+E. S마기
+Answer: C<|end_of_text|>"
+88,"Question:
+Let w = 0.0274 + -0.021. What is w rounded to 2 decimalsoseom?
+Answer:
+-0.013<|end_of_text|>"
+89,"Question:
+Let g = -0.0319 + 0.0316. Let n = -0.0271 + g. What is n rounded to 3 decimalsoseungsim?
+Answer:
+-1<|end_of_text|>"
+90,"def add_to_ensemble(music, dance, song, dancefloor):
+    # (주원) : 입력한 아티스트의 이름
+    # (수록) : 입력한 아티스트의 이름
+    # (주화) : 입력한 아티스트의 이름
+    # (강희) : 입력한 아티스트의 이름
+    # (강희) : 입력한 아티스트의 이름
+    # (주현) : 입력한 아티스트의 이름
+    # (주현) : 입력한 아티스트의 이름
+    # (수현) : 입력한 아티스트의 이름
+    # (수현) : 입력한 아티스트의 이름
+    # (수현) : 입력한 아티스트의 이름
+    # (수현) : 입력한 아티스트의 이름
+    # (수현) : 입력한 아티스트의 이름
+    # (수현) : 입력한 아티스트의 이름
+    # (수현) : 입력한 아티스트의 이름
+    # (수현) : 입력한 아티스트의 이름
+    # (수현) : 입력한 아티스트의 이름
+   "
+91,"Question:
+What is the remainder when 20 is divided by 4?
+Answer:
+0<|end_of_text|>"
+92,"Question:
+Let s = 2.2 + -2.6. Let h = -3.4 - s. What is the smallest value in -1, h, 0.3?
+Answer:
+-1<|end_of_text|>"
+93,"Question:
+Let j = 0.0195 - 0.019901. Round j to 6 decimal posesooseose. The correct answer to the question is 1.0 (Correct answer) N
+Answer:
+N<|end_of_text|>"
+94,"Question: The most common cause of sudden death in the last 20 years is:
+A. Cardioren내기
+B. Card오래기
+C. Card오래기
+D. Card오래기
+Answer: D<|end_of_text|>"
+95,"Question:
+Let o = 0.0195 + 0.0193. What is o rounded to two decimalses?
+Answer:
+0.01<|end_of_text|>"
+96,"# 1. 전설의 전주
+# 2. 전주의 신사
+# 3. 전주의 신사 설문
+# 4. 전주의 신사 연서
+# 5. 전주의 신사 예기한금
+# 6. 전주의 신사 예기한금
+# 7. 전주전술
+# 8. 전주전술
+# 9. 전주전술
+# 10. 전주전술
+# 11. 전주전술
+# 12. 전주전술
+# 13. 전주전술
+# 14. 전주전술
+# 15. 전주전술
+# 16. 전주전술
+# 17. 전주전술
+# 18. 전주전술
+# 19. 전주전술
+# 20. 전주전술
+# 21. 전주전술
+# 22. 전주전술
+# 23. 전주전술
+# 24. 전주전술
+# 25. 전주전술
+# 26. 전주전술
+# 27. 전주"
+97,"Question:
+Let j = 0.5 + -0.3. Let n = j + -1.1. Let l = 0.9 + n. What is the closest to 1 in l, 0.5, 0.3?
+Answer:
+0.5<|end_of_text|>"
+98,"Question:Develop a Go app that allows you to check the weather forecast for today, tomorrow, and next to 2 days of the next. And also the forecast for the next 3days of the next. And also the forecast for the next 4days of the next. And also the forecast for the next 7days of the next. And also the forecast for the next 30days of the next. And also the forecast for the next 30days of the next. And also the forecast for the next 30days of the next. And also the forecast for the next 30days of the next. And also the forecast for the next 30days of the next. And also the forecast for the next 30days of the next. And also the forecast for the next 30days of the next. And also the forecast for the next 30days of the next. And also the forecast for the next 30days of the next. And also the forecast for the next 30days of the next. And also the forecast for the next 30days of the next. And also the forecast for the next 30days of the next. And also the forecast for the next 30days of the next. And also the"
+99,"def find_sungtae(choseong, park, hwansung):
+    # 1. 함수
+    # 2. 정수(수) : 정수열
+    # 3. 정수(수) : 정수열
+    # 4. 정수(수) : 정수열
+    # 5. 정수(수) : 정수열
+    # 6. 정수(수) : 정수열
+    # 7. 정수(수) : 정수열
+    # 8. 정수(수) : 정수열
+    # 9. 정수(수) : 정수열
+    # 10. 정수(수) : 정수열
+    # 11. 정수(수) : 정수열
+    # 12. 정수(수) : 정수열
+    # 13. 정수(수) : 정수열
+    # 14. 정수(수) : 정수열
+    # 15. 정수(수) : 정수열
+    # 16. 정수(수) : 정수열
+    # 17. 정수("

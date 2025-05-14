@@ -1,0 +1,1 @@
+"The tokens \"का\", \"के\", and \"की\" are postpositions in Hindi that indicate possession or relation, frequently following nouns or pronouns to form genitive constructions. The high activations on these tokens reflect their grammatical importance in linking entities and expressing relationships in sentences."

@@ -1,0 +1,922 @@
+seed,generated_text
+0,"Question:Write a Python code snippet to Display Low Nail care: Trimming Nails for Decision Making for Experts. Consider the Trust and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is some sample python code which implements low nail care trimming based off of expert input:
+
+
+```python 
+def trim_nails(input):
+    # dry run input 
+    print(""Dry Run Input:"", input)
+    
+    if input == ""Yes"":
+        return ""Trim nails""
+    elif input == ""No"":
+        return ""Do not trim nails""
+    else:
+        raise ValueError(""Invalid Input"")
+        
+# test cases    
+print(trim_nails('yes'))    # output -> Trim nails
+print(trim_nails('no'))      # output -> Do not trim nails
+print(trim_nails('maybe'))   # raises ValueError
+```<|end_of_text|>"
+1,"Question:
+Let d = 0.03 + -0.13. Let z = 0.02 + d. Let b = -0.01 + z. What is b rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+2,"Question:
+Let l = -3.4 - -3. Let m = 0.2 - l. Let w = m + -0.2. Which is the closest to 0?  (a) w  (b) 3  (c) -1
+Answer:
+a<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Let w = g - 0.3. Let m = -0.3 + w. Which is the closest to 0.1?  (a) m  (b) -0.3  (c) 2/9
+Answer:
+c<|end_of_text|>"
+4,"Question:
+Let v = -0.02 - -0.02. Let t = 0.03 + v. Let o = t + -0.05. Which is the nearest to 1?  (a) o  (b) 2/3  (c) -1/4
+Answer:
+b<|end_of_text|>"
+5,"Question:
+Let o = 0.001 - 0.0010044. What is o rounded to 6 dps?
+Answer:
+-0.000004<|end_of_text|>"
+6,"def count_even_numbers(my_list):
+    """"""Write a function that takes a list of numbers and returns the number of even numbers in the list.
+
+    You can use the `count()` method to count the number of even numbers.
+
+    Examples:
+        >>> count_even_numbers([1, 2, 3, 4, 5])
+                      # 5
+        >>> count_even_numbers([1, 3, 5, 7, 9])
+                      # 3
+        >>> count_even_numbers([2, 4, 6, 8, 10])
+                      # 5
+    """"""
+    return my_list.count(lambda x: x % 2 == 0)
+<|end_of_text|>"
+7,# 2.5.3.1.1.2.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
+8,"Question:
+Let o = -0.001 + -0.003. Let t = o - -0.003. Let p = -0.002 + t. What is p rounded to one decimal place?
+Answer:
+0.3<|end_of_text|>"
+9,"Question:
+Let r = -0.1 - -0.1. Let p = 0.1 - r. Let l = p - 0.1. Which is the nearest to l?  (a) 2  (b) -1  (c) -3
+Answer:
+b<|end_of_text|>"
+10,"Question:Create a C# script snippet that Displays High Flossing: Types of Dental Floss for Decision Making for Experts. Use if/else or switch/case statements to conditionally perform different actions based on the Responsibility. Dry-run, then include comments that outline the control flow and how you handle different scenarios.
+
+Solution:Here is some sample code which demonstrates how to use `if` / `else` statements to display information about high flossing types of dental floss depending on who is making the decision (the user or an expert):
+```csharp
+// dry run output
+HighFlossingTypesOfDentalFlossForDecisionMakingExpert(""user"", ""matt"");
+
+// actual output
+HighFlossingTypesOfDentalFlossForDecisionMaking(""expert"", ""matt"");
+
+
+void HighFlossingTypesOfDentalFlossForDecisionMaking(string user, string expert)
+{
+    Console.WriteLine(""Dry Run:"");
+
+    // determine whether we are dealing with a user or an expert
+    bool isUser = false;
+    if (user == ""user"") {
+        isUser = true;
+    } else if (user == ""expert"") {
+        isUser = false;
+    }
+
+    // display appropriate message based on who"
+11,"Question: A 50-year-old man presents to the emergency room with a 2-week history of abdominal pain, fever, and bloody diarrhea. He was admitted to the hospital, where he was treated for a septic shock. He was discharged 1 week later. He returned to the hospital 3 days later because of a fever and abdominal pain. He was admitted to the hospital again, and his condition deteriorated. On physical examination, his temperature is 40degC (104degF), and his pulse rate is 150 beats per minute. On abdominal examination, there is diffuse abdominal tenderness, and there is a diffuse, diffuse, and diffuse abdominal tenderness, and there is a diffuse, diffuse, and diffuse abdominal tenderness, and there is a diffuse, diffuse, and diffuse abdominal tenderness, and there is a diffuse, diffuse, and diffuse abdominal tenderness, and there is a diffuse, diffuse, and diffuse abdominal tenderness, and there is a diffuse, diffuse, and diffuse abdominal tenderness, and there is a diffuse, diffuse, and diffuse abdominal tenderness, and there is a diffuse, diffuse, and diffuse abdominal tenderness, and there is a diffuse, diffuse, and diffuse abdominal tenderness, and there is a diffuse, diffuse"
+12,"Question:
+Let r = 0.011 + -0.011000006. What is r rounded to 6 decimal places?
+Answer:
+-0.000006<|end_of_text|>"
+13,"Question:
+Let h = -0.1 + 0.1. Let i = 0.1 + h. Let x = 0.6 - i. Which is the closest to -1?  (a) -4  (b) x  (c) 0.4
+Answer:
+b<|end_of_text|>"
+14,"Question:Design a C# function snippet to Determine Low Handling personal items: Caring for Electronics for Decision Making for Experts. Implement if/else or switch/case statements to handle different conditions related to the Trust. Provide detailed comments explaining your control flow and the reasoning behind each decision.
+
+Solution:Here is a possible implementation of this functionality in C#:
+
+    ```c#
+    // Function Name: DetermineLowHandlingPersonalItems
+    // Description: Determines whether low handling personal items need special care based 
+    //              on expert opinion. If so, returns true; otherwise false.
+    public static bool DetermineLowHandlingPersonalItems() {
+        // Define variables
+        double temperature = 0;
+        string condition = """";
+
+        // Prompt user to enter temperature and condition
+        Console.WriteLine(""Enter the current temperature (Celsius): "");
+        temperature = Convert.ToDouble(Console.ReadLine());
+        Console.WriteLine(""Enter the condition of the item (e.g., 'dry','moist','hot'): "");
+        condition = Console.ReadLine();
+        
+        // Use conditional statement to determine appropriate action based on temperature and condition
+        if (temperature < 0 || temperature > 45) {
+            if (condition == ""dry"") {
+                return true;
+            } else if (condition =="
+15,"Question:
+Let y = -0.01 - 0.01. Let m = -0.06 - -0.21. Let i = y - m. Which is the nearest to 1?  (a) i  (b) 0.2  (c) -2/9
+Answer:
+b<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.04. Let y = 0.01 + j. Let l = -0.07 - y. Which is the second biggest value?  (a) l  (b) 0.2  (c) 4
+Answer:
+b<|end_of_text|>"
+17,"Question:
+Let f = 0.009 - 0.011. Let h = 0.042 + f. Let c = h - 0.03999959. What is c rounded to seven dps?
+Answer:
+0.0000004<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3.9. Let o = -0.01 + y. Let c = o - -0.09999969. What is c rounded to 7 decimal places?
+Answer:
+-0.0000003<|end_of_text|>"
+19,"Question:Build a Java module snippet that Checks Extreme Flossing: Types of Dental Floss for Engineer for Experts. Incorporate if/else or switch/case statements to handle different cases based on the Responsibility. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here is a possible implementation of this requirement in java:
+```java 
+public class CheckExtremeFlossing {
+
+    public static void main(String[] args) {
+        String typeOfDentalFloss = ""Waxed""; // input from user
+
+        // check which type of dental floss was entered by the user
+        if (typeOfDentalFloss == ""Unwaxed"") {
+            System.out.println(""This type of dental floss does not contain any wax."");
+        } else if (typeOfDentalFloss == ""Waxed"") {
+            System.out.println(""This type of dental floss has added wax which makes it easier to remove food particles from teeth."");
+        } else {
+            System.out.println(""Invalid Input! Please enter either 'unwaxed' or 'waxed'."");
+        }
+    }
+}
+```<|end_of_text|>"
+20,"Question:Build a Ruby module snippet that Displays Extreme Online Shopping: Product Availability for Decision Making for Experts. Incorporate if/else or switch/case statements to handle different cases based on the Responsibility. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here's some sample ruby code that displays extreme online shopping product availability information for decision making by experts:
+
+
+```ruby 
+# Define a function to display extreme online shopping product availability information
+def show_extreme_online_shopping(data)
+  # Check if there are any products available
+  if data[:products].any?
+    # Loop through each product and print its name and current stock level
+    data[:products].each do |product|
+      puts ""#{product[:name]} - #{product[:stock]} units remaining""
+    end
+  else
+    # If no products are available, print a message
+    puts ""No products available""
+  end
+end
+
+# Example usage of the function
+data = {
+  products: [
+    { name: 'Apple iPhone', stock: 10 },
+    { name: 'Samsung Galaxy S20', stock: 5 },
+    { name: 'Google Pixel 4a', stock: 7 }
+  ]
+}
+show_extreme_online_sh"
+21,"Question:
+Let g = -0.1 + -1.9. Let y = 1.9 + g. Let w = 2.3 + y. Which is the closest to 0.1?  (a) -0.5  (b) w  (c) -2/3
+Answer:
+b<|end_of_text|>"
+22,"Question: Which of the following is a common site of metastatic spread from breast carcinoma
+A. Liver
+B. Kidney
+C. Lung
+D. Brain
+Answer: B
+Explanation: Kidney is the most common site of metastasis from breast cancer. Metastasis from breast cancer to the kidney is more common in the case of bilateral breast cancer. Metastatic spread from breast cancer to the kidney is usually from the axillary lymph nodes.<|end_of_text|>"
+23,"Question: Which of the following is not a feature of atherosclerosis?
+A. Calcification
+B. Enlargement of aeries
+C. Intimal thickening
+D. Hyperplasia of media
+Answer: C<|end_of_text|>"
+24,"Question:Write a C++ code snippet to Transform Low Online Shopping: Product Availability for Engineer for Experts. Consider the Ethics and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is some sample C++ code that implements a solution to transform low online shopping product availability for engineers by considering ethical factors:
+
+    #include <iostream>
+    #include <vector>
+    
+    // Function prototypes
+    double calculateTotalPrice(const std::vector<std::pair<int, int>>& inventory);
+    int getNumberOfDaysUntilShipment(const std::vector<std::pair<int, int>>& inventory);
+    bool checkInventoryAvailability(const std::vector<std::pair<int, int>>& inventory);
+    
+    int main() {
+        const std::vector<std::pair<int, int>> inventory = {{1234567890, 10}, {987654321, 5}};
+    
+        double total_price = calculateTotalPrice(inventory);
+        int days_until_shipment = getNumberOfDaysUntilShipment(inventory);
+        
+        if (!checkInventoryAvailability(inventory)) {
+            std::cout << ""Warning! Insufficient inventory levels.\n"";
+        }
+    
+       "
+25,"# Héctor Rangel
+
+Héctor Rangel (born 23 September 1946) is a Cuban sprinter. He competed in the men's 4 × 100 metres relay at the 1972 Summer Olympics.
+
+| Personal information |
+| Nationality | Cuban |
+| Born |  (1946-09-23) 23 September 1946 |
+| Sport |
+| Sport | Sprinting |
+| Event(s) | 4 × 100 metres relay |
+
+Héctor Rangel
+<|end_of_text|>"
+26,"Question:
+Let b = -4.1 + 4. Let l = -0.1 + b. Let w = -0.1 + l. Which is the closest to w?  (a) -2/7  (b) 1/3  (c) 1
+Answer:
+a<|end_of_text|>"
+27,"Question:Develop a Python program snippet to Display Extreme Handwashing technique: Rinsing Properly for Engineer for Experts. Incorporate if/else or switch/case statements to handle various cases related to the Safety. Dry-run, ensure your control flow logic is clear and well-commented.
+
+Solution:Here is python code which demonstrates extreme hand washing technique of rinsing properly for engineers by incorporating `if` and `elif`:
+
+ ```python 
+# Import necessary modules
+import os
+from datetime import date
+
+def display_extreme_handwashing():
+    # Get current date
+    today = date.today()
+
+    # Check whether it is morning or evening
+    if today.hour >= 6 and today.hour < 12:
+        print(""Good morning! Today is "", today.strftime(""%A, %B %d""), ""and we are going to learn about extreme handwashing techniques."")
+
+        # Ask user about their name
+        name = input(""What is your name? "")
+        
+        # Print greeting message
+        print(f""Hello {name}, welcome to our session today!"")
+
+        # Ask user about their experience level
+        exp = input(""What is your experience level? (beginner, intermediate, advanced) "")
+    
+        # Based on user's experience level,"
+28,"Question:
+Let t = 0.05 - 0.05. Let i = 0.2 - t. Let r = -0.3 - i. What is r rounded to 1 decimal place?
+Answer:
+-0.3<|end_of_text|>"
+29,"Question:Write a Julia code snippet to Update Low Fitness: Exercise Tracking for Decision Making for Experts. Consider the Responsibility and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is some sample julia code which implements update low fitness function of exercise tracking for decision making for experts as per given requirements : 
+
+```julia 
+function update_low_fitness(individual::Individual)
+    # dry run 
+    best_fitness = individual.fitness
+
+    for i in 1:length(individual.exercises)
+        exercise = individual.exercises[i]
+        
+        # check if current exercise has lower fitness than previous best 
+        if (exercise.fitness < best_fitness)
+            best_fitness = exercise.fitness
+            best_exercise = exercise
+        end
+    end
+    
+    return best_exercise
+end
+```
+In this implementation we first perform a dry run where we check all the exercises of our individual and update the best one based on their fitness values. We use `for` loop to iterate over each exercise and compare its fitness value with the current best one. If the current exercise has lower fitness than the previous best, then it will be updated"
+30,"Question:
+Let y = -0.009 - -0.009000002. What is y rounded to 7 decimal places?
+Answer:
+0.0000002<|end_of_text|>"
+31,"Question:
+Let m = -1.07 - -1. Let q = m + 0.03. Let n = 0.04 - q. Which is the nearest to -1/2?  (a) n  (b) 3  (c) -1
+Answer:
+c<|end_of_text|>"
+32,"Question:
+Let i = 0.002 - -0.003. Let x = 0.009 + i. Let g = x + -0.0095. What is g rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+33,"def analyze_economic_data(data):
+    """"""
+    Analyze economic data to determine the trend and patterns.
+
+    Parameters:
+        data (list): A list of economic data.
+
+    Returns:
+        trend (str): The trend of the economic data.
+        patterns (list): A list of patterns in the economic data.
+    """"""
+    # Initialize the trend and patterns lists
+    trend = []
+    patterns = []
+
+    # Loop through the data and determine the trend and patterns
+    for i in range(len(data)):
+        if data[i] > data[i-1]:
+            trend.append(""Increasing"")
+        elif data[i] < data[i-1]:
+            trend.append(""Decreasing"")
+        else:
+            trend.append(""Stable"")
+
+        # Check for patterns in the data
+        if trend[i] == ""Increasing"":
+            patterns.append(""Increasing"")
+        elif trend[i] == ""Decreasing"":
+            patterns.append(""Decreasing"")
+        else:
+            patterns.append(""Stable"")
+
+    # Return the trend and patterns
+    return trend, patterns
+<|end_of_text|>"
+34,"Question:Write a Python code snippet to Update High Ear hygiene: Avoiding Q-Tips for Ear Cleaning for Decision Making for Beginners. Consider the Responsibility and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here's some sample python code which implements the solution described above:
+```python 
+# Define input variables
+age = int(input(""Enter age of person:"")) # Prompt user for input
+gender = str(input(""Enter gender (M/F):"")) # Prompt user for input
+symptoms = list(map(int, input(""Enter symptoms (0,1,2):"").split("",""))) # Split string into list of integers representing symptom severity
+
+
+if age < 6:
+    print(""Children under six years old do not need professional cleaning."")
+    
+elif age >= 6 and age <=12: 
+    if sum(symptoms) == 0:
+        print(""No symptoms detected - child can use cotton buds as needed"")
+        
+    elif any([s==1 for s in symptoms]):
+        print(""Mild to moderate symptoms detected - recommend consulting doctor"")
+        
+    else: 
+        print(""Severe symptoms detected - seek medical attention"
+35,"Question:
+What is prob of picking 2 e and 1 m when three letters picked without replacement from {m: 1, e: 7, o: 2, s: 1, n: 4}?
+Answer:
+3/20<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -0.7. Let r = o + 0. Let x = r + -0.7. Which is the nearest to 0?  (a) -2  (b) x  (c) 0.3
+Answer:
+b<|end_of_text|>"
+37,"# List of members of the House of Representatives of the 7th National Assembly of Nigeria
+
+This is a list of members of the House of Representatives of the 7th National Assembly of Nigeria.
+
+## 7th National Assembly (2015–2019)
+
+| Constituency | Name | Party | Term of office |
+| Ibadan Federal Constituency | Femi Gbajabafara | All Progressives Congress | 2015–2019 |
+| Ibadan Federal Constituency | Oba (Hon) Oluyemi Oladapo | All Progressives Congress | 2015–2019 |
+| Ibadan Federal Constituency | Adebayo Alao-Akala | All Progressives Congress | 2015–2019 |
+| Ibadan Federal Constituency | Oba (Hon) Oluyemi Oladapo | All Progressives Congress | 2015–2019 |
+| Ibadan Federal Constituency | Adekunle Awo | All Progressives Congress | 2015–2019 |
+| Ibadan Federal Constituency | Oba (Hon) Oluyemi Oladapo | All Progressives Congress | 2015–2019 |
+| Ibad"
+38,"Question:
+What is the common denominator of 3/10 and 89/10?
+Answer:
+10<|end_of_text|>"
+39,"Question:
+Let t = -0.06 + -0.04. Let x = t - -0.11. Let y = 0.10 + x. What is y rounded to one dp?
+Answer:
+1.1<|end_of_text|>"
+40,"# St. George's Episcopal Church (Baltimore)
+
+St. George's Episcopal Church is a historic church building located in the Old Goucher neighborhood of Baltimore, Maryland. The church was built in 1858, and is a one-story, brick building with a hipped roof. It was built by the Episcopal Church of Baltimore. It was designed by the Baltimore architect, William Henry Whipple, who also designed the Episcopal Church of St. Paul. The church was built as a result of a donation of land by William H. Goucher, who was a major patron of the Episcopal Church in Baltimore. The church was added to the National Register of Historic Places in 1970.
+
+| St. George's Episcopal Church |
+| St. George's Episcopal Church |
+| Location | 1700 E. Cold Spring Rd., Baltimore, Maryland |
+| Coordinates | 39°19′37″N 76°54′21″W |
+| Built | 1858 |
+| Architect | William H. Whipple |
+| NRHP reference No. | 70000001 |
+| Added to NRHP | February 28, 1970 |
+
+## See also
+
+* National Register of Historic Places in Baltimore City
+
+<|end_of_text|>"
+41,"Question:
+Let a = -1.1 + 0.7. Let j = -2.2 - a. Let x = j + 2.9. What is x rounded to 1 decimal place?
+Answer:
+1<|end_of_text|>"
+42,"Question:
+Let l = 0.033 - 0.033000003. What is l rounded to 7 dps?
+Answer:
+-0.0000001<|end_of_text|>"
+43,"Question:
+Let q = -0.037 + -0.103. Let w = q + 0.1403. Round w to three dps.
+Answer:
+0.012<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + -2. Let p = 0.9 - 0.6. Let m = p - o. What is m rounded to one dp?
+Answer:
+0.4<|end_of_text|>"
+45,"Question:
+Let t = 0.007 + 0.093. Let d = t - 0.19. Let v = -0.1 - d. What is v rounded to 2 decimal places?
+Answer:
+0.01<|end_of_text|>"
+46,"Question:Write a Java code snippet to Check High Eye hygiene: Proper Contact Lens Handling for Decision Making for Experts. Consider the Bias and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is some sample java code which implements the high eye hygiene check as described : 
+
+```java 
+public class ContactLensChecker {
+
+    public static void main(String[] args) {
+        // dry run input values 
+        String condition = ""good""; 
+
+        if (condition == ""bad"") {
+            System.out.println(""Contact lenses need cleaning!"");
+        } else if (condition == ""fair"") {
+            System.out.println(""Contact lenses may need cleaning."");
+        } else {
+            System.out.println(""Contact lenses look good."");
+        }
+    }
+}
+```
+
+ In this implementation we first define a variable called `condition`and set its initial value to `""good""`. Then inside the main function we use an if statement to evaluate the value of `condition`. If the condition is equal to `""bad""`then we print out a message saying that the contact lenses need cleaning. Else if the condition is equal to `""fair""`we print another message saying that they"
+47,"# Generated by Django 2.2.6 on 2019-12-09 10:16
+
+from django.db import migrations, models
+
+
+class Migration(migrations.Migration):
+
+    dependencies = [
+        ('accounts', '0002_auto_20191208_1607'),
+    ]
+
+    operations = [
+        migrations.AlterField(
+            model_name='user',
+            name='email',
+            field=models.EmailField(max_length=50, unique=True),
+        ),
+    ]
+<|end_of_text|>"
+48,"Question:Build a Python module snippet that Updates Low Ear hygiene: Cleaning Outer Ear for Decision Making for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Trust. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here is python code which updates low ear hygiene by cleaning outer ear : 
+
+```python 
+def update_low_ear_hygiene(trust):
+    """"""This function takes trust as input 
+    and returns appropriate message""""""
+    
+    # If trust is high then return good message
+    if trust >= 0.9:
+        return ""Your ears feel clean! No need to worry.""
+
+    # Else if trust is medium then return warning message
+    elif trust > 0.5:
+        return ""Your ears seem clean but there may still be dirt particles present.\n\
+            It might be best to use a cotton swab to remove them.""
+
+    # Else return bad message
+    else:
+        return ""Your ears don't seem clean at all! It's probably time to see a doctor.""
+
+ ```<|end_of_text|>"
+49,"Question:Design a Python function snippet to Determine Low Nail care: Moisturizing Hands and Nails for Analysis for Experts. Implement if/else or switch/case statements to handle different conditions related to the Bias. Provide detailed comments explaining your control flow and the reasoning behind each decision.
+
+Solution:Here is one possible implementation of this function in python:
+
+
+```python
+def determine_low_nailcare(symptoms):
+    """"""Determine low nail care based on symptoms
+
+    Args:
+        symptoms (list[str]): A list of symptoms experienced by the user
+
+    Returns:
+        str: The determined reason for poor nail health
+    """"""
+    
+    # Define a dictionary mapping symptom to its severity
+    symptom_severity = {
+        ""Dry skin"": 1, 
+        ""Cracked heels"": 2, 
+        ""Brittle nails"": 3, 
+        ""Yellowish nails"": 4, 
+        ""Discoloration"": 5
+    }
+    
+    # Calculate the total score based on the number of symptoms present
+    total_score = sum([symptom_severity[s] for s in symptoms])
+    
+    # Use an if statement to check for each symptom and assign a score accordingly
+    if total_score >= 4:
+        return """
+50,"Question:
+Let g = 0.0124 - 0.01240155. What is g rounded to 6 decimal places?
+Answer:
+-0.000008<|end_of_text|>"
+51,"Question:
+Let w = -0.002 - -0.003. Let z = -0.004 - w. Let n = -0.004 + z. Which is the second smallest value?  (a) n  (b) 1/2  (c) -0.3
+Answer:
+b<|end_of_text|>"
+52,"def create_new_list(old_list):
+    """"""This function takes an input list and creates a new list with the same elements as the input list, but with the elements in reverse order.
+    # Test case 1:
+    assert create_new_list([1, 2, 3]) == [3, 2, 1]
+    # Test case 2:
+    assert create_new_list([1, 2, 3, 4, 5]) == [5, 4, 3, 2, 1]
+    # Test case 3:
+    assert create_new_list([1, 2, 3, 4, 5, 6]) == [6, 5, 4, 3, 2, 1]
+    """"""
+    return old_list[::-1]<|end_of_text|>"
+53,"Question:
+What is prob of picking 1 j and 1 y when two letters picked without replacement from yjyjyjyjj?
+Answer:
+1/3<|end_of_text|>"
+54,"Question:
+Let h = -0.5 + 0.5. Let r = 0.05 - -0.15. Let g = r + h. What is g rounded to 1 decimal place?
+Answer:
+0.1<|end_of_text|>"
+55,"def count_unique_elements(my_list):
+    """"""
+    Given a list of elements, return the number of unique elements in the list.
+
+    Hint: Use the set() function to convert the list to a set, and then use the len() function to count the number of elements in the set.
+    """"""
+    my_set = set(my_list)
+    return len(my_set)
+
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 7/64?
+Answer:
+64<|end_of_text|>"
+57,"Question:
+Let w = -0.0067 + 0.0066971. What is w rounded to 5 decimal places?
+Answer:
+0.0001<|end_of_text|>"
+58,"def tuple_slicing_exercise(my_tuple):
+    """"""
+    Given a tuple of integers, return a new tuple that contains all the elements of the original tuple, but in reverse order.
+
+    For example, if the input tuple is (1, 2, 3, 4, 5), the output tuple should be (5, 4, 3, 2, 1).
+
+    You must use slicing to solve this exercise.
+    """"""
+
+    # Your code here
+    return my_tuple[::-1]
+<|end_of_text|>"
+59,"Question:
+What is the common denominator of 71/2 and 57/10?
+Answer:
+10<|end_of_text|>"
+60,"Question:
+Let h = -0.2 + 0.2. Let o = -0.2 + h. Let t = o - -0.1. Which is the nearest to t?  (a) -0.1  (b) 0.3  (c) 0.2
+Answer:
+a<|end_of_text|>"
+61,"Question:
+Let l = -7.7 - -7.9. Let p = l + 0.3. Let x = -0.2 - p. What is x rounded to 1 decimal place?
+Answer:
+-0.3<|end_of_text|>"
+62,"Question:
+Let f = -0.4 - -0.5. Let v = f - -0.8. Let z = 0.7 + v. What is z rounded to 1 decimal place?
+Answer:
+1<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.027000001. What is o rounded to 7 decimal places?
+Answer:
+0.0000001<|end_of_text|>"
+64,"Question:
+Let q = -0.2 + 0.2. Let b = -1.1 - q. Let l = -0.2 + 0.2. Which is the closest to l?  (a) 0.2  (b) b  (c) 2/5
+Answer:
+a<|end_of_text|>"
+65,"Question:
+Let h = -0.0000082 - -0.000008. Round h to 6 dps.
+Answer:
+-0.000008<|end_of_text|>"
+66,"Question:
+Let f = -1.2 + 0.8. Let o = -0.5 - f. Let h = o - -0.2. What is h rounded to 1 decimal place?
+Answer:
+0.3<|end_of_text|>"
+67,"Question:Design a Python function snippet to Display High Clothing cleanliness: Cleaning Special Fabrics for Decision Making for Professionals. Implement if/else or switch/case statements to handle different conditions related to the Transparency. Provide detailed comments explaining your control flow and the reasoning behind each decision.
+
+Solution:Here is a python function which takes as input a cloth cleaning score out of 10 and returns whether the fabric can be considered high quality based upon its transparency level. The function uses an if else statement to check for specific cases where the transparency may exceed certain thresholds. 
+
+```python
+def display_high_clothing_cleanliness(transparency):
+    """"""Displays message indicating whether clothes made from 
+    given fabric can be considered high quality based on 
+    their cleaning score
+    
+    Args:
+        transparency (float): A value between 0 and 1 representing 
+            the amount of dirt or grime present on the cloth
+        
+    Returns:
+        str: Message indicating whether the cloth can be considered
+            high quality or not""""""
+
+    # If transparency is below 0.25 then return False
+    if transparency < 0.25:
+        return ""The cloth cannot be considered high quality because ""\
+               ""the level of dirtiness is too low.""
+    
+    # Check for other conditions"
+68,"Question:
+What is 3/50 of a tonne in kilograms?
+Answer:
+60<|end_of_text|>"
+69,"Question:
+Let i = -0.1 + 0.3. Let w = 0.2 + i. Let m = -0.7 - w. What is m rounded to 1 dp?
+Answer:
+0.1<|end_of_text|>"
+70,"Question: Which of the following is a cause of hyponatremia in a patient with a fever and vomiting?
+A. Hypoaldosteronism
+B. Hypoaldosteronism
+C. Hypoaldosteronism
+D. Hypoaldosteronism
+Answer: B<|end_of_text|>"
+71,"Question:
+Let l = 0.021 - 0.0210094. What is l rounded to 6 decimal places?
+Answer:
+-0.000009<|end_of_text|>"
+72,"Question:
+Let m = -0.012 + 0.062. Let d = 0.056 + m. Let z = d + 0.049997. What is z rounded to 5 dps?
+Answer:
+-0.00001<|end_of_text|>"
+73,"def create_unique_colors(colors):
+    """"""Create a list of unique colors by combining two colors in a nested loop.""""""
+    unique_colors = []
+    for color1 in colors:
+        for color2 in colors:
+            if color1!=color2:
+                unique_colors.append(color1+color2)
+    return unique_colors
+
+colors = [""red"", ""blue"", ""green"", ""yellow"", ""orange""]
+print(create_unique_colors(colors))
+<|end_of_text|>"
+74,"def slice_and_dice(my_list, start, end):
+    """"""
+    This function takes a list and two indices (start and end) and returns a new list containing the elements of the original list between the start and end indices, inclusive.
+
+    For example, if the input list is [1, 2, 3, 4, 5], the start index is 2, and the end index is 4, the output list should be [3, 4, 5].
+
+    The function should use the slice notation to extract the elements from the original list.
+    """"""
+
+    # Your code here
+    return my_list[start:end+1]
+
+<|end_of_text|>"
+75,"Question: A 3-year-old child presents with fever, irritability and a red tongue. The child is also having dysphagia and vomiting. On examination, the child is pale, and the tongue is red. The child's hemoglobin is 7.5 mg/dL, and the platelet count is 40,000/mL. Which of the following is the most likely diagnosis?
+A. Acute leukemia
+B. Thrombasthenia
+C. Thrombocytopenia
+D. Coagulation disorder
+Answer: C<|end_of_text|>"
+76,"Question:
+Let y = 0.008 - -0.004. Let q = -0.012 + y. Let g = -0.03 + q. What is g rounded to 1 dp?
+Answer:
+-0.3<|end_of_text|>"
+77,"def create_tuple_from_string(string):
+    """"""Create a tuple from a string by splitting it into words and
+    converting each word to a tuple.
+    
+    Args:
+        string (str): The input string.
+    
+    Returns:
+        tuple: A tuple of words from the input string.
+    """"""
+    words = string.split()
+    return tuple(word for word in words)
+
+<|end_of_text|>"
+78,"Question: Which of the following is not a feature of the disease?
+A. Affects the upper extremity
+B. Involves the lower extremity
+C. Involves the hands
+D. Involves the face
+Answer: C<|end_of_text|>"
+79,"Question:
+Let n = 0.023 - 0.033. Let f = n - -0.01. Let x = f + -0.024. What is x rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+80,"Question:
+What is the next term in 12, 24, 36, 48, 60?
+Answer:
+72<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.7. Let x = 0.2 - o. Let p = x - 0.4. Which is the nearest to p?  (a) -3  (b) -2/9  (c) -1/4
+Answer:
+b<|end_of_text|>"
+82,"Question:
+Let g = -0.06 - 0.04. Let v = g + 0.09. Let q = -0.09 + v. What is q rounded to one decimal place?
+Answer:
+-0.8<|end_of_text|>"
+83,"Question:
+What is the third biggest value in -1/3, -2/7, -0.1, 2/9?
+Answer:
+-2/7<|end_of_text|>"
+84,"def update_medication(medication, dose, time):
+    """"""
+    Update the medication and dose for a patient.
+
+    Args:
+        medication (str): The name of the medication.
+        dose (str): The dose of the medication.
+        time (str): The time at which the medication should be taken.
+
+    Returns:
+        A tuple containing the updated medication and dose.
+    """"""
+    # Your code here
+    return (medication, dose)
+<|end_of_text|>"
+85,"def modify_list(my_list):
+    """"""Modify the elements of a list using slicing and a for loop.
+
+    Given a list of integers, modify the elements of the list by
+    doubling the elements that are even and tripling the elements
+    that are odd.
+
+    Args:
+        my_list (list): The list of integers to modify.
+
+    Returns:
+        list: The modified list.
+    """"""
+    for i in range(len(my_list)):
+        if my_list[i] % 2 == 0:
+            my_list[i] *= 2
+        else:
+            my_list[i] *= 3
+    return my_list
+<|end_of_text|>"
+86,"Question:Build a Python module snippet that Determines Extreme Clothing cleanliness: Proper Storage of Clothes for Decision Making for Experts. Incorporate if/else or switch/case statements to handle different cases based on the Responsibility. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here is a python module snippet that determines extreme clothing cleanliness by incorporating `if`/`elif` statements to handle different input conditions:
+
+    ```python
+    def determine_extreme_clothing_cleanliness(temperature, humidity):
+        """"""Determine extreme clothing cleanliness based on temperature and humidity.""""""
+    
+        # Define acceptable levels of dirtiness    
+        acceptable_dirtiness = (0, 25)    
+        
+        # Check temperature condition    
+        if temperature < 10:
+            print(""Temperature is too low! No need to worry about mold growth."")
+        elif temperature >= 10 and temperature <= 40:
+            # Check humidity condition    
+            if humidity < 60:
+                print(""Humidity is too low! Air can dry out clothes quickly."")
+            else:
+                # Check combined temperature and humidity condition    
+                if temperature >= 70 and humidity > 80:
+                    print(""Clothes may become very dry and brittle under these conditions!"")
+                else:
+                    # Determine"
+87,"Question: The most common cause of intestinal obstruction in adults is
+A. Intussusception
+B. Adhesive small bowel obstruction
+C. Colonic volvulus
+D. Intestinal perforation
+Answer: B<|end_of_text|>"
+88,"Question:
+Let w = 0.1 - -0.2. Let s = -0.6 + w. Let m = -0.5 + s. Which is the closest to m?  (a) 0.1  (b) 2/5  (c) -3
+Answer:
+a<|end_of_text|>"
+89,"Question:
+Let n = -0.6 - -0.8. Let m = 0.2 - n. Let d = m - 0.1. What is d rounded to one dp?
+Answer:
+-0.2<|end_of_text|>"
+90,"def add_to_set(set, element):
+    """"""Add an element to a set using the addition assignment operator.
+
+    Args:
+        set: The set to add the element to.
+        element: The element to add to the set.
+
+    Returns:
+        The updated set with the added element.
+    """"""
+    set += (element,)
+    return set
+
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 44 is divided by 12?
+Answer:
+4<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 2. Let g = 0.3 + p. Let h = 0.2 + g. What is h rounded to one decimal place?
+Answer:
+0.1<|end_of_text|>"
+93,"Question:
+Let i = 0.001 - -1.999. Let j = 2.1 + i. Let f = -0.9 + j. Which is the closest to 1?  (a) f  (b) 2/7  (c) -0.2
+Answer:
+b<|end_of_text|>"
+94,"Question:Build a Go module snippet that Checks High Security: Identity Verification for Engineer for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Responsibility. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here is a sample implementation of a function in Go that implements high security identity verification for engineers based on their responsibility level:
+
+    package main
+    
+    import (
+        ""fmt""
+    )
+    
+    // VerifyIdentity checks whether an engineer has passed identity verification
+    func VerifyIdentity(name string, password string, role string) bool {
+    
+        // Define a list of roles and their respective passwords
+        var roles = map[string]string{
+            ""engineer"":    ""12345678"",
+            ""manager"":     ""qwertyuiop"",
+            ""director"":    ""ASDFGHJKL"",
+            ""CEO"":         ""1234567890"",
+        }
+    
+        // Check if the provided name exists in the roles map
+        if _, ok := roles[name];!ok {
+            return false
+        }
+    
+        // Check if the password matches the expected value for the given role
+        if password == roles[name] {
+            return true
+        }
+    
+        return false
+    }
+"
+95,"Question:
+Let o = 0.2 + -0.2. Let b = o - 0.2. Let j = 0.2 + b. Which is the closest to -1?  (a) j  (b) -1  (c) 2/7
+Answer:
+b<|end_of_text|>"
+96,"# 2003–04 FCS Football season
+
+The 2003–04 FCS football season was the 15th season of the FCS Football season. The season began on August 29, 2003 and ended on December 19, 2003. The season was played in the NCAA Division I-AA Football Championship Subdivision. The 2003 FCS season was the 24th season of NCAA Division I-AA football.
+
+| 2003–04 FCS Football season |
+|  |
+| Duration | August 29, 2003 – December 19, 2003 |
+| Number of teams | 32 |
+| TV partner(s) | ESPN |
+| 2004 FCS Football season |
+| NFL Draft |
+| 2004 NFL Draft |
+
+The FCS season consisted of 32 teams in the National Association of Intercollegiate Athletics. The season began on August 29, 2003 and ended on December 19, 2003. The season was played in the NCAA Division I-AA Football Championship Subdivision. The 2003 FCS season was the 24th season of NCAA Division I-AA football. The 2004 FCS season was the 25th season of NCAA Division I-AA football"
+97,"Question:
+Let c = 0.5 - -0.5. Let n = c + -1. Let m = 0.04 - n. Round m to 1 decimal place.
+Answer:
+0.1<|end_of_text|>"
+98,"Question:Develop a relation database and SQL program snippet to Check High Nail care: Moisturizing Hands and Nails for Decision Making for Beginners. Incorporate if/else or switch/case statements to handle various cases related to the Ethics. Dry-run, ensure your control flow logic is clear and well-commented.
+
+Solution:Here is a possible relational database schema and some sample SQL queries to help decision making about high nail care: moisturizing hands and nails for beginners. Note that this is just one way of organizing information, there may be other ways that could also work well depending on the specific needs of the application. Additionally, these examples assume that the user has already entered all necessary details such as their age, gender, etc., which is not necessarily true in real life applications. Therefore, these examples should be considered as illustrative rather than necessarily accurate representations of how such systems might actually work in practice. 
+
+```sql
+-- Table: User
+CREATE TABLE IF NOT EXISTS `User` (
+  -- Columns
+  `id` int(10) unsigned AUTO_INCREMENT PRIMARY KEY, 
+  `name` varchar(255), 
+  `gender` enum('Male','Female'), 
+  `age` tinyint(3), 
+  `height` float, 
+"
+99,"def psychologist_intersection_exercise(personality_type):
+    """"""
+    You are a psychologist and you have been asked to study the intersection of two types of people: those who are introverts and those who are extroverts. You have been given a list of people and their personality types. Your task is to write a program that will help you determine which people are both introverts and extroverts.
+
+    You will need to use the ""in"" operator to check if a person's personality type is ""introvert"" or ""extrovert"". You will also need to use the ""not in"" operator to check if a person's personality type is not ""introvert"" or ""extrovert"".
+
+    You should use the ""in"" operator to check if a person's personality type is ""introvert"" or ""extrovert"". You should use the ""not in"" operator to check if a person's personality type is not ""introvert"" or ""extrovert"".
+
+    You should use the ""in"" operator to check if a person's personality type is ""introvert"" or ""extrovert"". You should use the ""not in"" operator to check if a person's personality type is not ""introvert"" or ""extrovert"".
+
+"

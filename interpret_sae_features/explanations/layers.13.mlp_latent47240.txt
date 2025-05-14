@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly function words, verb forms, pronouns, conjunctions, and common morphemes in Bulgarian, often marking grammatical relationships, verb conjugations, and question or relative clauses. These tokens are essential for sentence structure, tense, aspect, and the formation of complex or subordinate clauses."

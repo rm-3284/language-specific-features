@@ -1,0 +1,1 @@
+"High activations are found on common Hindi single-letter tokens, especially those marking grammatical particles, case markers, or inflections such as \"म\", \"ह\", \"ब\", \"व\", \"ल\", \"प\", \"ज\", and \"द\", which frequently appear at morpheme or word boundaries and play key roles in sentence structure."

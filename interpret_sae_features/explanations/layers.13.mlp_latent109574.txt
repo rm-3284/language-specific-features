@@ -1,0 +1,1 @@
+"The highlighted tokens are Hindi verb endings and auxiliary markers, especially those denoting tense, aspect, and agreement (such as \"है\", \"था\", \"गया\", \"किया\", \"हैं\"), as well as punctuation and conjunctions that structure sentences. These elements are crucial for indicating grammatical relationships and sentence boundaries in Hindi text."

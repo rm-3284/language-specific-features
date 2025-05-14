@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily suffixes, inflections, or short function words in Turkish and German, often marking grammatical relationships such as possession, plurality, tense, or case, as well as prepositions and names in German. These tokens are crucial for the syntactic and semantic structure of sentences in agglutinative and inflectional languages."

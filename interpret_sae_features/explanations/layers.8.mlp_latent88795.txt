@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily Hindi morphemes, suffixes, and root words that contribute to grammatical structure, verb formation, and meaning, often marking actions, states, or relationships within sentences. These tokens are essential for constructing and understanding the core semantics and syntax of Hindi text."

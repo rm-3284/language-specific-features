@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly German morphemes, function words, and common suffixes or inflections, often marking verb forms, noun endings, or grammatical particles. These tokens frequently appear at the boundaries of words or as part of compound constructions, reflecting the morphological richness and syntactic structure of German text."

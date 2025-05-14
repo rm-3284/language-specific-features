@@ -1,0 +1,353 @@
+seed,generated_text
+0,"Question:
+Let f = 6.9 - 6.9. Let a = 1.3 + -1.2. Which is the second smallest value?  (a) l  (l l l f)  (l l l l l)
+L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+1,"Question:
+Let l = 0.03 + -0.13. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+2,"Question:
+Let l = -3.5 - -3. Let l = 0.0000018 - l. L' l' l' l l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l'"
+3,"Question:
+Let g = 0.02 - -0.44. Let l = -0.0000033 + g. L l l l. L l l l. L l l l. L l l l.
+L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l. L l l l"
+4,"Question:
+Let l = -11.9 - -12.9. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+5,"Question:
+Let l = 0.0018 - 0.2002. L' l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+6,"def set_les(l):
+    l2 = []
+    for l1 in l:
+        l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2. l2."
+7,"# 2018 l’Ouest-Il l’Est l’Léa
+L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L’L"
+8,"Question:
+Let l = -0.0161 - -0.1311. Let l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+9,"Question:
+Let l = -0.1 - -0.1. Let p = 0.7 - l. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+10,Question: Les lés l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+11,Question: A l' l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+12,"Question:
+Let l = 1.5 + -0.5. Let l1 = 1.3 - 1.7. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+13,"Question:
+Let c = -0.1 + 0.1. Let l = 0.7 + c. Let l l l l = 3.3. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+14,"Question:
+Let l = 6.2 - 6.6000000000001. L l l 1. La l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+15,"Question:
+Let l = -1.9 - -1.5. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+16,"Question:
+Let j = -0.03 + 0.2. Let l = 0.01 - l. Let l = -0.2 - l. L l l l j.
+Answer:
+l<|end_of_text|>"
+17,"Question:
+Let a = 6.8 - 6.6. L' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l"
+18,"Question:
+Let l = 3.8 - 3.9. Let u = -1.8 + l. L’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l"
+19,Question:Build un l'écoute l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt
+20,Question:Build un l'objet de l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'
+21,"Question:
+Let g = -0.1 + 0.3. Let l = 1.1 - g. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+22,Question:Build un l’improvisation de l’humain l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l’improvisation l
+23,"Question:
+Let r = -0.0000000018 - -0.0000000001. L' l de l' l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+24,Question:Write un l’Eponge l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro l’Ile l’Iro
+25,Question:Build un l'habitation de l'homme le plus l'habitation l'homme l'homme l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation l'habitation
+26,"Question:
+Let s = -4.9 + 5.9. Let a = 0.0000016 - s. L' l' l' l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+27,"Question:
+Let p = 0.4 - 0.3. Let l = 0.7 - 0.6. L l l p l 1/6 0.1
+L l l l l 1/6 0.1
+L l l l l 1/6 0.1
+L l l l l 1/6 0.1
+L l l l l 1/6 0.1
+L l l l l 1/6 0.1
+L l l l l 1/6 0.1
+L l l l l 1/6 0.1
+L l l l l 1/6 0.1
+L l l l l 1/6 0.1
+L l l l l 1/6 0.1
+L l l l l 1/6 0.1
+L l l l l 1/6 0.1
+L l l l l 1/6 0.1
+L l l l l 1/6 0.1
+L l l l l 1/6 0.1
+L l l l"
+28,"Question:
+Let l = 0.05 - 0.75. Let l2 = 0.7 - 0.9. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+29,Question:Write un l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro l’impro
+30,"Question:
+Let l = -0.0099 - -0.0099. Let l2 = 0.0000000011327 - l. L l2 la l.
+L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+31,"Question:
+Let l = -1.07 - -1.3. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+32,"Question:
+Let u = 6.9 - 6. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+33,"def lancer_l'impact(impact):
+    """"""
+    lancer l'impact
+    l'impact est une lune l'impact
+    l'impact est un l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l'impact l"
+34,"Question:
+Let q = -0.0398 + 0.1296. L'Or la l'Or la l'Or la l'Or la l'Or la l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or l'Or"
+35,"Question:
+What is 0.0000000010000001 l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+36,"Question:
+Let l = 0.6 - 0.6. Let l1 = 0.1 - 0.2. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+37,"# 2016 l'Étole l'Étoie
+
+L'Étole l'Étoie (l'Étoie l'Étoie) est un l'Étoie l'Étoie en l'Étoie l'Étoie de l'Étoie l'Étoie de l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Étoie l'Éto"
+38,"Question:
+What is the l'te 3 l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+39,"Question:
+Let c = -0.12 - -0.5. Let l = -0.1 + c. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+40,# 2019 l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l'
+41,"Question:
+Let a = -1.5 + 1.7. L’homme l’air l’a l’impropro l’a l’impropro l’a l’impropro l’a l’impropro l’l l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’impropro l’"
+42,"Question:
+Let l = 0.0000000013 - 0.0000000009. L' l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+43,"Question:
+Let q = -12.4 - -12.5. Let l = 1.1 - l. L l l l q l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+44,"Question:
+Let l = 2.1 - 2.1. Let l1 = 0.1 + 0.1. Which is the nearest to l?  (a) 0.1  (b) 1/3  (c) l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l b l1
+L l l l l
+L l l l l
+L l l l l
+L l l l l
+L l l l l
+L l l l l
+L l l l l
+L l l l l
+L l l l l
+L l l l l
+L l l l l
+L l l l l
+L l l l l"
+45,"Question:
+Let l = 0.9 + 0.1. Let l = 0.5 + l. L'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arrêt l'arr"
+46,Question:Build un l'opérateur de l'arret de l'opérateur en l'opérateur. l'opérateur est l'opérateur de l'opérateur. l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l
+47,# 2007 l'Homme l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'Est l'
+48,Question:Build un l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur
+49,Question:Build un l'arabique un l'arabe l'arabe. L'arabique est un l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique l'arabique
+50,"Question:
+Let g = 12.5 - 12.55. Let l = 0.2 - 0.5. Let l = g - -0.5. L' l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+51,"Question:
+Let l = -0.2 + 0.1. Let l l l = l. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+52,"def l1(l1, l2):
+    """""" L1 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l2 l"
+53,"Question:
+What is the l'té la l'aré la l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'aré l'"
+54,"Question:
+What is l in l**2/6 + 5*l/6 - 1/6 = 0?
+L' l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+55,"def count_livres(books):
+    """"""
+    L'objet l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'opérateur l'"
+56,"Question:
+What is the common l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+57,"Question:
+Let j = -6.3 - -6.3. Let l = -7.5 + 7.5. What is the third smallest l l l l l j l l?
+L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+58,def lise_les_lue_les_lue_les_lue_les_lue_les_lue_les_lue_les_lue_les_lue_les_lue_les_lue_les_lue_les_lue_les_lue_les_lue_les_lue_les_lue_les_lue_les_lue_les_lue_les_lue_les_lue_les_les_lue_les_lue_les_lue_les_lue_les_lue_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_les_
+59,"Question:
+What is the remainder when 131 is divided par l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+60,"Question:
+Let a = -7.9 + 7.0000000017. L’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’"
+61,"Question:
+Let l = -7.9 - -7.9. Let p = -0.0000016 + l. L'orel l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l"
+62,"Question:
+Let l = -1.4 - -1.5. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+63,"Question:
+What is the l'te l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+64,"Question:
+Let q = -1.6 - -1.6. Let l = -1.1 - -1.6. Let l l l l = q. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+65,"Question:
+Let l = -0.0000019 - -0.0000029. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+66,"Question:
+Let f = -1.3 + 0.3. Let l = -1.5 + f. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+67,Question:Build un l'objet l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide l'ide
+68,"Question:
+What is 3.9 l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+69,"Question:
+Let l = -0.0000016 - -0.000002. L l l?
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l
+L l l l"
+70,Question: The l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l
+71,"Question:
+Let l = 0.3 - 0.5. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+72,"Question:
+Let m = -0.4 - -0.5. L' l est l' l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+73,def l2_l3_l4_l5_l6_l7_l8_l9_l10_l11_l12_l13_l14_l15_l16_l17_l18_l19_l20_l21_l2_l3_l4_l5_l6_l7_l8_l9_l10_l11_l12_l13_l14_l15_l16_l17_l18_l19_l20_l21_l2_l3_l4_l5_l6_l7_l8_l9_l10_l11_l12_l13_l14_l15_l16_l17_l18_l19_l20_l21_l2_l3_l4_l5_l6_l7_l8_l9_l10_l11_l12_l13_l14_l15_l16_l17_l18_l19_l20_l21_l2_l3_l4_l5_l6_l7_l8_l9_l10_l11_l12_l13_l14_l15_l16_l17_l18_l19_l20_l21_l2_l3_l4_l5_l6_l7_l8_l9_l10_l11_l12_l13_l14_l15_l16_l17_l18_l19_l20_l21_l2_l3_l4_l5_l6_l7_l8_l
+74,Question:Develop un l' l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+75,Question: A 3 l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+76,"Question:
+Let r = 10.5 - 10.5000013. L' l' l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+77,"def l2_l3():
+    l2 = [1, 2, 3]
+    l3 = [3, 4, 5]
+    l2_3 = l2[0] * l3[0]
+    l2_3 = l2[0] * l3[0] + l2[1] * l3[1]
+    l2_3 = l2[0] * l3[0] + l2[1] * l3[1] + l2[2] * l3[2]
+    l2_3 = l2[0] * l3[0] + l2[1] * l3[1] + l2[2] * l3[2] + l2[3] * l3[3]
+    l2_3 = l2[0] * l3[0] + l2[1] * l3[1] + l2[2] * l3[2] + l2[3] * l3[3] + l2[4] * l3[4]
+    l2_3 = l2[0] * l3[0] + l"
+78,Question: L' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l'
+79,"Question:
+Let l = 1.3 - 1.3. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+80,"Question:
+What is the next l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+81,"Question:
+Let l = -2.5 - -2.5. Let a = 2.2 - 2.9. Let l = l - a. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+82,"Question:
+Let p = -0.0368 - -0.0369. Let l = 0.0008 - l. L l l l l l p. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+83,"Question:
+What is the l't l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+84,"def lune(une: lune, lune: lune):
+    """"""
+    L’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opérateur l’opé"
+85,"def ligue1_ligue2_ligue3():
+    ligue1 = ['L' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l"
+86,"Question:
+Let l = -0.5 + 0.7. L' l' l l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l'"
+87,Question: The l' l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l
+88,"Question:
+Let l = 0.1 - -0.1. Let l' = 0.1 - 0.1. Let l' = -0.5 + 0.5. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+89,"Question:
+Let l = -0.6 - -0.6. Let l1 = 0.4 + -0.5. L l1 l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+90,def l1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_
+91,"Question:
+What is the remainder when 1362 is divided l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+92,"Question:
+Let l = 2.2 - 2.6. Let lq = 2.5 - 2.5. Let lq = 2.2 - 0.2. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+93,"Question:
+Let a = 0.0000000011 - 0.0000000017. L’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l"
+94,Question:Build un l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l' l'
+95,"Question:
+Let u = 0.2 + 0.2. L’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l"
+96,"# 2003 en l’Antigue
+
+Cet l’article l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l’ l"
+97,"Question:
+Let l = 0.5 - 0.5. L l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l"
+98,"Question:
+Let l = -4.5 - -4.55. Let l = 0.0000000019 - l. L l l.
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+L l l
+"
+99,def l2_l3_l4_l5_l6_l7_l8_l9_l10_l11_l12_l13_l14_l15_l16_l17_l18_l19_l20_l21_l22_l23_l24_l25_l26_l27_l28_l29_l30_l31_l32_l33_l34_l35_l36_l37_l38_l39_l40_l41_l42_l43_l44_l45_l46_l47_l48_l49_l50_l51_l52_l53_l54_l55_l56_l57_l58_l59_l60_l61_l62_l63_l64_l65_l66_l67_l68_l69_l70_l71_l72_l73_l74_l75_l76_l77_l78_l79_l80_l81_l2_l3_l4_l5_l6_l7_l8_l9_l10_l11_l12_l13_l14_l15_l16_l17_l18_l19_l20_l21_l22_l23_l24_l25_l26_l27_l28_l29_l30_l31_l32_l33_l34_l35_l36_l37_l38_l39_l40_l41_l42_l43_l44_l45_l46_l47_l48_l

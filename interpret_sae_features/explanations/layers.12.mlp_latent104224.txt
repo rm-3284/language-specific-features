@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly Chinese nouns, verbs, and adjectives that denote key concepts, actions, or attributes central to the meaning of each sentence, often marking important entities, processes, or relationships within scientific, medical, or factual contexts."

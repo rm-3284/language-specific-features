@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily function words, common nouns, and morphemes that serve as grammatical connectors or denote relationships, objects, or actions. These tokens are essential for sentence structure, topic continuity, and the expression of key concepts in technical, scientific, and descriptive contexts."

@@ -1,0 +1,1 @@
+"The highlighted tokens are common Japanese grammatical particles, auxiliary verbs, and function words that structure sentences, indicate relationships, and mark objects, topics, or actions. These tokens are essential for the syntactic and semantic coherence of Japanese text."

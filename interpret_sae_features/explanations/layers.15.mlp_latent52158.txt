@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily punctuation marks, quotation marks, and sentence-ending markers in Hindi text, often appearing at the end of reported speech, direct quotations, or as delimiters for parenthetical or quoted content. These tokens help structure sentences, indicate dialogue, and separate clauses or phrases."

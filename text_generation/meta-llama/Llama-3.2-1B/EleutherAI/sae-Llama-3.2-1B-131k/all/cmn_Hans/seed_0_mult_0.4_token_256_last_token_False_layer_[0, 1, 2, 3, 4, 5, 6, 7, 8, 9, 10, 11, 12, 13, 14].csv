@@ -1,0 +1,791 @@
+seed,generated_text
+0,"Question:Write一关于“健康的定义”之写作文的基本内容，应包括的内容有
+A.健康的定义
+B.健康的定义的意义
+C.健康的定义的原则
+D.健康的定义的内容
+Answer:BCD<|end_of_text|>"
+1,"Question:
+Let d = 0.03 + -0.13. Letu = 0.02 - d. Lety = -3.5 - 0.5. Whatisu的大小是
+A. uA
+B. uA
+C. uB
+D. uB
+Answer:
+B<|end_of_text|>"
+2,"Question:
+Let q = -3.4 - -3. Letg = -0.2 - q. Letz = -0.2 + g. Which is the closest to 0?  (a) -1/5  (b) 4  (c)z
+Answer:
+a<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Lety的母体为1000，要求Lety的年龄为100时，母体的年龄应为（单位为百分之）____。 A)100 B)120 C)110 D)90 E)100
+Answer:
+Lety的年龄为100时，母体的年龄应为
+100-100=0
+0÷100=0
+答案为D<|end_of_text|>"
+4,"Question:
+Let v = -11.4 - -10. Letg = v - -1.4. Lety = -0.04. Which is the nearest to 0.1?  (a) -1  (b)g  (c)Lety
+Answer:
+c<|end_of_text|>"
+5,"Question: The“D”试验是指
+A.与血清的抗原相比，产生的免疫应答
+B.与血液的抗原相比，产生的免疫应答
+C.与血液的抗原相比，产生的免疫应答
+D.与血�，抗原相比，产生的免疫应答
+E.与血清的抗原相比，产生的免疫应答
+Answer:B<|end_of_text|>"
+6,"def count_unique_words(text):
+    """"""
+   Write代码来计算文本中所有的词数，使用的方法是将文本转换为列表，之后将列表中的词数进行计数。
+   """"""
+    #将文本转换为列表
+   words =text.split()
+    #将列表中的词数进行计数
+   词数 =len(words)
+    #将列表中的词数进行计数
+    print(词数)
+<|end_of_text|>"
+7,# 2-（4-�）甲基���-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�-�
+8,"Question:Develop一个程序，输入一个字符串，输出其各个单词的首字母，要求输出的首字母应是大写的。即将字符串分为单词，首字母大写
+```
+#include<iostream>
+#include<string>
+#include<ctype>
+#include<cstring>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdlib>
+#include<cstdio>
+#include<iostream>
+#include<ctype.h>
+#include<cstring>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdio>
+#include<ctype.h>
+#include<cstring>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdio>
+#include<ctype.h>
+#include<cstdio>
+#include"
+9,"Question:
+Let x = -0.2 - -0.1. Leti = 0.7 - x. Letk = 0.6 - 0.8. What is the nearest to 1/4 in k, -2/5, -1/2?
+Answer:
+k<|end_of_text|>"
+10,Question:CreateaPython脚本，检查有无空白的文件�，如果有空白的文件，输出“空白文件”；如果没有空白的文件，输出“无空白文件”。使用的方法是使用的的文件名的大小写。<|end_of_text|>
+11,"Question: A 50-year-oldmanwas diagnosedwithAcuteGastroenteritis. What药物可用于治疗
+A.阿托多�
+B.�
+C.麦巴
+D.苏木�
+E.麦克
+Answer: D<|end_of_text|>"
+12,"Question:
+Let r = 0.5 + -0.4. Letc = 0.3 - r. Letu = -0.3 - c. Which is the nearest to 0?  (a) -1  (b) -2/7  (c)u
+Answer:
+b<|end_of_text|>"
+13,"Question:
+Let h = -0.05 + 0.05. Letn = 0.07 + h. Letr = 0.007 - 0.007. Which is the closest to -2?  (a)r  (b)n  (c)r
+Answer:
+b<|end_of_text|>"
+14,"Question:Design一个能够管理一组数据的类，能够实现对数据的增、删除、查、修改的功能的类是
+A.数据库
+B.数据库管理程序
+C.数据库管理器
+D.数据库管理程序
+Answer:C<|end_of_text|>"
+15,"Question:
+Let y = -0.01 - 0.31. Letc = -0.5 - -0.8. Letd = y - c. Which is the nearest to 1?  (a) -1/5  (b) 1/4  (c) d
+Answer:
+b<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.22. Letn = 0.17 - j. Leth算法将一个数字转换为其二进制表示。Leth算法的转换过程如下： 1.将n转换为其二进制表示的最低位。 2.将最低位转换为二进制表示的最低位。 3.将最低位转换为二进制表示的最低位。 4.将最低位转换为二进制表示的最低位。 5.将最低位转换为二进制表示的最低位。 6.将最低位转换为二进制表示的最低位。 7.将最低位转换为二进制表示的最低位。 8.将最低位转换为二进制表示的最低位。 9.将最低位转换为二进制表示的最低位。 10.将最低位转换为二进制表示的最低位。 11.将最低位转换为二进制表示的最"
+17,"Question:
+Let u = 0.0097 + -0.009. Letv = -0.0095 - u. Roundv至2 decimal数。
+Answer:
+-0.01<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3.75. Letl = -0.15 + y. Letg = -0.04 - l. Which is the nearest to 0?  (a) -0.5  (b)g  (c)1
+Answer:
+b<|end_of_text|>"
+19,Question:Build一对“““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““
+20,Question:Build一个能够在Web��的基础上完成简单的图形�的类。它应实现的功能包括：显示图形、�、删除图形、�、保存图形、�、撤销图形、�、移动图形、�、缩放图形、�、查找图形、�、复制图形、�、添加图形、�、显示工具栏、�、显示工具提示。该类应有4个方法：显示图形、�、撤销图形、�、显示工具栏。请设计此类的实现。<|end_of_text|>
+21,"Question:
+Let g = -0.1 + -0.3. Letk = 0.1 - g. Letw = 0.3 - k. Which is the closest to 0.1?  (a) -0.5  (b)w  (c)2/9
+Answer:
+c<|end_of_text|>"
+22,"Question: Which of the following is not a feature ofCirrhosis
+A. Ascitis
+B.水����
+C.腹水
+D.��
+Answer:C<|end_of_text|>"
+23,"Question: Which is the most common complication ofAtrial切房区
+A.房室结
+B.房室口
+C.房室间
+D.室间
+E.室间与房室间
+Answer:B<|end_of_text|>"
+24,"Question: Thebestof
+A. 甲基�
+B. 甲基
+C. 甲基
+D. 甲基
+E. 甲基
+Answer: B<|end_of_text|>"
+25,"# 2018世界大学生运动会
+
+2018世界大学生运动会是第50届世界大学生运动会的正式名称。世界大学生运动会是由国际奥委会于2003年创办的运动会，2018年第50届世界大学生运动会在2018年10月7日至10月15日在中国上海市的上海国际会展中心进行。世界大学生运动会的官方题目是“世界之路2018”，是第50届世界大学生运动会的主题。世界大学生运动会的官方语言是英文、英语、葡语、俄语、日语、韩语、马来语、印地语、西班牙语、德语、西里西亚语、阿拉伯语、泰语、汉语、阿拉伯语、乌拉圭语、日语、西班牙语、阿拉伯语、马来语、俄语、日语、马来语、西班牙语、德语、汉语、乌拉圭语、日语、西班牙语、阿拉伯语、马来语、俄语、汉语、阿拉伯语、乌"
+26,"Question:
+Let b = -4.9 + -0.1. Letr = 5.8 + b. Letx = -1.4 - x. Which is the closest to -1/2?  (a) 2/9  (b) -0.4  (c)x
+Answer:
+b<|end_of_text|>"
+27,"Question:Design一个能够用于处理多个数据的函数，能够根据输入的数据进行处理的函数是
+A.函数
+B.函数
+C.函数
+D.函数
+Answer：A<|end_of_text|>"
+28,"Question:
+Let t = 0.05 - 0.05. Letg = 0.2 - t. Letw = -0.3 -g. What is w roundedto1dp?
+Answer:
+-0.3<|end_of_text|>"
+29,Question:Write一个与现实世界的现象相关的事件，描述下述的内容：1.在某地发生的事件，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的时间是周日，发生的
+30,"Question:
+Let y = -0.009 - -0.08. Letc = y - -0.069. Letg = -0.012-0.007. Which is the smallestvalue?  (a)g  (b)0.2  (c)3
+Answer:
+a<|end_of_text|>"
+31,"Question:
+Let m = -1.07 - -1.3. Lety的平均分是80。每分10分。Lety的分是80，分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分数是80的倍数。Lety的分"
+32,"Question:
+Let i = 0.002 - -0.003. Letk = 0.009 - i. Letq = 0.00229 - k. What isq的值？
+Answer:
+0.002<|end_of_text|>"
+33,"def analyzeDNA(dna):
+    """"""分析DNA序列，判断是否有基因组的序列出现
+    """"""
+   序列长度
+   序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列长度
+   �序列"
+34,"Question:Design一新的一条路是A-路，首先要从A-路的A口出发，到达B口的路线最长的为：
+A. A-路→B-路→B-路→B-路
+B. A-路→B-路→B-路→A-路
+C. A-路→B-路→B-路→A-路
+D. A-路→B-路→B-路
+Answer:C<|end_of_text|>"
+35,"Question:
+What is prob of picking 2 e and 1h when三人共享餐桌，共有5个菜，3人手上至少有1个，1人手上至少有2个，2人手上至少有3个，3人手上至少有4个的菜？ A) 1/5 B) 2/5 C) 3/5 D) 4/5 E) 5/5
+Answer:
+A共有5个菜，3人手上至少有1个，1人手上至少有2个，2人手上至少有3个，3人手上至少有4个
+共有3个菜，3人手上至少有1个，1人手上至少有2个，2人手上至少有3个，3人手上至少有4个
+共有4个菜，3人手上至少有1个，1人手上至少有2个，2人手上至少有3个，3人手上至少有4个
+共有5个菜，3人手上至少有1个，1人手上至少有2个，2人手上至少有"
+36,"Question:
+Let o = 0.6 - 0.7. Leta的朋友们认为，新的一天将会更好。那么她将会使用的词语是
+A.更好
+B.更好一点
+C.更好些
+D.更好一点儿
+Answer:
+D<|end_of_text|>"
+37,"# 2016年
+
+|千年 |2000年 |2001年 |2002年 |2003年 |2004年 |2005年 |2006年 |2007年 |2008年 |2009年
+中年 |2010年 |2011年 |2012年 |2013年 |2014年 |2015年 |2016年 |2017年 |2018年
+高年 |2019年 |2020年 |2021年 |2022年 |2023年
+
+ |
+| |历史指标 |
+| 10 |10 |20 |20 |30 |40 |50 |60 |70 |80 |90
+ |
+| 10年 |2006 |2007 |2008 |2009 |2010 |2011 |2012 |2013 |2014 |2015 |2016
+ |
+| |历史标志 |
+| 2000年 |2001年 |2002年 |2003年 |2004年 |2005年 |2006年 |2007年 |2008年 |2009年 |2010年
+ |
+|2009年 |2010年 |2011年 |2012年 |2013年"
+38,"Question:
+What is prob of picking 1 t, 1 p, 1x,和1m时，概率为x/10，2/10，3/10，4/10？
+Answer:
+6/10<|end_of_text|>"
+39,"Question:
+Let t = -0.06 - -0.5. Letx = -0.04 + t. Letl = 0.04 + x. Whatisl?<|end_of_text|>"
+40,"# 7.6.使用Python实现的功能
+
+##1.显示用户的名字
+
+````python
+print(""欢迎使用"")
+````
+
+##2.显示用户的名字，使用格式化字符串
+
+````python
+print(""欢迎使用"")
+````
+
+##3.显示用户的名字，使用格式化字符串
+
+````python
+print(""欢迎使用"")
+````
+
+##4.显示用户的名字，使用格式化字符串
+
+````python
+print(""欢迎使用"")
+````
+
+##5.显示用户的名字，使用格式化字符串
+
+````python
+print(""欢迎使用"")
+````
+
+##6.显示用户的名字，使用格式化字符串
+
+````python
+print(""欢迎使用"")
+````
+
+##7.显示用户的名字，使用格式化字符串
+
+````python
+print(""欢迎使用"")
+````
+
+##8.显示用户的名字，使用格式化字符串
+
+````python
+print(""欢迎使用"")
+````
+
+##9.显示用户的名字，使用格式化字符串
+
+````python
+print(""欢迎使用"")
+````
+
+##10.显示用户的名字，使用格式化字符串
+
+````"
+41,"Question:
+Let v = -8.5 + 8. Letx = -1.2 - v. Letk = -0.2 + x. What isk的值?
+Answer:
+-0.2<|end_of_text|>"
+42,"Question:
+Let l = -0.3 - -0.1. Letg = -0.3 + l. Letc = -0.3 - g. What is the closest to 0.1?  (a) -5  (b)c  (c)2
+Answer:
+b<|end_of_text|>"
+43,"Question:
+Let k = -0.4 - -0.5. Letj = -0.1 - k. Letl = -0.1 - j. Which is the closest to -1?  (a) -0.4  (b)l  (c)2
+Answer:
+a<|end_of_text|>"
+44,"Question:
+Let o = -2.1 - -2. Letq = 0.9 - o. Letg = 1.4 - q. What is g roundedto0 dps?
+Answer:
+1<|end_of_text|>"
+45,"Question:
+Let x = 0.9 + 0.1. Letk = 0.8 + x. Letj = -0.3 - -0.5. What is the closest to 0.1?  (a)k  (b)j  (c)0.3
+Answer:
+c<|end_of_text|>"
+46,"Question:Build一个简单的基于原子级的项目，编译原则应保持
+A.一致
+B.简洁
+C.高效
+D.简单
+Answer:B<|end_of_text|>"
+47,"# 2007年国际奥委会
+
+2007年国际奥委会（英語：）是国际奥委会的第77届会长。2007年12月26日在马拉加举行会议，2008年7月21日在柏林宣布选举新会长。
+
+##选举
+
+选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举选举"
+48,"Question: In a person,thet发生于甲基化的成分是
+A.甲基化的物质
+B.抗氧化剂
+C.��
+D.抗氧化剂
+E.��
+Answer: B<|end_of_text|>"
+49,"Question:Design一个能够将数据存储在内存的数据库。该数据库应具有的特点是
+A.灵活、便于扩展
+B.简单、方便
+C.易于管理
+D.简单、便于维护
+Answer:A<|end_of_text|>"
+50,"Question:
+Let g = -0.2 - 0.2. Letf = -0.2 + g. Leth0 = 3*l - 5*l - 2. Which is the nearest to -1/4?  (a)f  (b)l  (c)0.3
+Answer:
+c<|end_of_text|>"
+51,"Question:
+Let w = -0.2 - -0.1. Letu = -0.3 - -0.7. Letj = -0.1 -u. Which is the nearest to -1?  (a)w  (b)j  (c)0.5
+Answer:
+a<|end_of_text|>"
+52,"def create_new_list(list1, list2):
+    """"""Return a newlist,withlist1的每一个元素都转换为list2的元素。
+    """"""
+    newlist = []
+    foritem1 inlist1:
+       foritem2inlist2:
+          新列表的新元素
+    return新列表
+<|end_of_text|>"
+53,"Question:
+What is prob of picking 1 j, 1 y, 1k,和2f?
+Answer:
+1/10<|end_of_text|>"
+54,"Question: Which is not a component ofFriedrich2
+A.甲基�
+B.甲基�
+C.甲基�
+D.甲基�
+E.甲基�
+Answer:B<|end_of_text|>"
+55,"def count_unique_elements(list1):
+    """"""
+   Return the count of unique elements in list1.
+   """"""
+    #将list1转换为列表
+   list1 =list1.split()
+   #创建一个列表来存储每个元素的个数
+  个数列表=list()
+   #遍历列表
+  for单词1在list1中的索引
+   单词1在list1中的索引
+   #将单词1转换为列表
+ 单词1列表
+   #将单词1列表转换为列表
+   单词1列表转换为列表
+   #将列表转换为列表
+  列表转换为列表
+   #将列表转换为列表
+   �
+   #将列表转换为列表
+   �
+   #将列表转换为列表
+   �
+   #将列表转换为列表
+   �
+   #将列表转换为列表
+   �
+   #将列表转换为列表
+   �
+   #将列表转换为列表
+   �
+   #将列表转换为列表
+   �
+   #将列表转换为列表
+   �
+   #将"
+56,"Question:
+What is the common denominator of 11/8 and 7/(-5)*(-2)/(-2)?
+Answer:
+8<|end_of_text|>"
+57,"Question:
+Let w = -0.0197 + 0.1197. Letk = -0.07 - -0.18. Letx = w - k. What is x roundedto 2 decimal places?
+Answer:
+-0.01<|end_of_text|>"
+58,"def solve(temperature):
+    """"""
+   Given a temperature,returnthetemperatureinCelsius
+    """"""
+    #将温度转换为Celsius
+   tempC=10+273.15
+    #将温度转换为英制
+  tempF=10+273.15
+    #返回温度
+    returntempC
+<|end_of_text|>"
+59,"def find最大值的数字(列表):
+    """"""找最大值的数字
+    """"""
+   最大值 =0
+   #从列表开始遍历
+   forx在列表中
+       ifx大于最大值
+           最大值 =x
+   return最大值
+<|end_of_text|>"
+60,"Question:
+Let h = -7.9 + 7. Letx = -2.4 - h. Letl = -0.1 -x. What is l roundedto1dp?
+Answer:
+-0.2<|end_of_text|>"
+61,"Question:
+Let l = -7.9 - -8. Letg = -0.5 - -0.8. Leth2 = -2*o - 2*o - 5*o - 6.7.Which是最大的值？  (a)g  (b)l  (c)o
+Answer:
+b<|end_of_text|>"
+62,"Question:
+Let f = -0.4 - -0.7. Lett = -0.7 - f. Letj = 0.7 - 0.9. Which is the nearest to 0?  (a) 3  (b) j  (c) -0.3
+Answer:
+c<|end_of_text|>"
+63,"Question:
+Let o = -0.0276 - -0.027. Letg = -0.07 - -0.05. Letq =g - -0.14. Whatisothebiggest值？（a）o（b）q（c）-0.1
+Answer:
+c<|end_of_text|>"
+64,"Question:
+Let q = -0.6 - -0.6. Leta是两个标准的测量器，测量一只苹果，测量时用的是Leta，测量时用的是q。两者测量结果分别是3.2和3.3。两者测量结果之间的差异是
+A.3
+B.2
+C.1
+D.4
+Answer:C<|end_of_text|>"
+65,"Question:
+Let x = -0.5 - -0.5. Letr = 0.1 - -0.1. Letl = 0.1 - r. Which is the nearest to x?  (a) 0.1  (b) -1/2  (c) l
+Answer:
+a<|end_of_text|>"
+66,Question:Build一个用于在iOS和Mac应用程序的框架，能够处理文件的操作。该框架可以处理文件的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的操作的
+67,"Question:Design一个能够在内存中读写数据的文件时，文件的内容会被�保存在内存中的文件类型是
+A.文件
+B.字节
+C.二进制
+D.字节组
+Answer:B<|end_of_text|>"
+68,"Question:
+What is 0.0000075 roundedto 6 decimalplaces?
+Answer:
+0<|end_of_text|>"
+69,"Question:
+Let i = -0.1 - -0.3. Letc = 0.2 - i. Leta是三元组，Leta=(0.1，0.2，0.3)。对Leta进行加法运算，结果是Leta的组分。正确答案是（1）Leta的组分是Leta的组分。（2）Leta的组分是Leta的组分。（3）Leta的组分是Leta的组分。（4）Leta的组分是Leta的组分。答案正确的是（1）
+Answer：1<|end_of_text|>"
+70,"Question: Thepharynxis
+A. A�
+B. A�
+C. A
+D. B
+Answer: B<|end_of_text|>"
+71,"Question:
+Let l = 0.3 - 0.2. Leti = -0.3 - l. Letq = 0.4 - 0.4. What is the nearest to 0.1?  (a)q  (b)2  (c)Le
+Answer:
+a<|end_of_text|>"
+72,"Question:
+Let i = -0.4 - -0.8. Letq = 0.02 - i. Lety指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指的是指"
+73,"def analyzeDNA(dna):
+    """"""分析DNA序列
+    Args:
+        dna:DNA序列
+   返回:
+       结果
+    """"""
+    #将序列转换为字符串
+    dna序列=str(dna)
+   #将字符串转换为列表
+   列表=列表的列表
+   列表=列表的列表
+   #将列表转换为字符串
+  列表转换为列表
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转换为字符串
+   #将列表转"
+74,"def slice_and循环组合(字符串):
+    """"""将字符串切割为单词,并依次打印。""""""
+    #切分字符串
+   词组合
+    #打印单词
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+    #打印
+   "
+75,"Question: A 24-year-oldfemale underwent an elective cesareansection. The umblicalcordis2cmlong. Theplacenta早分�，胎心音正常。1小时后，出现呼吸困难，体温38.5degC，呼吸频率增快，心率增快，腹部出现�，胎心音增弱。最可能的原因是（　）。
+A.发生羊水�
+B.发生胎儿�
+C.发生�
+D.发生胎儿脱胎
+Answer:D<|end_of_text|>"
+76,"Question:
+Let y = 10.5 - 10. Lett = -0.2 - y. Letc = -0.1 - -0.1. Which is the nearest to 1?  (a) 3  (b)c  (c) lett
+Answer:
+b<|end_of_text|>"
+77,"def create_ingredient_list(ingredients):
+    """"""Createalistofingredientswitha
+    """"""
+    ingredient_list = []
+    foringredient iningredients:
+        ingredient_list.append(ingredient)
+   returningredientlist
+<|end_of_text|>"
+78,"Question: Which of the following is not a feature ofBenzphetamine
+A.Weightloss
+B.Breathlessness
+C.Cramping
+D.无神经
+Answer:D<|end_of_text|>"
+79,"Question:
+Let x = 0.023 - 0.033. Letn = 0.03 - x. Letj = -0.1 - n. Whatisj的值?
+Answer:
+-0.1<|end_of_text|>"
+80,"Question:
+What is the next termini of the word""ABCD""?
+Answer:
+A<|end_of_text|>"
+81,"Question:
+Let o = -0.5 - -0.5. Leti = -0.2 - o. Lety是以0.1的量分，表示的量的大小是Lety的多少倍。Lety的量是
+A. 0.1
+B. 0.2
+C. 0.3
+D. 0.4
+Answer：B<|end_of_text|>"
+82,"Question:
+Let u = -0.025 - 0.025. Letc = -0.05000126 - u.What是c的近似值？
+Answer:
+-0.01<|end_of_text|>"
+83,"Question:
+Let w = 0.004 - 0.004. Letc = 0.03 - 0.04. Letk = w + c. Which is the nearest to 2/3?  (a) -1  (b) 0  (c) k
+Answer:
+b<|end_of_text|>"
+84,"def update_athlete_stats(athlete,stats):
+    """"""Update athlete's stats
+
+    athlete:Athlete对象
+   stats:一个包含 athlete的所有信息的字典
+    """"""
+    #TODO：完成更新
+    pass
+<|end_of_text|>"
+85,"def modify_list(mylist):
+    """"""Modify列表
+    :param mylist:列表
+    :return:修改后的列表
+    """"""
+    #修改列表
+    #1.将列表中的元素转为列表
+    #2.将列表中的元素转为列表
+    #3.将列表中的元素转为列表
+    #4.将列表中的元素转为列表
+    #5.将列表中的元素转为列表
+    #6.将列表中的元素转为列表
+    #7.将列表中的元素转为列表
+    #8.将列表中的元素转为列表
+    #9.将列表中的元素转为列表
+    #10将列表中的元素转为列表
+    #11将列表中的元素转为列表
+    #12将列表中的元素转为列表
+    #13将列表中的元素转为列表
+    #14将列表中的元素转为列表
+    #15将列表中的元素转为列表
+    #16将列表中的元素转为列表
+    #17将列表中的元素转为列表
+    #18将列表中的元素转为列表
+    #19将列表中的元素转为列表
+    #20将"
+86,"Question:Build一个能够检测到病毒的仪器，首选的方法是
+A.放线菌法
+B.凝胶����
+C.电泳
+D.�
+Answer:A<|end_of_text|>"
+87,"Question: Theophylline
+A. Is不稳定
+B.有抗药性
+C.不产生耐药
+D.不产生耐药
+E.不产生耐药
+Answer:C<|end_of_text|>"
+88,"Question:
+Let f = 0.1 - -0.2. Letk = -0.6 + f. Letj = -0.5 - -0.7. What is the closest to -1/4 in j, -2/9,k?
+Answer:
+-2/9<|end_of_text|>"
+89,"Question:
+Let n = -0.0319 - -0.031. Letw = 0.0198 - n. Roundw到4 decimal点。
+Answer:
+0.002<|end_of_text|>"
+90,"def add_toset(set1,set2):
+   """"""Return a新集合，包含set1和set2的所有元素""""""
+   returnset1.union(set2)
+<|end_of_text|>"
+91,"Question:
+What is the remainderwhen 44isdividedby4? A) 2 B) 3 C) 4 D) 5 E) 6
+Answer:
+44=4*11
+11=1*11
+所以4余1
+答案为A<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 2. Letk = -0.3 + p. Letc = 0.2 -k. What isc?
+Answer:
+0.2<|end_of_text|>"
+93,"Question:
+Let i = -0.5 - -0.4. Leta的每月收入是3500，总收入数是3000。Leta的收入增加的百分比是？ A) 10% B) 20% C) 30% D) 40% E) 50%
+Answer:
+增加的百分比是3000-3500/3000*100
+=10%
+Answer：A<|end_of_text|>"
+94,"Question:Build一个可从头创建的应用程序，用于展示和测试各种编程语言的实用程序。该应用程序应该能够使用以下语言开发：Java、C++、C#、JavaScript和Python。编写该应用程序时，应使用的技术应该是
+A.Java编程语言
+B.C语言
+C.C#编程语言
+D.Java编程语言
+Answer：A<|end_of_text|>"
+95,"Question:
+Let o = 0.2 - 0.2. Lett = 0.1 - o. Letl = 0.2 - 0.2. Which is the closest to 0.1?  (a) -1  (b) l  (c) -0.4
+Answer:
+b<|end_of_text|>"
+96,"# 2004年夏季奥林匹运动会
+
+2004年夏季奥运会是第XXV届夏季奥运会，是第28届夏季奥运会，于2008年8月8日至8月24日在北京的北京奥运会场馆举办。是第28届夏季奥运会，第六届冬季奥运会的组合。由于2008年8月8日是周日，故将比赛进行延期至8月24日。由于2008年8月8日是周日，故将比赛进行延期至8月24日。
+
+##比赛场馆
+
+参见：北京奥运会场馆列表
+
+##比赛项目
+
+共有26个项目，共进行48个比赛。比赛的时间以中时为单位。<|end_of_text|>"
+97,"Question:
+Let c = 0.5 - -0.3. Lety的目的是要将其的价值提高。Letty将其� 1. c=1.3 2. c=1.5 3. c=1.8 4. c=2.0 5. c=2.3 6. c=2.5 7. c=2.8 8. c=3.0 9. c=3.5 10. c=3.7 11. c=3.8 12. c=4.0 13. c=4.3 14. c=4.5 15. c=4.8 16. c=5.0 17. c=5.3 18. c=5.5 19. c=5.8 20. c=6.0 21. c=6.3 22. c=6.5 23. c=6.8 24. c=7.0 25. c=7.3 26. c=7.5 27. c=7.8 28. c=8.0"
+98,"Question:Develop一个具有注册、管理、审核、监管的管理信息服务的系统的开发规划，首先应考虑的要素是
+A.系统的设计与开发
+B.系统的规划与设计
+C.系统的开发与运维
+D.系统的设计与开发
+E.系统的规划与设计
+Answer:D<|end_of_text|>"
+99,"def find_missing(animals):
+    """"""
+   Given a list of animals,findthemissing
+   """"""
+    #找出动物的名字
+   动物名 = ['猫','狗','羊']
+    #找出动物的数量
+   动物数量 =len(动物名)
+    #找出动物的名字和数量
+   动物列表 =['猫','狗','羊']
+    #找出动物的名字和数量
+  动物列表 =['猫','狗','羊']
+    #找出动物的名字和数量
+   动物列表 =['猫','狗','羊']
+    #找出动物的名字和数量
+   动物列表 =['猫','狗','羊']
+    #找出动物的名字和数量
+   动物列表 =['猫','狗','羊']
+    #找出动物的名字和数量
+   动物列表 =['猫','狗','羊']
+    #找出动物的名字和数量
+   动物列表 =['猫','狗','羊']
+    #找出动物的名字和数量
+   动物列表 =['猫','狗','羊']
+    #找出动物的名字和数量
+   动物列表 =['猫','狗','羊']
+   "

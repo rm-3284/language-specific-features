@@ -1,0 +1,348 @@
+seed,generated_text
+0,Question:WriteaPythonコードプレビ運手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+1,"Question:
+Let d = 0.2 - 0.3. Let q = 0.2 - d. Let b = -0.5 - q. What is b roundedto1dp?
+Answer:
+-0.1<|end_of_text|>"
+2,"Question:
+Let q = -3.4 - -3. Let m = 0.5 - q. Let w = m + -0.2. Which is the closest to 0.1?  (a) 1  (b) w  (c) -3
+Answer:
+b<|end_of_text|>"
+3,"Question:
+Let g = 0.11 - 0.2. Letw = g - -0.41. Letq = -0.49 - w. Whatis qroundedto3dp?
+Answer:
+-0.007<|end_of_text|>"
+4,"Question:
+Let v = -11.9 - -12. Let q = 0.05 - 0.5. Leti = q - v. What is iroundedoff(2) - (2 - 1) - -3?
+Answer:
+-3<|end_of_text|>"
+5,"Question:
+Let o = 0.7 - 0.7. Let g = 0.9 - o. Let b = 1.8 - g. What is broundedoffto2の値数を入手する手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手"
+6,def carpenter練習手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間計手間
+7,# 2手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+8,"Question:
+Let o = -0.5 - -0.8. Let t = 0.1 - o. Letq = -0.1 - t. Which is the closest to -0.1?  (a) 2/3  (b) q  (c) 0.5
+Answer:
+c<|end_of_text|>"
+9,"Question:
+Let r = -0.2 - -0.1. Let p = 0.7 - r. Let l = p - 0.7. Which is the closest to l?  (a) 2  (b) 1  (c) -3
+Answer:
+b<|end_of_text|>"
+10,Question:CreateaPythonプログ手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+11,Question: A 35-year-old woman who is asymptomatic of chestpain and chestpainTnfandchestpainVSDhasaLAAstomchstststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststststst
+12,"Question:
+Let r = 0.123 + -0.144. Let q = r - -0.031. Let t = q + -0.02. What is t roundedto 2 dps?
+Answer:
+-0.5<|end_of_text|>"
+13,"Question:
+Let h = -0.1 - -0.1. Let i = 0.7 - h. Let d = 0.6 - i. What is d roundedto2dp?
+Answer:
+1<|end_of_text|>"
+14,"Question: Which of the following is nottrueofmucalparapatbral間手術
+A.手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手"
+15,"Question:
+Let y = -0.01 - -0.1. Let d = -0.5 - -0.8. Letl = d - -0.4. Which is the closest to y?  (a) 0  (b) l  (c) -2/3
+Answer:
+a<|end_of_text|>"
+16,"Question:
+Let j = -0.5 - -0.5. Let b = 0.5 - j. Let l = -0.4 - b. What is l roundedto1dp?
+Answer:
+-0.1<|end_of_text|>"
+17,"Question:
+Let f = 0.4 - 0.5. Let h = 0.4 - f. Let c = -0.7 - h. What is c roundedto2dp?
+Answer:
+-0.5<|end_of_text|>"
+18,"Question:
+Let d = 3.8 - 3.8. Letl = -2.8 - -2.8. Which is the closest to d?  (a) 0.3  (b) l  (c) 3
+Answer:
+a<|end_of_text|>"
+19,Question: A 35yearoldwomanA25cmH身長が手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+20,"Question: Which of the following is notconsidered asafoffee?
+A. Alcohol
+B. Ethanol
+C. Isoprene
+D. Methylethylketethylethylisoprene
+E. Isoprene
+Wongaffterの記述と手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手"
+21,"Question:
+Let g = -0.1 - -0.3. Let i = 1.1 - g. Let h = 0.3 - i. Which is the closest to 1?  (a) 1  (b) h  (c) -1/4
+Answer:
+a<|end_of_text|>"
+22,"Question: Which of the following is not acausedbytheHepatotoxins?
+A. Cytotoxic
+B. Cytotoxic
+C. Cytotoxic
+D. Cytotoxic
+E. Cytotoxic
+Answer: D<|end_of_text|>"
+23,"Question:
+Let r = -0.4 - -0.4. Let d = -0.5 - -0.4. Let f = d - -0.1. Which is the closest to r?  (a) f  (b) -3  (c) 2/3
+Answer:
+c<|end_of_text|>"
+24,Question:WriteaPythonコードで、入手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+25,"# Cognitius
+
+Cognitius（コニトイウ、英表記：Cognitius、独表記：Cognitius）は、自動車の運運手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手"
+26,"Question:
+Let c = -4.25 - -4. Letq = 0.25 - c. Letm = -0.1 - q. Which is the closest to 1?  (a) 2  (b) -2/5  (c) m
+Answer:
+a<|end_of_text|>"
+27,Question:DevelopaR手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.2 - t. Letw = -0.3 - c. What is w roundedto3dp?
+Answer:
+-0.3<|end_of_text|>"
+29,Question:WriteaPythonプ手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+30,"Question:
+Let d = -0.1 - -0.2. Let c = 0.4 - d. Let b = -0.5 - c. What is b roundedto 1dp?
+Answer:
+-0.5<|end_of_text|>"
+31,"Question:
+Let m = -1.7 - -1.8. Let i = 0.03 - m. Let c = -0.4 - i. Which is the nearest to 0.1?  (a) c  (b) 1  (c) 2/3
+Answer:
+a<|end_of_text|>"
+32,"Question:
+Let i = 18.9 - 19. Let q = 0.5 - 0.5. Which is the closest to q?  (a) i  (b) -3  (c) -4/3
+Answer:
+a<|end_of_text|>"
+33,"def analyzetemperature(temperature):
+    """"""ThisisaPythonプ手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手"
+34,"Question:
+Let q = -0.6 - -0.7. Let b = 0.7 - q. Let c = -0.7 - b. What is croundedto3dp?
+Answer:
+-0.7<|end_of_text|>"
+35,"Question:
+What is 0.2 - 0.003?
+Answer:
+0.197<|end_of_text|>"
+36,"Question:
+Let o = 0.6 - 1.6. Let c = 0.8 - o. Let i = -0.7 - c. What is i roundedto1dp?
+Answer:
+-0.8<|end_of_text|>"
+37,# -*-作手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+38,"Question:
+What is the common denominator of 3/35 - 20/35 and 5/7?
+Answer:
+35<|end_of_text|>"
+39,"Question:
+Let c = -0.12 - -0.5. Let x = -0.4 - c. Letl = 0.5 - x. Whatis lの定義の手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手"
+40,"# St間
+
+本人意手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手"
+41,"Question:
+Let v = -8.5 - -8. Let q = 1.5 - v. Let d = -2.9 - q. What is d roundedto1dp?
+Answer:
+-1<|end_of_text|>"
+42,"Question:
+Let l = 0.3 - 0.3. Let d = -0.3 - l. Let c = 0.3 - d. What is c roundedto1dp?
+Answer:
+1<|end_of_text|>"
+43,"Question:
+Let q = -0.4 - -0.5. Let w = q - -0.5. Let d = -0.5 - w. Which is the closest to -1?  (a) -0.4  (b) d  (c) 2
+Answer:
+a<|end_of_text|>"
+44,"Question:
+Let o = 2.1 - 2. Letq = 0.5 - 0.5. Letha = -4*o*2*2/4. What is lenthqroundedto3decimal数?
+Answer:
+1<|end_of_text|>"
+45,"Question:
+Let t = 0.9 - 1.5. Let d = 0.5 - t. Let v = -0.3 - d. What is vroundedto5of5?
+Answer:
+0<|end_of_text|>"
+46,Question:WriteaPythonコード手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+47,"#1 |TheGlorifiedGlorified
+I've been using this site for over 2 years and I'm still amazed at the quality ofthe content. I've watched a lot ofvideos and i've reada lot ofarticlesbutI'veneverseenanythatI'veneverheardoftheoriginalstoriesortheoriginalauthors. I'mparticularlycuriousabouttheoriginalstoryoftheoriginalauthorofTheGlorifiedGlorifiedandI'dliketohearka声声と知本知本を聞かした手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手"
+48,"Question: In a person whohasadrenchesteredhand,handwristandforewristfortheforehand,hehas
+A. Dorsalhand
+B. Dorsa手
+C. Dorsa手手
+D. Dorsa手手手
+E. Dorsa手手手手
+Answer: D<|end_of_text|>"
+49,Question: All of the following arecausedbyadren手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+50,"Question:
+Let g = 4.5 - 4. Let h = 2.7 - 3. Letw = h - g. What is the closest to 0.1 in -0.5, -0.3, w?
+Answer:
+-0.3<|end_of_text|>"
+51,"Question:
+Let w = -0.2 - -0.2. Let q = -0.3 - -0.3. Let i = q - -0.8. Which is the closest to w?  (a) i  (b) -2/7  (c) 2
+Answer:
+b<|end_of_text|>"
+52,"def create_list(animals):
+    """"""Given alist of animals, create a list of animals that are not birds""""""
+
+    birds = [bird for bird in animals if not bird == ""Bird""]
+    return birds
+<|end_of_text|>"
+53,"Question:
+What is the common denominator of -55/16 and -49/4?
+Answer:
+16<|end_of_text|>"
+54,"Question:
+Let d = -0.5 - -1.5. Let r = 0.5 - d. Let c = 0.2 - r. What is c roundedto2dp?
+Answer:
+-0.2<|end_of_text|>"
+55,"def count_unique_menswearstyles(menswear):
+    """"""Given a list of men'swear styles, count the number of unique styles.
+
+    Args:
+        menswear (list): Alistofmen'sworestyles.
+
+    Returns:
+       int:Thenumberofuniquemensworestyles.
+    """"""
+    unique_menswear = {}
+    for item in menswear:
+        if notitem inunique_menswear:
+            unique_menswear[item] = 1
+        else:
+            unique_menswore[item] +=1
+    returnlen(unique_menswore)
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>"
+57,"Question:
+Let d = -4.3 - -4. Let x = -1.7 - -1.5. Let q = x - -0.7. Which is the closest to d?  (a) q  (b) -3  (c) 2/3
+Answer:
+c<|end_of_text|>"
+58,"def nestedifwhilecomparislonexample(temperature):
+    """"""
+    Given temperature, temperature計手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手"
+59,def find異手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+60,"Question:
+Let h = -7.9 - -7.900003938. What is hroundedto4dollar1?  (a) 0  (b) 1  (c) 1.5  (d) 2
+Answer:
+1<|end_of_text|>"
+61,"Question:
+Let l = -7.9 - -7.9. Let p = 0.3 - 0.3. Which is the closest to l?  (a) p  (b) 1  (c) 0.4
+Answer:
+a<|end_of_text|>"
+62,"Question:
+Let f = -0.4 - -0.5. Let v = -0.7 - f. Letw = 0.7 - v. What is the closest to -1/2 in 0.4, w, 2/3?
+Answer:
+w<|end_of_text|>"
+63,"Question:
+Let o = -16.5 - -16. Let q = 0.4 - 0.4. Which is the closest to q?  (a) -1  (b) o  (c) 0.4
+Answer:
+c<|end_of_text|>"
+64,"Question:
+Let q = -22.6 - -22. Letj = 0.1 - q. Letr = -1.5 - -1.7. Which is the nearest to 1?  (a)r=1  (b)r=1  (c)r=1  (d)r=1
+Answer:
+a<|end_of_text|>"
+65,"Question:
+Let c = -0.5 - -0.5. Let i = 0.1 - c. Let q = -0.4 - i. What is q roundedto1dp?
+Answer:
+-0.1<|end_of_text|>"
+66,"Question:
+Let f = -1.2 - -0.8. Let o = -0.5 - f. Let h = -0.5 - o. What is hroundedto3dm?
+Answer:
+-1<|end_of_text|>"
+67,"Question: Which of the following is not a riskimpedmedica-terfortheimmunehepresc-icabfomedi-ter-
+A. Spondwomhlaenoluc
+B. Spondylouludwomhlaenoluc
+C. Spondyoluddwomhlaenoluc
+D. Spondyoludwomhlaenoluc
+E. Spondylouludwomhlaenoluc
+Answer: D<|end_of_text|>"
+68,"Question:
+What is 3.9 - -0.1?
+Answer:
+4.1<|end_of_text|>"
+69,"Question:
+Let i = -22.8 - -23. Let q = -0.1 - i. Let b = 2.1 - q. What is broundedoffto1 = -1.2?
+Answer:
+-0.8<|end_of_text|>"
+70,Question: Which of the following is not a riskofbreavetdauatthefoalc手持手計手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+71,"Question:
+Let l = 0.3 - 0.4. Let r = 0.3 - l. Let i = 0.4 - r. What is i roundedto 1dp?
+Answer:
+1<|end_of_text|>"
+72,"Question:
+Let i = -0.4 - -0.5. Let d = 0.4 - i. Let c = -0.8 - d. What is croundedto2d?
+Answer:
+-0.1<|end_of_text|>"
+73,def update運手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+74,def update_to運手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+75,Question: A 35years女性患者、体重70kg、血圧120/70mmHg、血RBC100×10^9L、血RBC占体体体重50%、血血小手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+76,"Question:
+Let r = 10.5 - 11. Let i = -0.2 - -0.2. Let o = i - r. Is o <= 1/3?
+Answer:
+False<|end_of_text|>"
+77,"def createMarmadukeToys(Toys):
+    """"""
+    CreateMarmadukeToys takes a list ofMarmadukeToys and returns a list ofMarmadukeToysthatare
+    atleast10cmx10cmx10cmandthathavethefollowingproperties:
+    
+    *ToysisaMarmadukeToysandtheMarmadukeToysintheoriginallistare
+    *ToysandMarmadukeToysarex複合体の構成手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手"
+78,"Question: Which of the following is not true about thelaleafoftheheoedemaoftheheheoedema
+A. Langerh手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手"
+79,"Question:
+Let d = 0.023 - 0.023998978. What is d roundedto7 decimal_places?
+Answer:
+-0.0001<|end_of_text|>"
+80,"Question:
+What is the third biggestvaluein 2/3, 2/3, -0.3, 0.3?
+Answer:
+-0.3<|end_of_text|>"
+81,"Question:
+Let o = -2.5 - -2.5. Let x = 0.2 - o. Let q = -0.1 - x. Which is the closest to 0.1?  (a) q  (b) 2  (c) -1/4
+Answer:
+a<|end_of_text|>"
+82,"Question:
+Let c = -0.5 - -0.5. Let v = 2.7 - 3.7. Which is the closest to c?  (a) v  (b) 2  (c) -1
+Answer:
+a<|end_of_text|>"
+83,"Question:
+Let w = 0.7 - 0.7. Let h = 0.7 - w. Let c = 0.6 - h. Which is the closest to 1?  (a) 2  (b) c  (c) -3/4
+Answer:
+a<|end_of_text|>"
+84,"def update_temperature(temperature):
+    """"""Given a temperature, update it to reflect the temperature at the current temperature""""""
+    if temperature > 100:
+        temperature = temperature - 10
+    elif temperature < 100:
+        temperature = temperature + 10
+    return temperature
+<|end_of_text|>"
+85,def nested_tuple運手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+86,Question: In a study of 100healthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthyhealthy
+87,Question: Theorganheerhavetom手間手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+88,"Question:
+Let i = 0.1 - -0.2. Let h = 0.6 - i. Let m = 0.5 - h. Which is the closest to 1?  (a) 2  (b) m  (c) -0.5
+Answer:
+a<|end_of_text|>"
+89,"Question:
+Let d = -0.6 - -0.8. Let m = 0.6 - d. Letw = 1.5 - m. What is wroundedto1dp?
+Answer:
+2<|end_of_text|>"
+90,"def add_toset(sets):
+    """"""
+    Given alistofsetのトサ手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手"
+91,"Question:
+What is the remainderwhen 44ismod4isdividedby5? A) 1B) 3C) 4D) 5E) 6
+Answer:
+Letthe模数の数表の個手分をとって、数が割当数の個手分と分割できる数の個手分を数分とし、数の個手分の数と分割できる数の個手分を数分とし、数分と数分と数分の数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数分と数"
+92,"Question:
+Let l = 2.2 - 2. Let g = 0.3 - l. Let h = 0.7 - g. What is hroundedto1dollar1?
+Answer:
+1<|end_of_text|>"
+93,"Question:
+Let i = 0.5 - 1. Let c = 0.7 - i. Let q = -0.5 - c. What is qroundedto2?
+Answer:
+-1<|end_of_text|>"
+94,Question: The most common form of ghee調手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+95,"Question:
+Let o = 0.2 - 0.2. Let q = 0.8 - o. Letl = 0.5 - q. What is lroundedto3bitrfsqcm?<|end_of_text|>"
+96,# SAKB手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手
+97,"Question:
+Let c = 0.5 - 0.5. Let q = 0.5 - c. Let l = q - 0.5. Which is the closest to 1?  (a) l  (b) 0  (c) -0.3
+Answer:
+a<|end_of_text|>"
+98,"Question:
+Let q = -4.5 - -4. Leti = 2.7 - q. Letj = 0.2 - i. What is j roundedto1dp?
+Answer:
+0.2<|end_of_text|>"
+99,def carpenter間手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手手

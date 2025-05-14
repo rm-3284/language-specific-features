@@ -1,0 +1,1 @@
+"The highlighted tokens are common Hindi morphemes and pronouns such as \"हम\", \"िस\", \"ुझ\", and plural or case markers like \"ों\", which frequently appear as grammatical components in Hindi sentences, often forming parts of pronouns, possessives, or verb conjugations."

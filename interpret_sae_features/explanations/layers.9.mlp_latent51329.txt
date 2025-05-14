@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily Thai morphemes, prefixes, or roots that form the core of verbs, nouns, and function words, often marking tense, aspect, negation, or agency. These tokens frequently appear at the start or within compound words and are essential for constructing meaning in Thai sentences."

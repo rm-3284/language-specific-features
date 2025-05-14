@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily common Hindi syllables, morphemes, or short word fragments, often appearing at the start or within proper nouns, place names, and compound words, reflecting the agglutinative and inflectional nature of Hindi text. These tokens frequently serve as building blocks for larger words, especially in names, titles, and technical terms."

@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily function words, particles, punctuation, and common morphemes that structure Chinese sentences, indicate relationships, or mark boundaries between phrases, clauses, or items in lists. These elements are essential for grammatical cohesion, logical flow, and segmentation in Chinese text."

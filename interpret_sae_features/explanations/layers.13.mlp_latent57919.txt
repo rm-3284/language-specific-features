@@ -1,0 +1,1 @@
+"The tokens correspond to common Hindi postpositions and case markers, such as those indicating location, means, or possession, which frequently appear attached to nouns or pronouns and are essential for grammatical relationships in Hindi sentences."

@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily content words—nouns, verbs, and adjectives—that carry core semantic meaning in Japanese sentences, often relating to scientific, technical, or descriptive contexts. These tokens frequently denote key concepts, actions, or properties, and are central to the informational structure of the text."

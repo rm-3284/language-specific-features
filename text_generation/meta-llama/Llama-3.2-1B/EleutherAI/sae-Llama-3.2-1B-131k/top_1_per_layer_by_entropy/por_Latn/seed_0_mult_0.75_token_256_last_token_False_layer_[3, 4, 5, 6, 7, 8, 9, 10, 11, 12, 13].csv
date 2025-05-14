@@ -1,0 +1,874 @@
+seed,generated_text
+0,Question:Write a Python program to print the last word of each line of a file. Use a list comprehension to do it. The list should be sorted by the last word.<|end_of_text|>
+1,"Question:
+Let d = 0.2 + -0.3. Let z = 0.2 + d. Let b = -1.01 + z. What is b rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>"
+2,"Question:
+Let q = -3.4 - -3. Let m = -0.2 - q. Let j = -0.2 + m. Which is the closest to 0.1?  (a) 1  (b) j  (c) -0.4
+Answer:
+c<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Let k = -0.04 - g. Let m = -0.06 + k. Which is the closest to 0.1?  (a) m  (b) 0.3  (c) 2/9
+Answer:
+c<|end_of_text|>"
+4,"Question:
+Let v = 11.4 - 12. Let q = v + 0.7. Let g = -0.04 + q. What is g rounded to 2 dps?
+Answer:
+-0.3<|end_of_text|>"
+5,"Question:
+Let a = 0.2 - 0.1. Let o = a + 0.1. Let b = -1.3 + o. Which is the closest to 0?  (a) 0.2  (b) 0.4  (3)
+Answer:
+b<|end_of_text|>"
+6,"def count_and_modify(my_list):
+    """"""
+    Write a function that takes a list as an argument and returns a new list with the same length,
+    where each element is the number of times that the corresponding element appears in the original list.
+    If the original list is empty, return an empty list.
+    Use a for loop and the break statement to solve this problem.
+    """"""
+    new_list = []
+    for i in range(len(my_list)):
+        if my_list[i] not in new_list:
+            new_list.append(my_list[i])
+        else:
+            break
+    return new_list
+<|end_of_text|>"
+7,"Question:
+What is the nearest to 0.1 in -2/3, -4, -0.5?
+Answer:
+-0.5<|end_of_text|>"
+8,"Question:Develop a Python program snippet that Determines High Finance: Investment Advice for Engineer (Python). Use the given dataset and determine the investment strategy for the customer. Use the given strategy and provide the customer with the following information:
+1. The name of the investment
+2. The name of the investment plan
+3. The amount of money that the customer must invest
+4. The time period for which the investment is valid
+5. The amount of money that the customer can withdraw from the investment plan at any time
+6. The amount of money that the customer can invest in the investment plan
+7. The amount of money that the customer can invest in the investment plan at any time
+8. The amount of money that the customer can withdraw from the investment plan at any time
+9. The amount of money that the customer can invest in the investment plan at any time
+10. The amount of money that the customer can invest in the investment plan at any time
+11. The amount of money that the customer can withdraw from the investment plan at any time
+12. The amount of money that the customer can invest in the investment plan at any time
+13. The amount of money that the customer can withdraw from the investment plan at any time
+14."
+9,"Question:
+Let x = -0.2 - -0.1. Let p = 0.7 + x. Let l = p - 0.1. Which is the nearest to l?  (a) 2  (b) 1/3  (c) 0.4
+Answer:
+b<|end_of_text|>"
+10,"Question:Build a Python script snippet that calculates the average of all the numbers in the list. Use the function provided by the function and the list provided by the function.
+
+Solution:```python
+def avg(numbers):
+    return sum(numbers) / len(numbers)
+
+print(avg([1, 2, 3, 4, 5, 6]))
+```
+
+## Usage
+
+**Usage**:
+
+**Python script** ```python
+
+    import sys
+    import random
+    import time
+    # set debug
+    # set log
+    # set trace
+
+    # set output
+    # set err
+
+    # set traceback
+    # set traceback
+    # set trace
+    # set trace
+
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace
+    # set trace"
+11,"Question:Design a C# function which accepts a string as input and returns a string with all the words in the input string with their length in a list, in that order. For example, if the input string is ""hello world"", the output string should be ""2"". If the input string is ""hello"", the output string should be ""1"". If the input string is ""world"", the output string should be ""2"". If the input string is ""w"", the output string should be ""1"". If the input string is ""o"", the output string should be ""2"". If the input string is "" "", the output string should be ""2"". If the input string is ""x"", the output string should be ""2"". If the input string is ""z"", the output string should be ""2"". If the input string is "" "", the output string should be ""2"". If the input string is ""a"", the output string should be ""2"". If the input string is ""b"", the output string should be ""2"". If the input string is ""c"", the output string should be ""2"". If the input string is ""d"", the output string should be ""2"". If the input string is ""e"", the output"
+12,"Question:
+Let r = 1.5 + -0.3. Let f = 2.7 + r. Let t = -0.3 - f. What is the nearest to 0.2 in 0.1, t, 0.4?
+Answer:
+t<|end_of_text|>"
+13,"Question:
+Let h = -0.05 + 0.09. Let z = 0.07 + h. Let x = 0.01 - 0.09. Which is the closest to -2?  (a) z  (b) 0.1  (c) x
+Answer:
+c<|end_of_text|>"
+14,"Question:Design a C# function snippet that checks whether the given number is a prime number. If yes, then it should return True, otherwise it should return False.
+<|end_of_text|>"
+15,"Question:
+Let y = -0.01 + 0.31. Let f = -0.06 - y. Let r = 1.05 - f. Round r to one decimal place.
+Answer:
+0.3<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.22. Let y = 0.17 + -0.01. Let p = 0.14 + y. Which is the nearest to 0.1?  (a) p  (b) j  (c) -0.4
+Answer:
+b<|end_of_text|>"
+17,"Question:
+Let f = 0.2 - 0.1. Let h = -0.3 + 0.2. Let k = h - f. What is the closest to 1/2 in -2/5, k, 0.1?
+Answer:
+0.1<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3.9. Let o = -2.8 + y. Let c = o - -3.1. Which is the nearest to 0?  (a) c  (b) 0.3  (c) 0.5
+Answer:
+b<|end_of_text|>"
+19,"Question:Build a Java module that takes a list of numbers and returns the sum of all numbers that are greater than 5. The module should also have a single parameter, that is, a function that takes a number and returns true or false. The function should be named as ""is greater than 5"".<|end_of_text|>"
+20,"Question:Build a Python module snippet that checks whether the given number is divisible by 2 and 3, but not by 5. In this case, use the function call of the modulo operator (mod). For example, if you have the number 4, you should return True, and if you have the number 7, you should return False. In case of an error, you should return a default value. For example, if you have an error with the function call of the modulo operator (mod), you should return None. For example, you can do it like this:
+
+    ```python
+    import sys
+    import math
+    # Function to check if the given number is divisible by 2 and 3, but not by 5
+    def is_divisible_by_2_and_3_but_not_by_5(num):
+        # Check if the given number is not zero
+        if num == 0:
+            return False;
+        # Check if the given number is a multiple of 2
+        if (num % 2) == 0:
+            return True;
+        # Check if the given number is a multiple of 3
+        if (num % 3) == 0:
+            return True;
+"
+21,"Question:
+Let g = -0.1 + 0.3. Let y = 1.1 + g. Let k = 0.3 + y. Which is the nearest to 0.1?  (a) -0.5  (b) k  (c) -2
+Answer:
+b<|end_of_text|>"
+22,"Question: Which of the following is the most common cause of death in neonatal period
+A. Intra uterine infection
+B. Anemia
+C. Sepsis
+D. Hypothermia
+Answer: A<|end_of_text|>"
+23,"Question: Which of the following is not used for the treatment of chronic conjunctivitis?
+A. Antibiotic
+B. Antibiotic and antihistaminic
+C. Antiviral
+D. Antibiotic and antihistaminic and antiviral
+Answer: A<|end_of_text|>"
+24,"Question:Write a C# program to count the number of items in a set that are greater than 5. In other words, count all items that are greater than 5 and less than 10. You may assume that the set is not empty. In addition, you may assume that all the items are ordered by a natural order.
+
+Solution:Using a for loop, you can count the items in the set that are greater than 5 and less than 10. Let us first define a function that counts the items in the set that are greater than 5 and less than 10:
+
+```javascript
+function countItems(lessThanTen, greaterThanFive) {
+    var result = 0;
+    for (let i = 0; i < 5; i++) {
+        if (lessThanTen) {
+            result++;
+        }
+        else {
+            result = result + 1;
+        }
+        if (result > 10) {
+            break;
+        }
+        if (result > 5) {
+            result = result + 1;
+        }
+        if (result > 10) {
+            break;
+        }
+    }
+    return result;
+}
+```
+
+Here, the function takes two parameters: `lessThanTen`"
+25,"Question:Build a Ruby script snippet that displays the number of days in the month, including the last day of the month. Use the day name and the number of day in the month to determine the number of days to print the days of the week.
+
+Solution:```ruby
+import ""date""
+import ""util""
+
+main() {
+    var d = Date()
+    var dd = DayName(d)
+    var days = 0
+    var week = 0
+    while (true) {
+        if (days == 0) {
+            if (dd == ""Sun"") {
+                print(""Week start "")
+            } else if (dd == ""Mon"") {
+                print(""Week end "")
+            } else if (dd == ""Tue"") {
+                print(""Week start "")
+            } else if (dd == ""Wed"") {
+                print(""Week end "")
+            } else if (dd == ""Thu"") {
+                print(""Week start "")
+            } else if (dd == ""Fri"") {
+                print(""Week end "")
+            } else if (dd == ""Sat"") {
+                print(""Week start "")
+            } else {
+                print(""Week end "")
+            }
+            if (dd == ""Sun"") {
+                print(""Week end "")
+            }
+"
+26,"Question:
+Let s = -4.9 + -0.1. Let x = 5.8 + s. Let p = x + 0.01. Which is the second biggest value?  (a) -0.4  (b) p  (c) 1/5
+Answer:
+a<|end_of_text|>"
+27,"Question:Design a Python function that takes a string as input, and returns a string with the number of times that the string ends with the substring ""ing"". For example, if the input string is ""dog"", the function should return ""doging"". If the input string is ""cat"", the function should return ""cating"". If the input string is ""chair"", the function should return ""chairing"". If the input string is ""hello"", the function should return ""helloing"".
+<|end_of_text|>"
+28,"Question:
+Let t = 0.05 - 0.31. Let c = 0.2 - t. Let r = -0.3 - c. What is the nearest to -0.2 in -3, r, -4?
+Answer:
+r<|end_of_text|>"
+29,"Question:Write a Julia program that reads a word from the user, then displays the word in uppercase and in lowercase. If the word is less than 3 characters long, then display the word in the ""red"" color. If the word is greater than 3 characters long, then display the word in the ""green"" color. If the word is a palindrome, then display the word in the ""blue"" color. If the word is not a palindrome, then display the word in the ""yellow"" color.
+<|end_of_text|>"
+30,"Question:
+Let y = -0.02 - -0.17. Let s = y - -0.07. Let u = s - -0.4. What is u rounded to 1 decimal place?
+Answer:
+-0.1<|end_of_text|>"
+31,"Question:
+Let m = -1.07 + -0.33. Let d = 0.03 + m. Let c = -0.4 + d. Which is the nearest to 0.2?  (a) c  (b) 1/3  (c) 3/5
+Answer:
+c<|end_of_text|>"
+32,"Question:
+Let i = 0.002 - -0.0003. Let s = 0.002 + 0.002. Let m = 0.01 - s. What is the nearest to 0.1 in m, 1, i?
+Answer:
+m<|end_of_text|>"
+33,"def analyze_artifacts(artifacts):
+    """"""Analyze a list of artifacts and return a set of artifacts that are considered important by the experts.
+
+    Args:
+        artifacts (list): List of artifacts to analyze.
+
+    Returns:
+        set: Set of important artifacts.
+    """"""
+    # Initialize an empty set to store the important artifacts
+    important_artifacts = set()
+
+    # Loop through each artifact and check if it is important
+    for artifact in artifacts:
+        # If the artifact is considered important, add it to the set
+        if artifact.is_important():
+            important_artifacts.add(artifact)
+
+    return important_artifacts
+<|end_of_text|>"
+34,"Question: Which of the following is not a feature of anorexia nervosa?
+A. Self-congratulation
+B. Anhedonia
+C. Pessimism
+D. Suicidality
+Answer: D<|end_of_text|>"
+35,"Question:
+What is prob of picking 2 e when two letters picked without replacement from {e: 3, a: 3, l: 4, w: 4, i: 2, m: 2}?
+Answer:
+1/40<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -1. Let y = 0.1 + o. Let x = -0.1 + y. What is the nearest to 0.1 in x, -2, 1/6?
+Answer:
+1/6<|end_of_text|>"
+37,"Question:Build a Python module snippet that checks if the given number is a multiple of 2. If it is, it should return True, otherwise it should return False. For example, if the given number is 2, it should return True, and if the given number is 3, it should return False.
+For example, if the given number is 4, it should return True, and if the given number is 5, it should return False. If the given number is 6, it should return True, and if the given number is 7, it should return False. If the given number is 8, it should return True, and if the given number is 9, it should return False. If the given number is 10, it should return True, and if the given number is 11, it should return False. If the given number is 12, it should return True, and if the given number is 13, it should return False. If the given number is 14, it should return True, and if the given number is 15, it should return False. If the given number is 16, it should return True, and if the given number is 17, it should return False"
+38,"Question:
+What is the common denominator of 3/10 and 5/2?
+Answer:
+10<|end_of_text|>"
+39,"Question:
+Let t = -0.12 + 0.18. Let x = -0.1 + -0.4. Let p = 0.4 + x. What is the nearest to 1 in -0.2, p, t?
+Answer:
+t<|end_of_text|>"
+40,"Question:
+Let f = 0.013 - 0.011. Let c = 0.2 + 0.3. Let v = 0.2 + c. What is the closest to -0.1 in -4, v, f?
+Answer:
+f<|end_of_text|>"
+41,"Question:
+Let a = -8.5 + 3.7. Let q = -2.8 + a. Let x = -0.2 - q. What is x rounded to 1 decimal place?
+Answer:
+0<|end_of_text|>"
+42,"Question:
+Let l = 0.3 + 0.1. Let d = -0.3 + l. Let f be (6/(-4))/(2/(-4)). What is the nearest to 1 in f, -1, d?
+Answer:
+d<|end_of_text|>"
+43,"Question:
+Let k = -0.2 + 0.2. Let h = -0.2 - k. Let d = -0.06 - 0.04. Which is the closest to -2?  (a) h  (b) 1/6  (c) d
+Answer:
+a<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + 0.9. Let m = -0.8 - o. Let d = -0.4 + m. Which is the nearest to 0?  (a) d  (b) -1/2  (c) -1/3
+Answer:
+b<|end_of_text|>"
+45,"Question:
+Let x = 0.02 + 0.02. Let d = 0.12 + x. Let v = -0.1 - d. What is the closest to 0.1 in 0.4, v, -2/11?
+Answer:
+v<|end_of_text|>"
+46,"Question:Build a Java program that uses the API for the Google Cloud Storage and downloads a file from the Google Cloud Storage to a file on your computer.
+Answer: Use the API for the Google Cloud Storage, download the file from the Google Cloud Storage to a file on your computer.<|end_of_text|>"
+47,"def calculate_population_growth_rate(population, years):
+    """"""
+    Calculate the population growth rate for a given population and number of years.
+
+    Args:
+        population (int): The current population of the city.
+        years (int): The number of years to calculate the growth rate.
+
+    Returns:
+        int: The population growth rate for the given city.
+    """"""
+    growth_rate = 0
+    for _ in range(years):
+        growth_rate += 1
+        population = population * (1 + growth_rate)
+    return growth_rate
+
+<|end_of_text|>"
+48,"Question:Build a Python module snippet that determines whether a given number is prime or not. Use the module for the same purpose and use the module for the same purpose to count the number of times the given number is divided by 2 and 3. The module should also be able to count the number of times the given number is divided by 5. The module should also be able to count the number of times the given number is divided by 7. For each of these cases, the module should return a boolean value that indicates whether the given number is prime or not.
+
+Solution:import random
+def is_prime(n) {
+    if (n <= 1) {
+        return false;
+    }
+    for (i = 2; i <= n; i++) {
+        if (i % 2 == 0) {
+            return true;
+        }
+        if (i % 5 == 0) {
+            return false;
+        }
+        if (i % 7 == 0) {
+            return false;
+        }
+        if (i % 11 == 0) {
+            return false;
+        }
+    }
+    return true;
+}
+Note: 1, 2, 3, 5, 7, 11"
+49,"Question:Design a Java 2016 function snippet that determines whether a given number is positive, negative or zero. In case of a positive number, it should print ""positive"". In case of a negative number, it should print ""negative"". In case of a zero number, it should print ""zero"". If the number is not a number, it should print ""invalid"".<|end_of_text|>"
+50,"Question:
+Let g = 4.5 + 0. Let h = 4.7 + 0.1. Let t = g - h. What is the nearest to -1 in -0.5, t, 2/5?
+Answer:
+-0.5<|end_of_text|>"
+51,"Question:
+Let d = 0.0022 + -0.0028. Let j = d + -0.01. Let x = -1.12 - j. What is x rounded to 1 decimal place?
+Answer:
+-1.1<|end_of_text|>"
+52,"def fashion_show(designs):
+    """"""Docstring explaining the exercise""""""
+
+    for design in designs:
+        print(f""Design {design.id}: {design.name}"")
+        print(f""Color: {design.color}"")
+        print(f""Material: {design.material}"")
+        print(f""Style: {design.style}"")
+        print(f""Material: {design.material}"")
+        print(f""Size: {design.size}"")
+        print(f""Material: {design.material}"")
+        print(f""Fabric: {design.fabric}"")
+        print(f""Color: {design.color}"")
+        print(f""Style: {design.style}"")
+        print(f""Material: {design.material}"")
+        print(f""Size: {design.size}"")
+        print(f""Material: {design.material}"")
+        print(f""Fabric: {design.fabric}"")
+        print(f""Color: {design.color}"")
+        print(f""Style: {design.style}"")
+        print(f""Material: {design.material}"")
+        print(f""Size: {design.size}"")
+        print(f""Material: {design.material}"")
+        print(f""Fabric: {design.fabric}"")
+        print(f""Color: {design.color}"")
+        print(f""Style: {design.style}"")
+        print(f""Material: {design.material"
+53,"Question:
+What is prob of picking 1 j and 1 y when two letters picked without replacement from {j: 3, y: 2}?
+Answer:
+6/7<|end_of_text|>"
+54,"Question: Which of the following is not true about the treatment of endometriod
+A. Endometriod is treated by chemotherapy
+B. Endometriod is treated by radiotherapy
+C. Endometriod is treated by surgery
+D. Endometriod is treated by anti-inflammation
+Answer: B<|end_of_text|>"
+55,"def count_cultures(cultures):
+    """"""Return the number of cultures in the dataset.""""""
+    # create a dictionary to map culture names to counts
+    culture_counts = {}
+    for culture in cultures:
+        # if the culture is not in the dictionary, add it
+        if culture not in culture_counts:
+            culture_counts[culture] = 0
+        # increment the count for the culture
+        culture_counts[culture] += 1
+    return culture_counts
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>"
+57,"Question:
+Let j = -0.0067 + 0.0039. Let r = j + 0.001. Let x = 0.0002 - r. What is x rounded to 5 dps?
+Answer:
+0.0001<|end_of_text|>"
+58,"def marketing_manager_exercise(people, products):
+    """"""Docstring explaining the exercise
+
+    As a marketing manager, you are responsible for managing a group of people and their
+    products. You have to make sure that each person is happy with the products they are
+    buying, and you have to make sure that the group is always growing and expanding.
+
+    In this exercise, you are given a group of people and a group of products, and you have to
+    design a plan to make sure that each person is happy with the products they are buying.
+    You have to do this by using a set of tools, such as:
+    * Decision making
+    * Organizational skills
+    * Management skills
+    * Business management
+    * Financial management
+    * Legal issues
+    * Accounting
+    * Marketing
+    * Technology
+    * Psychology
+    * Sociology
+    * Psychology
+
+    You have to design a plan that allows you to:
+    * Identify the best products for each person
+    * Monitor the progress of each person
+    * Provide feedback to each person
+    * Reward each person for their progress
+    * Encourage each person to grow and expand
+    * Keep track of the group's performance
+   "
+59,"def find_min_max(numbers):
+    """"""Return a list of min and max numbers from a given list of numbers""""""
+    min = min(numbers)
+    max = max(numbers)
+    return [min, max]
+
+def find_max_min(numbers):
+    """"""Return a list of min and max numbers from a given list of numbers""""""
+    min = min(numbers)
+    max = max(numbers)
+    return [min, max]
+
+def find_min_max(numbers):
+    """"""Return a list of min and max numbers from a given list of numbers""""""
+    min = min(numbers)
+    max = max(numbers)
+    return [min, max]
+
+def find_min_max(numbers):
+    """"""Return a list of min and max numbers from a given list of numbers""""""
+    min = min(numbers)
+    max = max(numbers)
+    return [min, max]
+
+def find_min_max(numbers):
+    """"""Return a list of min and max numbers from a given list of numbers""""""
+    min = min(numbers)
+    max = max(numbers)
+    return [min, max]
+
+def find_min_max(numbers):
+    """"""Return a list of min and max numbers from a given list of numbers""""""
+    min = min(numbers)
+    max = max(numbers)
+    return [min, max]
+
+def find_min_max"
+60,"Question:
+Let a = -7 + 6. Let q = a - 2. Let g = -2.6 + q. Which is the nearest to -1?  (a) -1  (g)
+Answer:
+a<|end_of_text|>"
+61,"Question:
+Let l = -7.9 + 3.9. Let p = -5.3 + l. Let x = -0.2 - p. What is x rounded to 1 decimal place?
+Answer:
+0<|end_of_text|>"
+62,"Question:
+Let f = -0.4 - -0.7. Let a = -0.7 - f. Let z = 0.2 + a. Round z to zero decimal places.
+Answer:
+0<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.016. Let p = o + 0.03. Let t = 0.06 + p. What is t rounded to 1 dp?
+Answer:
+0.2<|end_of_text|>"
+64,"Question:
+Let q = -0.2 + 0.1. Let l = -1.1 + q. Let v = -0.2 + 0.2. Which is the closest to v?  (a) l  (b) 2  (c) 1
+Answer:
+c<|end_of_text|>"
+65,"Question:
+Let c = -0.2 - -0.2. Let p = 0.1 + c. Let j = -0.4 - p. What is the smallest value in -0.5, j, 0.4?
+Answer:
+-0.5<|end_of_text|>"
+66,"Question:
+Let f = -1.2 + 0.8. Let o = -4.5 + 2. Let r = 1.9 + o. What is the closest to -1/3 in f, 3/4, r?
+Answer:
+r<|end_of_text|>"
+67,"Question:Design a Python function that receives as input a string, que es el que indica si el mismo es un palindromo o no.
+- si el mismo es un palindromo, devolva ""palindromo"" - si no, devolva ""no palindromo"".
+- si el mismo es un palindromo, devolva ""palindromo"". - si no, devolva ""no palindromo"".
+- si el mismo es un palindromo, devolva ""palindromo"". - si no, devolva ""no palindromo"".
+- si el mismo es un palindromo, devolva ""palindromo"". - si no, devolva ""no palindromo"".
+- si el mismo es un palindromo, devolva ""palindromo"". - si no, devolva ""no palindromo"".
+- si el mismo es un palindromo, devolva ""palindromo"". - si no, devolva ""no palindromo"".
+- si el mismo es un palindromo, devolva ""palindromo"". - si no, devolva ""no palindromo"".
+- si el mismo es un palindromo,"
+68,"Question:
+What is 3/5 of a tonne in kilograms?
+Answer:
+600<|end_of_text|>"
+69,"Question:
+Let i = -0.1 + 0.3. Let a = 1.3 + -1. Let g = 0.9 + a. Which is the nearest to i?  (a) 1  (b) -1  (c) 0.5
+Answer:
+c<|end_of_text|>"
+70,"Question: Which of the following is the best treatment for the acute exacerbation of chronic obstructive pulmonary disease (COPD)
+A. Oxygen therapy
+B. Antibiotic therapy
+C. Smoking cessation
+D. Corticosteroids
+Answer: A<|end_of_text|>"
+71,"Question:
+Let a = 0.3 - 0.2. Let r = -0.3 - a. Let q = -2.4 + r. What is the nearest to 1 in 0.5, -4, q?
+Answer:
+0.5<|end_of_text|>"
+72,"Question:
+Let m = 0.4 + 0.8. Let d = 0.02 + -0.08. Let h = d - m. What is h rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>"
+73,"def count_unique_elements(my_set):
+    """"""Return the number of unique elements in the given set.""""""
+    return len(set(my_set))
+
+def count_unique_elements2(my_set):
+    """"""Return the number of unique elements in the given set.""""""
+    return len(set(my_set))
+
+def count_unique_elements3(my_set):
+    """"""Return the number of unique elements in the given set.""""""
+    return len(set(my_set))
+
+def count_unique_elements4(my_set):
+    """"""Return the number of unique elements in the given set.""""""
+    return len(set(my_set))
+
+def count_unique_elements5(my_set):
+    """"""Return the number of unique elements in the given set.""""""
+    return len(set(my_set))
+
+def count_unique_elements6(my_set):
+    """"""Return the number of unique elements in the given set.""""""
+    return len(set(my_set))
+
+def count_unique_elements7(my_set):
+    """"""Return the number of unique elements in the given set.""""""
+    return len(set(my_set))
+
+def count_unique_elements8(my_set):
+    """"""Return the number of unique elements in the given set.""""""
+    return len(set(my_set))
+
+def count_unique_elements9(my_set):
+    """"""Return the number of unique elements in the given set.""""""
+    return len(set(my_set))
+
+def count_unique_elements10"
+74,"def slice_and_loop(my_list, n):
+    """"""
+    Given a list of integers and an integer n, return a new list with the first n elements of the original list,
+    in the same order, but with the last n elements of the original list removed.
+    """"""
+    result = []
+    for i in range(n):
+        if len(result) == 0 or result[-1] == i:
+            result.append(my_list[i])
+        else:
+            result.append(result[-1])
+    return result
+
+<|end_of_text|>"
+75,"Question: A 3-year-old child with an IQ of 80 and a history of learning disability is at risk of which of the following conditions?
+A. Preschool education
+B. Medication
+C. Early detection
+D. Environmental stimulation
+Answer: A<|end_of_text|>"
+76,"Question:
+Let y = 10.5 + -7. Let o = -2.2 + y. Let d = -0.1 + o. What is the nearest to 1 in 2/9, 0.3, d?
+Answer:
+d<|end_of_text|>"
+77,"def create_and_modify_tuple(num_items):
+    """"""Create a tuple of numbers and modify it""""""
+    # create a list of numbers
+    numbers = []
+    for _ in range(num_items):
+        # add numbers to the list
+        numbers.append(1)
+        numbers.append(2)
+        numbers.append(3)
+        numbers.append(4)
+        numbers.append(5)
+        numbers.append(6)
+        numbers.append(7)
+        numbers.append(8)
+        numbers.append(9)
+        numbers.append(10)
+        numbers.append(11)
+        numbers.append(12)
+        numbers.append(13)
+        numbers.append(14)
+        numbers.append(15)
+        numbers.append(16)
+        numbers.append(17)
+        numbers.append(18)
+        numbers.append(19)
+        numbers.append(20)
+        numbers.append(21)
+        numbers.append(22)
+        numbers.append(23)
+        numbers.append(24)
+        numbers.append(25)
+        numbers.append(26)
+        numbers.append(27)
+        numbers.append(28)
+        numbers.append(29)
+        numbers.append(30)
+        numbers.append(31)
+        numbers.append(32)
+        numbers.append(33)
+        numbers.append(34)
+        numbers.append(35"
+78,"Question: Which of the following is not true about the prokaryotic cells?
+A. They are found in all living things
+B. They are the basic components of all life
+C. They are found in all organisms
+D. They are the basic components of all prokaryotic cells
+Answer: C<|end_of_text|>"
+79,"Question:
+Let x = 0.023 - 0.048. Let f = 0.03 - 0.05. Let m = 0.1 - f. Which is the nearest to -0.1?  (a) 0.4  (b) m  (c) x
+Answer:
+b<|end_of_text|>"
+80,"Question:
+What is the next term in 1, 6, 17, 42, 87, 142, 231?
+Answer:
+356<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.7. Let x = -0.2 - o. Let p = -0.1 - x. Which is the nearest to p?  (a) -3  (b) -2/9  (c) -1
+Answer:
+c<|end_of_text|>"
+82,"Question:
+Let g = -0.06 - 0.04. Let v = g + 0.09. Let k = -0.12 + v. Round k to one decimal place.
+Answer:
+0.1<|end_of_text|>"
+83,"Question:
+What is the third biggest value in -1, 1, -2/7, -0.4?
+Answer:
+-2/7<|end_of_text|>"
+84,"def update_medication_list(medication_list):
+    """"""Update medication list with new medications
+    Args:
+        medication_list (list): list of medications
+    Return:
+        updated_list (list): list of updated medications
+    """"""
+    updated_list = []
+    for medication in medication_list:
+        if len(medication) == 1:
+            updated_list.append(medication)
+        else:
+            for i in range(1, len(medication)):
+                if medication[i] == ""D"":
+                    updated_list.append(medication[i])
+                else:
+                    updated_list.append(medication[i])
+    return updated_list
+
+<|end_of_text|>"
+85,"def nested_ternary_operator_and_for_loops(my_list):
+    """"""
+    Write a function that takes a list of integers and returns a new list where each element is either
+     * the same as the previous element, or
+     * the same as the next element, or
+     * the same as the previous element, but with a different name.
+
+    For example, if the input list is [1, 2, 3, 4, 5], the output list should be [1, 2, 3, 4, 5, 6].
+    If the input list is [1, 2, 3, 4, 5, 6, 7], the output list should be [1, 2, 3, 4, 5, 6, 7, 8].
+    If the input list is [1, 2, 3, 4, 5, 6, 7, 8, 9], the output list should be [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].
+
+    The function should use a nested for loop and an"
+86,"Question:Build a Python script that reads the file ""day1.txt"" and writes to the file ""day2.txt"" with the following changes:
+    - If the file ""day1.txt"" is not found, it should write to the file ""day1.txt"" with the following content:
+        - ""Hello World""
+    - If the file ""day1.txt"" is found, it should write to the file ""day1.txt"" with the following content:
+        - ""Today is day 1""
+    - If the file ""day1.txt"" is found and has a different last modified time than the file ""day1.txt"" (the same file, just different time), it should write to the file ""day1.txt"" with the following content:
+        - ""Today is day 2""
+    - If the file ""day1.txt"" is found and has the same last modified time as the file ""day1.txt"" (the same file, just the same time), it should write to the file ""day1.txt"" with the following content:
+        - ""Today is day 3""
+    - If the file ""day1.txt"" is found and has a different last modified time than the file ""day1.txt"" (the"
+87,"Question: The most common type of renal injury is
+A. Acute tubular injury
+B. Acute glomerulitis
+C. Acute interstitial nephritis
+D. Acute tubular atrophy
+Answer: A<|end_of_text|>"
+88,"Question:
+Let f = 0.1 + -0.2. Let s = -0.6 + f. Let m = -0.01 + s. What is m rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>"
+89,"Question:
+Let g = -0.6 - 0.8. Let m = 0.6 - g. Let d = 1.1 + m. What is d rounded to one decimal place?
+Answer:
+-0.7<|end_of_text|>"
+90,"def add_to_set(set, element):
+    """"""Add an element to a set""""""
+    if not set:
+        set = {element}
+    else:
+        set.add(element)
+    return set
+
+def print_set(set):
+    """"""Print the set""""""
+    print(set)
+    return set
+
+def remove_set(set):
+    """"""Remove an element from the set""""""
+    if not set:
+        return set
+    else:
+        set.remove()
+    return set
+
+def count_set(set):
+    """"""Count the number of elements in the set""""""
+    return len(set)
+
+def show_set(set):
+    """"""Show the set""""""
+    print(set)
+    return set
+
+def intersection_set(set):
+    """"""Intersection of two sets""""""
+    return set
+
+def union_set(set):
+    """"""Union of two sets""""""
+    return set
+
+def difference_set(set):
+    """"""Difference of two sets""""""
+    return set
+
+def count_set_by_index(set, index):
+    """"""Count the number of elements at the given index""""""
+    return len(set)
+
+def show_set_by_index(set, index):
+    """"""Show the set at the given index""""""
+    return set
+
+def count_set_by_index_set(set, index, set):
+    """"""Count the number of elements at the given index""""""
+    return"
+91,"Question:
+What is the remainder when 5 is divided by 1?
+Answer:
+0<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 0.6. Let h = -3.4 - p. Let k = h + 0.2. What is the closest to -1 in 2/11, k, 3?
+Answer:
+k<|end_of_text|>"
+93,"Question:
+Let i = 0.001 - -0.100. Let j = 0.100 - i. Let f = -0.00001 - j. What is f rounded to 6 decimal places?
+Answer:
+0.000001<|end_of_text|>"
+94,"Question:Build a Python script that takes in a list of strings as input, and for each string, it finds the number of times that the string appears in the file ""wiki.txt"", and returns the count of times that the word ""wiki"" appears in the file ""wiki.txt"". If the file ""wiki.txt"" is not found, then return -1. The count of times that the word ""wiki"" appears in the file ""wiki.txt"" is stored in the variable ""count"". If ""count"" is less than 1, then the result is -1. The count of times that the word ""wiki"" appears in the file ""wiki.txt"" can be found in the function ""count_wiki"". The function ""count_wiki"" takes in the string as input, and returns the count of times that the word ""wiki"" appears in the file ""wiki.txt"". The count of times that the word ""wiki"" appears in the file ""wiki.txt"" can be found in the function ""count_wiki"".<|end_of_text|>"
+95,"Question:
+Let o = 0.2 + 0.4. Let q = o - 0.2. Let j = 0.2 + 0.1. Which is the closest to j?  (a) 1  (b) 0.4  (c) q
+Answer:
+b<|end_of_text|>"
+96,"Question:
+Let f = 4.6 + 0.4. Let r = f + 5. Let x = r - 4.3. What is x rounded to zero decimal places?
+Answer:
+-1<|end_of_text|>"
+97,"Question:
+Let c = 0.5 - -0.3. Let u = c + 0.8. Let v = -0.5 + u. What is the closest to v in -4, 0.5, -0.4?
+Answer:
+-0.4<|end_of_text|>"
+98,"Question:Develop a Java program snippet that Displays the Last 5 Records of a Given List
+
+Solution:Here is a solution to the _Last_5_Records_of_a_Given_List_. For a _List_ of _int_, _int_, _int_ or _int_ _times_, this program displays the last 5 records in the _List_.
+
+The program is written in _Java_ and it is _mainly_ used for _coding_ practice. The program is _not_ a _library_ and it is _not_ _a tool_ for _coding_.
+
+```java
+package com.prog2;
+
+import java.util.*;
+
+public class Main {
+    public static void main(String[] _){
+        // Create a new list
+        var _list = new List();
+        // Add items to the list
+        for(var _i=0; _i<5; _i++){
+            _list.add(5);
+        }
+        // Display the last 5 records
+        for(var _j=0; _j<5; _j++){
+            Console.WriteLine(_list.get(j));
+        }
+    }
+}
+```
+
+## Description
+The program is _mainly_ used for _coding_ practice. The program is"
+99,"def find_unique_artifacts(artifacts):
+    """"""
+    Given a list of artifacts, find the unique artifacts.
+
+    Args:
+        artifacts (list): A list of artifacts.
+
+    Returns:
+        list: A list of unique artifacts.
+    """"""
+
+    unique_artifacts = []
+    for artifact in artifacts:
+        if artifact not in unique_artifacts:
+            unique_artifacts.append(artifact)
+    return unique_artifacts
+
+<|end_of_text|>"

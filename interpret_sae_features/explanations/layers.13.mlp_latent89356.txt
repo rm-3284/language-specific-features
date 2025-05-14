@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly Turkish morphemes, roots, and suffixes that form or modify nouns, verbs, and adjectives, often marking grammatical features such as possession, plurality, tense, or case. These segments frequently appear at word boundaries or as inflectional/derivational endings, reflecting the agglutinative structure of Turkish."

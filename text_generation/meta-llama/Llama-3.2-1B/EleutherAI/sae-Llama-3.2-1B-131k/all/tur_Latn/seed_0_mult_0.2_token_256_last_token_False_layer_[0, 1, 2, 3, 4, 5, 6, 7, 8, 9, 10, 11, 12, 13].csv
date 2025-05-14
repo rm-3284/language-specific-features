@@ -1,0 +1,722 @@
+seed,generated_text
+0,"Question:Write a Python code snippet to Check Low Weather: Temperature for Engineer in a City. Use the WMO (World Meteorological Organization) API. 
+
+Solution:Here is a python code which checks the current temperature of a city using the WMO (World Meteorological Organization) API.<|end_of_text|>"
+1,"Question:
+Let d = 0.2 + -0.3. Let s = 0.2 + d. Let b = s - -0.6. What is b rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>"
+2,"Question:
+Let q = -3.4 - -3. Let m = q - -0.1. Let n = -0.2 + m. Which is the closest to 0?  (a) -2/5  (b) n  (c) -3
+Answer:
+a<|end_of_text|>"
+3,"Question:
+Let g = 0.11 - -0.49. Let k = -0.6 + g. Let m = -0.3 + k. Which is the closest to 0.1?  (a) m  (b) -0.3  (c) -2/9
+Answer:
+c<|end_of_text|>"
+4,"Question:
+Let v = -0.02 - -0.21. Let t = 0.17 + v. Let o = t + -0.3. Which is the nearest to 1?  (a) -1/3  (b) o  (c) -1/4
+Answer:
+b<|end_of_text|>"
+5,"Question:
+Let a = 0.09 - -0.31. Let g = a - 0.4. Let b = -1.3 + g. Which is the closest to 0?  (a) 5  (b) 0.4  (c) -0.1
+Answer:
+c<|end_of_text|>"
+6,"def nested_ternary_range(start, stop, step):
+    """"""
+    Return a list of numbers from start to stop with the given step.
+
+    The numbers should be in the range of [start, stop] with the given step.
+
+    If the step is 0, the numbers should be in the range of [start, stop].
+    If the step is negative, the numbers should be in the range of [start, stop].
+    If the step is not a number, the function should raise a ValueError.
+
+    Hint: Use nested ternary operators to solve this problem.
+    """"""
+    return [start + i * step for i in range(0, stop, step)]
+<|end_of_text|>"
+7,# 2.3.3.6. The 2.3.3.6.1.2.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.2.1.
+8,"Question:
+Let o = -0.1 + -0.4. Let t = o - -0.2. Let s = -2.1 + t. What is s rounded to one dp?
+Answer:
+-0.9<|end_of_text|>"
+9,"Question:
+Let x = -0.1 + -2.9. Let p = x + 2.99999954. Round p to 6 decimal places.
+Answer:
+-0.000002<|end_of_text|>"
+10,"Question:Create a Python script snippet that Checks Extreme Travel: Flight Reservation for Engineer for Professionals. Use if/else, for/else, and switch/case statements to solve the problem. Include all necessary comments.
+
+Solution:Here is a python program which checks whether a given flight reservation has extreme travel or not. The program uses `if` / `else`, `for` / `else` and `switch` / `case` statements to solve the problem. 
+
+```python
+# Check Extreme Travel: Flight Reservation for Engineers for Professionals
+def check_extreme_travel(travel):
+    # Define variables
+    max_distance = 0
+    result = """"
+
+    # Loop through each segment of the flight
+    for segment in travel:
+        # Get the distance between the two cities
+        distance = segment[""distance""]
+
+        # Check if the distance is greater than the maximum distance
+        if distance > max_distance:
+            # Update the maximum distance
+            max_distance = distance
+
+            # Check if the distance is higher than 1000 km
+            if distance > 1000:
+                # Return True if the distance is greater than 1000 km
+                return True
+
+    # If the maximum distance is less than 1000 km, return"
+11,"Question:Design a C# function that checks whether a given string starts with a vowel and then returns the number of characters after the first vowel. If the string starts with a consonant, the function should return the number of characters before the first vowel. If the string is empty, the function should return 0.
+Solution:```<|end_of_text|>"
+12,"Question:
+Let r = 0.0547 + -0.051. Let g = r + -0.0025. What is g rounded to two dps?
+Answer:
+-0.01<|end_of_text|>"
+13,"Question:
+Let h = -0.1 + -1.9. Let i = 2.6 + h. Let x = i - -0.9. Which is the closest to -1?  (a) -4  (b) x  (c) -0.4
+Answer:
+c<|end_of_text|>"
+14,Question:Design a C# function that checks whether a given string contains a given character. Use the method for string comparison.<|end_of_text|>
+15,"Question:
+Let y = -0.01 + 0.31. Let m = -0.5 - -0.4. Let s = y - m. Which is the nearest to 1?  (a) s  (b) 3/2  (c) -2/11
+Answer:
+b<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.2. Let y = 0.37 + j. Let l = -0.2 - y. What is l rounded to the nearest integer?
+Answer:
+-1<|end_of_text|>"
+17,"Question:
+Let u = 0.2 - 0.2. Let h = -0.3 + 0.2. Let k = h - -0.4. Which is the closest to -0.1?  (a) u  (b) k  (c) -0.3
+Answer:
+c<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - -0.2. Let o = -3.9 + y. Let p = o - -3.9999961. Round p to 6 dps.
+Answer:
+-0.000004<|end_of_text|>"
+19,Question:Build a Java module snippet that Checks Extreme Flossing: Types of Dental Floss for Engineer for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Trust. Ensure your solution is robust and can handle new input gracefully.<|end_of_text|>
+20,"Question:Build a Python module snippet that Transforms High Transportation: Traffic Congestion for Engineer for Experts. Incorporate if/else, for/else, and switch/case statements. Ensure your code using descriptive variable names.<|end_of_text|>"
+21,"Question:
+Let g = -0.1 + -1.9. Let y = 1.9 + g. Let k = 2.3 + y. Which is the closest to 0.1?  (a) -0.5  (b) k  (c) -2/3
+Answer:
+b<|end_of_text|>"
+22,"Question: Which of the following is a risk factor for Acute Pancreatitis?
+A. Obese
+B. Pregnancy
+C. Trauma
+D. Chronic renal failure
+Answer: A<|end_of_text|>"
+23,"Question: Which of the following is not a feature of atherosclerosis?
+A. Vaso dilatation
+B. Vaso constriction
+C. Vaso anastomosis closure
+D. Vaso patency
+Answer: B<|end_of_text|>"
+24,"Question:Write a C++ code snippet that Checks Low Transportation: Traffic Congestion for Engineer for Experts. Consider the Reliability and implement appropriate if/else or switch/case statements. Then, test the code with different input scenarios and explain your reasoning for choosing each solution.
+
+Solution:Here is some sample code which implements the check for low transportation traffic congestion based on reliability:
+
+ ```python
+import random
+from scipy import stats
+
+def check_low_transportation(reliability):
+    # Generate number of vehicles
+    num_vehicles = random.uniform(0.5, 2.0)
+
+    # Generate random arrival time for each vehicle
+    arrival_times = [random.uniform(0, 60), random.uniform(0, 60), random.uniform(0, 60)]
+
+    # Check whether there is enough capacity
+    if num_vehicles <= 1:
+        print(""There is not enough capacity."")
+        return False
+
+    # Check whether there is enough room for all vehicles
+    if sum(arrival_times) > 60:
+        print(""There is not enough room for all vehicles."")
+        return False
+
+    # Check reliability of transportation system
+    if reliability < 0.9:
+        print(""The reliability of the transportation system is low"
+25,"# Hesteköy, Kızılmahşin
+
+Hesteköy is a village in Kızılmahşin district of Erzincik province in Marmara region of Turkey. The village is located in the centre of the village, and the center of the village is the hamlet of Hesteköy. The population of the village is 43 people (2017).
+
+| Hesteköy |
+| Village |
+| HesteköyLocation in Turkey |
+| Coordinates: 42.0349°N 44.2005°E﻿ / 42.0349; 44.2005 |
+| Country | Turkey |
+| Province | Erzincik |
+| District | Kızılmahşin |
+| Population (2017) | 43 |
+| Time zone | IST | 2207 |
+
+<|end_of_text|>"
+26,"Question:
+Let s = -4.9 + -0.1. Let a = s - -4.99999996. Round a to 7 dps.
+Answer:
+-0.0000001<|end_of_text|>"
+27,Question:Develop a Python program snippet that Transforms Low Bathing routine: Drying Underpants for Engineer for Beginners. Incorporate if/else or switch/case statements to handle different cases. Ensure your explanation for each case is clear and concise.<|end_of_text|>
+28,"Question:
+Let t = 0.05 - 0.05. Let a = 0.2 - t. Let r = -0.3 - a. What is r rounded to the nearest integer?
+Answer:
+-1<|end_of_text|>"
+29,"Question:Write a Julia code snippet that Checks Low Dental hygiene: Cleaning Teeth with Python. Consider the Reliability and implement appropriate if/else, switch/choose, or conditional statement with appropriate logic. Then, test the code with different input combinations and verify the result.
+
+Solution:Here is a python code which checks low dental hygiene based on cleaning teeth. The implementation uses if else statement with appropriate logic. 
+
+```python 
+def check_low_dental_hygiene():
+    # Ask user about their daily routine
+    print(""Do you brush your teeth twice a day?"")
+    answer = input()
+
+    # Check if user answered yes
+    if answer == ""yes"":
+        # Ask user about their toothbrushing time
+        print(""How long do you brush your teeth?"")
+        time = float(input())
+
+        # Check if user answered less than 2 minutes
+        if time < 2:
+            # Print warning message
+            print(""Warning! You are not brushing your teeth long enough."")
+            print(""The recommended amount of time for effective toothbrushing is at least 2 minutes."")
+            return False
+
+        # Ask user about their flossing frequency
+        print(""How many times do you floss your teeth per day?"")
+        frequency = int"
+30,"Question:
+Let y = -0.1 - -0.2. Let s = y - -0.1000036. What is s rounded to 6 dps?
+Answer:
+0.000004<|end_of_text|>"
+31,"Question:
+Let m = -1.07 + -0.33. Let d = 1.9 + m. Let i = -0.4 + d. Which is the nearest to i?  (a) 0.4  (b) -1/3  (c) 3/5
+Answer:
+c<|end_of_text|>"
+32,"Question:
+Let i = 0.002 - -0.996. Let x = 0.8 + i. Let g = x + -0.3. What is g rounded to 1 dp?
+Answer:
+0.6<|end_of_text|>"
+33,"def analyze_rock_sample(rock_sample):
+    """"""
+    This function analyzes a rock sample and returns the mineral composition of the sample.
+    The rock sample is represented as a dictionary, where the keys are the mineral names and the values are the percentages of the mineral in the sample.
+    """"""
+    mineral_composition = {}
+    for mineral, percentage in rock_sample.items():
+        if mineral == ""quartz"":
+            mineral_composition[""quartz""] = percentage
+        elif mineral == ""feldspar"":
+            mineral_composition[""feldspar""] = percentage
+        elif mineral == ""hornblende"":
+            mineral_composition[""hornblende""] = percentage
+        elif mineral == ""biotite"":
+            mineral_composition[""biotite""] = percentage
+        elif mineral == ""anorthite"":
+            mineral_composition[""anorthite""] = percentage
+        elif mineral == ""olivine"":
+            mineral_composition[""olivine""] = percentage
+        elif mineral == ""magmatik"":
+            mineral_composition[""magmatik""] = percentage
+        elif mineral == ""keranlik"":
+            mineral_composition[""keranlik""] = percentage
+        elif mineral == ""sulfur"":
+            mineral_composition[""sulfur"
+34,"Question: Which of the following is not a feature of anorexia nervi?
+A. Loss of weight
+B. Low body mass index
+C. Low body weight
+D. Low body fat percentage
+Answer: A<|end_of_text|>"
+35,"Question:
+What is prob of picking 2 e and 1 m when three letters picked without replacement from {m: 1, e: 4, o: 2, s: 1, n: 1}?
+Answer:
+6/35<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -1. Let y = 0.1 + o. Let x = y + -0.7. Which is the nearest to 0?  (a) -2/11  (b) x  (c) 3
+Answer:
+a<|end_of_text|>"
+37,"# List of 2016 television episodes
+
+This is a list of episodes of television series that aired in 2016.
+
+## 2016
+
+### 2016
+
+| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |"
+38,"Question:
+What is the common denominator of 33/10 and 89/10?
+Answer:
+10<|end_of_text|>"
+39,"Question:
+Let t = -0.12 + -1.88. Let k = t - -1.6. Let n = 1.5 + k. What is n rounded to one dp?
+Answer:
+1.6<|end_of_text|>"
+40,"# 2002-2003 sezonü
+
+| 2002-2003 sezon |
+|  |
+| | A B C D E F G H I J K L M N O P Ş S T U Ü V Z |
+
+| 2002 2003 2004 |
+
+ |
+| | ← 2001-2002 | 2003-2004 |
+
+ |
+
+| 2002-2003 sezonü |
+| Maç | G | B | M | S | A | P |
+| 70 | 28 | 17 | 25 | 79 | 74 |
+
+| | 2002-2003 | 2003-2004 |
+
+ |
+
+2002-2003 sezonu, 2002-2003 sezonunun 1. yılında. Türkiye'de oynanan futbol sezonu. 1. Lig'de 70 maça, 1. Lig'de 2. sırada 17 maça, 1. Lig'de 3. sırada 25 maça, 1. Lig'de 4. sırada 25 maça, 1. Lig'de 5. sırada 25 maça, 1. Lig'de 6. sırada 25 maça,"
+41,"Question:
+Let a = -1.1 + 1. Let q = a - -1.2. Let d = -2.9 + q. What is d rounded to 0 decimal places?
+Answer:
+-3<|end_of_text|>"
+42,"Question:
+Let l = 0.13 - 0.1. Let s = -0.3 + l. Let d = s - -0.1. What is d rounded to zero dps?
+Answer:
+1<|end_of_text|>"
+43,"Question:
+Let k = -0.2 + -0.2. Let h = -0.2 - k. Let d = -0.00007 + h. Round d to 5 decimal places.
+Answer:
+-0.00007<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + -2. Let s = 0.5 - 0.5. Let m = 0.00000158 + o. What is m rounded to 6 dps?
+Answer:
+0.000002<|end_of_text|>"
+45,"Question:
+Let x = 0.9 + 0.1. Let d = 0.3 + x. Let v = -0.3 - d. What is the closest to 0 in 5, v, 0.4?
+Answer:
+v<|end_of_text|>"
+46,"Question:Build a Java module snippet that Transforms Low Security: Access for Analysis for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Trust. Ensure your solution is scalable and easy to maintain.
+
+Solution:Here is a possible implementation of this requirement as a Java module:
+
+ ```java
+import java.util.*;
+// This will import necessary libraries
+import java.util.*;
+
+public class TransformLowSecurityAccessForAnalysisForBeginners {
+    // Define input variable
+    Scanner scanner = new Scanner(System.in);
+    // Define output variable
+    String result;
+
+    public void run() {
+        System.out.print(""Enter the name of the person: "");
+        var name = scanner.nextLine();
+
+        System.out.print(""Enter the city of the person: "");
+        var city = scanner.nextLine();
+
+        System.out.print(""Enter the state of the person: "");
+        var state = scanner.nextLine();
+
+        System.out.print(""Enter the country of the person: "");
+        var country = scanner.nextLine();
+
+        System.out.print(""Enter the level of trust (1-5): "");
+        var trustLevel = scanner.nextInt();
+
+        // Check the level of trust
+        if (trustLevel == 1) {
+            result = ""The security level of the person"
+47,"# Generated by Django 2.2.6 on 2021.9.6
+
+from django.db import migrations
+
+
+def set_index_to_1(apps, scope_fn):
+    Index = apps.get_model(""index"", ""Index"")
+    for index in Index.objects.all():
+        index.index = 1
+        index.save()
+
+
+def set_index_to_0(apps, scope_fn):
+    Index = apps.get_model(""index"", ""Index"")
+    for index in Index.objects.all():
+        index.index = 0
+        index.save()
+<|end_of_text|>"
+48,"Question: Which of the following is not a feature of non anesthetic use of lidocaine?
+A. Hypersensitivity reaction
+B. Cardiac arrhythmia
+C. Prolonged Q-T interval
+D. Aneurysm
+Answer: B<|end_of_text|>"
+49,Question:Design a Python function. The function should return the sum of all numbers between 1 and 100. But skip all numbers that are divisible by 3 or 5.<|end_of_text|>
+50,"Question:
+Let g = 0.2 + 0. Let h = 0.2 + g. Let r = 0.2 - h. What is the smallest value in r, -2/5, -0.2?
+Answer:
+-2/5<|end_of_text|>"
+51,"Question:
+Let d = -0.0029 + -0.0028. What is d rounded to two dps?
+Answer:
+-0.003<|end_of_text|>"
+52,"def fashion_designer(sizes):
+    """"""
+    Given a list of sizes, return the number of shirts that can be made using each size.
+
+    For example, if the input list is [36, 34, 32, 38, 36], the output should be [1, 2, 2, 3, 3].
+
+    Hint: Use the modulo operator to check if the size is a multiple of 3.
+    """"""
+    result = []
+    for size in sizes:
+        if size % 3 == 0:
+            result.append(1)
+        else:
+            result.append(0)
+    return result
+<|end_of_text|>"
+53,"Question:
+What is prob of picking 1 j and 1 y when two letters picked without replacement from {j: 3, y: 2}?
+Answer:
+2/5<|end_of_text|>"
+54,"Question:
+Let u = -0.5 + -1.5. Let r = 1.9 - u. Let z = 0.2 + r. What is z rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>"
+55,"def count_unique_elements(my_list):
+    """"""
+    Return the number of unique elements in the list.
+
+    Hint: You can use the built-in function ""set()"" to convert the list to a set.
+    """"""
+    return len(set(my_list))
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 7/64?
+Answer:
+64<|end_of_text|>"
+57,"Question:
+Let j = -0.0547 + 0.0447. Let i = -4.5 - -4. Let f = -0.2 - i. What is the closest to j in 1/4, f, -3?
+Answer:
+1/4<|end_of_text|>"
+58,"def nested_if_statements(arr):
+    """"""
+    Given an array of integers, return the sum of the elements that are greater than the sum of the elements to the left and right.
+
+    For example, given the array [1, 2, 3, 4, 5], the sum of the elements greater than the sum of the elements to the left and right would be 1+2+3+4+5 = 12.
+    """"""
+
+    # Your code here
+
+    return sum(arr)
+<|end_of_text|>"
+59,"Question:
+What is the common denominator of 71/2 and 57/10?
+Answer:
+10<|end_of_text|>"
+60,"Question:
+Let h = -7 + 6. Let b = h - -2. Let g = -2.6 + b. Which is the nearest to -2/3?  (a) g  (b) 1  (c) 0.3
+Answer:
+a<|end_of_text|>"
+61,"Question:
+Let l = -7.9 + 7.9. Let p = -0.3 + 0.3. Which is the third smallest value?  (a) l  (b) p  (c) -0.1
+Answer:
+a<|end_of_text|>"
+62,"Question:
+Let g = -0.4 - -0.4. Let a = -0.7 + g. Let z = 0.7 + a. What is z rounded to 1 dp?
+Answer:
+0.6<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.327. Let p = o + -0.2. Let t = 0.4 + p. What is t rounded to 0 dps?
+Answer:
+-4<|end_of_text|>"
+64,"Question:
+Let q = -0.2 + 0.2. Let b = -1.1 + q. Let l = -0.2 + 0.2. Which is the closest to l?  (a) 0.2  (b) 1/3  (c) -0.1
+Answer:
+c<|end_of_text|>"
+65,"Question:
+Let k = -0.2 - -0.2. Let p = k + -0.3. Let j = -0.4 - -0.6. Which is the nearest to 1?  (a) p  (b) j  (c) -1
+Answer:
+a<|end_of_text|>"
+66,"Question:
+Let y = -1.3 + 0.3. Let o = -1.5 + y. Let h = o - -0.4. What is h rounded to zero dps?
+Answer:
+1<|end_of_text|>"
+67,"Question:Design a Python function. The function should check if a given integer is a palindrome. If the integer is palindrome then print ""The given integer is a palindrome."" If the integer is not palindrome then print ""The given integer is not a palindrome"". Use the following code as a reference.
+```python
+def is_palindrome(x):
+    if x < 0:
+        return False
+    elif x < 10:
+        return True
+    else:
+        for i in str(x):
+            if i!=str(x)[::-1].split()[0]:
+                return False
+        return True
+```<|end_of_text|>"
+68,"Question:
+What is 3.9 take away 0.2?
+Answer:
+3.7<|end_of_text|>"
+69,"Question:
+Let i = -0.1 + 0.3. Let a = 1.3 + i. Let m = -1.7 - a. What is the closest to m in -1/4, -1, 1/2?
+Answer:
+-1/4<|end_of_text|>"
+70,"Question: Which of the following is a cause of hyperkalemia in acute myocardial infarction?
+A. Acute myocardial infarction
+B. Acute myocardial infarction
+C. Acute myocardial infarction
+D. Acute myocardial infarction
+Answer: D<|end_of_text|>"
+71,"Question:
+Let a = 0.3 - 0.2. Let r = -0.30000004 + a. Round r to six decimal places.
+Answer:
+-0.000000<|end_of_text|>"
+72,"Question:
+Let m = -0.4 + 0.3. Let d = 0.4 + m. Let z = -0.9 - d. What is z rounded to 1 dp?
+Answer:
+-0.6<|end_of_text|>"
+73,"def create_artwork(artwork_name, artist_name, style):
+    """"""Create a new artwork with the given name, artist name, and style.
+
+    The artwork should be a dictionary with the following keys:
+    - name: The name of the artwork
+    - artist: The name of the artist who created the artwork
+    - style: The style of the artwork (e.g. ""painting"", ""sculpture"", ""photography"")
+
+    Hint: Use nested conditional statements to check if the artist is a professional artist, and if the style is one of the supported styles.
+    """"""
+    if artist_name == ""Picasso"" and style == ""painting"":
+        return {""name"": ""The Persistence of Memory"", ""artist"": ""Pablo Picasso"", ""style"": ""painting""}
+    elif artist_name == ""Van Gogh"" and style == ""painting"":
+        return {""name"": ""The Starry Night"", ""artist"": ""Vincent Van Gogh"", ""style"": ""painting""}
+    elif artist_name == ""Monet"" and style == ""painting"":
+        return {""name"": ""The Lake at Sarıkamak"", ""artist"": ""Clairemont Monet"", ""style"": ""painting"
+74,"def slice_and_ternary(my_list):
+    """"""
+    Given a list of integers, return a new list with the elements that are greater than 0 and less than 10.
+    Use slicing and the ternary operator.
+    """"""
+    return [x for x in my_list if x > 0 and x < 10]
+<|end_of_text|>"
+75,"Question: A patient presents with a 6 week history of fever, weakness, and fatigue. His blood workup reveals anemia, low platelet count, and an elevated lactate dehydrogenase (LDH) level. Which of the following is the most likely diagnosis?
+A. Acute lymphocytic leukemia
+B. Acute myelocytic leukemia
+C. Acute myelodysplastic anemia
+D. Acute myelodermatous leukemia
+Answer: C<|end_of_text|>"
+76,"Question:
+Let y = 4.5 + -4. Let i = -0.2 + y. Let d = i - -1.2. What is the closest to 1 in 2/9, 0.3, d?
+Answer:
+d<|end_of_text|>"
+77,"def create_tuple_from_string(string):
+    """"""
+    Create a tuple from a given string.
+    """"""
+    return tuple(string.split())
+
+<|end_of_text|>"
+78,"Question: Which of the following is not a feature of the disease?
+A. Affects the upper and lower extremities
+B. Affects the lower extremities
+C. Affects the hands
+D. Affects the neck
+Answer: C<|end_of_text|>"
+79,"Question:
+Let n = 0.3 - 0.3. Let f = 0.03 + n. Let x = f + -0.6. What is x rounded to zero decimal places?
+Answer:
+-1<|end_of_text|>"
+80,"Question:
+What is the next term in -12, -24, -38, -54, -72, -92?
+Answer:
+-114<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.5. Let a = -0.2 - o. Let p = -0.0001 - a. Round p to 3 dps.
+Answer:
+0.001<|end_of_text|>"
+82,"Question:
+Let g = -0.036 - 0.064. Let v = g + 0.09. Let k = -0.1 + v. What is k rounded to one decimal place?
+Answer:
+-0.8<|end_of_text|>"
+83,"Question:
+Let x = 0.7 - 0.7. Let h = 0.2 + x. Let d = 0.3 + h. Which is the nearest to 2/3?  (a) -1/5  (b) 2/3  (c) d
+Answer:
+b<|end_of_text|>"
+84,"def update_athlete_stats(athlete_stats, new_stats):
+    """"""
+    Update the statistics of an athlete based on the new statistics provided.
+
+    :param athlete_stats: A dictionary containing the current statistics of the athlete.
+    :param new_stats: A dictionary containing the new statistics of the athlete.
+    :return: The updated statistics of the athlete.
+    """"""
+    # Use the complement operator to find the difference between the current statistics and the new statistics
+    difference = {key: athlete_stats[key] for key in new_stats.keys() if key in athlete_stats.keys()}
+
+    # Update the statistics of the athlete
+    for key, value in new_stats.items():
+        athlete_stats[key] = value
+
+    return athlete_stats
+<|end_of_text|>"
+85,"def nested_ternary_tuple(athlete):
+    """"""
+    Given an athlete, return a tuple containing the athlete's name, age, and sport.
+    The tuple should be in the format: (name, age, sport)
+    """"""
+    name = athlete[""name""]
+    age = athlete[""age""]
+    sport = athlete[""sport""]
+    return (name, age, sport)
+<|end_of_text|>"
+86,"Question:Build a Python module snippet that Checks Extreme Clothing sizes: Shirts, Pants, and Shoes for Engineer. Use if/else, switch/case statements, and comments to explain your solution.
+
+Solution:Here's some sample python code which implements the functionality described above:
+
+ ```python 
+# Check extreme clothing sizes function
+def check_extreme_clothing(size):
+    # Define variable for shirt size
+    shirt_size = ""XS""
+    # Define variable for pant size
+    pant_size = ""M""
+    # Define variable for shoe size
+    shoe_size = ""XL""
+
+    # Switch case statement for checking extreme clothing sizes
+    switcher = {
+        ""shirt"": lambda: print(""Shirt size must be S, M, L, XL""),
+        ""pant"": lambda: print(""Pant size must be S, M, L, XL""),
+        ""shoe"": lambda: print(""Shoe size must be S, M, L, XL"")
+    }
+
+    switcher[size]()
+```<|end_of_text|>"
+87,"Question: The most common cause of acute attack of uicari in children is:
+A. Measles
+B. Meningitis
+C. Acute viral encephalitis
+D. Acute bacterial meningitis
+Answer: D<|end_of_text|>"
+88,"Question:
+Let i = 0.1 + -0.2. Let s = -0.6 + i. Let m = -0.5 + s. Which is the closest to -1?  (a) m  (b) 1  (c) -0.1
+Answer:
+c<|end_of_text|>"
+89,"Question:
+Let n = -0.6 - 0.4. Let m = 0.6 - n. Let d = 1.4 + m. What is d rounded to one dp?
+Answer:
+2.6<|end_of_text|>"
+90,"def add_to_set(my_set, new_element):
+    """"""
+    Add the given element to the set.
+
+    :param my_set: The set to add the element to.
+    :param new_element: The element to add to the set.
+    :return: The updated set.
+    """"""
+    if new_element not in my_set:
+        my_set.add(new_element)
+        return my_set
+    else:
+        return my_set
+
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 44 is divided by 12?
+Answer:
+4<|end_of_text|>"
+92,"Question:
+Let s = 2.2 - 2. Let g = s + -0.4. Let h = 0.7 + g. What is the smallest value in -2/7, h, 2?
+Answer:
+-2/7<|end_of_text|>"
+93,"Question:
+Let i = 0.5 - -1.5. Let j = 0.1 + i. Let v = -0.9 + j. Which is the closest to 1?  (a) v  (b) 2/7  (c) -3
+Answer:
+b<|end_of_text|>"
+94,"Question:Build a Go module snippet that Checks Low Security: Credit Card Number for Analysis. Incorporate if/else or switch/case statement to handle different cases based on the Trust. Ensure your code functionality is commented in the code. 
+
+Solution:```python
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score
+
+# Read dataset
+df = pd.read_csv(""https://raw.githubusercontent.com/erkanbursaak/Scrap-Code-Exercises/master/credit.csv"")
+X = df[[""Income"", ""Credit Limit""]].values
+y = df[""Status""].values
+
+# Split into train and test sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=1)
+
+# Create logistic regression model
+logistic = LogisticRegression()
+
+# Fit model to training data
+logistic.fit(X_train, y_train)
+
+# Evaluate model
+accuracy = accuracy_score(y_test, logistic.predict(X_test))
+print(""Accuracy:"", accuracy)
+```<|end_of_text|>"
+95,"Question:
+Let o = 0.2 + 1.8. Let m = o - 1. Let t = 2.4 + m. What is t rounded to 0 dps?
+Answer:
+-3<|end_of_text|>"
+96,"# 2023 in Turkey
+
+This article lists events of the year 2023 in Turkey.
+
+| 2023 in Turkey |
+| Gun | Saturday |
+| | | < 2022 | Turkey |  |
+
+ |
+
+ |
+
+| | ← | 2022 |  | 2023 |  |
+
+ |
+| | |  | 2022 |  | 2023 |  |
+
+ |
+
+ |
+
+## Events
+
+### January
+
+* 1 January: 
+  * 1 January 2023, Türkiye: 1. gününde 7.8 büyüklüğünde bir saniye suikast. 1 milyon 200 bin kişi suikastın hedefini gerçekleştirdi
+  * 1 January 2023, Türkiye: 1. gününde 7.8 büyüklüğünde bir saniye suikast. 1 milyon 200 bin kişi suikastın hedefini gerçekleştirdi
+* 2 January: 
+  * 2 January 2023, Türkiye: 2. gününde 7.8 büyüklüğünde bir saniye suikast. 1 milyon 200 bin kişi suikastın hedefini gerçekleştirdi
+"
+97,"Question:
+Let c = 0.5 + -0.5. Let u = c + 1. Let n = u + 1.5. What is n rounded to 1 dp?
+Answer:
+1<|end_of_text|>"
+98,Question:Develop a Java program snippet that Updates Low Flossing: Correcting Tooth Alignment for Engineer for Experts. Incorporate if/else or switch/case statements to handle different cases based on the Reliability. Ensure your solution is efficient and does not contain any bug.<|end_of_text|>
+99,"def nested_ternary_loop(numbers):
+    """"""
+    Write a function that takes a list of numbers and returns the sum of the numbers that are divisible by 3 or 5.
+    Use nested ternary operators and a for loop.
+    """"""
+    return sum(1 for num in numbers if num % 3 == 0 or num % 5 == 0)
+<|end_of_text|>"

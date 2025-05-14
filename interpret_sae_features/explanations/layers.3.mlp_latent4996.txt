@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly Turkish morphemes, suffixes, and proper names, as well as some foreign names and borrowed words, often marking inflection, derivation, or named entities within multilingual or code-switched text."

@@ -1,0 +1,1 @@
+"The highlighted tokens are suffixes, inflections, or short morphemes in various languages (notably Bulgarian and related Slavic languages), as well as fragments of country or place names, and abbreviations for years, indicating a focus on linguistically meaningful subword units, grammatical endings, and named entities."

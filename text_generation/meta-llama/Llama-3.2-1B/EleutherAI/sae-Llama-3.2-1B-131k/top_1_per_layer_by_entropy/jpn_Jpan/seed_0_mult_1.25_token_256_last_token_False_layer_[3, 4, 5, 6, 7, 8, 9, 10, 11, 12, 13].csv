@@ -1,0 +1,641 @@
+seed,generated_text
+0,Question:Write a Python code snippet to Display Low Social Media: SocialMentionSentimentAnalysis for DecisionMakers. Consider the Responsibility and provide a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a bl a
+1,"Question:
+Let w = 0.03 + -0.13. Let z = 0.02 + w. Let b = -0.01 + z. What is b rounded to 2 decimal places?
+Answer:
+-0.01<|end_of_text|>"
+2,"Question:
+Let l = -3.4 - -3. Let m = 0.2 - l. Let w = m + -0.2. Which is the closest to 0?  (a) w  (b) 3  (c) -1
+Answer:
+a<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Let w = g - 0.3. Let m = -0.3 + w. Which is the closest to 0.1?  (a) m  (b) 0.3  (c) -2/9
+Answer:
+b<|end_of_text|>"
+4,"Question:
+Let v = -11.4 - -10. Let q = v + 1.7. Let g = q + -2.99999949. What is g rounded to 7 decimal places?
+Answer:
+-0.0000005<|end_of_text|>"
+5,"Question:
+Let y = 0.001 - 0.007. Let g = 0.005 - y. Let b = g - 0.009. Which is the closest to 0?  (a) 0.2  (b) 0.4  (c) 1/2
+Answer:
+a<|end_of_text|>"
+6,"def count_fruits(fruits):
+    """"""Write a function that counts the number of fruits in a list.
+    # Test case 1:
+    assert count_fruits([""apple"", ""banana"", ""orange""]) == 3
+    # Test case 2:
+    assert count_fruits([""apple"", ""banana"", ""orange"", ""mango""]) == 4
+    # Test case 3:
+    assert count_fruits([""apple"", ""banana"", ""orange"", ""mango"", ""pear""]) == 5
+    """"""
+    return len(fruits)<|end_of_text|>"
+7,"# 2-セクロイ酸
+
+2-セクロイ酸（2-selkyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-ethyl-"
+8,"Question:
+Let o = -0.001 + -0.003. Let t = o - -0.003. Let p = -0.00999942 + t. What is p rounded to 7 decimal digits?
+Answer:
+-0.0000006<|end_of_text|>"
+9,"Question:
+Let r = -0.1 - -0.1. Let p = 0.1 - r. Let y = p - 0.1. Which is the nearest to y?  (a) -3  (b) 1  (c) -2/3
+Answer:
+c<|end_of_text|>"
+10,"Question:Create a C# script sample for the following:You are given a list of n positive integers, and you need to find the sum of all the positive integers that are not in the list. The list may be given in any order. For example, if the input is [1, 2, 3, 4, 5, 6], the output should be 15. If the input is [1, 2, 3, 4, 5, 6, 7], the output should be 20. If the input is [1, 2, 3, 4, 5, 6, 7, 8], the output should be 21. You may use any algorithm you like. You should not use any libraries. You may use the following functions: - int n, - int sum, - int n1, - int n2, - int n3, - int n4, - int n5, - int n6, - int n7, - int n8, - int n9, - int n10, - int n11, - int n12, - int n13, - int n14, - int n15, - int"
+11,"Question: A 18-year-old man is admitted to the hospital after he was found unconscious. He is in a coma and is ECG is shown below. Which of the following is the most likely cause of his ECG?
+A. Atrial fibrillation
+B. Ventricular fibrillation
+C. Ventricular sequal
+D. Ventricular premature beat
+E. Ventricular outstalling
+Answer: A<|end_of_text|>"
+12,"Question:
+Let n = 1.5 + -0.5. Let q = n + -0.5. Let m = -0.7 - q. Which is the nearest to m?  (a) -0.5  (b) 1/4  (c) -5
+Answer:
+b<|end_of_text|>"
+13,"Question:
+Let h = -0.05 + 0.05. Let i = 0.07 + h. Let x = 0.01 - i. What is x rounded to 1 decimal place?
+Answer:
+0.3<|end_of_text|>"
+14,"Question:
+Let d = 0.2 + -0.2. Let o = 0.07 - 0.05. Let y = o + -0.1. What is the nearest to d in y, 0.2, -0.1?
+Answer:
+-0.1<|end_of_text|>"
+15,"Question:
+Let y = -0.01 - -0.011. Let m = -0.013 - y. Let r = 0.013 - m. Which is the nearest to 1?  (a) r  (b) 3/2  (c) -2/3
+Answer:
+b<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.04. Let y = 0.01 + j. Let l = -0.07 - y. What is l rounded to 1 decimal place?
+Answer:
+-0.5<|end_of_text|>"
+17,"Question:
+Let f = 0.009 - 0.011. Let h = 0.042 - f. Let i = h - 0.039. What is i rounded to 2 decimal places?
+Answer:
+-0.01<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3.9. Let o = -2.8 + y. Let p = o - -3.1. What is p rounded to 1 decimal place?
+Answer:
+3<|end_of_text|>"
+19,"Question:Develop a Java program snippet for FindingLowPings.py. The program should take a list of IP addresses as input and output a list of IP addresses that are not reachable by any of the ports. The output should be in the format of a list of tuples where each tuple represents a pair of IP addresses and the port that is not reachable. The input and output should be in the format of a list of strings.
+```
+Input: 
+[1.1.1.1, 2.2.2.2, 3.3.3.3, 4.4.4.4]
+Output: 
+[1.1.1.1, 2.2.2.2, 3.3.3.3]
+```
+```
+import sys
+import socket
+import re
+
+#Function to check if a port is open or not
+def check_port(ports):
+    for port in ports:
+        s=socket.socket(socket.AF,socket.AF_INET)
+        s.settimeout(5)
+        try:
+            s.connect(('',port))
+            s.close()
+            print(""Port %s is open"" %port)
+        except:
+            print(""Port %s is not open"" %port)
+       "
+20,"Question:Develop a Ruby script snippet that Displays HighFoods: HealthyFood of a given country. -solutions-
+```
+# This script displays high food of a given country
+require 'open-uri' # to open url
+require 'npoed' # to import NPOED
+
+# country name
+country = 'India'
+
+# open url
+url = 'https://www.npoed.org/food/food-market-availability/food-market-availability.php?country=India'
+
+# open url
+html = open_url(url)
+
+# extract food
+food = NPOED::NPOED::Food.all
+
+# get country
+country = country.split(' ')[0].split('-')[1]
+
+# print food
+NPOED::NPOED::Food.where('country', country).map{ |food| ""#{food.name} (#{food.country})"" }.join(', ')<|end_of_text|>"
+21,"Question:
+Let g = -0.012 + -0.003. Let y = 0.015 + g. Let h = 0.0200042 - y. What is h rounded to 6 decimal places?
+Answer:
+0.000004<|end_of_text|>"
+22,"Question: Which of the following is a common symptom of schizophrenia?
+A. Affective symptoms
+B. Perseution symptoms
+C. All of the above
+D. Abnormal thoughts
+Answer: C<|end_of_text|>"
+23,"Question:
+Let r = -0.001 - -0.011. Let g = r - -0.001. Let m = -0.0108 + g. What is m rounded to 3 decimal places?
+Answer:
+-0.01<|end_of_text|>"
+24,Question:Write a C# code snippet to DisplayLowFoods: AFoodingforAll - OpenMAD for all users. You can use the API of OpenMAD. The API is as follows:https://openmad.org/api/affoodingforall.html. The API key is as follows:OpenMADAPIKey. The API URL is as follows:https://openmad.org/api/affoodingforall/affoodingforall.php?api_key=OpenMADAPIKey. The API URL is as follows:https://openmad.org/api/affoodingforall/affoodingforall.php?api_key=OpenMADAPIKey. You can also use the API URL as follows:https://openmad.org/api/affoodingforall/affoodingforall.php?api_key=OpenMADAPIKey. The API URL is as follows:https://openmad.org/api/affoodingforall/affoodingforall.php?api_key=OpenMADAPIKey. You can also use the API URL as follows:https://openmad.org/api/affoodingforall/affoodingforall.php?api_key=OpenMADAPIKey. The API URL is as follows:https://open
+25,"# Héraldica
+
+Héraldica is a Swiss family of painters and designers.
+
+| Héraldica |
+| Héraldica's 2019 logo. |
+|  |
+| Native name | Héraldica |
+| Born | Marie Héral (1974) |
+| Occupation(s) | Painters, designers |
+| Partner(s) | Michael Héral (2000) |
+| Children | 3 |
+| Relatives | Michel Héral (brother) |
+
+## Members
+
+* Marie Héral (1974) - Swiss artist and designer.
+* Michel Héral (1972) - Swiss artist and designer.
+
+## Héraldica's work
+
+Héraldica's work is often seen in the form of a variety of patterns and colours. Héraldica's work is often seen in the form of a variety of patterns and colors. The colours used in the design are typically bright and bold. Héraldica's work is often seen in the form of a variety of patterns and colors. The colors used in the design are typically bright and bold. Héraldica's work is often seen in the form of a variety of patterns and"
+26,"Question:
+Let b = -4.9 + 5. Let l = -0.5 + b. Let w = l - -1.500003. What is w rounded to 6 dps?
+Answer:
+0.000003<|end_of_text|>"
+27,"Question:
+Let p = 0.4 - 0.3. Let f = p + -0.1. Let g = f + 0.7. What is g rounded to 1 decimal place?
+Answer:
+0.8<|end_of_text|>"
+28,"Question:
+Let t = 0.05 - 0.05. Let i = 0.2 - t. Let r = -0.3 - i. What is r rounded to 1 decimal place?
+Answer:
+-0.3<|end_of_text|>"
+29,"Question:Write a C# code snippet to DisplayHighFoods: APython. You may use any of the languages, such as Python, Java, orPHP. You can also use any of the popular libraries, such as PyPy, PyPyR, or PyPyQ. You can also use any of the popular libraries, such as PyPy, PyPyR, or PyPyQ. You can also use any of the popular libraries, such as PyPy, PyPyR, or PyPyQ. You can also use any of the popular libraries, such as PyPy, PyPyR, or PyPyQ. You can also use any of the popular libraries, such as PyPy, PyPyR, or PyPyQ.
+You can also use any of the popular libraries, such as PyPy, PyPyR, or PyPyQ. You can also use any of the popular libraries, such as PyPy, PyPyR, or PyPyQ.
+You can also use any of the popular libraries, such as PyPy, PyPyR, or PyPyQ. You can also use any of the popular libraries, such as PyPy, PyPyR, or PyPyQ. You can also use any of"
+30,"Question:
+Let y = -0.009 - -0.041. Let s = y - -0.03. Let b = s - -0.29. What is b rounded to 1 decimal place?
+Answer:
+-0.1<|end_of_text|>"
+31,"Question:
+Let m = -1.07 - -1. Let q = m + 0.03. Let n = 0.04 - q. Which is the nearest to -1/2?  (a) n  (b) 3  (c) -1/2
+Answer:
+c<|end_of_text|>"
+32,"Question:
+Let i = 0.002 - -0.038. Let x = 0.045 + i. Let g = x + -0.05. What is g rounded to 1 dp?
+Answer:
+-0.5<|end_of_text|>"
+33,"def analyze_evidence(evidence):
+    """"""
+    Analyze the evidence and determine the likely perpetrator.
+    """"""
+    # Your code here
+
+    # Example solution:
+    if ""blood"" in evidence:
+        if ""stool"" in evidence:
+            if ""screwn"" in evidence:
+                if ""blood"" in evidence:
+                    if ""screwn"" in evidence:
+                        if ""blood"" in evidence:
+                            if ""screwn"" in evidence:
+                                if ""blood"" in evidence:
+                                    if ""screwn"" in evidence:
+                                        if ""blood"" in evidence:
+                                            if ""screwn"" in evidence:
+                                                if ""blood"" in evidence:
+                                                    if ""screwn"" in evidence:
+                                                        if ""blood"" in evidence:
+                                                            if ""screwn"" in evidence:
+                                                                if ""blood"" in evidence:
+                                                                    if ""screwn"" in evidence:
+                                                                        if ""blood"" in evidence:
+                                                                            if ""screwn"" in evidence:
+                                                                                if ""blood"" in evidence:
+                                                                                    if ""screwn"" in evidence:
+                                                                                        if ""blood"" in evidence:
+                                                                                            if ""screwn"" in evidence:
+                                                                                                  if ""blood"" in evidence:
+                                                                                                        if ""screwn"
+34,"Question:
+Let q = -0.0198 + 0.016. Let h = q - -0.023. What is h rounded to 2 decimal places?
+Answer:
+-0.04<|end_of_text|>"
+35,"Question:
+What is 0.2+1.9?
+Answer:
+2.1<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -1.6. Let r = o + 1. Let m = r + -1.0000014. What is m rounded to 7 decimal digits?
+Answer:
+-0.0000015<|end_of_text|>"
+37,"# 2016 U.S. Open (BNA)
+
+The 2016 U.S. Open was a professional tennis tournament in the 2016 US Open. It was held in Washington, D.C., United States, in the nation's capital, on the Washington D.C. Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy Navy"
+38,"Question:
+What is the common denominator of 3/10 and 89/12?
+Answer:
+60<|end_of_text|>"
+39,"Question:
+Let t = -0.06 + -0.04. Let x = t - -0.11. Let y = 0.10 + x. What is y rounded to 1 decimal place?
+Answer:
+0.8<|end_of_text|>"
+40,"# St. Martin's Church, Gauw (disambiguating)
+
+St. Martin's Church, Gauw may refer to:
+
+* St. Martin's Church, Gauw, a place name in Germany
+* St. Martin's Church, Gauw, a place name in Sweden<|end_of_text|>"
+41,"Question:
+Let a = -1.1 + 0.7. Let j = -1.2 - a. Let h = -0.2 - -0.2. What is the nearest to h in 2/5, j, -1?
+Answer:
+2/5<|end_of_text|>"
+42,"Question:
+Let l = 0.01 - 0.1. Let m = -0.09 + l. Let n = m - -0.1. What is n rounded to 1 decimal place?
+Answer:
+0.7<|end_of_text|>"
+43,"Question:
+Let q = -0.0376 - -0.053. Let v = q - -0.017. Let o = v - 0.04. What is o rounded to 2 dps?
+Answer:
+-0.02<|end_of_text|>"
+44,"Question:
+Let o = -2.1 + 2. Let p = 0.9 - 0.5. Let m = p - o. What is m rounded to one decimal place?
+Answer:
+0.7<|end_of_text|>"
+45,"Question:
+Let t = 0.007 + -0.009. Let b = t - -0.023. Let p = b + -0.026. What is p rounded to 2 decimal places?
+Answer:
+-0.03<|end_of_text|>"
+46,"Question:Write a Java code snippet to Check High Fruits or Vegetables: Shopping Checklist for Students for Experts. - You may use any of the available Python libraries or modules. - The code should be able to handle input from the user. - The output should include all the items that are in the shopping list. - The output should also include the total price of all the items. - The output should also include a message if the total price exceeds the budget. - You may use any of the available Python libraries or modules. - The code should be able to handle input from the user.
+Python - Check High Fruits or Vegetables: Shopping Checklist for Students for Experts - You may use any of the available Python libraries or modules. - The code should be able to handle input from the user. - The output should include all the items that are in the shopping list. - The output should include the total price of all the items. - The output should also include a message if the total price exceeds the budget. - You may use any of the available Python libraries or modules. - The code should be able to handle input from the user.
+
+# python - CheckHighFruitsOrVegetables - You may use any of the available Python libraries or modules."
+47,# A 10% change in temperature is equivalent to a 1.5% change in pressure. The temperature of the atmosphere in the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the atmosphere of the
+48,"Question: In a patient of pheochromnesi, the most important symptom is
+A. Hypotension
+B. Hypotension
+C. Hypertension
+D. Hypertension
+E. Hypotension
+Answer: A<|end_of_text|>"
+49,"Question: All of the following are characteristics of a malignant mesrexyeryofolhavarian (MME) thyroid nodule,except
+A. Involvement of whole of the thyroid
+B. Presence of a bimillary mass
+C. Presence of all the above
+D. Involvement of all the parts of the thyroid
+E. Involvement of all the parts of the thyroid
+Answer: D<|end_of_text|>"
+50,"Question:
+Let g = -0.0124 + 0.0117. Let h = g + 0.01. Let o = h + -0.029. What is o rounded to 2 decimal places?
+Answer:
+-0.02<|end_of_text|>"
+51,"Question:
+Let w = -0.002 - -0.015. Let z = -0.013 - w. Let b = -0.047 + z. What is b rounded to 2 decimal places?
+Answer:
+-0.04<|end_of_text|>"
+52,"def create_new_style(temperament, style, color):
+    """"""This function takes in a temperament, style, and color and creates a new style.
+    The new style should be a combination of the original style and the color.
+    The temperament and style should be combined in a way that captures the essence of the original style.
+    The color should be used to add a sense of depth and complexity to the new style.
+    """"""
+    # Your code here
+
+    # Example: If the original style is ""Sanskrit"", the new style could be ""Sanskrit-Blues""
+    #       or ""Sanskrit-Red""
+    #       or ""Sanskrit-Yellow""
+    #       or ""Sanskrit-Orange""
+    #       or ""Sanskrit-Green""
+    #       or ""Sanskrit-Brown""
+    #       or ""Sanskrit-Purple""
+    #       or ""Sanskrit-Blue
+    #       or ""Sanskrit-Black
+    #       or ""Sanskrit-White
+    #       or ""Sanskrit-Red
+    #       or ""Sanskrit-Orange
+    #       or ""Sanskrit-Green
+    #"
+53,"Question:
+What is the common denominator of -3/16 and -77/4?
+Answer:
+16<|end_of_text|>"
+54,"Question:
+What is 1/20 of a day in minutes? - (12/10 - 1/5) - 2/5
+Answer:
+48<|end_of_text|>"
+55,"def count_positive_integers(n):
+    """"""
+    Write a function that takes a positive integer n and returns the number of positive integers that are less than or equal to n.
+
+    You can use the modulo operator to solve this problem.
+
+    Examples:
+    >>> count_positive_integers(3)
+    3
+    >>> count_positive_integers(10)
+    10
+    >>> count_positive_integers(5)
+    5
+    """"""
+    count = 0
+    for i in range(1, n+1):
+        if i % 2 == 0:
+            count += 1
+    return count
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>"
+57,"Question:
+Let w = -0.0067 + 0.044. Let j = 0.047 - w. Let b = j + -0.047. What is b rounded to 2 decimal places?
+Answer:
+-0.02<|end_of_text|>"
+58,"def tuple_concatenation(animals):
+    """"""
+    Given a list of animals, return a tuple of all possible combinations of their names.
+    For example, if the input is ['cat', 'dog', 'chicken'], the output should be (('cat', 'dog'), ('cat', 'chicken'), ('dog', 'chicken')).
+    """"""
+
+    # Your code here
+
+    return tuple()
+<|end_of_text|>"
+59,"Question:
+What is the common denominator of 71/2 and -53/25?
+Answer:
+50<|end_of_text|>"
+60,"Question:
+Let h = -7 + 14. Suppose -h*a - 2*a = -2. Suppose 0 = -a*o - 5 + 25. What is the remainder when 13 is divided by o?
+Answer:
+4<|end_of_text|>"
+61,"Question:
+Let l = -7.7 - -7.9. Let p = l + -0.3. Let b = -0.2 - p. What is b rounded to 2 decimal places?
+Answer:
+-0.2<|end_of_text|>"
+62,"Question:
+Let f = -0.004 - -0.054. Let v = f + -0.04. Let z = 0.0200003 - v. What is z rounded to 7 dps?
+Answer:
+0.0000003<|end_of_text|>"
+63,"Question:
+What is the common denominator of -79/8 and 83/16?
+Answer:
+16<|end_of_text|>"
+64,"Question:
+Let q = -0.045 + 0.135. Let b = q + -0.07. Let l = -0.035 + b. What is l rounded to 2 decimal places?
+Answer:
+-0.01<|end_of_text|>"
+65,"Question:
+Let h = -0.009 - -0.015. Let p = h + -0.06. Let j = -0.019 - p. What is j rounded to 2 dps?
+Answer:
+-0.02<|end_of_text|>"
+66,"Question:
+Let f = -1.2 + 0.8. Let o = -0.5 + f. Let h = o - -0.2. What is h rounded to 1 decimal place?
+Answer:
+0.7<|end_of_text|>"
+67,"Question:Write a Python code snippet to Display High Fruits or Vegetables: ShoppingList? - 3 - for Beginners. The code should be able to handle all types of input (e.g., numbers, strings, etc.) and should be able to display the appropriate message.
+Solution:Here is python code which can help us to display high fruits or vegetables : 
+#Python program for shopping list
+shopping_list = [""apple"", ""carrot"", ""beef"", ""mango""]
+print(""ShoppingList"")
+for fruit in shopping_list:
+    if fruit == ""apple"":
+        print(""You can buy apple"")
+        print(""You can buy carrot"")
+        print(""You can buy beef"")
+        print(""You can buy mango"")
+        print(""You can buy banana"")
+        print(""You can buy apple"")
+        print(""You can buy carrot"")
+        print(""You can buy beef"")
+        print(""You can buy mango"")
+        print(""You can buy banana"")
+        print(""You can buy apple"")
+        print(""You can buy carrot"")
+        print(""You can buy beef"")
+        print(""You can buy mango"")
+        print(""You can buy banana"")
+        print(""You can buy apple"")
+        print(""You can buy carrot"")
+        print"
+68,"Question:
+What is 3/10 of a litre in millilitres?
+Answer:
+300<|end_of_text|>"
+69,"Question:
+Let i = -0.1 + 0.3. Let w = 1.2 + -1. Let g = 0.2 - w. Which is the nearest to i?  (a) g  (b) 2  (c) 0
+Answer:
+c<|end_of_text|>"
+70,"Question: A 35-year-old woman presents with a 2-week history of dyspeptic symptoms. She has a 4-kg (10-lb) weight loss. She has been unable to eat because of a feeling of nausea. She has also been unable to eat because of a feeling of fullness. Her symptoms are worse after meals. She has not had any of the symptoms in the past. She has a history of anorexia nervae. She has no history of a serious illness. On physical examination, she is pale. Her temperature is 37C (98.9F) and her pulse is 100bpm. Her blood pressure is 120/70mmHg. Her abdomen is small, and her skin is pale. She has an enlarged left breast. The liver is enlarged. Her serum calcium is 2.5mg/dL (50mmosmol/L), and serum PTH is 50mg/ (1.5mmosmol/L). Which of the following is the most likely diagnosis?
+A. Chronic renal failure
+B. Renal failure
+C. Renal failure
+D. Renal failure
+E. Renal failure
+Answer: D<|end_of_text|>"
+71,"Question:
+Let l = 0.041 - 0.052. Let r = -0.011 - l. Let i = r + 0.01. What is i rounded to 2 decimal places?
+Answer:
+0.01<|end_of_text|>"
+72,"Question:
+Let m = -0.012 - -0.062. Let n = 0.056 + m. Let z = -0.0106 + n. What is z rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+73,"def create_outfit(mood):
+    """"""Create a outfit based on the given mood.
+
+    Args:
+        mood (str): The mood of the outfit.
+
+    Returns:
+        str: A description of the outfit.
+    """"""
+    if mood == ""sunny"":
+        # use a sunny color scheme
+        color = ""yellow""
+        outfit = ""sunny outfit""
+    elif mood == ""moodys"":
+        # use a moodys color scheme
+        color = ""moodys""
+        outfit = ""moodys outfit""
+    else:
+        # use a neutral color scheme
+        color = ""neutral""
+        outfit = ""neutral outfit""
+    return f""Here is our outfit: {outfit}. It is {color}.""
+<|end_of_text|>"
+74,"def create_mosaic(art, n):
+    """"""
+    Create a mosaic of art using negative indexing.
+    The art should be a list of lists, where each sublist represents a row of pixels.
+    The n should be a positive integer representing the number of pixels in each row.
+    The output should be a list of lists, where each sublist represents a row of pixels in the mosaic.
+    """"""
+    mosaic = []
+    for row in art:
+        for pixel in row:
+            if pixel < 0:
+                mosaic.append([0] * (n - abs(pixel) + 1) + [pixel])
+    return mosaic
+<|end_of_text|>"
+75,"Question: A 3-month-old child of a HIV positive woman, is brought by the parents because of the appearance of blueness of lips and cyanosis. On examination, he was found to be in respiratory distress. He was managed by intubation and all his vital parameters were normal. The symptoms and symptoms of the child are most likely to be due to?
+A. Respiraory failure
+B. Infection
+C. All of the above
+D. Exaerabation
+Answer: C<|end_of_text|>"
+76,"Question:
+Let y = 10.5 - 7. Let i = -2.5 + y. Let m = i + -1.90000004. What is m rounded to 7 decimal places?
+Answer:
+-0.0000001<|end_of_text|>"
+77,"def create_a_tuple_from_a_list_of_employees(employees):
+    """"""This function takes a list of employees and returns a tuple of their names.
+    The names should be in the format of ""Firstname Lastname"".
+    The list of employees is a list of tuples, where each tuple represents an employee.
+    The first element of each tuple is the employee's name, and the second element is his/her ID.
+    The example of a list of employees is: [(""John Smith"", ""12345""), (""Jane Doe"", ""23456"")].
+    """"""
+    return tuple([f""{name[0].upper()}{name[1]}. {name[0]}. {name[1]}.""] for name in employees)
+
+
+# Example:
+print(create_a_tuple_from_a_list_of_employees([(""John Smith"", ""12345""), (""Jane Doe"", ""23456"")]))
+# Output: (""JohnSmith.12345.JaneDoe.23456.""
+<|end_of_text|>"
+78,"Question: Which of the following is not a risk factor for aortic insuffi- nery?
+A. Hypercho- litera-  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -"
+79,"Question:
+Let n = 1.7 - 1.8. Let o = n - -1.8. Let x = -0.1 + o. What is x rounded to 1 dp?
+Answer:
+-0.9<|end_of_text|>"
+80,"Question:
+What is the next term in 12, 24, 38, 54, 72, 92?
+Answer:
+114<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.7. Let x = 0.2 - o. Let p = x - 0.4. Which is the nearest to p?  (a) -3  (b) -2/9  (c) -1/4
+Answer:
+b<|end_of_text|>"
+82,"Question:
+Let p = -0.06 - 0.04. Let v = p + 0.09. Let g = v + -0.11. What is g rounded to one decimal place?
+Answer:
+-0.8<|end_of_text|>"
+83,"Question:
+What is the third biggest value in -1/3, -2/7, -0.1, 2/3?
+Answer:
+-2/7<|end_of_text|>"
+84,"def update_ingredients(ingredients, new_ingredients):
+    """"""
+    Write a function that takes a list of ingredients and a list of new ingredients, and returns a new list of ingredients that has the new ingredients added to it.
+
+    The input list of ingredients is in the format of a string, and the output list of ingredients is also in the format of a string. The input list of ingredients is in the format of a string, and the output list of ingredients is in the format of a string.
+
+    The input list of ingredients is in the format of a string, and the output list of ingredients is in the format of a string. The input list of ingredients is in the format of a string, and the output list of ingredients is in the format of a string.
+
+    The input list of ingredients is in the format of a string, and the output list of ingredients is in the format of a string. The input list of ingredients is in the format of a string, and the output list of ingredients is in the format of a string.
+
+    The input list of ingredients is in the format of a string, and the output list of ingredients is in the format of a string. The input list of ingredients is in the format of a string, and the output"
+85,"def modify_list_of_fruits(fruits):
+    """"""This function takes a list of fruits and modifies it.
+    It should return a list of fruits that have been changed.
+    """"""
+    new_fruits = []
+    for fruit in fruits:
+        if fruit == ""apple"":
+            fruit = ""pears""
+            new_fruits.append(fruits)
+        elif fruit == ""orange"":
+            fruit = ""peaches""
+            new_fruits.append(fruits)
+        elif fruit == ""mango"":
+            fruit = ""peaches""
+            new_fruits.append(fruits)
+        else:
+            new_fruits.append(fruits)
+    return new_fruits
+
+<|end_of_text|>"
+86,"Question:
+Let o = -0.024 + -0.024. Let m = -0.037 - o. Let h = m - -0.057. What is h rounded to 2 decimal places?
+Answer:
+0.03<|end_of_text|>"
+87,"Question: The most common indication for surgery in a patient with a thyroid cancer is
+A. Inability to swallow
+B. Inability to breathe
+C. Involvement of the trachea
+D. Involvement of the airway
+E. Involvement of the neck
+Answer: D<|end_of_text|>"
+88,"Question:
+Let w = 0.1 - -0.2. Let h = -0.6 + w. Let m = h - -0.1. Is m greater than or equal to 1/4?
+Answer:
+True<|end_of_text|>"
+89,"Question:
+Let n = -0.6 - -0.8. Let m = 0.6 - n. Let p = m - 0.3. What is p rounded to one decimal place?
+Answer:
+-0.7<|end_of_text|>"
+90,"def add_to_set(people, new_people):
+    """"""Add new people to a set of people.
+
+    Args:
+        people (list): A list of people.
+        new_people (list): A list of people to add.
+
+    Returns:
+        set: The updated set of people.
+    """"""
+    people = set(people)
+    for person in new_people:
+        if person not in people:
+            people.add(person)
+    return people
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 103 is divided by 29?
+Answer:
+20<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 2. Let g = 0.3 + p. Let h = 0.2 + g. What is h rounded to one decimal place?
+Answer:
+0.8<|end_of_text|>"
+93,"Question:
+Let i = 0.001 - -1.999. Let j = 3.1 - i. Let m = -0.9 + j. Which is the closest to 1?  (a) -1/4  (b) m  (c) -5
+Answer:
+b<|end_of_text|>"
+94,"Question: A 35-year-old woman is seen in the emergency room because of a sudden onset of a high fever, nausea, and vomiting. On examination, she is found to be dehydrated. A urine test shows a pH of 2, and a urine dip-stay for sodium shows a sodium level of 50 mmol/L. Which of the following is the most likely cause of the symptoms?
+A. A kidney lesion in a child
+B. A kidney lesion in a person of all ages
+C. A kidney lesion in a person of all ages
+D. A kidney lesion in a child
+Answer: B<|end_of_text|>"
+95,"Question:
+Let h = 0.2 + -0.2. Let m = 0.1 - h. Let j = 0.2 - m. What is j rounded to 1 decimal place?
+Answer:
+0.1<|end_of_text|>"
+96,"# 2000 in American football
+
+2000 is a year that saw the NFL, NFLPA, and NFL Foundation. It also saw the NFL's first annual NFL AllStar Game, which was held in New Orleans, Louisiana. It also saw the first AllStar Game for the NFL Foundation. It also saw the NFL's first annual NFL AllStar Game, which was held in New Orleans, Louisiana. It also saw the first AllStar Game for the NFL Foundation. The NFL AllStar Game was held in New Orleans, Louisiana. It also saw the first AllStar Game for the NFL Foundation. It also saw the first AllStar Game for the NFL Foundation. The NFL AllStar Game was held in New Orleans, Louisiana. It also saw the first AllStar Game for the NFL Foundation. The NFL AllStar Game was held in New Orleans, Louisiana. It also saw the first AllStar Game for the NFL Foundation. The NFL AllStar Game was held in New Orleans, Louisiana. It also saw the first AllStar Game for the NFL Foundation. The NFL AllStar Game was held in New Orleans, Louisiana. It also saw the first AllStar Game for the NFL Foundation. The NFL AllStar Game was held in New Orleans, Louisiana. It also saw the first"
+97,"Question:
+Let h = 0.5 - -0.5. Let u = 0.5 - h. Let y = 0.5 - u. Which is the closest to 1?  (a) y  (b) 0.3  (c) 3/4
+Answer:
+c<|end_of_text|>"
+98,"Question:
+Let y = -4.96 - -5. Let m = 0.54 - y. Let s = m - 0.44. What is s rounded to 1 decimal place?
+Answer:
+-0.3<|end_of_text|>"
+99,"def add_to_list(animals, animals_to_add):
+    """"""This function takes in a list of animals and a list of animals to add. 
+    It should return a new list that is the result of the combination of the two.
+    The resulting list should contain all the animals that are in both lists. 
+    You should use the in operator to check if an animal is in the list. 
+    You should also use the append method to add the new animals to the list. 
+    You should also use the length of the list to make sure that you have all the animals. 
+    You should also use the all function to check if all the animals in the list are in the other list.
+    You should also use the any function to check if any of the animals in the list are in the other list. 
+    You should also use the all or any functions to check if all or any of the animals in the list are in the other list. 
+    You should also use the all or any functions to check if all or any of the animals in the list are in the other list. 
+    You should also use the all or any functions to check if all or any of the animals in the list are in the other list. 
+"

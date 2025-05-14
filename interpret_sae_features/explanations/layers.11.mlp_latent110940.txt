@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly French verb and noun stems, prefixes, and suffixes, often marking inflectional or derivational morphology (such as verb conjugations, participles, or noun/adjective forms). These segments frequently appear at morpheme boundaries, indicating their importance in identifying word structure and grammatical function in French text."

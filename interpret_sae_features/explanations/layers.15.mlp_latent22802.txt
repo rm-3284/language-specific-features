@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily function words, common suffixes, and connectors in Portuguese, such as conjunctions, pronouns, and endings that form adjectives, adverbs, or plurals. These elements are essential for sentence structure, linking clauses, and expressing relationships between ideas, as well as for forming derived or inflected word forms."

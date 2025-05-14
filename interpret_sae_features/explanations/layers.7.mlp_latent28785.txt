@@ -1,0 +1,1 @@
+"The highlighted tokens are predominantly Vietnamese morphemes, syllables, or word stems, often at the beginning of compound words or phrases. These tokens frequently represent meaningful units that combine to form nouns, verbs, or adjectives, and are commonly used in word formation, compounding, or as grammatical markers in Vietnamese text."

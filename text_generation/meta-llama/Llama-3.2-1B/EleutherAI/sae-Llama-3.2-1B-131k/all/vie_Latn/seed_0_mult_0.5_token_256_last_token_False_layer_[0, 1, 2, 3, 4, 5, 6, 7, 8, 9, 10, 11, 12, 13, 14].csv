@@ -1,0 +1,582 @@
+seed,generated_text
+0,"Question:Write a Go code snippet to Display Low Hy V I: K 120, H N T, X M X, A T, M N G, B T, T B, V X, D N, H X, N X, X T, A X, K T, T X, V T, D T, T T, V T, B T, T T, V T, T T, V T, D T, T T, V T, B T, T T, V T, D T, T T, V T, B T, T T, V T, D T, T T, V T, B T, T T, V T, D T, T T, V T, B T, T T, V T, D T, T T, V T, B T, T T, V T, D T, T T, V T, B T, T T, V T, D T, T T, V T, B T, T T, V T, D T, T T, V T, B T, T T, V T, D T, T T, V T, B T, T T, V T, D T, T"
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 + d. Let b = s - 0.00000038. What is b rounded to 7 decimal places?
+Answer:
+-0.0000004<|end_of_text|>"
+2,"Question:
+Let l = -3.4 - -3. Let m = 0.0000018 - l. What is m rounded to 7 decimal places?
+Answer:
+0.000001<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - 0.09000003. What is g rounded to 7 dps?
+Answer:
+-0.000000<|end_of_text|>"
+4,"Question:
+Let v = 11.4 - 10. Let q = v + -1.00000002. What is q rounded to 7 decimal places?
+Answer:
+-0.000000<|end_of_text|>"
+5,Question: The following are the DCS criteria than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used to diagnose the DCS than can be used
+6,"def nested_loops_with_slicing(my_list):
+    """"""
+    In this exercise, you will need to write a program to find the number of times a given number appears in a 2D array, where each element is a 2D array. The 2D array can be of size 2x3 or 3x2, and each element can be a 2D array of integers. The program should also return the number of times the number 3 appears in the 2D array. The 2D array can be of size 2x3 or 3x2, and each element can be a 2D array of integers. The program should also return the number of times the number 3 appears in the 2D array. The 2D array can be of size 2x3 or 3x2, and each element can be a 2D array of integers.
+    """"""
+    # Your code here
+    # Tạo 2D array 2x3
+    T = [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0,"
+7,# 2-3-5-6-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28-29-30-31-32-33-34-35-36-37-38-39-40-41-42-43-44-45-46-47-48-49-50-51-52-53-54-55-56-57-58-59-60-61-62-63-64-65-66-67-68-69-70-71-72-73-74-75-76-77-78-79-80-81-82-83-84-85-86-87-88-89-90-91-92-93-94-95-96-97-98-99-100-101-102-103-104-105-106-107-108-109-110-111-112-113-114-115-116-117-118-119-120-121-122-123-124-125-126-127-128-129-130-
+8,"Question: A 25 year old G1, K1, 29 S1, 30 D5, 28 N0, T6 B1 T4, X D 1, B 0, N 0, S 16 G1, T 0, 19 N0, 18 S0, 30 B5, 30 K0, 10 H4, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0, T 6 B0"
+9,"Question:
+Let x = -0.1 + 0.1. Let t = 0.7 - x. Let l = t - 0.60000003. What is l rounded to 7 decimal places?
+Answer:
+-0.000000<|end_of_text|>"
+10,Question:Create a C# program to Display the first 5 S's of the first 5 S's of the first 5 N's of the first 5 N's of the first 5 D's of the first 5 D's of the first 5 V's of the first 5 V's of the first 5 M's of the first 5 M's of the first 5 X's of the first 5 X's of the first 5 B's of the first 5 B's of the first 5 A's of the first 5 A's of the first 5 O's of the first 5 O's of the first 5 N's of the first 5 N's of the first 5 S's of the first 5 S's of the first 5 D's of the first 5 D's of the first 5 V's of the first 5 V's of the first 5 M's of the first 5 M's of the first 5 X's of the first 5 X's of the first 5 B's of the first 5 B's of the first 5 A's of the first 5 A's of the first 5 O's of the first
+11,"Question: A 18-year-old G2, V1 presented with the following D - D - T: S - 4 - 5 - 3, T - 6, M - 5, A - 7. B - 6, V - 5. The patient had 6+ VNG, 7+ BÁ X, 4+ N1, 4+ N2, 4+ N3, 2+ N4. The following are the VNG and BÁ X of the patient: T - 6, M - 5, A - 7, V - 5, N1 - 4, N2 - 4, N3 - 4, N4 - 2. The following are the VNG and BÁ X of the patient: T - 6, M - 5, A - 7, V - 5, N1 - 4, N2 - 4, N3 - 4, N4 - 2. The following are the VNG and BÁ X of the patient: T - 6, M - 5, A - 7, V - 5, N1 - 4, N2"
+12,"Question:
+Let v = 0.5 + -0.4. Let q = 0.0600005 + v. What is q rounded to 6 decimal places?
+Answer:
+0.000001<|end_of_text|>"
+13,"Question:
+Let h = -0.05 + 0.05. Let i = 0.07 + h. Let x = 0.05999974 - i. What is x rounded to 7 decimal places?
+Answer:
+-0.0000003<|end_of_text|>"
+14,"Question: Which of the following is a common cause of trân xóm?
+A. Tra ván
+B. Trâm tăm
+C. Trám cốt
+D. Trám ốc
+Answer: A<|end_of_text|>"
+15,"Question:
+Let y = 0.01 + 0. Let d = 0.039 - 0.029. Let t = d + y. Round t to 2 decimal places.
+Answer:
+0.01<|end_of_text|>"
+16,"Question:
+Let g = -0.03 + 0.030000001. What is g rounded to 7 decimal places?
+Answer:
+0.000000<|end_of_text|>"
+17,"Question:
+Let t = 0.03 - 0.04. Let x = 0.09000145 - t. What is x rounded to 7 decimal places?
+Answer:
+0.0000015<|end_of_text|>"
+18,"Question:
+Let g = 3.8 - 4. Let a = g + 1.8. Let v = 0.6 - a. What is v rounded to 0 dps?
+Answer:
+-1<|end_of_text|>"
+19,"Question:Build a C# 8.0 NVM file, which contains the following: a. 10,000 M1 – 0,000 M0 b. 100,000 M0 – 0,000 M1 c. 500,000 M1 – 0,000 M0 d. 500,000 M0 – 0,000 M1 e. 500,000 M0 – 0,000 M1 g. 500,000 M0 – 0,000 M1
+chó 1
+A. 10,000 M1 – 0,000 M0
+B. 100,000 M0 – 0,000 M1
+C. 500,000 M1 – 0,000 M0
+D. 500,000 M0 – 0,000 M1
+E. 500,000 M0 – 0,000 M1
+g
+Answer: D<|end_of_text|>"
+20,"Question:Build a C++ program to display the following array:
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+You can use k T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T T"
+21,"Question:
+Let g = 0.1 + -0.1. Let i = 1.1 - g. Let k = 2.00000064 - i. What is k rounded to 7 decimal places?
+Answer:
+0.0000006<|end_of_text|>"
+22,"Question: Which of the following is a common cause of trân may 1?
+A. Chàm
+B. Sốt vốt
+C. Châm
+D. Tâm
+Answer: A<|end_of_text|>"
+23,Question: Which is the most common complication of chlo than 8 than 6 than 5 than 0 than 3 than 8 than 6 than 5 than 0 than 3 than 8 than 6 than 5 than 0 than 3 than 8 than 6 than 5 than 0 than 3 than 8 than 6 than 5 than 0 than 3 than 8 than 6 than 5 than 0 than 3 than 8 than 6 than 5 than 0 than 3 than 8 than 6 than 5 than 0 than 3 than 8 than 6 than 5 than 0 than 3 than 8 than 6 than 5 than 0 than 3 than 8 than 6 than 5 than 0 than 3 than 8 than 6 than 5 than 0 than 3 than 8 than 6 than 5 than 0 than 3 than 8 than 6 than 5 than 0 than 3 than 8 than 6 than 5 than 0 than 3 than 8 than 6 than 5 than 0 than 3 than 8 than 
+24,"Question: The following are the characteristics of a VSD, except:
+A. The VSD may be congenen 8 than TGA
+B. The VSD can be repaired by surgery
+C. The VSD may be cong 8 than DHD
+D. The VSD may be cong 8 than VSD
+Answer: A<|end_of_text|>"
+25,"Question:Build a C# 6.0 project, MÔ TẢ, S� D� VÀ XÃ TÃCH LÃ B�N VÀ B� L� VÀ C� L� V� A:
+A. Á X DÃ VÀ B� L� VÃ C� L� V� A
+B. XÃ TÃ CH TÃCH LÃ B� N VÀ B� L� VÃ C� L� V� A
+C. Á X DÃ VÀ B� L� VÃ C� L� V� A
+D. XÃ TÃ CH TÃ CH LÃ B� N VÃ B� L� VÃ C� L� V� A
+E. Á X DÃ VÀ B� L� VÃ C� L� V� A
+Answer: A<|end_of_text|>"
+26,"Question:
+Let v = -4.8 + 5. Let t = 0.8 - v. Let c = t - 1.00000001. What is c rounded to 7 decimal places?
+Answer:
+-0.000000<|end_of_text|>"
+27,"Question:Develop a C# program to check whether a given number is a GCD (GCD: Gau, Dau, Chay) of 2 consecutive numbers A and B. In case of A = B, the GCD of A and B is 1. The GCD of 2 consecutive multiples of 5 is 6. The GCD of 5 and 100 is 1. The GCD of 8 and 100 is 8. The GCD of 2, 5, 8, 13, 20, 26, 34, 37, 46, 53, 58, 65, 72, 76, 83, 88, 91, 98, 103, 110, 115, 122, 125, 130, 135, 140, 145, 148, 151, 156, 163, 168, 171, 176, 181, 188, 191, 194, 197, 202, 205, 208, 211, 214, 217, 220, 223, 226, 231, 234, 237, "
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.0000019 + t. What is c rounded to 7 decimal places?
+Answer:
+0<|end_of_text|>"
+29,"Question:Write a Go code snippet to Display Low Hy T, V (S V) - 38 B, S T, S V (H T, V) - 38 A, S V (T T, V) - 38 C, S V (H T, V) - 38 B, S V (T T, V) - 38 A, S V (T T, V) - 38 A, S V (T T, V) - 38 A, S V (T T, V) - 38 A, S V (T T, V) - 38 A, S V (T T, V) - 38 A, S V (T T, V) - 38 A, S V (T T, V) - 38 A, S V (T T, V) - 38 A, S V (T T, V) - 38 A, S V (T T, V) - 38 A, S V (T T, V) - 38 A, S V (T T, V) - 38 A, S V (T T, V) - 38 A, S V (T T, V) -"
+30,"Question:
+Let n = 0.02 - 0. Let l = n + 0.08. Let v = l + -0.1000014. What is v rounded to 6 decimal places?
+Answer:
+-0.000001<|end_of_text|>"
+31,"Question:
+Let g = -1.07 + 1. Let t = g + 0.03. Let n = 0.04 - t. Which is the nearest to -1?  (a) n  (b) 0.5  (c) 1
+Answer:
+a<|end_of_text|>"
+32,"Question:
+Let t = 0.031 - 0.03100004. What is t rounded to 7 decimal places?
+Answer:
+-0.0000005<|end_of_text|>"
+33,"def build_shoes(size, v_n, v_k):
+    """"""
+    Tạo mẫu xê, vê, ván, ván bả, ván bả gối.
+    """"""
+    v_n = 0
+    v_k = 0
+    for i in range(0, 100):
+        v_n = v_n + 1
+        v_k = v_k + 1
+        v_n = v_n * 2 + 1
+        v_k = v_k * 2 + 1
+        v_n = v_n / 100
+        v_k = v_k / 100
+    return v_n, v_k
+
+<|end_of_text|>"
+34,"Question: Which of the following is a common cause of chlo da lâm b? A. X D 34 B. C 17 T B. S 220 C. H 80 D. V 30
+Bao V - Chuyên Sơ D – 5 - 2010
+Bao V - Chuyên Sơ D - 5 - 2010
+Chlo da lâm b (chó) là bệnh tật tiệ̀ch, nhưng có thể ngăn chệ và chữa trị, khi chẩn X D 34 B, C 17 T, S 220, H 80. Tốc gải, D 35, V 30, G 30, C 12, X 29, V 24, V 30, T 8, B 24, D 25, D 35, D 35, D 35, D 35, D 35, D 35, D 35, D 35, D 35, D 35, D 35, D 35, D 35, D 35, D 35, D 35, D 35, D 35, D 35, D 35"
+35,"Question:
+What is the nearest to 0.1 in 2, -2, 2/7, 5?
+Answer:
+2/7<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -0.6. Let v = o + 0.60000004. Round v to 7 decimal places.
+Answer:
+0.000000<|end_of_text|>"
+37,"# Bó Sơ
+
+Bó Sơ may có 2 nghĩa:
+
+1. Xóm Bó Sơ, xã Hùng Vấn, Vĩnh T Minh, Vĩnh Chánh, Vĩnh Bình, Vĩnh Vân, Vĩnh Bình, Vĩnh T Minh, Vĩnh Trà, Vĩnh Tâm, Vĩnh T T, Vĩnh Trà, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, Vĩnh X, V"
+38,"Question:
+What is the common denominator of 3/10 and 81/10?
+Answer:
+10<|end_of_text|>"
+39,"Question:
+Let t = -0.06 + 0.5. Let x = t - 0.5000005. Round x to 6 decimal places.
+Answer:
+-0.000001<|end_of_text|>"
+40,"# 5G-LoG
+Văn Hùng
+Bách Tâm
+Mai Trân
+Văn Hùng
+Bách Tâm
+Mai Trân
+Văn Hùng
+Bách Tâm
+Mai Trân
+Văn Hùng
+Bách Tâm
+Mai Trân
+Văn Hùng
+Bách Tâm
+Mai Trân
+Văn Hùng
+Bách Tâm
+Mai Trân
+Văn Hùng
+Bách Tâm
+Mai Trân
+Văn Hùng
+Bách Tâm
+Mai Trân
+Văn Hùng
+Bách Tâm
+Mai Trân
+Văn Hùng
+Bách Tâm
+Mai Trân
+Văn Hùng
+Bách Tâm
+Mai Trân
+Văn Hùng
+Bách Tâm
+Mai Trân
+Văn Hùng
+Bách Tâm
+Mai Trân
+Văn Hùng
+Bách Tâm
+Mai Trân
+Văn Hùng
+Bách Tâm
+Mai Trân
+Văn Hùng
+Bách Tâm
+Mai Trân
+Văn Hùng
+Bách T"
+41,"Question:
+Let a = -8.5 + 8. Let c = a - -2.50000018. What is c rounded to 7 dps?
+Answer:
+0.0000002<|end_of_text|>"
+42,"Question:
+Let l = 0.034 - 0.0340000001. What is l rounded to 7 decimal places?
+Answer:
+-0.0000001<|end_of_text|>"
+43,"Question:
+Let k = -0.037 + 0.0368007. What is k rounded to 5 dps?
+Answer:
+-0.0002<|end_of_text|>"
+44,"Question:
+Let v = 2.1 + -2. Let s = 0.5 - v. Let t = 1.00000058 + s. What is t rounded to 7 decimal places?
+Answer:
+0.0000006<|end_of_text|>"
+45,"Question: A 60-year-old male presented with fever, myc loãng, x D, B _{24} 20 g/L. T _{4} 30 g/L, T _{8} 15 g/L. T _{8} / T _{4} 2,5/1. S 70%. B 25% T 30%. B 20% T 10%. B 10% T 20%. B 15% T 30%. B 10% T 50%. T 20% B 30%. T 50% B 20%. T 30% B 30%. T 50% B 30%. T 30% B 30%. T 20% B 20%. T 50% B 30%. T 30% B 30%. T 20% B 20%. T 50% B 30%. T 30% B 30%. T 20% B 20%. T 50% B 30%. T 30% B 30%. T 20% B 20%. T 50% B 30%. T 30% B 30%. T 20% B 20%. T 50% B"
+46,"Question:Build a C++ class named C_Quang to model the following venn (A, B, C, D, E, X):
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E, X
+A, B, C, D, E"
+47,"# Generated by Xolo v 1.0
+import time
+from datetime import datetime, timedelta
+from datetime import datetime, datetime, Time, datetime,  datetime2
+from datetime import  datetime2,  timedelta,  time,  time_t,  time_t1,  time_t2
+import datetime
+from datetime import  datetime2
+import time
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+import datetime
+from datetime import  datetime2
+"
+48,"Question: Which of the following is the VTI of the right side?
+A. 25
+B. 25
+C. 50
+D. 50
+E. 75
+Answer: C<|end_of_text|>"
+49,Question:Create a Java 8 Program to Display the Vai Chơ of the Nghi Sá 2016. The Nghi Sá 2016 was the 32th National election of the V.I.T. (Việ Nam) since 1993. The Nghi Sá 2016 was the 18th National election of the V.I.T. (Việ Nam) since 1988. The Nghi Sá 2016 was the 13th National election of the V.I.T. (Việ Nam) since 2005. The Nghi Sá 2016 was the 8th National election of the V.I.T. (Việ Nam) since 1995. The Nghi Sá 2016 was the 6th National election of the V.I.T. (Việ Nam) since 1996. The Nghi Sá 2016 was the 5th National election of the V.I.T. (Việ Nam) since 1998. The Nghi Sá 2016 was the 4th National election of the V.I.T. (Việ Nam) since 2003. The Nghi Sá 2016 was the 3rd National
+50,"Question:
+Let g = 0.028 + 0.482. Let k = g + -0.50500001. What is k rounded to 7 dps?
+Answer:
+-0.000000<|end_of_text|>"
+51,"Question:
+Let d = 0.2 + -0.1. Let t = d - 0.80000001. What is t rounded to 7 decimal places?
+Answer:
+-0.000000<|end_of_text|>"
+52,"def create_mixed_sau_8(mixed_sau, x, y, g):
+    """"""
+    Viết chương trình: Viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã, viết chương trình, viết kịch bản, viết mã,"
+53,"Question:
+What is the common denominator of 34/33 and -53/4?
+Answer:
+132<|end_of_text|>"
+54,"Question: Which is not a Ech Chau 1 - 30
+A. Dau ván 1 - 30
+B. Dau ván 2 - 30
+C. Dau ván 3 - 30
+D. Dau ván 4 - 30
+Answer: B<|end_of_text|>"
+55,"def count_vac_ban(s):
+    """"""
+    Viết lát sao cho vầy: Tìm vế V của S, nếu V > 10, vế V phải có 1 kí tự A, B, C, D, E, G, H, I, M, N, O, V, X, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61,"
+56,"Question:
+What is the common denominator of 47/150 and 46/5?
+Answer:
+150<|end_of_text|>"
+57,"Question:
+Let d = -6.3 + 6. Let x = -1.7 + 0.7. Let b = x + d. Which is the closest to 1?  (a) 1/4  (b) -0.5  (c) b
+Answer:
+a<|end_of_text|>"
+58,"def nested_slicing(my_list):
+    """"""
+    Given a 2D array, return a 2D array with the same size, with the first 5 rows and the last 5 columns removed.
+    """"""
+    return [x[1:5] for x in my_list]
+<|end_of_text|>"
+59,"Question:
+Let v = 3.8 + -0.8. Let h = v + -4.0000005. What is h rounded to 6 decimal places?
+Answer:
+-0.000001<|end_of_text|>"
+60,"Question:
+Let h = -7 + 6. Let x = h - -2. Let g = x + 6. What is the smallest common multiple of g and 8?
+Answer:
+8<|end_of_text|>"
+61,"Question:
+Let l = 7.9 + -8. Let s = 0.1 - l. Let v = -3.0000002 + s. What is v rounded to 7 decimal places?
+Answer:
+-0.0000002<|end_of_text|>"
+62,"Question:
+Let g = -0.4 - 0.4. Let a = g + 0.8. Let v = 0.7 - a. Round v to 0 decimal places.
+Answer:
+0<|end_of_text|>"
+63,"Question:
+Let o = -1.5 + 1. Let v = o + 0.6. Let n = v + 0.0000005. What is n rounded to 7 decimal places?
+Answer:
+0<|end_of_text|>"
+64,"Question:
+Let q = -1.6 + 1. Let t = 0.0000001 - q. What is t rounded to 7 decimal places?
+Answer:
+0<|end_of_text|>"
+65,"Question:
+Let x = -0.066 - -0.067. Let v = 0.059 - x. Let t = 0.038 - v. What is t rounded to 2 dps?
+Answer:
+0.02<|end_of_text|>"
+66,"Question: Which of the following is a common complication of chlo s a v a?
+A. Nephrotoxicity
+B. Bụi
+C. Vỡ vú
+D. Bệnh vú
+E. Nhiễm vú
+Answer: C<|end_of_text|>"
+67,"Question: Which is the most common cause of acute trau chá?
+A. Bacterial chán nê
+B. Vụ vạ
+C. Chó trích
+D. Bệnh tán
+Answer: A<|end_of_text|>"
+68,"Question:
+What is 3/10 of a millennium in months?
+Answer:
+600<|end_of_text|>"
+69,"Question:
+Let i = 0.046 - 0.146. Let v = i + 0.10000005. What is v rounded to 7 decimal places?
+Answer:
+0.000000<|end_of_text|>"
+70,"Question: The most common cause of acute trân 1 is:
+A. Tra V
+B. Tra B
+C. Tra C
+D. Tra D
+E. Tra N
+Answer: A<|end_of_text|>"
+71,"Question:
+Let l = 0.041 - 0.0410004. Let m = l + 0.001. Round m to 7 decimal places.
+Answer:
+0.0000004<|end_of_text|>"
+72,"Question:
+Let m = 0.4 + -0.8. Let x = 0.02 + m. Let t = x + 0.00000058. What is t rounded to 7 decimal places?
+Answer:
+0.0000005<|end_of_text|>"
+73,"def evaluate_slicing_and_dung(s, v, a):
+    """"""
+    Evaluate the Slicing and Dung's 5 S, 5 D, 5 T, 5 V, 5 M, 5 K, 5 X, 5 V, 5 T, 5 N, 5 T, 5 T, 5 N, 5 T, 5 T, 5 N, 5 T, 5 T, 5 N, 5 T, 5 T, 5 N, 5 T, 5 T, 5 N, 5 T, 5 T, 5 N, 5 T, 5 T, 5 N, 5 T, 5 T, 5 N, 5 T, 5 T, 5 N, 5 T, 5 T, 5 N, 5 T, 5 T, 5 N, 5 T, 5 T, 5 N, 5 T, 5 T, 5 N, 5 T, 5 T, 5 N, 5 T, 5 T, 5 N, 5 T, 5 T, 5 N,"
+74,"def solve(a, b):
+    return a + b
+    # code 1
+    # return a + b
+    # code 2
+    # return a * b
+    # code 3
+    # return a - b
+    # code 4
+    # return a / b
+    # code 5
+    # return a * b
+    # code 6
+    # return a / b
+    # code 7
+    # return a - b
+    # code 8
+    # return a ** b
+    # code 9
+    # return a ** b
+    # code 10
+    # return a / b
+    # code 11
+    # return a * b
+    # code 12
+    # return a / b
+    # code 13
+    # return a ** b
+    # code 14
+    # return a / b
+    # code 15
+    # return a * b
+    # code 16
+    # return a / b
+    # code 17
+    # return a ** b
+    # code 18
+    # return a / b
+    # code 19
+    # return a"
+75,"Question: A 24-year-old G1, T4, 30K6 VD, H 4 G2, K T 14 A, D 6 T0, B 6 T0, M 6 T0, S 0, X 6 T0, D 6 T0, B 6 T0, M 6 T0, S 0, X 6 T0, D 6 T0, B 6 T0, M 6 T0, S 0, X 6 T0, D 6 T0, B 6 T0, M 6 T0, S 0, X 6 T0, D 6 T0, B 6 T0, M 6 T0, S 0, X 6 T0, D 6 T0, B 6 T0, M 6 T0, S 0, X 6 T0, D 6 T0, B 6 T0, M 6 T0, S 0, X 6 T0, D 6 T0, B 6 T0, M 6 T0, S 0, X 6 T0,"
+76,"Question:
+Let y = 10.5 + -11. Let i = -0.2 + y. Let d = i - -1.00000004. What is d rounded to 7 dps?
+Answer:
+0.000000<|end_of_text|>"
+77,"def create_chủ_tá_dịch_vụ(vào_sơ_t_đề, ván_bán_khi_bang, ván_bán_khi_nê):
+    """"""
+    Tạo chục tạ dịch vụ với 3 ván bán khi bã, ván bán khi nê.
+    """"""
+    chục_t_a = []
+    chục_t_b = []
+    chục_t_c = []
+    chục_t_d = []
+    chục_t_e = []
+    chục_t_f = []
+    chục_t_g = []
+    chục_t_h = []
+    chục_t_k = []
+    chục_t_l = []
+    chục_t_m = []
+    chục_t_n = []
+    chục_t_nê = []
+    chục_t_o = []
+    chục_t_q = []
+    chục_t_r = []
+    chục_t_s = []
+    chục_t_t = []
+    chục_t_u = []
+    chục_t_v = []
+    chục_t_x = []
+    chục_t_y = []
+    chục_t_bán_khi_bang = []
+    chục_t_bán_khi_nê = []
+    chục_t_bán_khi_b"
+78,"Question: Which of the following is not a risk factor for the development of gastric muc than?
+A. Bacterial V S
+B. Bacterial T
+C. V S
+D. T
+Answer: D<|end_of_text|>"
+79,"Question:
+Let x = 0.023 - 0.033. Let v = x - 0.035. Let x = v + 0.02400002. What is x rounded to 7 decimal places?
+Answer:
+0.0000002<|end_of_text|>"
+80,"Question:
+What is the next term in 5, 24, 51, 88, 135, 190?
+Answer:
+265<|end_of_text|>"
+81,"Question:
+Let x = 2.6 - 2.5. Let v = 0.2 - x. Let a = -0.00000123 + v. What is a rounded to 7 decimal places?
+Answer:
+-0.0000012<|end_of_text|>"
+82,"Question:
+Let g = 0.06 + 0. Let h = g + -0.05000002. What is h rounded to 7 decimal places?
+Answer:
+-0.000000<|end_of_text|>"
+83,"Question:
+Let x = 0.029 - 0.029000028. What is x rounded to 7 decimal places?
+Answer:
+-0.000000<|end_of_text|>"
+84,"def update_moi_vu(tai_kho, n_m, s_d):
+    """"""
+    Viết chương trình cập nhật mảng 1 chiều.
+    Tạo 2 mảng A và B, mỗi mảng 5 ký tự.
+    Xây dựng 2 mảng M1 và M2, mỗi mảng 5 ký tự.
+    Ghi đệ 2 mảng M1 và M2, và đưa vào mảng T.
+    Lập trình dùng vế 1 để cập nhật mảng T.
+    """"""
+    M1 = [0, 0, 0, 0, 0]
+    M2 = [0, 0, 0, 0, 0]
+    T = [0, 0, 0, 0, 0]
+    for i in range(5):
+        T[i] = T[i] + M1[i] + M2[i]
+    return T
+
+<|end_of_text|>"
+85,"def modify_sliced_diet(du_an, t, s, t_0):
+    """"""
+    Viết chương trình cho bạn để sửa chữa 1 gía trích, để sửa chữa 1 gía trích, để sửa chữa 1 gía trích, để sửa chữa 1 gía trích, để sửa chữa 1 gía trích.
+    """"""
+    # Viết chương trình cho bạn để sửa chữa 1 gía trích
+    new_dau = du_an[0][0] + t + s + t_0
+    new_t = t + s + t_0
+    new_s = t_0
+    new_t_0 = t_0
+    new_dau = [new_dau, new_t, new_s, new_t_0]
+    return new_dau
+<|end_of_text|>"
+86,"Question:Build a C# 8.1 project, TST may TPHC, 26/5, Bé X, Vĩnh Long, Vĩnh Bá, Vĩnh Dũng, Vĩnh Dũng, Vĩnh Tuyển, Vĩnh Trà, Vĩnh Trú, Vĩnh Tốc, Vĩnh Xá, Vĩnh Xá, Vĩnh Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá, Võ Xá"
+87,Question: The following are the criteria for diagnosing SAI X than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than than
+88,"Question:
+Let i = 0.1 + -0.1. Let s = 0.1 + i. Let m = 0.01 + s. What is m rounded to 1 dp?
+Answer:
+0.2<|end_of_text|>"
+89,"Question:
+Let g = -0.031 - 0.169. Let m = 0.18 - g. Let d = m - 0.0300005. What is d rounded to 7 decimal places?
+Answer:
+-0.0000005<|end_of_text|>"
+90,"def add_to_set(s, x):
+    """"""
+    Add the value x to the set s.
+    """"""
+    s.add(x)
+
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 44 is divided by 14?
+Answer:
+6<|end_of_text|>"
+92,"Question:
+Let n = 2.2 - 0.2. Let v = n + -1.00000027. What is v rounded to 7 dps?
+Answer:
+-0.0000003<|end_of_text|>"
+93,"Question:
+Let i = 0.001 - 0.0010007. Round i to 7 decimal places.
+Answer:
+-0.0000006<|end_of_text|>"
+94,Question:Build a C# 1.0 – Tìm Tầm 6 – Môn 6 – 30 – 2018 – 5 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 – 2018 – 6 – 1 –
+95,"Question:
+Let h = 0.2 + 0. Let x = -0.2 + h. Let t = x + 0.0000007. What is t rounded to 7 decimal places?
+Answer:
+0.0000007<|end_of_text|>"
+96,"# 2020–2021 Sân Bay Sành – Sân 30-4
+
+Sân Bay Sành – Sân 30-4 là một sân bóng đá Việt Nam, chuyên nghiệp, chuyên nghiệp. Sân có 2 sân: Sân 30-4 và Sân Bán Bé. Sân 30-4 là sân 30-4, Sân 30-4 là sân Sân 30-4, Sân 30-4 là sân Sân 30-4. Sân 30-4 là sân Sân 30-4. Sân 30-4 là sân Sân 30-4. Sân 30-4 là sân Sân 30-4. Sân 30-4 là sân Sân 30-4. Sân 30-4 là sân Sân 30-4. Sân 30-4 là sân Sân 30-4. Sân 30-4 là sân Sân 30-4. Sân 30-4 là sân Sân 30-4. Sân 30-4 là sân Sân 30-4. Sân 30-4 là sân Sân "
+97,"Question:
+Let c = 0.5 + -0.5. Let t = c + 0.00000001. What is t rounded to 7 decimal places?
+Answer:
+0<|end_of_text|>"
+98,"Question:Develop a C# program to display the following menu: 1. Xóa, 2. Sửa, 3. Xóa và 4. Đổi. VD: Xóa Mục: A, B, C, D, E, Xóa Mục: D, E, K, L, M, Xóa Mục: M, N, X, T, U, V, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X, X"
+99,"def find_missing_sau_oi():
+    """"""Tìm thiếu vắng 5 món ăn: Sá Xê, Tôm Xã, Cá Béo, Xí X, Sá Ch, Bò Ch, Cá B, Mê N, Xì D, Tôm, Sá X, T, Cá B, Mê N, Xí X, Sá Ch, B, C, V, S, C, X, V, C, X, S, T, M, X, D, X, N, T, X, X, N, T, T, N, X, T, T, X, T, X, T, X, T, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X, T, X,"

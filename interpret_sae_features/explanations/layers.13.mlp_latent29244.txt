@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily morphemes, roots, prefixes, and suffixes within Russian words, often marking word formation, inflection, or derivation. These segments frequently correspond to meaningful subword units that contribute to the grammatical or semantic structure of the word, such as case endings, diminutives, verb aspects, or noun/adjective formation."

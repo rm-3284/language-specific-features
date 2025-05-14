@@ -1,0 +1,1 @@
+"The highlighted tokens are often subword units or morphemes within names, words, or phrases across multiple languages, frequently marking meaningful components such as name parts, suffixes, or linguistic roots, and are not limited to a single language or script."

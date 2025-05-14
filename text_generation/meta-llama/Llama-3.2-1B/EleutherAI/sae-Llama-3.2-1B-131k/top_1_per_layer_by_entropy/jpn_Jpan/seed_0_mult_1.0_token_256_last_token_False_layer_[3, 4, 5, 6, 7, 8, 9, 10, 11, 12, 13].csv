@@ -1,0 +1,781 @@
+seed,generated_text
+0,"Question:Write a Python code snippet to Display Low Clothing cleanliness: ProperStorageofClothesforPregnantWomenforStudents for Experts. Consider the Responsibility and provide a solution. Here is a sample Python code:
+import random
+print(""Hello, this is a sample Python code."")
+print(""This code will display the proper storage of clothes for pregnant women for students."")
+print(""This is a sample Python code."")
+#Generate random number between 1 and 10
+random_num = random.randint(1,10)
+if random_num <= 5:
+    print(""This is a sample Python code."")
+    print(""This is a sample Python code."")
+    print(""This is a sample Python code."")
+    print(""This is a sample Python code."")
+    print(""This is a sample Python code."")
+    print(""This is a sample Python code."")
+    print(""This is a sample Python code."")
+    print(""This is a sample Python code."")
+    print(""This is a sample Python code."")
+    print(""This is a sample Python code."")
+    print(""This is a sample Python code."")
+    print(""This is a sample Python code."")
+    print(""This is a sample Python code."")
+    print(""This is a sample Python code."")
+    print(""This is"
+1,"Question:
+Let w = 0.03 + -0.13. Let s = 0.02 + w. Let b = s - 0.01. What is b rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+2,"Question:
+Let l = -3.4 - -3. Let m = 0.2 - l. Let w = m + -0.2. Which is the closest to 0?  (a) w  (b) 3  (c) -1
+Answer:
+a<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Let w = g - 0.3. Let m = -0.3 + w. Which is the closest to 0.1?  (a) m  (b) -0.3  (c) 2/9
+Answer:
+c<|end_of_text|>"
+4,"Question:
+Let v = -0.02 - -0.02. Let t = 0.03 + v. Let y = t + -0.05. Which is the nearest to 1?  (a) y  (b) 2/3  (c) -1/4
+Answer:
+b<|end_of_text|>"
+5,"Question:
+Let o = 0.001 - 0.001022. Let s = o - -0.012. What is s rounded to 5 dps?
+Answer:
+0.00002<|end_of_text|>"
+6,"def count_fruits(fruits):
+    """"""Write a function that counts the number of fruits in a list.
+    # Test case 1:
+    assert count_fruits([""apple"", ""banana"", ""orange""]) == 3
+    # Test case 2:
+    assert count_fruits([""apple"", ""banana"", ""orange"", ""mango""]) == 4
+    # Test case 3:
+    assert count_fruits([""apple"", ""banana"", ""orange"", ""mango"", ""pear""]) == 5
+    """"""
+    return len(fruits)<|end_of_text|>"
+7,"# 2-Phenyl-ethyl-amine
+
+2-Phenyl-ethyl-amine is a colourless liquid. It is a white crystalline powder.
+
+|  |
+| Names |
+| IUPPYarrowball. |
+| Identifiers |
+| CASnumber | 506-79-6 |
+| PubChemID | 1000 |
+| ECHA | 100.012.015 |
+| SMILES
+* C(C)C.NCC
+
+ |
+| Properties |
+| Chemical formula | C�.H.N. |
+| Molecular structure | C�.H.N |
+| M.2, M.3, M.4, M.5, M.6, M.7, M.8, M.9, M.10, M.11, M.12, M.13, M.14, M.15, M.16, M.17, M.18, M.19, M.20, M.21, M.22, M.23, M.24, M.25, M.26, M.27, M.28, M.29, M.30, M.31, M.32, M.33, M.34,"
+8,"Question:
+Let o = -0.001 + -0.003. Let t = o - -0.003. Let p = -0.002 - t. What is p rounded to 2 decimal places?
+Answer:
+-0.01<|end_of_text|>"
+9,"Question:
+Let r = -0.1 - -0.1. Let p = 0.1 - r. Let y = p - 0.1. Which is the nearest to y?  (a) 2  (b) -1  (c) -3/4
+Answer:
+b<|end_of_text|>"
+10,Question:Create a C# script snippet that Checks High Flossing: Types of Dental Floss for Decision Making for Professionals. - 5. - 3. - 6. - 2. - 1. - 4. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 7. - 
+11,"Question: A 50-year-old man presents with a history of chest pain. He gives a history of similar chest pain 3 months ago that was treated with nitroglycerine. He is a 20-year smoker. Chest x-ray shows a left upper lobe infiltrative lesion. The most likely etiology is
+A. Pulmonary stenosis
+B. Aortic stenosis
+C. Aortic insufficiency
+D. Aortic stenosis
+Answer: D<|end_of_text|>"
+12,"Question:
+Let n = 0.0117 - 0.051. Let y = n + -0.41. Let t = y + 0.02. What is t rounded to 2 decimal places?
+Answer:
+0.08<|end_of_text|>"
+13,"Question:
+Let h = -0.05 + 0.05. Let i = 0.07 + h. Let x = 0.01 - i. What is x rounded to 1 decimal place?
+Answer:
+0.3<|end_of_text|>"
+14,"Question:
+Let d = 0.2 + -0.2. Let o = 0.01 - 0.05. Let y = o + -0.1. What is the nearest to y in d, 0.2, -0.1?
+Answer:
+-0.1<|end_of_text|>"
+15,"Question:
+Let y = -0.01 - 0.01. Let m = -0.06 - -0.21. Let i = y - m. Which is the nearest to 1?  (a) i  (b) 0.2  (c) -2/3
+Answer:
+b<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.04. Let y = 0.01 + j. Let l = -0.07 - y. Which is the second biggest value?  (a) l  (b) 0.2  (c) 4
+Answer:
+b<|end_of_text|>"
+17,"Question:
+Let f = 0.009 - 0.011. Let h = 0.042 - f. Let i = h - 0.039. What is i rounded to 2 decimal places?
+Answer:
+-0.01<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3.9. Let o = -2.8 + y. Let p = o - -3.1. Which is the nearest to 0?  (a) p  (b) 3  (c) 0.4
+Answer:
+c<|end_of_text|>"
+19,"Question:Develop a Java program snippet to Display Extreme Flossing: Types of Dental Floss for Engineer for Beginners. - You are expected to write one or two sentences on the topic. - You must use the following keywords in your answer: - ""Extreme Flossing"", - ""Types of Dental Floss"", - ""For Engineer for Beginners"". - Your answer must be a minimum of 50 words. - You should include a title for your answer. - You must use a correct grammar. - You must include a reference of the topic. - You must include your name. - Your answer should be in English.
+#Python #Flossing #Dental #Types #Engineer #for #Beginners
+This is a sample answer for ""Extreme Flossing: Types of Dental Floss for Engineer for Beginners"".
+Extreme Flossing: Types of Dental Floss for Engineer for Beginners
+In this blog, we will discuss the extreme flossing, which is the process of removing all the food particles from the teeth using dental floss. We will also discuss the types of dental floss available in the market and their uses.
+What is extreme flossing?
+Extreme flossing is a method of cleaning teeth that involves using dental floss in"
+20,"Question:Develop a relation database and SQL script for a restaurant management system. The system should have the following features:
+1. Customers can order for food.
+2. Food items should be ordered in bulk.
+3. All the orders should be stored in a database.
+4. The database should be able to handle large number of orders.
+5. The system should have a GUI interface.
+6. The database should be able to integrate with a web server.
+7. The database should be able to handle different types of orders.
+8. The database should be able to handle different types of users.
+9. The database should be able to handle different types of users.
+10. The database should be able to handle different types of users.
+11. The database should be able to handle different types of users.
+12. The database should be able to handle different types of users.
+13. The database should be able to handle different types of users.
+14. The database should be able to handle different types of users.
+15. The database should be able to handle different types of users.
+16. The database should be able to handle different types of users.
+17. The database should be able to handle different types of users.
+18. The database should be able to handle different types"
+21,"Question:
+Let g = -0.012 + -0.003. Let y = 0.015 + g. Let h = 0.02000064 + y. What is h rounded to 7 decimal places?
+Answer:
+0.0000006<|end_of_text|>"
+22,"Question: Which of the following is a common symptom of schizophrenia?
+A. Affective symptoms
+B. Perseverative or repetitive thinking
+C. Thought disorder
+D. Abnormal perception
+Answer: C<|end_of_text|>"
+23,"Question:
+Let r = -0.001 - -0.011. Let d = r - 0.009999999. What is d rounded to 7 decimal places?
+Answer:
+0.0000001<|end_of_text|>"
+24,"Question:Write a C# code snippet to Display Low Online Shopping: Product Availability for Analysis for Experts. Consider the Responsibility. Here's a sample code:
+``` 
+using System;
+class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine(""Hello, World!"");
+
+
+            //Sample code
+            int age = 0;
+            bool sex = false;
+            char country = 'a';
+            double income = 0.0;
+            char religion = 'b';
+            String name = """";
+            String address = """";
+            int age1 = 0;
+            int age2 = 0;
+            int age3 = 0;
+            int age4 = 0;
+            int age5 = 0;
+            int age6 = 0;
+            int age7 = 0;
+            int age8 = 0;
+            int age9 = 0;
+            int age10 = 0;
+            int age11 = 0;
+            int age12 = 0;
+            int age13 = 0;
+            int age14 = 0;
+            int age15 = 0;
+            int age16 = 0;
+            int age17 = 0;
+            int age18 = 0;
+            int age19"
+25,"# Hélder Pereira
+
+Hélder Pereira (born 23 December 1993) is a Portuguese footballer who plays as a right-back or left-back for Portuguese club SC Nepto.
+
+Hélder Pereira
+
+## Career
+
+He was part of the Portugal U-16, U-17 and U-20 national teams.
+
+He made his senior debut for FC Porto on 17 August 2015 in a UEFA Europa League match against FC Zürurch in which he was substituted in the 65th minute for Juan Carlos.
+
+He scored his first goal for the club in a UEFA Champions League match against FC Basel on 22 September 2015, in which he scored a goal in the 80th minute.
+
+He made his first appearance for Portugal in a friendly match against France on 25 March 2017 in which he was substituted in the 57th minute for Bruno.
+He was also part of the Portuguese U-21 team that won the UEFA European Under-21 Championship in 2017.
+
+## Personal life
+
+He is the brother of another Portuguese footballer, Luis, who plays for FC Porto.
+
+## Career statistics
+
+### Club
+
+As of 25 March 2017.
+
+| Club | Season | League | European"
+26,"Question:
+Let b = -4.9 + -0.1. Let x = b - -6. Let w = x - -1.99. What is w rounded to 2 decimal places?
+Answer:
+0.01<|end_of_text|>"
+27,"Question:Develop a Python program snippet to Display Low Handwashing technique: DryingHands for Engineer for Experts. You are expected to use if/elif/else or switch/case statements to handle different cases based on the Responsibility. The code should be able to handle input from users and display the appropriate message. The output should include the name of the person, their role, and the responsibility. The code should also include a way to exit the program.
+
+Solution:Here's some sample python code that demonstrates how to use `if`/`elif`/`else` or `switch`/`case` to display low hand washing techniques for engineers based on their roles:
+
+
+```python
+# Define our roles
+engineers = [""John"", ""Mary"", ""Sally""]
+experts = [""Dr. Smith"", ""Mr. Jones""]
+
+# Define our responsibilities
+handwashing_responsibilities = [
+    (""Wash hands before leaving for work"", ""Engineer""),
+    (""Wear gloves when handling chemicals"", ""Engineer""),
+    (""Use hand sanitizer when no soap available"", ""Engineer""),
+    (""Avoid touching eyes, nose, and mouth"", ""Engineer""),
+    (""All employees must wash hands frequently"", ""All""),
+    (""Employees should use"
+28,"Question:
+Let t = 0.05 - 0.05. Let i = 0.2 - t. Let r = -0.3 - i. What is r rounded to 1 decimal place?
+Answer:
+-0.3<|end_of_text|>"
+29,"Question:Write a C# code snippet to Display Extreme Flossing: Benefits of Flossing for Decision Making for Experts. The code should demonstrate the use of conditional statements, loops, and arrays. The output should include a description of the benefits of flossing, as well as a recommendation for how often they should be done. The code should also include a way to enter the number of teeth that are being flossed. The output should also include a way to enter the number of days that have passed since the last time they were flossed.
+```
+using System;
+class ext_flossing
+{
+    public static void main()
+    {
+        int teeth = 0;
+        int days = 0;
+        int numflossed = 0;
+        bool continueFlossing = true;
+
+        while (continueFlossing)
+        {
+            Console.WriteLine(""Enter the number of teeth that you want to floss."");
+            teeth = int.Parse(Console.ReadLine());
+
+            if (teeth <= 0)
+            {
+                Console.WriteLine(""Invalid input! Please enter a positive number."");
+                continue;
+            }
+
+            Console.WriteLine(""Enter the number of days that have passed since the last time you flossed."");
+            days = int.Parse"
+30,"Question:
+Let y = -0.009 - -0.041. Let s = y - 0.03. Let b = s - -0.001. What is b rounded to 2 decimal places?
+Answer:
+0.01<|end_of_text|>"
+31,"Question:
+Let m = -1.07 - -1. Let q = m + 0.03. Let n = 0.04 - q. Which is the nearest to -1/2?  (a) n  (b) 3  (c) -1/2
+Answer:
+c<|end_of_text|>"
+32,"Question:
+Let i = 0.002 - -0.038. Let x = 0.041 - i. Let g = x + -0.0205. What is g rounded to 2 dps?
+Answer:
+-0.02<|end_of_text|>"
+33,"def analyze_economic_data(data):
+    """"""
+    Analyze economic data to determine the trend.
+
+    The data is in the form of a list of tuples, where each tuple represents a year and a value.
+    The year is represented by a string, and the value is a number.
+    The data is in the format: [('year1', 10), ('year2', 20),...]
+    The goal is to determine the trend in the economy.
+
+    Use the division assignment operator to calculate the average of the values.
+    You can use the modulo operator to find the remainder of the division.
+
+    For example, if the input is: [('2010', 10), ('2015', 20), ('2020', 30)]
+    The output should be: '2010 - 2015: 10 - 20 = 10
+                                                                                                               
+                                                                                                               
+                                                                                                               
+                                                                                                               
+                                                                                                               
+"
+34,"Question:
+Let q = -0.0198 + 0.016. Let h = 0.0014 - q. Let o = h + -0.01. What is o rounded to one decimal place?
+Answer:
+-0.1<|end_of_text|>"
+35,"Question:
+What is 0.2 times 0.003?
+Answer:
+0.0006<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -1.6. Let r = o + 1. Let m = r + -1.0000014. What is m rounded to 7 dps?
+Answer:
+-0.0000014<|end_of_text|>"
+37,"# 2016–17 AS Bolo F.C. season
+
+AS Bolo FC, also known as AS Bolo F.C. or Bolo FC, is a French association football club based in Bolo, in the Bas-Rhône département of the Rhône. They are currently members of the Championnat de France Amateur (CFA).
+
+| 2016–17 season |
+| President | Jean-Pierre Gargallo |
+| Manager | Jérôme Boulhout |
+| Stadium | Stade de Bolo |
+| CFA | 1st (promotion zone) |
+| French Cup | Preliminary |
+| UEFA Europa Regionallife | Preliminary |
+| UEFA ChampionsU-17 Champions | Preliminary |
+| UEFA EuropaU-17 Champions | Preliminary |
+| UEFA EuropaU-17 Qualifying | Preliminary |
+| U-17 EuropeanChampionship | Preliminary |
+| U-17 EuropeanQualifying | Preliminary |
+| U-17 EuropeanQualifying | Preliminary |
+| U-17 EuropeanQualifying | Preliminary |
+| U-17 EuropeanQualifying | Preliminary |
+| U-17 EuropeanQualifying | Preliminary |
+| U-17 EuropeanQualifying | Preliminary |
+| U-17"
+38,"Question:
+What is the common denominator of 3/10 and 89/12?
+Answer:
+60<|end_of_text|>"
+39,"Question:
+Let t = -0.06 + -0.04. Let x = t - -0.11. Let y = 0.10 + x. What is y rounded to 1 decimal place?
+Answer:
+0.8<|end_of_text|>"
+40,"# St. Martin's Church, Gauw
+
+St. Martin's Church (German: St. Martin's Kirche) is a Lutheran church in Gauw, a town in the Münsterland region of North Rhine-Westphalia, Germany. The church is known for its Gothic style.
+
+| St. Martin's Church |
+| St. Martin's Church |
+|  |
+| St. Martin's Church |
+| 51.782°N 39.056°E﻿ / 51.782; 39.056﻿ (St. Martin's Church) |
+| Location | Gauw, Germany |
+| Country | Germany |
+| Affiliation | Lutheran Church in Germany |
+| In charge | Pastor Heinz Haustad |
+| Website | www.stmartins-gauw.de |
+| Location | Gauw |
+| OS NAV | 5380 |
+| Shown in MünsterlandMünsterland |
+|  |
+|  |
+| St. Martin's Church, Gauw - 2008-09-01, by Wolfgang Hauke. |
+|  |
+| Location | Gauw, Münsterland |
+| Country | Germany |
+| Affiliation | Lutheran Church in Germany |
+| In charge"
+41,"Question:
+Let a = -1.1 + 0.7. Let j = -2.2 + a. Let x = j + 2.9. What is x rounded to 1 decimal place?
+Answer:
+1<|end_of_text|>"
+42,"Question:
+Let l = 0.0337 + -0.028. Let q = 0.015 + l. Let b = q + -0.04. What is b rounded to 2 decimal places?
+Answer:
+-0.05<|end_of_text|>"
+43,"Question:
+Let q = -0.0376 - -0.053. Let v = q - -0.017. Let o = v - 0.04. What is o rounded to 2 dps?
+Answer:
+-0.02<|end_of_text|>"
+44,"Question:
+Let o = -2.1 + 2. Let p = 0.9 - 0.6. Let m = p - o. What is m rounded to one decimal place?
+Answer:
+0.7<|end_of_text|>"
+45,"Question:
+Let t = 0.007 + -0.009. Let d = t - -0.002. Let p = -0.1 - -0.3. What is the closest to 0.1 in p, d, -2/7?
+Answer:
+-2/7<|end_of_text|>"
+46,"Question:Write a Java code snippet to Check High Flossing: Types of Dental Floss for Decision Making for Experts. Consider the Responsibility and implement appropriate if/else or switch-case. Dry-run, then provide comments explaining your decision-making process.
+Solution:Here is some sample java code which implements a dry run of checking high flossing types of dental floss for decision making for experts. The code uses an if else statement to check whether the number of people who need help with their teeth is greater than 10. If this condition is true, the code prints out ""This service is not available"". Otherwise, it prints out ""This service is available"". 
+
+```java
+//DryRun
+if (people_needing_help >10){
+    System.out.println(""This service is not available"");
+} else{
+    System.out.println(""This service is available"");
+}
+```<|end_of_text|>"
+47,"# A 10% change in the temperature of a sample of water causes a 2.0°C change in its enthalpy. What is the enthalpy of the sample before the temperature change? (1) 50 J (2) 150 J (3) 200 J (4) 250 J
+
+A 10% change in the temperature of a sample of water causes a 2.0°C change in its enthalpy. What is the enthalpy of the sample before the temperature change? (1) 50 J (2) 150 J (3) 200 J (4) 250 J
+
+## Answer
+
+The enthalpy of the sample of water before the temperature change is 150 J.
+
+## Explanation
+
+We are given that a 10% change in the temperature of a sample of water causes a 2.0°C change in its enthalpy. Therefore, we have
+
+$\large \frac{2.0°C}{10\%} = \frac{150J}{10J} = 15J$
+
+Therefore, the enthalpy of the sample of water before the temperature change is 150 J.<|end_of_text|>"
+48,"Question: In a patient of pheochromaffin tumor, the blood pressure is 160/100mmHg. The most likely serum potassium level is?
+A. 3 mEq/L
+B. 2 mEq/L
+C. 5 mEq/L
+D. 10 mEq/L
+Answer: B<|end_of_text|>"
+49,"Question:Design a Python function snippet to DetermineHighFoods: ProperFoodServingSizes for Engineer for Experts. - You're expected to use a for loop to iterate through a list of ingredients, and then use a conditional statement to determine the proper serving size. The output should be a list of all the ingredients, their respective serving sizes, and the total number of servings. You must use the for loop and conditional statement to solve this problem.
+Solution:Here is a python function that determines the proper food serving size based on the ingredients provided. The function takes in a list of ingredients and returns a dictionary where each key represents an ingredient and the value is the proper serving size. The proper serving size is determined by checking if the ingredient is present in the ingredients list. If it is, then the appropriate size is taken from the size_list. If it is not present, then the default size is used. Finally, the total number of servings is calculated by multiplying the number of ingredients by the appropriate size.
+def determinehighfoods(ingredients, size_list):
+    """"""Determine the proper food serving size based on the ingredients.""""""
+    for ingredient in ingredients:
+        if ingredient in size_list:
+            size = size_list[ingredient]
+            yield (ingredient, size)
+   "
+50,"Question:
+Let g = -0.0124 + 0.0117. Let h = g + 0.01. Let o = h + -0.029998. What is o rounded to 5 decimal places?
+Answer:
+0.00001<|end_of_text|>"
+51,"Question:
+Let w = -0.002 - -0.003. Let z = -0.004 - w. Let b = -0.004 + z. Which is the second smallest value?  (a) b  (b) 1/2  (c) -0.3
+Answer:
+b<|end_of_text|>"
+52,"def create_new_style(temperament, style):
+    """"""
+    Create a new style of music based on the temperament and style.
+    The temperament and style must be provided as arguments.
+    The new style should be a combination of the original style and the new style.
+    """"""
+    # Your code here
+
+    # Example:
+    if temperament == ""major"":
+        if style == ""blues"":
+            new_style = ""bluesy""
+        elif style == ""pop"":
+            new_style = ""poppy""
+        else:
+            new_style = ""soul""
+    else:
+        if style == ""blues"":
+            new_style = ""bluesy""
+        elif style == ""pop"":
+            new_style = ""poppy""
+        else:
+            new_style = ""soul""
+    return new_style
+<|end_of_text|>"
+53,"Question:
+What is the common denominator of -3/16 and -77/4?
+Answer:
+16<|end_of_text|>"
+54,"Question:
+Let h = -0.5 + 1.5. Let r = 0.05 - h. Let z = 0.05 + r. What is z rounded to 1 decimal place?
+Answer:
+0.7<|end_of_text|>"
+55,"def count_positive_integers(n):
+    """"""
+    Write a function that takes a positive integer n and returns the number of positive integers that are less than or equal to n.
+
+    For example, if n = 10, the function should return 5 because the positive integers that are less than or equal to 10 are 1, 2, 3, 4, and 5.
+
+    You should use the count() method and the <= operator to solve this problem.
+    """"""
+    count = 0
+    for i in range(1, n+1):
+        if i <= n:
+            count += 1
+    return count
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>"
+57,"Question:
+Let w = -0.0067 + 0.015. Let j = 0.012 - w. Let b = j + -0.047. What is b rounded to 2 decimal places?
+Answer:
+-0.02<|end_of_text|>"
+58,"def tuple_concatenation(a, b):
+    """"""Return a tuple of length n, where n is the length of a and b.
+    The n-th element of the output should be the concatenation of the
+    n-th elements of a and b.
+    """"""
+    return (a[n], b[n])
+
+<|end_of_text|>"
+59,"Question:
+What is the common denominator of 71/2 and 57/25?
+Answer:
+50<|end_of_text|>"
+60,"Question:
+Let h = -0.05 + 0.16. Let o = -0.15 + h. Let t = o - -0.1. Which is the nearest to t?  (a) -0.1  (b) 0.3  (c) 0.2
+Answer:
+a<|end_of_text|>"
+61,"Question:
+Let l = -7.7 - -7.9. Let p = l + -0.3. Let x = -0.2 - p. What is x rounded to 1 decimal place?
+Answer:
+-0.3<|end_of_text|>"
+62,"Question:
+Let f = -0.004 - -0.005. Let v = f + -0.009. Let z = 0.009 + v. What is z rounded to 1 decimal place?
+Answer:
+-0.1<|end_of_text|>"
+63,"Question:
+What is the common denominator of -79/8 and 83/16?
+Answer:
+16<|end_of_text|>"
+64,"Question:
+Let q = -0.045 + 0.0450068. Round q to 6 decimal places.
+Answer:
+0.000007<|end_of_text|>"
+65,"Question:
+Let h = -0.009 - -0.015. Let p = h + -0.06. Let j = -0.019 - p. What is j rounded to 2 dps?
+Answer:
+-0.02<|end_of_text|>"
+66,"Question:
+Let f = -1.2 + 0.8. Let o = -0.5 + f. Let h = o - -0.2. What is h rounded to 1 decimal place?
+Answer:
+0.3<|end_of_text|>"
+67,"Question:Write a Python code snippet to Display High Fruits in a Python Dictionary. All the fruit names should be in all caps. The number of fruits in each category should be in all caps, too. For example, if the input is {""apple"": 5, ""banana"": 7, ""orange"": 8}, the output should be ""Apple, Banana, and Orange"". You can use the. Python Dictionary. A Python dictionary is a collection that is organized in the form of keys and values. The keys and values are separated by a colon. A dictionary is a collection that is organized in the form of keys and values. The keys and values are separated by a colon. The keys and values are separated by a colon. Python Dictionary. A Python dictionary is a collection that is organized in the form of keys and values. The keys and values are separated by a colon. A dictionary is a collection that is organized in the form of keys and values. The keys and values are separated by a colon. The keys and values are separated by a colon. Python Dictionary. A Python dictionary is a collection that is organized in the form of keys and values. The keys and values are separated by a colon. A dictionary is a collection that is organized in the"
+68,"Question:
+What is 3/10 of a litre in millilitres?
+Answer:
+300<|end_of_text|>"
+69,"Question:
+Let i = -0.1 + 0.3. Let w = 0.2 + -0.2. Let m = w - i. What is the closest to m in -1/4, 1, 2/7?
+Answer:
+-1/4<|end_of_text|>"
+70,"Question: Which of the following is a cause of hydrops fetalis?
+A. ABO incompatibility
+B. HbS
+C. HbS+HbSC
+D. HbS+HbS
+Answer: A<|end_of_text|>"
+71,"Question:
+Let l = 0.041 - 0.052. Let r = -0.011 - l. Let i = r + 0.01. What is i rounded to 2 decimal places?
+Answer:
+0.01<|end_of_text|>"
+72,"Question:
+Let m = -0.012 - -0.062. Let d = 0.056 + m. Let z = d + -0.049997. What is z rounded to 5 dps?
+Answer:
+0.000003<|end_of_text|>"
+73,"def create_outfit(mood):
+    """"""Create a outfit based on the mood provided""""""
+    if mood == ""sunny"":
+        outfit = ""sunny outfit""
+        print(""You are wearing a bright green sweater, a yellow hat, and a bright blue jacket."")
+    elif mood == ""rainy"":
+        outfit = ""rainy outfit""
+        print(""You are wearing a black sweater, a yellow hat, and a bright blue jacket."")
+    elif mood == ""starry"":
+        outfit = ""starry outfit""
+        print(""You are wearing a red sweater, a yellow hat, and a bright blue jacket."")
+    else:
+        outfit = ""neutral outfit""
+        print(""You are wearing a black sweater, a yellow hat, and a bright blue jacket."")
+<|end_of_text|>"
+74,"def create_mosaic(images, size):
+    """"""
+    Create a mosaic of images using the given size.
+    The mosaic should be a list of lists, where each inner list represents a row of the mosaic.
+    The elements in each inner list should be the same as the elements in the original images.
+    The size of the mosaic should be the product of the sizes of all the images.
+    """"""
+    mosaic = []
+    for image in images:
+        width, height = image.size
+        for y in range(height):
+            for x in range(width):
+                color = image.getpixel((x, y))
+                mosaic[y * width + x] = color
+    return mosaic
+<|end_of_text|>"
+75,"Question: A 3-month-old child of a HIV positive woman, is brought to the emergency room with a high fever. A CBC showed pancyopenia. Which of the following is the most likely diagnosis?
+A. Pneumonitis
+B. Pneumonia
+C. Pneumonia
+D. Pneumonitis
+Answer: B<|end_of_text|>"
+76,"Question:
+Let y = 10.5 - 7. Let i = -2.5 + y. Let m = i - -1.90000017. What is m rounded to 7 decimal places?
+Answer:
+0.0000002<|end_of_text|>"
+77,"def create_a_tuple_from_a_list(my_list):
+    """"""This function takes a list of items and creates a tuple from them.
+
+    Args:
+        my_list (list): A list of items.
+
+    Returns:
+        tuple: A tuple of items.
+
+    Examples:
+        >>> my_list = ['a', 'b', 'c']
+        >>> create_a_tuple_from_a_list(my_list)
+        ('a', 'b', 'c')
+
+    Hints:
+        * Use the zip() function to zip the elements of the list.
+        * Use the tuple() function to convert the zip() result into a tuple.
+    """"""
+    return tuple(zip(my_list, my_list, my_list))
+<|end_of_text|>"
+78,"Question: Which of the following is not a feature of malignant transformation of a thyroid nodule?
+A. Increased size
+B. Increased serum Ca
+C. Increased serum CaP
+D. Increased serum CaM
+Answer: C<|end_of_text|>"
+79,"Question:
+Let n = 0.023 - 0.033. Let f = n - -0.01. Let x = f + -0.02. What is x rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+80,"Question:
+What is the next term in 12, 24, 36, 48, 60?
+Answer:
+72<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.7. Let x = 0.2 - o. Let p = x - 0.4. Which is the nearest to p?  (a) -3  (b) -2/9  (c) -1/4
+Answer:
+b<|end_of_text|>"
+82,"Question:
+Let p = -0.009 - 0.091. Let v = p + 0.09. Let g = v + -0.3999997. What is g rounded to 7 decimal places?
+Answer:
+0.0000003<|end_of_text|>"
+83,"Question:
+What is the third biggest value in -1/3, -2/7, -0.1, 2/3?
+Answer:
+-2/7<|end_of_text|>"
+84,"def update_ingredients(ingredients, new_ingredients):
+    """"""
+    Write a function that updates the ingredients in a recipe.
+    The function should take in a list of ingredients and a list of new ingredients.
+    The function should return a list of updated ingredients.
+    """"""
+    updated_ingredients = []
+    for ingredient in ingredients:
+        if ingredient in new_ingredients:
+            updated_ingredients.append(ingredient)
+    return updated_ingredients
+
+<|end_of_text|>"
+85,"def modify_list_with_negative_range(my_list):
+    """"""Modify the elements of a list using negative range.
+
+    Given a list of integers, modify the elements in the list by
+    subtracting the negative of the current element from the next
+    element in the list.
+
+    For example, if the input list is [3, 4, 5], the output list
+    should be [-3, -4, -5].
+
+    You must use the negative range to solve this problem.
+    """"""
+    # YOUR CODE HERE
+    return my_list
+
+<|end_of_text|>"
+86,"Question: In which of the following condition, the patient is not able to perform the work of breathing
+A. Asthma
+B. All the above
+C. Asthma
+D. Asthma
+E. Asthma
+Answer: B<|end_of_text|>"
+87,"Question: The most common cause of ureteric colic in a young man is
+A. Ureteric colic
+B. Ureteric stenosis
+C. Ureteric polyps
+D. Ureteral malignancy
+Answer: B<|end_of_text|>"
+88,"Question:
+Let w = 0.1 - -0.2. Let h = -0.6 + w. Let m = h - -0.1. Which is the closest to m?  (a) 0.1  (b) 2/5  (c) -3
+Answer:
+a<|end_of_text|>"
+89,"Question:
+Let n = -0.6 - -0.8. Let m = 0.2 - n. Let p = m - 0.1. What is p rounded to one decimal place?
+Answer:
+-0.7<|end_of_text|>"
+90,"def add_to_set(animals, new_animal):
+    """"""Add a new animal to a set of animals.
+    The animals are represented as a list of tuples, where each tuple contains the name of the animal and its species.
+    The new_animal is a string representing the name of the new animal.
+    Return the updated list of animals.
+    """"""
+    animals = animals + (new_animal,)
+
+    return animals
+
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 44 is divided by 12?
+Answer:
+4<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 2. Let g = 0.3 + p. Let h = 0.2 + g. What is h rounded to one decimal place?
+Answer:
+0.8<|end_of_text|>"
+93,"Question:
+Let i = 0.001 - -1.999. Let j = 2.1 + i. Let m = -0.9 + j. Which is the closest to 1?  (a) -1/4  (b) m  (c) -5
+Answer:
+b<|end_of_text|>"
+94,"Question: The most common type of kidney disease in the world is -
+A. Renal scurvy
+B. Renal dys- cruria
+C. Renal dys- crasia
+D. Renal dys- crasia
+Answer: A<|end_of_text|>"
+95,"Question:
+Let h = 0.2 + -0.2. Let b = 0.1 - h. Let j = 0.2 - b. What is j rounded to 1 decimal place?
+Answer:
+0.1<|end_of_text|>"
+96,"# 2000 in American football
+
+2000 in American football.
+
+| Years in American football |
+| 1999 2000 2001 |
+| Common types of football| NBA? | NBA |
+| NFL | NFL |
+| NHL | NHL |
+| NHL(pre-1942) | NHL |
+| MLB | MLB |
+| NBA? | NBA |
+| NFL | NFL |
+| NHL | NHL |
+| SFL | SFL |
+| NFL (pre-1942) | NFL |
+| AFL | AFL |
+| NFL (pre-1942) | NFL |
+| NFL (pre-1942) | NFL |
+| NFL (pre-1942) | NFL |
+| NFL (pre-1942) | NFL |
+| NFL (pre-1942) | NFL |
+| NFL (pre-1942) | NFL |
+| NFL (pre-1942) | NFL |
+| NFL (pre-1942) | NFL |
+| NFL (pre-1942) | NFL |
+| NFL (pre-1942) | NFL |
+| NFL (pre-1942) | NFL |
+| NFL (pre-1942) | NFL |
+| NFL (pre-1942) | NFL |
+| NFL (pre-194"
+97,"Question:
+Let h = 0.5 - -0.5. Let u = 0.5 - h. Let y = 0.5 - u. Which is the closest to 1?  (a) y  (b) 0.3  (c) 3/4
+Answer:
+c<|end_of_text|>"
+98,"Question:
+Let y = -4.96 - -5. Let m = 0.54 - y. Let s = m - 0.44. What is s rounded to 1 decimal place?
+Answer:
+0.5<|end_of_text|>"
+99,"def add_to_list(my_list, new_elements):
+    """"""Add new elements to a list.
+    
+    The new elements are passed in as a list of tuples, where each tuple represents a new element.
+    The first element of the tuple is the element itself, and the second element is the number of times the element should be repeated.
+    The elements are added to the end of the list, and the total number of elements is returned.
+    """"""
+    total = 0
+    for element, count in new_elements:
+        for i in range(count):
+            my_list.append(element)
+            total += 1
+    return total
+<|end_of_text|>"

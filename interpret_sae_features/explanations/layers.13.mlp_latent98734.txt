@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily function words, common nouns, and grammatical particles in Vietnamese, often marking relationships between entities, locations, time, or actions. These tokens frequently appear in prepositional phrases, noun phrases, and as connectors, reflecting their importance in structuring sentences and conveying meaning in Vietnamese text."

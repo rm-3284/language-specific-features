@@ -1,0 +1,1003 @@
+seed,generated_text
+0,"Question:Write a Python code snippet to Calculate Low Handling personal items: Caring for Electronics and Electronics Accessories; including steps, with relevant screenshots and explanations, for those who are new to caring for electronics. The code should be relevant to the topic and should be implemented in a way that is easy to understand for a beginner.
+
+Solution:Here is a python script which calculates the cost of low handling personal items based on their weight and dimensions. The program takes into account the size of the item and its weight when calculating the price. It also provides detailed explanations of each step involved in calculating the price. 
+
+```python 
+# Calculate Cost of Low Handling Personal Items: Caring for Electronics and Electronics Accessories
+# Author: John Doe
+# Date created: 20.01.2023
+
+# Import necessary libraries
+import math
+from fractions import Fraction
+
+
+def calculate_cost(weight, dimensions):
+    # Calculate cost based on weight and dimensions
+    if weight <= 0 or len(dimensions) == 0:
+        raise ValueError(""Invalid input"")
+    if len(dimensions)!=2:
+        raise ValueError(""Invalid input"")
+    if not all(isinstance(x, (int, float)) for x in dimensions):
+        raise ValueError(""Invalid input"")
+
+    # Calculate cost by"
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 + d. Let u = s - -0.01. What is u rounded to 2 dps?
+Answer:
+0.01<|end_of_text|>"
+2,"Question:
+Let l = -3.4 - -3. Let m = 0.2 - l. Let j = m + -0.2. Which is the closest to 0?  (a) j  (b) 3  (c) -1
+Answer:
+a<|end_of_text|>"
+3,"Question:
+Let g = 0.02 - -0.18. Let k = g - 0.21. Let m = -0.06 + k. Which is the closest to 0.1?  (a) m  (b) -0.3  (c) 2/9
+Answer:
+c<|end_of_text|>"
+4,"Question:
+Let v = 0.02 - -1.98. Let t = 1.7 + v. Let o = t + -0.3. Which is the nearest to 2/3?  (a) -1/2  (b) o  (c) 4
+Answer:
+b<|end_of_text|>"
+5,"Question:
+Let o = 0.09 - -0.01. Let g = 0.11 - o. Let v = 0.01 + g. Which is the closest to 0?  (a) 0.2  (b) 0.4  (c) v
+Answer:
+a<|end_of_text|>"
+6,"def count_even_numbers(my_list):
+    """"""Write a function that counts the number of even numbers in a list of integers.
+    # Test case 1:
+    assert count_even_numbers([]) == 0
+    # Test case 2:
+    assert count_even_numbers([1]) == 0
+    # Test case 3:
+    assert count_even_numbers([1, 2, 3, 4, 5]) == 5
+    # Test case 4:
+    assert count_even_numbers([1, 3, 5, 7, 9]) == 5
+    # Test case 5:
+    assert count_even_numbers([1, 3, 5, 7, 9, 11]) == 5
+    """"""
+    return sum(1 for i in my_list if i % 2 == 0)<|end_of_text|>"
+7,"# 2018–19 Liga I
+
+The 2018–19 Liga I (known as the FEB Liga I for sponsorship reasons) was the 90th season of the highest division of the football in Moldova, the second-highest division of the national football league system in Moldova, the FNL. The season was contested by 16 teams, with the season starting on 4 August 2018 and ending on 6 May 2019.
+
+| 2018–19 FNL |
+| Season | 2018–19 |
+| Countries |  Moldova |
+| 2017–19 | 2018–19 |
+| 2019–20 | 2020–21 |
+| 2020–21 | 2021–22 |
+| Champions |  Dacia-B Eldorado |
+| 2019–20 | Champions League |
+| 2020–21 | Champions League |
+| 2021–22 | Champions League |
+| Champions League | Dacia-B Eldorado |
+| 2021–22 | Dacia-B Eldorado |
+| 2021–22 | Dacia-B Eldorado |
+| Top goalscorer |  Vladimir Chepinya (27) |
+| 2019–20"
+8,"Question:Develop a Python program snippet to Check High Finance: Loan Calculations for Decision Making for Professionals. Incorporate if/else or switch/case statements to handle various cases related to the Trust. Dry-run, provide relevant descriptions of your control flow, and include comments to explain your solutions.
+
+Solution:Here is a python program which implements loan calculations based on different scenarios. The program uses if else statement to check different conditions and calculate the monthly payment, total interest paid and total amount of loan. 
+
+```python 
+# Define variables
+principal = 10000 # Initial principal amount
+interest_rate = 0.05 # Annual interest rate
+term = 3 # Number of years
+monthly_payment = 0 # Variable to store monthly payment
+total_interest = 0 # Variable to store total interest
+total_amount = 0 # Variable to store total amount of loan
+
+# Calculate monthly payment
+if (interest_rate > 0) :
+    monthly_payment = principal * interest_rate / 12 
+    print(""Monthly Payment:"", round(monthly_payment,2))
+    
+# Calculate total interest
+total_interest = principal * interest_rate * term / 12
+print(""Total Interest:"", round(total_interest,2))
+
+# Calculate total amount of loan
+total_amount ="
+9,"Question:
+Let x = -0.1 - -0.1. Let p = 0.1 + x. Let l = p - 0.1. Which is the nearest to l?  (a) 2  (b) -1/3  (c) 0.1
+Answer:
+b<|end_of_text|>"
+10,"Question:Create a Bash script snippet that Transforms Extreme Flossing: Types of Dental Floss by Color for Analysis for Professionals. Use if/else or switch/case statements to conditionally perform different actions based on the Trust. Dry-run, then include comments that outline the logic and help explain our decision-making process.
+
+Solution:Here is a bash script that transforms extreme flossing data by color into a table for analysis by professionals:
+
+ ```bash
+#!/usr/bin/env python3
+# Author: Your Name
+# Date: Your Date
+
+# Import necessary libraries
+import pandas as pd
+from collections import Counter
+
+# Read input file from disk
+df = pd.read_csv('input.csv')
+
+# Print table headers
+print('Color\tCount')
+print('---\t---')
+for col in df.columns:
+    if col == 'Trust':
+        continue
+    print(f'{col}\t{len(df[df[col] == 1])}')
+    
+# Create dictionary of colors and their frequencies
+freq_dict = {}
+for i in range(1, 6):
+    freq_dict[f'Color{i}'] = 0
+    
+# Calculate total number of observations
+total_obs = len(df)
+    
+# Loop through each row of dataframe
+for i in"
+11,"Question: A 37-year-old woman is admitted to the hospital with a 2-day history of fever and abdominal pain. Examination reveals a mass in the right upper quadrant. Ultrasound shows a 3-cm mass with irregular borders and a hypervascular mass. A biopsy is performed and found to contain sheets of small cells with a high proliferation index. Which of the following is the most likely diagnosis?
+A. Adenocarcinoma
+B. Cholangiocellular carcinoma
+C. Hepatocellular carcinoma
+D. Hepatobiliary carcinoma
+Answer: C<|end_of_text|>"
+12,"Question:
+Let r = 0.5 + -0.3. Let f = 0.2 - r. Let t = -0.3 - f. Which is the nearest to 0?  (a) t  (b) 0  (c) 2
+Answer:
+b<|end_of_text|>"
+13,"Question:
+Let h = -0.05 + 0.05. Let i = 0.07 + h. Let x = 0.01 - i. Which is the closest to -1?  (a) -4  (b) x  (c) 0.3
+Answer:
+b<|end_of_text|>"
+14,"Question:Design a Bash script snippet that Transforms High Flossing: Choosing Dental Floss by Age for Analysis for Professionals. Consider the Safety and Comfort of Patients and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is a bash script that transforms high flossing: choosing dental floss by age for analysis for professionals. The script includes safety and comfort considerations when implementing appropriate if/else or switch/case statements to handle different conditions. A dry run has been performed, and detailed explanations of the decision-making process and structure of the control flow are provided.
+
+1. Read input from user - age of patient
+
+2. Validate age input
+
+3. If age < 18, display message and exit
+
+4. Else if age >= 65, add ""Senior"" to output string
+
+5. Else, add ""Adult"" to output string
+
+6. Display final output string
+
+7. Print instructions on how to use the product safely and comfortably
+
+8. Provide detailed description of safety and comfort features of the product
+
+9. Include disclaimer about potential risks associated with the use of the product
+
+10. Store script in a file"
+15,"Question:
+Let y = -0.01 + 0.31. Let m = -0.06 - y. Let r = 0.05 - m. Which is the nearest to 0?  (a) r  (b) 3/2  (c) -2/15
+Answer:
+c<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.03. Let y = 0.01 + j. Let l = -0.01 - y. Which is the second biggest value?  (a) l  (b) 0.2  (c) 4
+Answer:
+b<|end_of_text|>"
+17,"Question:
+Let u = 0.03 - 0.03. Let x = 0.02 + 1.98. Let k = x + -1.4. Which is the closest to k?  (a) u  (b) -1/2  (c) 0
+Answer:
+a<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3.8. Let o = -2.8 + y. Let p = o - -3.1. Which is the nearest to 0?  (a) p  (b) 3  (c) 0.4
+Answer:
+c<|end_of_text|>"
+19,"Question:Build a Java module snippet that Checks Extreme Flossing: Types of Dental Floss for Engineer for Experts. Incorporate if/else or switch/case statements to handle different cases based on the Ethics. Ensure your control flow is well-structured and dedicated blocks are used to group related instructions.
+
+Solution:Here is a possible implementation of this requirement in Java:
+```java
+public class CheckFlossingEthics {
+    public static void main(String[] args) {
+        // Get input from user
+        System.out.println(""Enter name of product:"");
+        String productName = scan.nextLine();
+
+        // Determine which type of floss is required based on the name of the product
+        if (productName.equals(""GUM"")) {
+            System.out.println(""The GUM brand of dental floss contains no animal products."");
+        } else if (productName.equals(""Colgate"") || productName.equals(""Procter & Gamble"")) {
+            System.out.println(""The Colgate and Procter & Gamble brands of dental floss do not contain any animal products."");
+        } else {
+            System.out.println(""Invalid input!"");
+        }
+    }
+}
+```<|end_of_text|>"
+20,"Question:Build a Python module that Displays High Hygiene during illness: Personal Products and Practices for Students and Teachers.
+Solution:Here is a python module that displays high hygiene during illness: personal products and practices for students and teachers.<|end_of_text|>"
+21,"Question:
+Let g = -0.1 + -1.9. Let j = 1.9 + g. Let k = 2.3 + j. Which is the closest to 0.1?  (a) -0.5  (b) k  (c) -2/3
+Answer:
+b<|end_of_text|>"
+22,"Question: Which of the following is a common site of metastatic spread from the stomach?
+A. Liver
+B. Lungs
+C. Brain
+D. Bone
+Answer: D<|end_of_text|>"
+23,"Question: Which of the following is not true about the embryonic development of the left and right sides of the body?
+A. The left and right sides are united by the longitudinal axis of the body
+B. The left and right sides are united by the transverse axis of the body
+C. The left and right sides are united by the sagittal axis of the body
+D. The left and right sides are united by the median axis of the body
+Answer: B<|end_of_text|>"
+24,"Question:Write a C++ code snippet to Calculate Low Finance: Loan Calculations for Analysis for Experts. Consider the Ethics and implement appropriate if/else or switch/selected statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is a simple C++ program that calculates loan calculations for analysis by experts:
+
+    #include <iostream>
+    #include <cmath>
+    
+    // Function prototypes
+    double calculateMonthlyPayment(double principal, double interestRate, int term);
+    double calculateSimpleInterest(double principal, double interestRate, int term);
+    double calculateCompoundInterest(double principal, double interestRate, int term);
+    
+    int main() {
+        // Input parameters
+        double principal = 10000; // Initial loan amount
+        double interestRate = 0.05; // Annual interest rate
+        int term = 3; // Number of years
+    
+        // Calculate monthly payment
+        double monthlyPayment = calculateMonthlyPayment(principal, interestRate, term);
+    
+        // Calculate simple interest
+        double simpleInterest = calculateSimpleInterest(principal, interestRate, term);
+    
+        // Calculate compound interest
+        double compoundInterest = calculateCompoundInterest(principal, interestRate"
+25,"# H. P. Lovecraft
+
+Herbert Piera Lovecraft (23 ноября 1890, Нью-Йорк, США — 11 февраля 1918, Остров Святого Титуса, Индия) — американский писатель, наиболее известный своими произведениями, в том числе «Воскрешение» и «Кошмара».
+
+В Википедии есть статьи о других людях с фамилией Lovecraft.
+
+## Биография
+
+Родился 23 ноября 1890 года в Нью-Йорке в семье врача. Его отец, Джон Б. Л. Lovecraft, был евреем. Его мать, Сара Соломонovna (в девушке) Уолкер, была дочерью русского купца. В 1894 году семья переехала в Санкт-Петербург, где в 1897 году родился старший брат, Иван. В 1898 году семья переехала в Москву, где она прожила до 1910 года. В 1900 году семья переехала в Мадейту, где родители были назначены врачами. В "
+26,"Question:
+Let s = -4.25 + 4. Let l = 0.25 + s. Let u = l - -0.15. Which is the closest to u?  (a) -2/9  (b) 1/3  (c) 1
+Answer:
+b<|end_of_text|>"
+27,"Question:Develop a Python program snippet to Update Extreme Flossing: Frequency of Flossing Habits by Age Group for Analysis for Experts. Incorporate if/else or switch/case statements to handle various cases associated with the Safety. Dry-run, ensure your control flow, readability, and completeness.
+
+Solution:Here is python code which implements update extreme flossing frequency by age group for analysis for experts incorporating if else statement to handle different scenarios based on user input. The dry run has been included to check the logic of the code and its functionality. 
+
+```python 
+# Import necessary libraries
+import pandas as pd
+from scipy.stats import norm
+import numpy as np
+
+# Read csv file into dataframe
+df = pd.read_csv(""flosstest.csv"")
+
+# Define function to calculate standard deviation
+def std(x):
+    return round(np.std(x), 2)
+
+# Calculate standard deviation of each column
+std_columns = [df[col].std() for col in df]
+
+# Get average number of days since last flossed
+avg_days = df[""Days Since Last Flossed""].mean()
+
+# Define function to calculate z score
+def zscore(x):
+    return round((x - avg_days), 2)
+
+# Calculate z scores for"
+28,"Question:
+Let t = 0.05 - 0.05. Let i = 0.2 - t. Let r = -0.3 - i. Which is the nearest to -0.1?  (a) 3  (b) r  (c) -1
+Answer:
+b<|end_of_text|>"
+29,"Question:Write a Bash code snippet to Update Low Finance: Stock Tracker for Analysis for Professionals. Consider the Safety and implement appropriate if/else or switch/selected statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is a bash script which updates low finance stock tracker for analysis by professionals. The safety features include checking for invalid input from the user, handling errors gracefully, and displaying relevant information to the user when necessary. 
+
+```bash 
+#!/bin/bash
+# Script Name: UpdateLowFinanceStockTrackerForAnalysisByProfessionals.sh
+# Description: A bash script that updates the stock tracker for analysis by professionals.
+# Usage:./UpdateLowFinanceStockTrackerForAnalysisByProfessionals.sh
+# Requirements: Bash shell
+# Usage: To use this script, simply execute it from the command line.
+# Installation: There is no installation required.
+# Usage: This script demonstrates how to update the stock tracker for analysis by professionals.
+# Author: John Doe
+# Version: 1.0
+# Date created: 10/10/2021
+# Last modified: 10/10/2021
+# Version history: v1.0 - Initial version"
+30,"Question:
+Let y = -0.02 - -0.17. Let s = y - -0.15. Let u = s - -0.35. What is u rounded to 1 decimal place?
+Answer:
+0.9<|end_of_text|>"
+31,"Question:
+Let m = -1.07 + 1.07. Let i = 0.03 + -0.03. Let j = i + m. Which is the nearest to 0.2?  (a) j  (b) -1/3  (c) 2/13
+Answer:
+c<|end_of_text|>"
+32,"Question:
+Let i = 0.002 - -0.003. Let x = 0.009 + i. Let g = x + -0.0095. What is g rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+33,"def analyze_data(data):
+    """"""
+    This function takes a list of numbers and returns the number of positive numbers in the list.
+    The function should use the ""if-else"" statement to check if each number is positive or not.
+    If a number is positive, it should be added to the count of positive numbers.
+    If a number is not positive, it should be ignored.
+    The function should return the count of positive numbers.
+    """"""
+    count = 0
+    for i in data:
+        if i > 0:
+            count += 1
+    return count
+
+<|end_of_text|>"
+34,"Question: Which of the following statements about the effect of anabolic steroids on the body is true?
+A. Anabolic steroids cause growth of bone
+B. Anabolic steroids cause growth of muscle
+C. Anabolic steroids cause growth of brain
+D. Anabolic steroids cause growth of fat
+Answer: B<|end_of_text|>"
+35,"Question:
+What is prob of picking 2 e and 1 z when three letters picked without replacement from {z: 1, e: 7, o: 2, s: 1, v: 4}?
+Answer:
+1/56<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -1. Let y = 0.1 + o. Let x = y + -0.1. Which is the nearest to 0?  (a) -2/7  (b) x  (c) 2/3
+Answer:
+b<|end_of_text|>"
+37,"# 1996–97 EuroLeague
+
+The 1996–97 EuroLeague was the 26th season of the highest level of professional basketball competition in Europe. The season was held from 10 October 1996 to 17 May 1997. The champion was FC Barcelona.
+
+| 1996–97 EuroLeague |
+|  |
+| Seasons | 1996–97                                            |
+| Champions |  FC Barcelona |
+| MVP |  Tonya Hardy |
+| Top scorer |  Tonya Hardy |
+|  |
+
+## Regular season
+
+### Final table
+
+| Pos | Team | Pld | W | L | Pct |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | "
+38,"Question:
+What is the common denominator of 33/10 and 89/12?
+Answer:
+60<|end_of_text|>"
+39,"Question:
+Let t = -0.12 + -1.88. Let x = t - -1.6. Let p = 1.7 + x. What is p rounded to one dp?
+Answer:
+1.4<|end_of_text|>"
+40,"# 2002–2003 in Russian football
+
+The 2002–2003 season was the 102nd season of professional football in Russia. 
+
+| 2002–2003 season |
+|  |
+| Champions League | Spartak Moscow |
+| Premier League | Lokomotiv Moscow |
+| Cup of Russia | Dynamo Moscow |
+| Supercity League | Spartak Moscow |
+| Russian Cup | Spartak Moscow |
+| 2003–04 →  |
+
+## National Association Football League
+
+### Season
+
+Lokomotiv Moscow won the championship of the 2002–2003 season.
+
+### Results
+
+| Season | League | Cup | Superleague | Other |
+| 1. Division | 2. Division | 3. Division | 4. Division | 5. Division |
+| 2002 | 1st | 1st | 1st | 1st | 1st | 1st | 1st | 1st | 1st | 1st | 1st | 1st | 1st |
+| 2003 | 1st | 1st | 1st | 1st | 1st | 1st | 1st |"
+41,"Question:
+Let a = -1.1 + 0.1. Let j = -2.2 + a. Let x = j + 2.9. What is x rounded to 1 decimal place?
+Answer:
+1<|end_of_text|>"
+42,"Question:
+Let l = 0.13 - 0.1. Let s = -0.3 + l. Let d = s - -0.1. What is d rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>"
+43,"Question:
+Let k = -0.2 + 0.2. Let h = -0.2 - k. Let d = -0.06 - 0.04. Which is the closest to 0?  (a) h  (b) d  (c) 4
+Answer:
+b<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + -2. Let s = 0.1 - o. Let v = 1.01 - s. What is v rounded to one dp?
+Answer:
+1.1<|end_of_text|>"
+45,"Question:
+Let x = 0.02 + 0.02. Let d = 0.02 + x. Let v = -0.1 - d. What is v rounded to 2 decimal places?
+Answer:
+-0.01<|end_of_text|>"
+46,"Question:Build a Java module snippet that Transforms High Education: Course Enrollment for Analysis for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Safety. Ensure your control flow is well-tested and documented.
+
+Solution:Here is a possible implementation of this requirement in Java:
+
+    import java.util.*;
+    public class CourseEnrollmentAnalyzer {
+        private static final String[] SAFE_COURSES = new String[]{""Math"", ""Physics"", ""Biology""};
+        private static final int MIN_COURSE_ENROLLMENT = 50;
+    
+        public enum CourseType {
+            ENROLLMENT, ENROLLED, ENROLLEE
+        }
+    
+        public static void main(String[] args) {
+            // Read input from user
+            Scanner scanner = new Scanner(System. in);
+            int nCourses = scanner. getInt(""Enter number of courses:"");
+            int[] enrollmentsByCourse = new int[nCourses];
+            String[] courses = new String[nCourses];
+            ArrayList<CourseType> enrolledStudents = new ArrayList<>();
+    
+            // Process input
+            for (int i = 0; i < nCourses; i++) {
+                courses[i] = scanner. getString(""Enter course name: "");
+                enrollmentsByCourse[i] ="
+47,"# Generated by Django, проверить, 13.08.15
+from django.db import migrations, models
+
+
+class Migration(migrations.Migration):
+
+    initial = True
+
+    dependencies = [  ]
+
+    operations = [
+        migrations.CreateModel(
+            name='ContactForm',
+            fields=[
+                'id'																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																"
+48,"Question:Build a Rust module snippet that Updates Low Hygiene during illness: Disinfecting Surfaces for Engineer for Professionals; Grade 12 (Mathematics) with a focus on Algorithms and Data Structures that demonstrates a basic understanding of functions, methods, and classes. Incorporate if/else statements, conditional logic, and loops with syntax and examples. Ensure your control flow is well-structured and easy to follow.
+
+Solution:Here is some sample rust code which implements low hygiene levels during sickness:
+
+    ```rust
+    use std::io;
+    
+    // Define enum for possible states
+    enum State {
+        Healthy,
+        Ill,
+        Infected,
+    }
+    
+    // Define struct for person
+    struct Person {
+        name: String,
+        age: i32,
+        state: State,
+    }
+    
+    // Function to update person state based on symptoms
+    fn update_person(state: &mut State, symptoms: &str) {
+        match state {
+            State::Healthy => {
+                // If no symptoms, set to healthy
+                if! (symptoms.is_empty()) {
+                    state = State::Ill;
+                }
+            },
+            State::Ill => {
+                // If has symptoms, set to infected
+                if! (symptoms"
+49,"Question:Create a Python script snippet that Transforms High Finance: Loan Calculations for Analysis for Professionals. Use if/else or switch/choice statements to create multiple branches based on the Trust. Include comments that outline the purpose of the script and how it solves the problem.
+
+Solution:Here is a python script which implements loan calculations for analysis based on trust level of borrower. The script uses `if` statement to check the trust level and calculate the monthly payment accordingly. 
+
+```python
+# Define variables and constants
+principal = 10000 # Initial principal amount
+interest_rate = 0.05 # Annual interest rate
+years = 5 # Number of years
+trust_level = 'Low' # Initial trust level
+
+# Calculate monthly payment
+if trust_level == 'High':
+    monthly_payment = principal * interest_rate / 12
+elif trust_level == 'Medium':
+    monthly_payment = principal * interest_rate / 12 * 0.7
+else:
+    monthly_payment = principal * interest_rate / 12 * 0.4
+
+# Print results
+print('Monthly Payment:', round(monthly_payment, 2))
+print('Principal:', principal)
+print('Interest Rate:', interest_rate)
+print('Years:', years)
+print('Trust Level:', trust"
+50,"Question:
+Let g = 0.2 + 0. Let h = 0.2 + g. Let r = 0.2 - h. What is the second biggest value in r, -0.3, 4/5?
+Answer:
+r<|end_of_text|>"
+51,"Question:
+Let d = 0.0022 + -0.0022. Let j = d + -0.0019. What is j rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+52,"def create_new_list(my_list):
+    """"""Create a new list by concatenating a list of words with a string.
+
+    Args:
+        my_list: A list of words.
+
+    Returns:
+        A new list with the concatenated words.
+    """"""
+
+    new_list = []
+
+    for word in my_list:
+        if word not in new_list:
+            new_list.append(word)
+
+    return new_list
+<|end_of_text|>"
+53,"Question:
+What is prob of picking 1 j and 1 y when two letters picked without replacement from yjyjyjyjj?
+Answer:
+1/3<|end_of_text|>"
+54,"Question:Develop a Python program snippet to Calculate Low Transportation: Public Transit Schedules for Analysis for Professionals. Incorporate if/else or switch/choice statements to handle various cases related to the Consent. Dry-run, provide relevant explanations by commenting your solutions.
+
+Solution:Here is python code which calculates low transportation public transit schedule for analysis of professionals incorporating if else statement to handle different types of consent. 
+
+```python 
+# Import required libraries 
+import requests 
+from datetime import timedelta, datetime 
+import time 
+import smtplib 
+from email.message import EmailMessage 
+
+# Define function to get schedule information from API 
+def get_schedule(route, date): 
+    # Get base URL 
+    url = f'https://api.traffiq.com/v1/schedules/{route}/for/{date}' 
+    # Send request to API 
+    response = requests.get(url) 
+    # Parse JSON from response 
+    data = response.json() 
+    return data 
+    
+
+# Define function to calculate time between two points 
+def get_time(point1, point2): 
+    # Convert coordinates to latitude and longitude 
+    lat1, lon1 = point1 
+    lat2, lon2 = point2 
+    # Calculate distance between points 
+    dist = haversian"
+55,"def count_unique_elements(my_list):
+    """"""
+    Return the number of unique elements in the list.
+
+    Examples:
+    >>> count_unique_elements([1, 2, 3, 2, 1])
+    3
+    >>> count_unique_elements([1, 2, 3, 4, 5])
+                                                              
+                                                  ^
+    """"""
+    return len(set(my_list))
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 103/24?
+Answer:
+24<|end_of_text|>"
+57,"Question:
+Let j = -0.0067 + 0.0066881. What is j rounded to 4 decimal places?
+Answer:
+0.0009<|end_of_text|>"
+58,"def create_new_list(list_of_numbers, new_element):
+    """"""Create a new list by adding a new element to the existing list.
+    If the new element is not in the list, then add it to the list.
+    If the new element is already in the list, then add it to the list
+    with the same index as the existing element.
+    """"""
+    new_list = []
+    for i, num in enumerate(list_of_numbers):
+        if num not in new_list:
+            new_list.append(num)
+    if new_element in new_list:
+        new_list.insert(new_element, new_element)
+    else:
+        new_list.append(new_element)
+    return new_list
+<|end_of_text|>"
+59,"Question:
+What is the common denominator of 71/2 and 53/18?
+Answer:
+18<|end_of_text|>"
+60,"Question:
+Let h = -7 + 15. Suppose 0 = -4*i - 3*s + 2*s + 23, 4*s = -5*i + 23. Suppose -i = -4*v + 1. What is the remainder when v is divided by h?
+Answer:
+2<|end_of_text|>"
+61,"Question:
+Let l = -7.9 - -8. Let s = -0.5 + l. Let j = -0.1 - s. Which is the third biggest value?  (a) 1/4  (b) j  (c) -1/3
+Answer:
+c<|end_of_text|>"
+62,"Question:
+Let f = -0.4 - -0.5. Let a = f + -0.04. Let z = 0.13 + a. Round z to one decimal place.
+Answer:
+0.1<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.0270024. Round o to 6 decimal places.
+Answer:
+0.002002<|end_of_text|>"
+64,"Question:
+Let i = -1.6 + 1. Let t = i - -1.1. Let j = -1.5 - t. What is the second biggest value in j, 2/9, 0.1?
+Answer:
+0.1<|end_of_text|>"
+65,"Question:
+Let k = -0.03 - -0.03. Let p = k + -0.06. Let j = -0.06 - p. What is j rounded to 1 dp?
+Answer:
+-0.1<|end_of_text|>"
+66,"Question:
+Let f = -1.2 + 0.8. Let o = -0.5 + f. Let h = o - -0.2. What is h rounded to 1 decimal place?
+Answer:
+0.7<|end_of_text|>"
+67,"Question:Build a Python module snippet that Updates Extreme Finance: Loan Calculations for Decision Making for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Consent. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here is python code which implements loan calculations for decision making:
+
+ ```python
+import math
+from datetime import date
+
+class LoanCalculator():
+    def __init__(self):
+        self.__amount = 0
+        self.__interest_rate = 0
+        self.__term_in_years = 0
+        self.__monthly_payment = 0
+        self.__principal = 0
+        self.__total_interest = 0
+
+    @property
+    def amount(self):
+        return self.__amount
+    
+    @property
+    def interest_rate(self):
+        return self.__interest_rate
+    
+    @property
+    def term_in_years(self):
+        return self.__term_in_years
+    
+    @property
+    def monthly_payment(self):
+        return self.__monthly_payment
+    
+    @property
+    def principal(self):
+        return self.__principal
+    
+    @property
+    def total_interest(self):
+        return self.__total_interest
+    
+    def set_amount(self, amount):
+        self.__amount ="
+68,"Question:
+What is 3.9 plus -0.1?
+Answer:
+3.8<|end_of_text|>"
+69,"Question:
+Let i = -0.1 + 0. Let k = -0.1 + i. Let v = 0.1 + k. Which is the third biggest value?  (a) 0.2  (b) v  (c) 1/2
+Answer:
+b<|end_of_text|>"
+70,"Question: Which of the following is the best marker of the severity of acute pancreatitis?
+A. Procalcitonin
+B. C-reactive protein
+C. Amylase
+D. Prothrombin fragment 1/2
+Answer: B<|end_of_text|>"
+71,"Question:
+Let l = 0.3 - 0.2. Let r = -0.3 - l. Let i = 0.4 - r. Which is the nearest to 1/3?  (a) -1/3  (b) i  (c) 1
+Answer:
+a<|end_of_text|>"
+72,"Question:
+Let m = 0.4 + -0.5. Let d = 0.02 + m. Let z = d + 0.01. What is z rounded to 1 decimal place?
+Answer:
+0.2<|end_of_text|>"
+73,"def create_unique_colors(colors):
+    """"""Create a list of unique colors from a list of colors.
+    
+    Args:
+        colors: A list of colors, represented as strings.
+    
+    Returns:
+        A list of unique colors, represented as strings.
+    """"""
+    unique_colors = set()
+    for color in colors:
+        if color not in unique_colors:
+            unique_colors.add(color)
+    return list(unique_colors)
+<|end_of_text|>"
+74,"def slice_and_loop(my_list, start, end):
+    """"""
+    Given a list and two indices, return the elements of the list from the
+    specified indices to the end of the list, using slicing and a for loop.
+    """"""
+    # Your code here
+    return my_list[start:end]
+<|end_of_text|>"
+75,"Question:Build a C# library snippet that Transforms Extreme Flossing: Choosing Dental Floss by Age for Analysis for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Safety. Ensure your control flow is well-structured and dedicated blocks are used to group related instructions.
+
+Solution:Here is a possible implementation of such a function in C#:
+
+    ```c#
+    public static string TransformExtremeFlossing(string age) 
+    {
+        // Define variables
+        int ageGroup = 0;
+        string result = """";
+
+        // Determine age group based on age
+        if (age == ""0-2"") 
+        {
+            ageGroup = 0;
+        } 
+        else if (age == ""3-6"") 
+        {
+            ageGroup = 1;
+        } 
+        else if (age == ""7-9"") 
+        {
+            ageGroup = 2;
+        } 
+        else if (age == ""10-12"") 
+        {
+            ageGroup = 3;
+        } 
+        else if (age == ""13-15"") 
+        {
+            ageGroup = 4;
+        } 
+        else if (age == ""16-18"") 
+"
+76,"Question:
+Let r = 10.5 + -11. Let i = -0.2 + 0.2. Let o = i + r. What is the closest to o in -0.2, 1/4, 5?
+Answer:
+-0.2<|end_of_text|>"
+77,"def create_tuple_from_string(string):
+    """"""Create a tuple from a string by splitting it on spaces and returning the first element of the tuple.""""""
+    # Your code here
+    return tuple(string.split())
+<|end_of_text|>"
+78,"Question: Which of the following is not true about the heart?
+A. The heart is a muscular organ
+B. The left atrium is the largest chamber of the heart
+C. The heart has four chambers
+D. The heart is a hollow muscular organ
+Answer: C<|end_of_text|>"
+79,"Question:
+Let x = 0.07 - 0.07. Let f = 0.03 + 0.13. Let m = f + x. What is m rounded to one decimal place?
+Answer:
+0.1<|end_of_text|>"
+80,"Question:
+What is the next term in 12, 24, 36, 48, 60, 72?
+Answer:
+84<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.7. Let x = 0.2 - o. Let p = x - -1.4. Which is the nearest to p?  (a) -3  (b) -2/9  (c) -1/4
+Answer:
+b<|end_of_text|>"
+82,"Question:
+Let u = -0.036 - 0.064. Let v = u + 0.09. Let k = v + -0.11. Round k to one decimal place.
+Answer:
+-0.1<|end_of_text|>"
+83,"Question:
+Let x = 0.02 - 0.02. Let h = 0.03 + x. Let c = 0.03 + h. Which is the nearest to 2/3?  (a) -1/5  (b) 0.3  (c) c
+Answer:
+b<|end_of_text|>"
+84,"def update_athlete_stats(athlete_stats, new_stats):
+    """"""
+    Update the statistics of an athlete based on new statistics.
+
+    Args:
+        athlete_stats (dict): The current statistics of the athlete.
+        new_stats (dict): The new statistics to be applied to the athlete.
+
+    Returns:
+        dict: The updated statistics of the athlete.
+    """"""
+
+    # Use the ternary operator to update the athlete's stats if they have new stats
+    athlete_stats.update(new_stats)
+    if athlete_stats['points'] > 0:
+        athlete_stats['goals'] = athlete_stats['points']
+    if athlete_stats['assists'] > 0:
+        athlete_stats['assists'] = athlete_stats['points']
+    if athlete_stats['shots'] > 0:
+        athlete_stats['shots'] = athlete_stats['points']
+    if athlete_stats['rebounds'] > 0:
+        athlete_stats['rebounds'] = athlete_stats['points']
+    if athlete_stats['blocks'] > 0:
+        athlete_stats['blocks'] = athlete_stats['points']
+    if athlete_stats['saves'] > 0:
+        athlete_stats['saves'] = athlete_stats['points']
+    if athlete_stats['shots_on_goal'] > "
+85,"def modify_tuple_elements(my_tuple):
+    """"""
+    Given a tuple of integers, modify the elements of the tuple using indexing and slicing.
+    The first element of the tuple should be incremented by 1, the second element should be decremented by 1, and so on.
+    If the sum of the elements of the tuple is greater than 10, the last element should be set to 0.
+    """"""
+    # Your code here
+    pass
+
+if __name__ == ""__main__"":
+    my_tuple = (1, 2, 3, 4, 5)
+    modify_tuple_elements(my_tuple)
+    print(my_tuple)
+<|end_of_text|>"
+86,"Question:Build a Python module snippet that Displays Extreme Finance: Loan Calculations for Analysis for Professionals. Incorporate if/else and switch/case statements to handle different cases based on the Consent. Ensure your control flow is well-structured and labeled with comments to allow for easy modification and maintenance.
+
+Solution:Here is python code which implements loan calculations for analysis of finance. It uses `if` and `switch` statements to determine appropriate actions depending on user input. The program also includes detailed documentation describing each step of the process. 
+
+```python 
+# Loan Calculator by Example
+import math
+from datetime import date
+
+
+class Loan:
+    def __init__(self, principal, interest_rate, term):
+        self.principal = principal
+        self.interest_rate = interest_rate / 12
+        self.term = term
+
+    def calculate_monthly_payment(self):
+        return round(self.principal * self.interest_rate / (1 - math.pow(1 + self.interest_rate, -self.term)), 2)
+
+    def calculate_total_interest(self):
+        return round(self.principal * self.interest_rate * self.term, 2)
+
+    def calculate_payments(self):
+        monthly_payment = self.calculate_monthly_payment()
+        total_interest = self.calculate_total_interest()
+"
+87,"Question:Create a Python script snippet that Displays Extreme Flossing: Frequency of Flossing by Age for Analysis for Professionals. Use if/else or switch/case statements to create multiple blocks of code based on the Trust. Dry-run, then include comments that outline the logic and help explain our decision-making process.
+
+Solution:Here is a python script which displays extreme flossing frequency by age for analysis for professionals. The script uses `if` / `elif` blocks to determine whether the user input falls into one of three categories (young adults, middle-aged people, elderly) and then displays appropriate results. The script also includes a dry run of the program to show how the logic works without actual user inputs. Finally, the script includes detailed explanations of its reasoning behind each step of the algorithm.
+
+ ```python
+# Import necessary libraries
+import pandas as pd
+from sklearn import datasets
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score
+from scipy.stats import norm
+
+# Load dataset into memory
+X = df['Flossing']
+y = df['Age']
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3,"
+88,"Question:
+Let i = 0.1 - -0.2. Let s = -0.1 + i. Let m = 0.01 + s. Which is the closest to m?  (a) 0.1  (b) 2/5  (c) -3
+Answer:
+a<|end_of_text|>"
+89,"Question:
+Let g = -0.031 - 0.049. Let m = 0.18 - g. Let d = m - 0.09. What is d rounded to two dps?
+Answer:
+-0.01<|end_of_text|>"
+90,"def add_to_set(my_set, new_element):
+    """"""Add an element to a set and return the updated set.""""""
+    my_set.add(new_element)
+    return my_set
+
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 5 is divided by 1?
+Answer:
+0<|end_of_text|>"
+92,"Question:
+Let s = 2.2 - 2. Let g = s + -0.4. Let h = 0.4 + g. What is the smallest value in -5, h, 0.2?
+Answer:
+-5<|end_of_text|>"
+93,"Question:
+Let i = 0.001 - -1.999. Let j = 2.1 + i. Let v = -0.14 + 0.02. Which is the nearest to j?  (a) -1  (b) v  (c) -5
+Answer:
+b<|end_of_text|>"
+94,"Question:Build a Python module that Displays High Finance Rates for Different Countries. The rates for different countries should be stored in separate lists. Use nested conditional statements and dictionaries to create the code. The module should be named ""high_finance_rates"".
+<|end_of_text|>"
+95,"Question:
+Let o = 0.2 + -0.2. Let m = o - 0.02. Let j = 0.01 + m. Which is the closest to -1/3?  (a) j  (b) -1/2  (c) -2/3
+Answer:
+b<|end_of_text|>"
+96,"# 2004–05 FIBA Europe Under-18 Championship for Women
+
+The 2004–05 FIBA Europe Under-18 Championship for Women, the 3rd edition of the FIBA Europe Under-18 Championship for Women, was an international women's basketball tournament. It was held in Bologna, Italy from 25 to 30 July 2004. The competition was held in two groups of four teams each. The winners of the tournament were the teams of the United Team of Russia, which won the tournament for the first time.
+
+|  |
+| Tournament details |
+| Host countries |  Russia |
+| Teams | 8 |
+| Champions |  Russia (1st title) |
+| MVP |  Natalya Zhdanova |
+| Third Champion |  Latvia |
+| |  |  | 2002—2003 |  |  |  | 2006 |
+
+ |
+
+2004–05 FIBA Europe Under-18 Championship for Women
+
+## Results
+
+### Group A
+
+| Pos | Team | Pld | W | L | PF | PA | Pts | Qualification |
+| 1 |  Russia | 3 | 3 | 0 | 243 | 152 | 6 |"
+97,"Question:
+Let c = 0.5 - -0.5. Let u = c + -1. Let j = u + 1.5. What is j rounded to 1 decimal place?
+Answer:
+1<|end_of_text|>"
+98,"Question:Develop a Python program snippet to Check Low Personal Organization: Calendar Scheduling for Decision Making for Professionals. Incorporate if/else or switch/case statements to handle various cases related to the Trust. Dry-run, provide appropriate comments explaining your decisions and recommendations.
+
+Solution:Here is python code which implements calendar scheduling algorithm to check low personal organization based on trust score of employees:
+
+ ```python
+import pandas as pd
+from sklearn.modeling import DNNRegressor
+from sklearn.impute import SimpleImputer
+from sklearn.pipeline import Pipeline
+from sklearn.compose import ColumnSelector
+from sklearn.preprocessing import StandardScaler
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_squared_error
+
+# Load dataset
+data = pd.read_csv('data.csv')
+X = data.iloc[:, :-1]  # Features
+y = data.iloc[:, -1]    # Target variable
+
+# Select columns to use in model
+selector = ColumnSelector(
+    columns=[('Name', 'Name'), ('Age', 'Age'),
+             ('Gender', 'Gender'), ('Education', 'Education')])
+
+# Define pipeline
+pipe = Pipeline([
+    ('select', selector),
+    ('scaler', StandardScaler()),
+    ('regressor', RandomForestRegressor())
+])
+
+# Train model
+pipe.fit"
+99,"def find_unique_elements(my_list):
+    """"""
+    Return a list of all unique elements in my_list.
+    """"""
+    unique_elements = []
+    for element in my_list:
+        if element not in unique_elements:
+            unique_elements.append(element)
+    return unique_elements
+
+<|end_of_text|>"

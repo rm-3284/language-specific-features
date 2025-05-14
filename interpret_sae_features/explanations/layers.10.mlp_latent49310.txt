@@ -1,0 +1,1 @@
+"The highlighted tokens are primarily morphemes, suffixes, and root components in Hindi words, often marking grammatical features such as case, number, gender, tense, or forming compound and derived words. These segments frequently appear at the end or within words, contributing to word formation, inflection, and meaning in Hindi morphology."

@@ -1,0 +1,656 @@
+seed,generated_text
+0,Question:Write a Python code to Calculate the average of three numbers. The answer to the given question is 4. 3. 2. 1. The result of the calculation should be 1.5. 2. 1. 3. 4. 3. 2. 1. 2. 3. 4. 2. 1. 3. 4. 3. 2. 1. 2. 3. 4. 2. 1. 3. 4. 3. 2. 1. 2. 3. 4. 2. 1. 3. 4. 3. 2. 1. 2. 3. 4. 2. 1. 3. 4. 3. 2. 1. 2. 3. 4. 2. 1. 3. 4. 3. 2. 1. 2. 3. 4. 2. 1. 3. 4. 3. 2. 1. 2. 3. 4. 
+1,"Question:
+Let w = 0.061 + -0.06100038. What is w rounded to 7 decimal numbers?
+Answer:
+-0.000001<|end_of_text|>"
+2,"Question:
+Let l = -3.9 - -4. Let m = 0.9 - l. Let w = -0.9999992 + m. What is w rounded to 6 decimal parks?
+Answer:
+-0.1<|end_of_text|>"
+3,"Question:
+Let g = 0.02 + -0.18. Let k = -0.04 + g. Let m = -0.00000326 + k. What is m rounded to 6 decimal places?
+Answer:
+-0.000003<|end_of_text|>"
+4,"Question:
+Let v = 11.9 - 12. Let q = v + 0.9. Let g = -0.99999999 - q. What is g rounded to 7 decimal parks?
+Answer:
+-0.1<|end_of_text|>"
+5,"Question:Develop a Python program to check the accuracy of the given answer to the following calculation. The answer to the calculation is 1538. The SBS (Seoul Bus Station) is located in Mapo-gangnam-gu, Busan. The Bus Station is 15 km away from the Bus Station, and the Bus Station is 3 floors lower than the Bus Station. The SBS is 1 floor lower than the Bus Station. The SBS is 1 floor lower than the Bus Station. The Bus Station is 1 floor lower than the Bus Station. The Bus Station is 1 floor lower than the Bus Station. The Bus Station is 1 floor lower than the Bus Station. The Bus Station is 1 floor lower than the Bus Station. The Bus Station is 1 floor lower than the Bus Station. The Bus Station is 1 floor lower than the Bus Station. The Bus Station is 1 floor lower than the Bus Station. The Bus Station is 1 floor lower than the Bus Station. The Bus Station is 1 floor lower than the Bus Station. The Bus Station is 1 floor lower than the Bus Station. The Bus Station is 1 floor lower than the Bus Station. The Bus Station is 1 floor lower"
+6,"def count_even_numbers(n):
+    """"""Write a function that takes an integer n and returns the number of even numbers less than or equal to n.
+    # Test case 1:
+    assert count_even_numbers(5) == 4
+    # Test case 2:
+    assert count_even_numbers(10) == 8
+    # Test case 3:
+    assert count_even_numbers(0) == 0
+    """"""
+    answer = 0
+    for i in range(n):
+        if i % 2 == 0:
+            answer += 1
+    return answer<|end_of_text|>"
+7,"# 2.3. SBS Server
+## 2.3.1. SBS Server
+## 2.3.2. SBS Server
+## 2.3.3. SBS Server
+## 2.3.4. SBS Server
+## 2.3.5. SBS Server
+## 2.3.6. SBS Server
+## 2.3.7. SBS Server
+## 2.3.8. SBS Server
+## 2.3.9. SBS Server
+## 2.3.10. SBS Server
+## 2.3.11. SBS Server
+## 2.3.12. SBS Server
+## 2.3.13. SBS Server
+## 2.3.14. SBS Server
+## 2.3.15. SBS Server
+## 2.3.16. SBS Server
+## 2.3.17. SBS Server
+## 2.3.18. SBS Server
+## 2.3.19. SBS Server
+## 2.3.20. SBS Server
+## 2.3."
+8,"Question:Develop a Python program to Calculate Low Hairgrowth: Hyун수입니다. 예시의 수의 개수(수) = 10, 수의 한수(수) = 5, 수의 최빈수(수) = 1, 수의 순위(수) = 1, 2, 4, 5, 6, 7, 8, 9, 10
+Answer: #1. 정수 3열(3줄) - 정수 1열(1열) = 정수 2열(2열) = 정수 3열(3열) = 정수 4열(4열) = 정수 5열(5열) = 정수 6열(6열) = 정수 7열(7열) = 정수 8열(8열) = 정수 9열(9열) = 정수 10열(10열) = 정수 1열(1열) = 정수 2열(2열) = 정수 3열(3열) = 정수 4열(4열) = 정수 5열(5열) = 정수"
+9,"Question:
+Let k = -0.0199 + 0.015. Let a = 0.006 + k. Let l = -0.0131 - a. What is l rounded to 3 decimal places?
+Answer:
+-0.003<|end_of_text|>"
+10,"Question: Which of the following is the best indicator of the severity of the disease?
+A. SBSO
+B. BSR
+C. BSR
+D. SBSO
+Answer: A<|end_of_text|>"
+11,"Question: A 37-year-old woman is found to have a 3.5-cm mass on the left side of the abdomen. A biopsy was taken, and the pathology report was interpreted as follows. What is the most likely diagnosis?
+A. Lympho- Myo Sarcoma
+B. Carcinoid
+C. Neuroendocrine Tumor
+D. Gastric Carcinoid
+Answer: A<|end_of_text|>"
+12,"Question:
+Let n = 1.5 + -0.9. Let f = 2.7 - n. Let t = -0.7 + f. What is the nearest to 0.2 in t, -1, 2/3?
+Answer:
+t<|end_of_text|>"
+13,"def count_songs_by_artist(songs, artist):
+    """"""
+    Return the number of songs by the given artist.
+    """"""
+    return sum([songs.count(s) for s in songs if s[0] == artist[0]])
+<|end_of_text|>"
+14,"Question: Which of the following is not a feature of chronic kidney disease?
+A. Anemia
+B. Cardiorenalfailure
+C. HSR
+D. HSR and Anemia
+Answer: A<|end_of_text|>"
+15,"Question:
+Let y = -1.01 + 1.31. Let f = -0.5 - y. Let l = 1.2 - f. What is l rounded to 1 decimal place?
+Answer:
+-0.1<|end_of_text|>"
+16,"Question:
+Let j = -0.021 + 0.017. Let y = 0.0123 - j. Round y to three decimal places.
+Answer:
+-0.001<|end_of_text|>"
+17,"Question:
+Let f = 0.019 - 0.023. Let h = 0.003 + f. Let c = h - 0.019. What is c rounded to 1 decimal place?
+Answer:
+-0.1<|end_of_text|>"
+18,"Question:
+Let g = 3.8 - 3.9. Let o = -2.9 + g. Let k = o - -0.0999991. What is k rounded to 6 decimal places?
+Answer:
+0.000001<|end_of_text|>"
+19,"Question:Build a Java module that takes an integer array, an integer, and a string. The module should:
+    - Create an array of the same size as the input array
+    - Loop through the array and print out the size of the array
+    - Check if the size is greater than 0
+    - If the size is greater than 0, print out the array
+    - If the size is 0, print out ""0 array""
+    - If the size is 0, print out ""0 array"" and exit
+    - If the size is not 0, print out ""Array is not empty"" and exit
+    - If the size is not 0, print out ""Array is empty"" and exit
+    - If the size is 0, print out ""Array is empty"" and exit
+    - If the size is 0, print out ""Array is empty"" and exit
+    - If the size is 0, print out ""Array is empty"" and exit
+    - If the size is 0, print out ""Array is empty"" and exit
+    - If the size is 0, print out ""Array is empty"" and exit
+    - If the size is "
+20,"Question: Which of the following is a potent inhibitor of HSA?
+A. Lactot강
+B. Acde강
+C. Eof강
+D. Eom강
+Answer: B<|end_of_text|>"
+21,"Question:
+Let g = -0.012 + 0.013. Let j = 0.0099992 - g. Round j to 6 decimal places.
+Answer:
+0.000001<|end_of_text|>"
+22,"Question: Which of the following is a characteristic of the normal SBS?
+A. Absorption of 95% of the original intestine
+B. Absorption of 95% of the original intestine
+C. Absorption of 80% of the original intestine
+D. Absorption of 80% of the original intestine
+Answer: B<|end_of_text|>"
+23,"Question: Which of the following is not true about the treatment of SBS?
+A. SBS is treated like normal intestine
+B. SBS is treated with HAN (Hemodial, Anam, Nohani)
+C. SBS is treated with HAN (Hemodial, Anam, Nohani) and HAN (Hemodial, Anam, Nohani) and HAN (Hemodial, Anam, Nohani)
+D. SBS is treated with HAN (Hemodial, Anam, Nohani) and HAN (Hemodial, Anam, Nohani) and HAN (Hemodial, Anam, Nohani) and HAN (Hemodial, Anam, Nohani)
+Answer: D<|end_of_text|>"
+24,"Question:Write a Python program to calculate the sum of the three numbers. The input is given in three
+    inputs. The program should be able to identify the number of inputs and then calculate the sum. 
+    The program should be able to identify the sum of the three inputs and print the sum. 
+    If the sum is greater than 100, print ""The sum is greater than 100"". 
+    If the sum is less than or equal to 100, print ""The sum is less than or equal to 100"".
+    The program should be able to identify the sum of the three inputs and print the sum.
+    If the sum is greater than 100, print ""The sum is greater than 100"".
+    If the sum is less than or equal to 100, print ""The sum is less than or equal to 100"".
+    If the sum is equal to 100, print ""The sum is 100"". 
+    If the sum is less than 100, print ""The sum is less than 100"".
+    If the sum is equal to 0, print ""The sum is 0"". 
+    If the sum is greater than 0, print ""The sum is greater than 0"".
+    If the"
+25,"# C.조원 (스케치ASTO)
+
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | "
+26,"Question:
+Let s = -4.9 + 5. Let l = 0.9 + s. Let w = l - -1.99999782. What is w rounded to 6 decimal places?
+Answer:
+-0.000002<|end_of_text|>"
+27,"Question:Develop a Go program to check if a number is an Armstrong number. An Armstrong number is a number that is passed through the following conditions: N = S*4+1; S = N/10; N, S, and N are all integers; N is not an Armstrong number if S is even. Write a function to check if a number is an Armstrong number. Write a program to check if a number is an Armstrong number. Write a function to check if a number is an Armstrong number. Write a program to check if a number is an Armstrong number. Write a function to check if a number is an Armstrong number. Write a program to check if a number is an Armstrong number. Write a function to check if a number is an Armstrong number. Write a program to check if a number is an Armstrong number. Write a function to check if a number is an Armstrong number. Write a program to check if a number is an Armstrong number. Write a function to check if a number is an Armstrong number. Write a program to check if a number is an Armstrong number. Write a function to check if a number is an Armstrong number. Write a program to check if a number is an Armstrong number. Write a function to check if a number is"
+28,"Question:
+Let t = 0.0093 + -0.009990999. Round t to 7 decimal values.
+Answer:
+-0.0000099<|end_of_text|>"
+29,"Question:Write a Python program to find the sum of the numbers in a list of lists. The list of lists is guaranteed to be N+1
+   size support N (1 <= N <= 5) to the following criteria: 
+   - All the numbers in the list of lists are guaranteed to be in the same order
+   - The answer to the given problems is the sum of the numbers in the list of lists.
+   - The answer to the given problems is the answer to the given problems.
+   - The answer to the given problems is the answer to the given problems.
+   - The answer to the given problems is the answer to the given problems.
+   - The answer to the given problems is the answer to the given problems.
+   - The answer to the given problems is the answer to the given problems.
+   - The answer to the given problems is the answer to the given problems.
+   - The answer to the given problems is the answer to the given problems.
+   - The answer to the given problems is the answer to the given problems.
+   - The answer to the given problems is the answer to the given problems.
+   - The answer to the given problems is the answer to the given problems.
+   - The answer to the given"
+30,"Question:
+Let n = -0.009 - -0.032. Let s = n + -0.029. Let g = s - -0.001. What is g rounded to 2 decimal numbers?
+Answer:
+-0.1<|end_of_text|>"
+31,"Question:
+Let g = -1.7 + 1.8. Let m = 0.03 + g. Let n = -0.016 + m. What is n rounded to 2 decimal places?
+Answer:
+-0.01<|end_of_text|>"
+32,"Question:
+Let t = 18.9 - 19. Let q = 0.0000038 + t. What is q rounded to 7 decimal places?
+Answer:
+0<|end_of_text|>"
+33,"def build_road(num_seo, num_sang, num_jeong):
+    """"""Given the number of SEO, SANG, and JEONG, return the number of roads that can be built""""""
+    
+    # 1. 입력받기
+    num_seo, num_sang, num_jeong = map(int(input().split()))
+    
+    # 2. 정수 배열 입력
+    arr = [0, 0, 0]
+    for i in range(num_seo):
+        arr[0] += i
+        arr[1] += i
+        arr[2] += i
+    # 3. 정수 배열 출력
+    print([list(map(lambda x: x + 1, arr))])
+<|end_of_text|>"
+34,"Question: Which of the following is not a sign of aneurysa?-
+A. Sudden drop in blood pressure
+B. Sudden onset of severe headache
+C. Sudden onset of sudden vision loss
+D. Sudden onset of severe epigastric pain
+Answer: B<|end_of_text|>"
+35,"Question:
+What is prob of picking 2 e and 1 m when three letters picked without replacement from {m: 1, e: 4, o: 3, s: 1, n: 4}?
+Answer:
+1/70<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -1.2. Let t = o + 0.7. Let s = -1.0000014 + t. Round s to 6 decimal places.
+Answer:
+-0.000001<|end_of_text|>"
+37,"# 4차 SBS
+# https://www.ac기록(구조선)
+# 1. N, M, K, S, R, E, N, M, K, S, R, E
+# 2. N, M, K, S, R, E
+# 3. N, M, K, S, R, E
+# 4. N, M, K, S, R, E
+# 5. N, M, K, S, R, E
+# 6. N, M, K, S, R, E
+# 7. N, M, K, S, R, E
+# 8. N, M, K, S, R, E
+# 9. N, M, K, S, R, E
+# 10. N, M, K, S, R, E
+# 11. N, M, K, S, R, E
+# 12. N, M, K, S, R, E
+# 13. N, M, K, S, R, E
+# 14. N, M, K, S, R, E
+#"
+38,"Question:
+What is prob of picking 1 g and 1 p when two letters picked without replacement from {p: 5, g: 1, n: 6}?
+Answer:
+1/14<|end_of_text|>"
+39,"Question:
+Let t = -0.0197 + 0.019702. Round t to 6 decimal places.
+Answer:
+-0.000002<|end_of_text|>"
+40,"# 7.0.2.3. 예제 5. 정수 배열의 합
+# 정수 배열의 합
+
+def solution(array):
+    answer = 0;
+    for i in range(len(array)):
+        answer += array[i];
+    return answer;
+<|end_of_text|>"
+41,"Question:
+Let a = -1.5 + 1.7. Let j = -2.2 + a. Let o = -0.2 + j. What is o rounded to one decimal place?
+Answer:
+-0.1<|end_of_text|>"
+42,"Question:
+Let l = 0.0338 + -0.0282. What is l rounded to 2 decimal numbers?
+Answer:
+0.005<|end_of_text|>"
+43,"Question:
+Let k = -0.0196 - -0.021. Let l = k + -0.021. Round l to 2 decimal places.
+Answer:
+-0.02<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + -2. Let s = 0.9 - o. Let j = 1.0000054 + s. Round j to 6 decimal places.
+Answer:
+0.000005<|end_of_text|>"
+45,"Question:
+Let t = 0.9 + -1.2. Let l = t - -0.9. Let k be (3 + -1 + 1)/(-1). Which is the closest to 0?  (a) l  (b) k  (c) 1/4
+Answer:
+a<|end_of_text|>"
+46,"Question:Build a Java module to calculate the area of a triangle. The module should take the following inputs: 1. the length of the triangle's side (S) 2. the length of the hypotenouse (H) 3. the length of the other two sides (A, B) 4. the answer to the correct answer. The solution should be as follows: 1. The module should be able to calculate the area of a triangle. 2. The module should be able to calculate the area of a triangle. 3. The module should be able to calculate the area of a triangle. 4. The module should be able to calculate the area of a triangle. 5. The module should be able to calculate the area of a triangle. 6. The module should be able to calculate the area of a triangle. 7. The module should be able to calculate the area of a triangle. 8. The module should be able to calculate the area of a triangle. 9. The module should be able to calculate the area of a triangle. 10. The module should be able to calculate the area of a triangle. 11. The module should be able to calculate the area of a triangle."
+47,"# 10.1.2. [구현] 정수 배열, 정수 배열의 길이, 정수 배열의 원소 개수, 정수 배열의 원소 순서
+def solution( arr, n, m, k) :
+    # 정수 배열의 길이
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list()
+    answer = list"
+48,"Question: Which of the following is the most common cause of aneurism?
+A. Sepsis
+B. Trauma
+C. Cardiorense
+D. Cholecsteosis
+Answer: C<|end_of_text|>"
+49,Question:Design a JavaSangdong Applet. Write a program to count the number of vowels and consono. The program should be able to recognize the difference between vowels and consono. The program should be able to recognize the difference between vowels and consono. The program should be able to recognize the difference between vowels and consono. The program should be able to recognize the difference between vowels and consono. The program should be able to recognize the difference between vowels and consono. The program should be able to recognize the difference between vowels and consono. The program should be able to recognize the difference between vowels and consono. The program should be able to recognize the difference between vowels and consono. The program should be able to recognize the difference between vowels and consono. The program should be able to recognize the difference between vowels and consono. The program should be able to recognize the difference between vowels and consono. The program should be able to recognize the difference between vowels and consono. The program should be able to recognize the difference between vowels and consono. The program should be able to recognize the difference between vowels and consono. The program should be able to recognize the difference between vowels and consono. The program should be able to recognize
+50,"Question:
+Let g = 0.0114 - 0.0117. Let h = g + 0.0205. Round h to two decimal places.
+Answer:
+-0.01<|end_of_text|>"
+51,"Question:
+Let w = 0.0159 + -0.0118. What is w rounded to two decimal places?
+Answer:
+0.005<|end_of_text|>"
+52,"def fashion_designer(sizes, colors, styles, price):
+    """"""Write a program that helps you find the right clothes for your style.
+    The program will find the best matching clothes for you based on the given sizes, colors, and styles.
+    The program will also give you the price of the clothes.
+    """"""
+    # Write your code here
+    # Use the following data to make the program
+    # sizes = [30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, 92, 94, 96, 98, 100]
+    # colors = ['black', 'white', 'gray', 'blue','red', 'green', 'yellow', 'purple', 'orange', 'pink', 'lavender']
+    # styles = ['formals', 'casual', 'trend','street', 'prett"
+53,"Question:
+What is prob of picking 1 j and 1 g when two letters picked without replacement from {j: 3, g: 2}?
+Answer:
+2/10<|end_of_text|>"
+54,"Question: Which of the following is not a sign of acute exacerbation of chronic hepatitis?
+A. Aneoia
+B. Anamie
+C. Anam
+D. Anamseong
+Answer: C<|end_of_text|>"
+55,"def count_wooden_boards(board_list):
+    """"""
+    Write a function that takes a list of wooden boards and returns the total number of wooden boards that are not a multiple of 3 or 5.
+    """"""
+    # Write your solution here
+    return sum([board for board in board_list if not (board % 3 == 0 or board % 5 == 0)])
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>"
+57,"Question:
+Let w = -2.3 + 2.3. Let t = -0.4 + 0.5. What is the closest to t in w, 2/3, 2/7?
+Answer:
+2/7<|end_of_text|>"
+58,"def dance_sungkda(n, m):
+    # 1. 입력
+    # 2. 정수 n, m의 합
+    # 3. 정수 n, m의 합의 순서
+    # 4. 정수 n, m의 합의 순서대로 정렬한 정수 리스트
+    # 5. 정수 n, m의 합의 순서대로 정렬한 정수 리스트의 원형
+    # 6. 정수 n, m의 합의 순서대로 정렬한 정수 리스트의 원형의 정렬 결과
+    # 7. 정수 n, m의 합의 순서대로 정렬한 정수 리스트의 정렬 결과
+    # 8. 정수 n, m의 합의 순서대로 정렬한 정수 리스트의 정렬 결과
+    # 9. 정수 n, m의 합의 순서대로 정렬한 정수 리스트의 정렬 결과
+    # 10. 정수 n, m의 합의 순서대로 정렬한 정수 리스트의 정렬 결과
+    # 11. 정수 n, m의 합의 순서대로 정렬한 정수 리스트의"
+59,"def find_ae_ossan(money, age, height, weight, height1, weight1, height2, weight2, height3, weight3):
+    # (1) 함수명(함수이름) : 입력자료구조(인수_list)
+    # (2) 반환형(반환형) : 정답(정답_수)
+    # (3) 예시: 입력자료구조(인수_list) = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10], 정답 = 10
+    # (4) 예시: 정답 = 10
+    # (5) 예시: 정답 = 10
+    # (6) 예시: 정답 = 10
+    # (7) 예시: 정답 = 10
+    # (8) 예시: 정답 = 10
+    # (9) 예시: 정답 = 10
+    # (10) 예시: 정답 = 10
+    # (11) 예시: 정답 = 10
+    # (12) 예시: 정답 = "
+60,"Question:
+Let h = -7 + 6. Suppose 0 = -h*f + 3*f + 2. Let n be f/(-4) + 5/(-2). What is the smallest common multiple of 8 and n?
+Answer:
+8<|end_of_text|>"
+61,"Question:
+Let l = -7.9 + 8. Let s = -0.5 + l. Let h = -0.0000042 + s. What is h rounded to 7 decimal places?
+Answer:
+-0.0000042<|end_of_text|>"
+62,"def find_mineral(rock):
+    """"""
+    Given a rock, find the mineral that is the most abundant in the rock.
+    The rock is a list of lists of integers, where each integer is the frequency of a particular mineral.
+    The frequency is the number of times the mineral has been found in the rock.
+    The mineral is the same as the integer.
+    """"""
+    # Write your code here
+    return [mineral for mineral in set(rock)]
+<|end_of_text|>"
+63,"Question:
+Let o = -1.5 + 1.7. Let n = 0.6 - o. Let l = 0.4 + n. What is l rounded to 1 decimal place?
+Answer:
+0.8<|end_of_text|>"
+64,"Question:
+Let q = -1.6 + 1.6. Let l = -1.1 + q. Let p = -0.2 + l. What is p rounded to one decimal place?
+Answer:
+-0.1<|end_of_text|>"
+65,"Question:
+Let k = -0.046 - -0.032. Let p = k + 0.019. Let j = p + -0.018. What is j rounded to 2 decimal places?
+Answer:
+-0.01<|end_of_text|>"
+66,"Question: Which of the following is an indication of the use of a test dose?
+A. Age
+B. Sex
+C. Symptoms
+D. Reaction to drug
+Answer: D<|end_of_text|>"
+67,"Question: Which of the following is not a characteristic of the normal person?
+A. All of the above
+B. Normal heart rate
+C. Normal pulse
+D. Normal SBS
+Answer: D<|end_of_text|>"
+68,"Question:
+What is 0.00000721 rounded to 6 decimal places?
+Answer:
+0.000007<|end_of_text|>"
+69,"Question:
+Let t = -0.0461 + 0.046991. Round t to 6 decimal places.
+Answer:
+-0.000011<|end_of_text|>"
+70,"Question: Which of the following is the best treatment for the treatment of a patient with severe acute exsanguenis bleeding?
+A. SBS (Seoul Brain Sickness) treatment
+B. TAE (TAE-sun정신술) treatment
+C. TTS (TTS-정신술) treatment
+D. SBS (Seoul Brain Sickness) treatment
+Answer: D<|end_of_text|>"
+71,"Question:
+Let l = 0.035 - 0.0350004. What is l rounded to 7 decimal places?
+Answer:
+-0.000001<|end_of_text|>"
+72,"Question:
+Let m = 0.0154 + -0.017. Let c = m + 0.0205. Round c to 3 dps.
+Answer:
+0.001<|end_of_text|>"
+73,"def update_athlete_info(athlete, updated_info):
+    """"""
+    Update the information of an athlete.
+
+    Args:
+    - athlete: An object of type Athlete
+    - updated_info: A dictionary of updated information
+    """"""
+    # Write your code here
+    return
+<|end_of_text|>"
+74,"def update_athlete_info(athlete_info):
+    """"""
+    Update the information of an athlete.
+
+    The input is a list of dictionaries, where each dictionary represents an athlete's information.
+    The first key in each dictionary is the key to the information, and the second key is the value.
+    The second key in each dictionary is the updated information.
+    """"""
+    # Write your code to update the information of the athlete
+    # HINT: You will need to use the update() method to modify the dictionary
+    # HINT: You will need to use the key to the information and the updated information
+    # HINT: You will need to use the dictionary index to update the information
+    # HINT: You will need to use the dictionary update() method
+    # HINT: You will need to use the dictionary update() method
+    # HINT: You will need to use the dictionary update() method
+    # HINT: You will need to use the dictionary update() method
+    # HINT: You will need to use the dictionary update() method
+    # HINT: You will need to use the dictionary update() method
+    # HINT: You will need to use the dictionary update() method
+   "
+75,"Question: A 24-year-old woman is admitted to the emergency department with a severe bleeding crisis. Her past history is unremarkable. Her vital signs are as follows: pulse 140, respirations 20, blood pressure 60/20, and pulse oximetry 100% (N0. 98). Her HCT is 10% and her MCH is 60. She is diagnosed with anemia of an unknown etiology and is treated with a transfusion and IV fluids. The next day, she develops a fever and is diagnosed with an infection. Her blood test results are as follows: HCT 7%, HEM 3, MCH 8, MCHC 6, WBC 1,000, and RBC 1,000. The results of her tests are as follows: EoE, EoS, and EoO are all negative. What is the most likely cause of the patient's severe bleeding crisis?
+A. Apleness
+B. Excess growth of normal cells
+C. Excess growth of abnormal cells
+D. Inappropriate growth of normal cells
+Answer: C<|end_of_text|>"
+76,"Question:
+Let y = 10.5 + -11. Let o = -0.2 + y. Let f = -0.1 + o. What is f rounded to 1 decimal place?
+Answer:
+-0.1<|end_of_text|>"
+77,"def create_drama(actors, genres, ratings):
+    """"""Create a drama show based on the given actors, genres, and ratings.
+    The drama show will be a list of lists, where each list is a drama show
+    and the list is made up of the following information:
+    - Name
+    - Genre
+    - Rating
+    The drama show should be written in the format:
+    [
+        {
+            ""name"" : ""Name"", 
+            ""genre"" : ""Genre"", 
+            ""rating"" : ""Rating""
+        }
+    ]
+    """"""
+    
+    for actor in actors:
+        for genre in genres:
+            if genre == ""Drama"":
+                for rating in ratings:
+                    if rating > 10:
+                        print(""["" + actor[0] + "", "" + genre + "", "" + rating + ""]"", end="" "")
+                    else:
+                        print(""["" + actor[0] + "", "" + genre + "", "" + rating + ""]"", end="" "")
+                    print(""["" + genres[0] + "", "" + genres[1] + "", "" + genres[2] + ""]"", end="" "")
+                    print(""["" + genres[3] + "", "" + genres[4] + "", """
+78,"Question: Which of the following is not true about the treatment of severe acute Exsanguo nhaa
+A. IV fluids and IV drugs
+B. CPR and CPR
+C. IV drugs and CPR
+D. CPR and IV fluids
+Answer: A<|end_of_text|>"
+79,"Question:
+Let n = 1.3 - 1.8. Let f = 0.03 + n. Let h = f + -0.026. What is h rounded to 2 decimal numbers?
+Answer:
+-0.02<|end_of_text|>"
+80,"Question:
+What is the next term in 12, 24, 38, 54, 72, 92, 112?
+Answer:
+138<|end_of_text|>"
+81,"Question:
+Let o = 2.6 - 2.7. Let k = 0.2 - o. Let p = -0.0000054 + k. What is p rounded to 6 decimal amounts?
+Answer:
+-0.000005<|end_of_text|>"
+82,"Question:
+Let g = -0.036 - 0.052. Let j = g + 0.037. Let k = j + -0.021. What is k rounded to one decimal place?
+Answer:
+-0.2<|end_of_text|>"
+83,"Question:
+What is the third biggest value in -1, 1, -2/7, -0.4?
+Answer:
+-2/7<|end_of_text|>"
+84,"def update_athlete_info(athlete_info, updated_info):
+    """"""
+    Write a function to update the information of an athlete.
+    The updated information is provided as a dictionary.
+    The function should update the information of the athlete and return the updated information.
+    """"""
+    # Write your code here
+    return updated_info
+<|end_of_text|>"
+85,"def modify_list(list1, list2):
+    """"""Modify the list by replacing the elements in the list2 with the elements in the list1""""""
+    list1 = [1, 2, 3, 4, 5]
+    list2 = [6, 7, 8, 9, 10]
+    return list1
+<|end_of_text|>"
+86,"Question: Which of the following is the best indication for a normal saline infusion?
+A. Hyerdose
+B. Hyoju
+C. Hyoju + HAN
+D. HAN + HAN
+Answer: D<|end_of_text|>"
+87,"Question: The most common cause of sudden death is
+A. Arrhythmia
+B. Cardiorense disease
+C. Cardiorense failure
+D. Coronanerfleld
+Answer: A<|end_of_text|>"
+88,"Question:
+Let w = 0.1 + -0.2. Let s = -0.6 + w. Let m = 0.9 + s. What is m rounded to one decimal place?
+Answer:
+-0.1<|end_of_text|>"
+89,"Question:
+Let g = -0.0319 + 0.0319999997. What is g rounded to 7 decimal amounts?
+Answer:
+-0.000001<|end_of_text|>"
+90,"def add_to_set(set, num):
+    """"""Add a number to a set""""""
+    return set.union(num)
+
+print(add_to_set({1, 2, 3}, 4)) # [1, 2, 3, 4]
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 20 is divided by 4?
+Answer:
+0<|end_of_text|>"
+92,"Question:
+Let p = 2.2 - 2.6. Let h = -3.4 - p. Let k = h + 0.4. What is k rounded to one decimal place?
+Answer:
+-0.1<|end_of_text|>"
+93,"Question:
+Let j = 0.019 - -1.931. Let l = 2.98 - j. What is l rounded to 1 decimal place?
+Answer:
+-0.1<|end_of_text|>"
+94,Question:Build a Go app that allows you to track your daily step count and reward yourself with a point of interest (POI) when you reach a certain number of steps. The app should also be able to track your daily step count and reward yourself with a point of interest (POI) when you reach a certain number of steps. The app should also be able to track your daily step count and reward yourself with a point of interest (POI) when you reach a certain number of steps. The app should also be able to track your daily step count and reward yourself with a point of interest (POI) when you reach a certain number of steps. The app should also be able to track your daily step count and reward yourself with a point of interest (POI) when you reach a certain number of steps. The app should also be able to track your daily step count and reward yourself with a point of interest (POI) when you reach a certain number of steps. The app should also be able to track your daily step count and reward yourself with a point of interest (POI) when you reach a certain number of steps. The app should also be able to track your daily step count and reward yourself with a point of interest (PO
+95,"Question:
+Let o = 0.0335 - 0.0335035. Round o to 6 decimal places.
+Answer:
+-0.0001<|end_of_text|>"
+96,"# 2020-11-29
+# https://swdevhan.tistory.com/22
+# https://github.com/sunho/알고리선물
+# https://hanshikn.github.io/알고리선물
+# https://용주의_알고리선물(윤주님) 
+# https://용주_알고리선물(윤주님)
+# https://www.ac기한의원
+# https://www.ac기한의원
+# https://www.ac기한의원
+# https://www.ac기한의원
+# https://www.ac기한의원
+# https://www.ac기한의원
+# https://www.ac기한의원
+# https://www.ac기한의원
+# https://www.ac기한의원
+# https://www.ac기한의원
+# https://www.ac기한의원
+# https://www.ac기한의원
+# https://www.ac기한의원
+# https://www.ac기한의원
+# https://www.ac기한의원
+# https://www.ac기한의원
+# https://www.ac기한의원"
+97,"Question:
+Let j = 0.5 + -0.3. Let n = j + -0.4. Let l = n - -0.9999995. What is l rounded to 6 decimal places?
+Answer:
+0.000001<|end_of_text|>"
+98,"Question:Develop a Go app that can be used to calculate the area of a rectangle. The area is calculated by multiplying the width and the height. The width and height are both given in the same calculation. The width and height are always positive integers.
+    Solution: 
+    def solution(width, height) : 
+    print(""width = "" + str(width) + "", height = "" + str(height))
+    answer = width*height 
+    return answer 
+    """"""
+    return answer<|end_of_text|>"
+99,"def find_sungkdam(sungkdam, num):
+    # 1. 입력 : 수의 개수, 수의 개수만큼 순서대로 정수 배열
+    # 2. 출력 : 정수 순서대로 정렬한 수들의 합
+    return [sorted(list(map(int(map(str, sungkdam))))[num-1]]
+
+
+# 정렬하기
+def solution(sungkdam):
+    # 정렬하기
+    print( sorted(list(map(int(map(str, sungkdam))))[num-1] ) )<|end_of_text|>"
