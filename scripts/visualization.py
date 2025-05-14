@@ -842,6 +842,8 @@ def plot_ppl_change_matrix(
 
     os.makedirs(output_path.parent, exist_ok=True)
 
+    fig.write_html(output_path, include_plotlyjs="cdn")
+
 
 def generate_ppl_change_matrix(
     configs: list[str],
