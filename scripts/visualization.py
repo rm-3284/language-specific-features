@@ -8,7 +8,12 @@ import plotly.express as px
 import plotly.graph_objects as go
 import torch
 import umap
-from const import lang_choices_to_qualified_name, layer_to_index
+from const import (
+    lang_choices_to_iso639_1,
+    lang_choices_to_qualified_name,
+    language_colors,
+    layer_to_index,
+)
 from loader import load_sae
 from utils import get_project_dir
 
@@ -82,6 +87,8 @@ def plot_layer(
     os.makedirs(output_path.parent, exist_ok=True)
     fig.write_html(output_path, include_plotlyjs="cdn")
 
+    save_image(output_path, fig)
+
 
 def plot_all_layers(layer_to_statistics: dict[str, pd.DataFrame], config: dict):
     for layer in config["layers"]:
@@ -130,6 +137,8 @@ def plot_lang_feature_overlap(
     os.makedirs(output_path.parent, exist_ok=True)
     fig.write_html(output_path, include_plotlyjs="cdn")
 
+    save_image(output_path, fig)
+
 
 def plot_combined_lang_feature_overlap(
     df_lang_feature_overlap_layer: pd.DataFrame, title: str, output_path: Path
@@ -148,6 +157,8 @@ def plot_combined_lang_feature_overlap(
 
     os.makedirs(output_path.parent, exist_ok=True)
     fig.write_html(output_path, include_plotlyjs="cdn")
+
+    save_image(output_path, fig)
 
 
 def plot_all_lang_feature_overlap(
@@ -216,7 +227,7 @@ def plot_lang_feature_overlap_trend(
         y="feature_count",
         color="lang_count",
         title=title,
-        color_discrete_sequence=px.colors.qualitative.Light24,
+        color_discrete_map=language_colors,
     )
 
     fig.update_layout(
@@ -238,6 +249,8 @@ def plot_lang_feature_overlap_trend(
     os.makedirs(output_path.parent, exist_ok=True)
     fig.write_html(output_path, include_plotlyjs="cdn")
 
+    save_image(output_path, fig)
+
 
 def plot_heatmap(
     df: pd.DataFrame, title: str, output_path: Path, labels: dict[str, str]
@@ -254,6 +267,8 @@ def plot_heatmap(
 
     os.makedirs(output_path.parent, exist_ok=True)
     fig.write_html(output_path, include_plotlyjs="cdn")
+
+    save_image(output_path, fig)
 
 
 def get_lang_to_feature_indexex(df: pd.DataFrame):
@@ -337,6 +352,8 @@ def plot_cross_co_occurrence(
 
     os.makedirs(output_path.parent, exist_ok=True)
     fig.write_html(output_path, include_plotlyjs="cdn")
+
+    save_image(output_path, fig)
 
     return df_co_occurrence_matrix
 
@@ -575,6 +592,8 @@ def plot_box_plot(
     os.makedirs(output_path.parent, exist_ok=True)
     fig.write_html(output_path, include_plotlyjs="cdn")
 
+    save_image(output_path, fig)
+
 
 def plot_all_count_box_plots(
     layer_to_statistics: dict[str, pd.DataFrame],
@@ -622,12 +641,19 @@ def plot_lape_result(lape_result: dict, title, out_dir: Path):
         indices = list(range(len(frequency_count)))
 
         df_lang = pd.DataFrame(
-            {"Layer": indices, "Count": frequency_count, "Lang": lang}
+            {
+                "Layer": indices,
+                "Count": frequency_count,
+                "Lang": lang_choices_to_iso639_1[lang],
+            }
         )
+
+        plot_specific_lape_lang(lang, df_lang, title, out_dir)
 
         df_all_langs = pd.concat([df_all_langs, df_lang], ignore_index=True)
 
     plot_combined_lape_lang(df_all_langs, title, out_dir)
+    plot_combined_lape_lang_count(df_all_langs, title, out_dir)
 
 
 def plot_specific_lape_lang(lang, df_lang, title, out_dir):
@@ -636,7 +662,9 @@ def plot_specific_lape_lang(lang, df_lang, title, out_dir):
         x="Layer",
         y="Count",
         title=f"{title} ({lang})",
+        color="Lang",
         labels={"Layer": "Layer", "Count": "Count"},
+        color_discrete_map=language_colors,
     )
 
     fig.update_layout(
@@ -645,12 +673,33 @@ def plot_specific_lape_lang(lang, df_lang, title, out_dir):
         )
     )
 
+    fig.update_layout(plot_bgcolor="white")
+
+    fig.update_xaxes(
+        mirror=True,
+        ticks="outside",
+        showline=True,
+        linecolor="black",
+    )
+
+    fig.update_yaxes(
+        mirror=True,
+        ticks="outside",
+        showline=True,
+        linecolor="black",
+        gridcolor="lightgrey",
+    )
+
+    fig.update_layout(showlegend=True)
+
     output_dir = get_project_dir() / out_dir
     output_path = output_dir / f"lape_{lang}.html"
 
     os.makedirs(output_dir, exist_ok=True)
 
     fig.write_html(output_path, include_plotlyjs="cdn")
+
+    save_image(output_path, fig)
 
 
 def plot_combined_lape_lang(df_all_langs, title, out_dir):
@@ -661,7 +710,7 @@ def plot_combined_lape_lang(df_all_langs, title, out_dir):
         color="Lang",
         title=title,
         labels={"Layer": "Layer", "Count": "Count"},
-        color_discrete_sequence=px.colors.qualitative.Light24,
+        color_discrete_map=language_colors,
     )
 
     fig.update_layout(
@@ -670,12 +719,111 @@ def plot_combined_lape_lang(df_all_langs, title, out_dir):
         )
     )
 
+    fig.update_layout(plot_bgcolor="white")
+
+    fig.update_xaxes(
+        mirror=True,
+        ticks="outside",
+        showline=True,
+        linecolor="black",
+    )
+
+    fig.update_yaxes(
+        mirror=True,
+        ticks="outside",
+        showline=True,
+        linecolor="black",
+        gridcolor="lightgrey",
+    )
+
     output_dir = get_project_dir() / out_dir
     output_path = output_dir / f"lape.html"
 
     os.makedirs(output_dir, exist_ok=True)
 
     fig.write_html(output_path, include_plotlyjs="cdn")
+
+    save_image(output_path, fig)
+
+
+def plot_combined_lape_lang_count(df_all_langs, title, out_dir):
+    df_copy = df_all_langs.copy()
+
+    df_copy["Layer"] = df_copy["Layer"].astype(str)
+
+    # Create a color map for layers 0-15
+    layer_colors = {
+        "0": "#1f77b4",  # blue
+        "1": "#ff7f0e",  # orange
+        "2": "#2ca02c",  # green
+        "3": "#d62728",  # red
+        "4": "#9467bd",  # purple
+        "5": "#8c564b",  # brown
+        "6": "#e377c2",  # pink
+        "7": "#7f7f7f",  # gray
+        "8": "#bcbd22",  # olive
+        "9": "#17becf",  # teal
+        "10": "#aec7e8", # light blue
+        "11": "#ffbb78", # light orange
+        "12": "#98df8a", # light green
+        "13": "#ff9896", # light red
+        "14": "#c5b0d5", # light purple
+        "15": "#c49c94"  # light brown
+    }
+    
+    # Group by Lang and sum Counts to determine sorting order
+    lang_totals = df_copy.groupby("Lang")["Count"].sum().reset_index()
+    lang_totals = lang_totals.sort_values("Count", ascending=True)
+    sorted_langs = lang_totals["Lang"].tolist()
+    
+    # Create a categorical column with custom order
+    df_copy["Lang"] = pd.Categorical(df_copy["Lang"], categories=sorted_langs, ordered=True)
+    
+    # Sort the dataframe
+    df_copy = df_copy.sort_values("Lang")
+    
+    # Create figure with sorted x-axis
+    fig = px.bar(
+        df_copy,
+        x="Lang",
+        y="Count",
+        color="Layer",
+        title=title,
+        color_discrete_map=layer_colors,
+        category_orders={"Layer": [str(i) for i in range(16)]}  # Ensure layers are ordered from 0-15
+    )
+
+    fig.update_layout(
+        xaxis=dict(
+            tickmode="linear",
+        )
+    )
+
+    fig.update_layout(plot_bgcolor="white")
+
+    fig.update_xaxes(
+        mirror=True,
+        ticks="outside",
+        showline=True,
+        linecolor="black",
+    )
+
+    fig.update_yaxes(
+        mirror=True,
+        ticks="outside",
+        showline=True,
+        linecolor="black",
+        gridcolor="lightgrey",
+    )
+
+    output_dir = get_project_dir() / out_dir
+    output_path = output_dir / f"feature_counts.html"
+
+    os.makedirs(output_dir, exist_ok=True)
+
+    fig.write_html(output_path, include_plotlyjs="cdn")
+
+    save_image(output_path, fig)
 
 
 def plot_umap(
@@ -686,6 +834,7 @@ def plot_umap(
     output_dir: Path,
     interpretations: dict,
     seed: int = 42,
+    working_dir: Path | None = None,
 ):
     for layer in layers:
         layer_index = layer_to_index[layer]
@@ -706,7 +855,9 @@ def plot_umap(
         ):
             layer_lang_sae_features = lang_sae_features[layer_index].tolist()
             layer_lang_feature_indices = lang_final_indices[layer_index].tolist()
-            layer_lang_feature_langs = [lang] * len(layer_lang_sae_features)
+            layer_lang_feature_langs = [lang_choices_to_iso639_1[lang]] * len(
+                layer_lang_sae_features
+            )
             layer_lang_feature_interpretations = [
                 "<br>".join(
                     textwrap.wrap(interpretations[layer][feature_index], width=40)
@@ -785,8 +936,7 @@ def plot_umap(
                 "Selected Prob": layer_feature_selected_probs,
                 "Interpretation": layer_feature_interpretations,
             },
-            color_discrete_sequence=px.colors.qualitative.Light24,
-            color_discrete_map=color_discrete_map,
+            color_discrete_map={**language_colors, **color_discrete_map},
         )
 
         fig.update_layout(plot_bgcolor="white", paper_bgcolor="white")
@@ -799,6 +949,28 @@ def plot_umap(
             output_path,
             include_plotlyjs="cdn",
         )
+
+        fig = px.scatter(
+            embedding,
+            x=0,
+            y=1,
+            color=layer_feature_langs,
+            title=f"UMAP projection of {model_name} - {sae_model_name} - {layer}",
+            hover_data={
+                "Feature Index": layer_feature_indices,
+                "Entropy": layer_feature_entropies,
+                "Selected Prob": layer_feature_selected_probs,
+                "Interpretation": layer_feature_interpretations,
+            },
+            color_discrete_map={
+                **language_colors,
+                **{"other": "rgba(211, 211, 211, 0.02)"},
+            },
+        )
+
+        fig.update_layout(plot_bgcolor="white", paper_bgcolor="white")
+
+        save_image(output_path, fig, working_dir)
 
 
 def plot_ppl_change_matrix(
@@ -827,22 +999,38 @@ def plot_ppl_change_matrix(
             avg_diff = np.mean(intervened_ppls - normal_ppls).round(decimals=2).item()
             ppl_matrix[intervened_lang_index][lang_index] = avg_diff
 
+    iso_langs = [lang_choices_to_iso639_1[lang] for lang in langs]
+
     fig = px.imshow(
         ppl_matrix.numpy(),
-        x=langs,
-        y=langs,
+        x=iso_langs,
+        y=iso_langs,
         labels=dict(x="Impacted Language", y="Intervened Language", color="Value"),
         text_auto=True,
-        width=800,
-        height=800,
         color_continuous_scale=["white", "orange"],
+        zmin=0,
+        zmax=1000,
+        aspect="auto",
     )
+
+    # Add border to diagonal cells
+    for i in range(len(iso_langs)):
+        fig.add_shape(
+            type="rect",
+            x0=i - 0.5,
+            y0=i - 0.5,
+            x1=i + 0.5,
+            y1=i + 0.5,
+            line=dict(color="lightgray", width=1),
+        )
 
     fig.update_layout(xaxis_side="top")
 
     os.makedirs(output_path.parent, exist_ok=True)
 
     fig.write_html(output_path, include_plotlyjs="cdn")
+
+    save_image(output_path, fig)
 
 
 def generate_ppl_change_matrix(
@@ -853,6 +1041,7 @@ def generate_ppl_change_matrix(
     input_dir: Path,
     normal_ppl_result,
 ):
+    iso_lang = [lang_choices_to_iso639_1[lang] for lang in langs]
 
     for config in configs:
         in_path = input_dir / config
@@ -883,10 +1072,25 @@ def generate_ppl_change_matrix(
         )
 
         plot_ppl_change_matrix(
-            langs,
+            iso_lang,
             normal_ppl_result,
             intervened_sae_features_ppl_results,
             out_path,
             title=f"PPL Change Matrix for SAE Features Interventions ({num_examples} examples)",
             num_examples=num_examples,
         )
+
+
+def save_image(path: Path, fig, working_dir: Path | None = None):
+    project_dir = get_project_dir() if working_dir is None else working_dir
+
+    relative_path = path.relative_to(project_dir)
+
+    output_path = project_dir / "images" / relative_path
+    output_path = output_path.with_suffix(".pdf")
+
+    os.makedirs(output_path.parent, exist_ok=True)
+
+    fig.update_layout(title=None)
+
+    fig.write_image(output_path)
