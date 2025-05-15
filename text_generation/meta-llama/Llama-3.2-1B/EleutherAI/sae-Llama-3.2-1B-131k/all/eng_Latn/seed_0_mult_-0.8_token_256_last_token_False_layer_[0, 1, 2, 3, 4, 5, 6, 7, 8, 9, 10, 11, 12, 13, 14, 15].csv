@@ -1,0 +1,998 @@
+seed,generated_text
+0,"Question:
+Let f = -6 + 6.4. Let v = 0.4 - f. Let k = v - -0.1. What is k rounded to one decimal place?
+Answer:
+0.3<|end_of_text|>"
+1,"Question:
+Let d = -0.03 + -0.13. Let z = -0.16 + d. Let u = -0.04000257 - z. What is u rounded to 7 decimal places?
+Answer:
+0<|end_of_text|>"
+2,"Question:
+Let q = -3 + 5. Let c be (-1)/(-4) - (-9)/(-12). Suppose c = -2*r + 1 + 1. Which is the closest to q?  (a) -1/6  (b) r  (c) -4/9
+Answer:
+a<|end_of_text|>"
+3,"Question:
+Let g be (-4)/(-10) - (-2)/(-10). Let x = -0.3 - -0.2. Let q = g - x. Which is the closest to q?  (a) -0.4  (b) -0.3  (c) -1/4
+Answer:
+b<|end_of_text|>"
+4,"Question:
+Let v = -0.02 - -0.02. Let t = -0.03 + v. Let o = t + -0.03. Which is the nearest to 2/3?  (a) -1/2  (b) o  (c) 4/5
+Answer:
+c<|end_of_text|>"
+5,"Question:
+Let z = -0.001 - -0.0010044. What is z rounded to 6 dps?
+Answer:
+0.000004<|end_of_text|>"
+6,"def calculate_average_growth_rate(population_size_growth_rates):
+    """"""
+    Calculate the average growth rate for a population over a period of time.
+
+    Args:
+        population_size_growth_rates: A list of growth rates for each population.
+
+    Returns:
+        The average growth rate for the population.
+    """"""
+
+    total_growth_rate = 0
+
+    for growth_rate in population_size_growth_rates:
+        total_growth_rate += growth_rate
+
+    average_growth_rate = total_growth_rate / len(population_size_growth_rates)
+
+    return average_growth_rate
+
+population_size_growth_rates = [
+    {""population_size"": 10000, ""growth_rate"": 0.01},
+    {""population_size"": 5000, ""growth_rate"": 0.02},
+    {""population_size"": 2500, ""growth_rate"": 0.03},
+]
+
+average_growth_rate = calculate_average_growth_rate(population_size_growth_rates)
+
+print(f""The average growth rate for the population is {average_growth_rate:.2f}."")
+<|end_of_text|>"
+7,"Question:
+What is the nearest to 0.1 in -3/2, -4, -0.5?
+Answer:
+-0.5<|end_of_text|>"
+8,"Question:
+Let o = -0.016 + -0.014. Let t = o - -0.03199927. What is t rounded to seven dps?
+Answer:
+0.0000007<|end_of_text|>"
+9,"Question:
+Calculate prob of picking 1 j and 2 m when three letters picked without replacement from {j: 2, m: 2}.
+Answer:
+1/2<|end_of_text|>"
+10,"Question:Create a Python script snippet that Determines Extreme Nose care: Preventing Nosebleeds for Decision Making for Beginners. Use if/else or switch/case statements to conditionally perform different actions based on the Bias. Dry-run, then include comments that outline the control flow and how you handle different scenarios.
+
+Solution:Here is some sample python code which determines extreme nose bleeds preventing鼻出血的决策过程中使用if和elif来控制流程和处理不同情况。
+
+
+```python 
+def determine_extreme_nosebleed(symptoms):
+    """"""Determines whether extreme nosebleeds need medical attention.""""""
+
+    #Dry run 
+    print(""Dry Run:"")
+    
+    symptoms_check = [
+        {""symptom"":""Runny nose"",True}, 
+        {""symptom"":""Congestion"",""False""},    
+        {""symptom"":""Itchy eyes"",""True""},    
+        {""symptom"":""Blocked nose"",""False""}]
+
+    condition_check=[symptom[""symptom""]for symptom in symptoms_check]
+
+    if(""Runny nose""in condition_check):
+        return(""Seek immediate medical help!"")
+    elif((""Congestion""in condition_check)|(symptom_check[2]==True)):
+        return(""Apply cold compresses."")
+    elif((""Blocked nose""in condition_check"
+11,"Question:Design a C# function snippet to Determine Low Bathing routine: Cleansing	body	for	Adults	using	a	towel	or	washcloth	that	is	smaller	in	size	than	a	flush	toothbrush	or	cotton	towel	to	prevent	the	transmission	of	disease	to	and	from	the	person_using	the	bathroom.
+
+Solution:Here is a possible implementation of this functionality in C#:
+
+    ```csharp
+    public static bool DetermineLowBathingRoutine(bool adultUsingTowelOrWashcloth) 
+    {
+        // Determine whether adult user is using towel or washcloth
+        
+        // If yes then return true else false    
+        if(adultUsingTowelOrWashcloth){
+            Console.WriteLine(""AdultUserIsUsingTowelOrWashcloth"");    
+            return true;    
+        }else{    
+            Console.WriteLine(""AdultUserIsNotUsingTowelOrWashcloth"");    
+            return false;    
+        }    
+    }
+    ```
+    
+    This function takes boolean argument indicating whether adult user is using towel or washcloth while determining low bathing routine. It returns true if adult user is using towel or washcloth otherwise returns false indicating otherwise.Low bathing routine refers to cleansing body parts such as genitals,facial area etc.,using"
+12,"Question:
+Let r = 0.0117 - -0.0883. Let u = r - 0.1999. Let y = u - -0.1989912. What is y rounded to six dps?
+Answer:
+0.000011<|end_of_text|>"
+13,"Question:
+Let h = -0.05 + 0.05. Let w = 0.07 + h. Let x = w - -0.17. What is x rounded to one dp?
+Answer:
+0.2<|end_of_text|>"
+14,"Question:
+Let d = 0.2 + -0.2. Let o = -0.07 - -0.07. Let y = o + d. What is y rounded to 1 decimal place?
+Answer:
+0<|end_of_text|>"
+15,"Question:
+Let y = -0.01 - -0.31. Let f = -0.06 - -0.21. Let u = y - f. Which is the nearest to 0?  (a) u  (b) -3/8  (c) -2/15
+Answer:
+c<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.03. Let y = 0.01 + j. Let l = -0.07 - y. What is l rounded to two decimal places?
+Answer:
+0<|end_of_text|>"
+17,"Question:
+Let u = -0.009 - -0.00900000259. What is u rounded to seven decimal places?
+Answer:
+0<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - -0.2. Let o = -2.8 + y. Let c = o - -3.99999969. Round c to seven decimal places.
+Answer:
+0.0000003<|end_of_text|>"
+19,"Question:
+Let p = -0.2 - -0.2. Let l = -0.1 - p. Let m = 0.1 + l. Which is the nearest to m?  (a) -0.2  (b) 0.3  (c) 0.2
+Answer:
+a<|end_of_text|>"
+20,"Question:Build a relation database and SQL module snippet that Updates Extreme Toilet hygiene: Keeping Toilet Areaclean for Analysis for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Transparency. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here is some sample code which creates a relational database schema and associated queries to update records based on transparency levels:
+
+    ```python
+    
+    import sqlite3
+    
+    # create database file
+    
+    conn = sqlite3.connect(""database.db"")
+    cursor = conn.cursor()
+    
+    # create table structure
+    
+    cursor.execute(""""""CREATE TABLE IF NOT EXISTS extreme_toilets (
+        id INTEGER PRIMARY KEY, 
+        name TEXT UNIQUE, 
+        address TEXT, 
+        city TEXT, 
+        state TEXT, 
+        zipcode TEXT, 
+        latitude REAL, 
+        longitude REAL, 
+        rating NUMERIC DEFAULT 0, 
+        reviews TEXT[], 
+        isOpen BOOLEAN DEFAULT FALSE);"""""")
+    
+    # inserttestdata
+    
+    cursor.execute(""""""INSERT INTO extreme_toilets VALUES(NULL,'ExtremeCleanToilets','123 Main St.','NewYork','NY','10001','40.748166','-74.005937',5,NULL,NULL,NULL,NULL,NULL,NULL);"""""")
+    cursor"
+21,"Question:
+Let g = -0.1 + -0.3. Let y = -0.3 - g. Let k = 0.3 + y. Which is the closest to 0.1?  (a) -0.5  (b) k  (c) -2/3
+Answer:
+b<|end_of_text|>"
+22,"Question:Write a Python code snippet to Determine Extreme Finance: Expense Tracking for Analysis for Professionals. Consider the Transparency and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here’s some sample python code which implements expense tracking functionality based upon transparency considerations:
+
+	def determine_extreme_finance(expenses):
+	    """"""Determines whether extreme finance techniques should be used based 
+	    	on specified criteria.""""""
+
+	    # Define thresholds for each criterion
+	    budget_threshold = 1000       # $1000 threshold for excessive spending 
+	    credit_card_fee_threshold = 50    # $50 fee for excessive credit card charges
+	
+	    expenses_by_category = {}
+	
+	    # Loop through each expense item	
+	    for expense_item in expenses:
+	        category = expense_item['category'] 	    
+	        amount = expense_item['amount']  			    	    	
+	
+	        if category!=expenses_by_category.get(category):
+	            expenses_by_category[category]={
+	                'total':sum([amount]),					    	    	    	    	
+	                'average':sum([amount])/len(expenses_by_category[category])]	
+	        else:
+	            expenses_by_category[category]['total']=sum([amount])	
+	            expenses"
+23,"Question:
+Let r be (-2)/(-3) - (-4)/6. Let z be (-6)/(-21) - (-1)/(-7). Suppose z*j = -5*x - 5, -4*j - 2*x = -x + 3. Which is the closest to 1/4?  (a) r  (b) j  (c) 2/3
+Answer:
+a<|end_of_text|>"
+24,"Question:Write a Python code snippet to Calculate Extreme Oral health habits: Avoiding Tobacco for Engineer for Experts. Consider the Bias and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here’s some sample python code which calculates extreme oral hygiene habits based upon avoidance of smoking:
+
+
+```python 
+def calculate_extreme_oral_health(smoker):
+    """"""
+    Calculates extreme oral hygiene habits based upon 
+    avoidance of smoking
+    
+    Parameters:
+        smoker (bool): Whether the person smokes
+        
+    Returns:
+        int: The calculated score
+        
+    Raises:
+        ValueError: If `smoker` is not boolean value
+            
+    """"""
+
+    # Define constants    
+    NO_SMOKER_SCORE = 100    # Initialise constant    
+    SMOKER_SCORE_NEGATIVE_ONE = -25   # Initialise constant   
+    
+    # Check input type     
+    if isinstance(smoker,bool):    
+        pass   
+    
+    elif isinstance(smoker,float):    
+        score=-25    
+    
+    else:    
+        raise ValueError(""Invalid input"")  
+    
+    return score   
+
+# Example usage      
+print(calculate_extreme_oral_health(True))       # Output: Negative one      
+print(calculate"
+25,"Question:
+What is the common denominator of 79/30 and 31/42?
+Answer:
+210<|end_of_text|>"
+26,"Question:
+Let b = -4.25 + -0.75. Let x = b - -4.6. Let p = x - 0.600007. What is p rounded to 5 dps?
+Answer:
+0.00001<|end_of_text|>"
+27,"Question:
+Let q = 0.4 - 0.3. Let f = -0.7 + q. Let g = -0.7 + f. Which is the closest to -1/4?  (a) -0.4  (b) g  (c) 0.2
+Answer:
+a<|end_of_text|>"
+28,"Question:
+Let t = 0.05 - 0.05. Let c = -0.2 - t. Let r = -0.3 - c. Which is the nearest to -0.2?  (a) 5/4  (b) r  (c) -4/7
+Answer:
+b<|end_of_text|>"
+29,"Question:Write a TypeScript code snippet to Update Low Fitness: Exercise Tracking for Decision Making for Experts. Consider the Transparency and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here's some sample typescript code which implements updateLowFitness() function according to requirements :
+
+	function updateLowFitness(data){
+	  const currentDate=new Date();
+	  
+	   //dry run	
+	   console.log(""Current Date:"",currentDate);
+	   
+	   let updatedExpert={}
+	   
+	   //check if user inputted date exists	
+	   if(data.hasOwnProperty('date')){
+	     const currentDate=data['date'];
+	      updatedExpert=currentDate>=newDate(today())&&updatedExpert!==undefined;//check if current date greaterThanOrEqual currentDate&&updatedExpert!==undefined;//check if currentDate>=today()&&updatedExpert!==undefined;//check if currentDate>=today()&&updatedExpert!==undefined;//check if currentDate>=today()&&updatedExpert!==undefined;//check if currentDate>=today()&&updatedExpert!==undefined;//check if currentDate>=today()&&updatedExpert!==undefined;//check if currentDate>=today()&&updatedExpert!==undefined;//check if currentDate>=today()&&updatedExpert!==undefined;//check if currentDate>=today"
+30,"Question:
+Let y be (-3)/(-2)*(-4)/(-6). Let o be (-4)/(-10) + (-2)/(-5). Suppose 0 = -o*x + 3*x - 5*w + 1, 0 = -3*x - 2*w + 7. What is the closest to y in 2/9, x, -1?
+Answer:
+2/9<|end_of_text|>"
+31,"Question:
+Let g = -1.07 - -1.07. Let m = 0.03 + g. Let o = -0.04 + m. Which is the nearest to o?  (a) -0.4  (b) -1/3  (c) 3/5
+Answer:
+c<|end_of_text|>"
+32,"Question:
+Let t = 0.002 - -0.003. Let x = 0.009 + t. Let g = x + -0.0095. What is g rounded to 2 dps?
+Answer:
+0.01<|end_of_text|>"
+33,"def analyze_economic_indicators(indicators):
+    """"""
+    Analyze a list of economic indicators and identify any trends or patterns.
+
+    Args:
+        indicators (list): A list of economic indicators.
+
+    Returns:
+        trends_or_patterns (list): A list of trends or patterns identified in the indicators.
+
+    Examples:
+
+        >>> analyze_economic_indicators(['GDP_growth', 'Inflation_rate', 'Unemployment_rate'])
+        ['GDP_growth', 'Inflation_rate']
+
+        >>> analyze_economic_indicators(['GDP_growth', 'Inflation_rate', 'Unemployment_rate', 'Producer_price_index'])
+        ['GDP_growth', 'Inflation_rate', 'Unemployment_rate']
+
+        >>> analyze_economic_indicators(['GDP_growth', 'Inflation_rate', 'Unemployment_rate', 'Producer_price_index', 'Retail_sales'])
+        ['GDP_growth', 'Inflation_rate', 'Unemployment_rate', 'Retail_sales']
+
+    """"""
+    trends_or_patterns = []
+
+    for indicator in indicators:
+        if indicator.endswith('_growth'):
+            trends_or_patterns.append(indicator)
+
+        elif indicator.endswith('_rate'):
+            trends_or_patterns.append(indicator)
+
+        elif indicator.endswith('_index'):
+            trends_or_patterns.append(indicator)
+
+        else:
+            trends_or"
+34,"Question:
+Let q = -0.0198 + 0.0166. Round q to three decimal places.
+Answer:
+-0.003<|end_of_text|>"
+35,"Question:
+What is prob of picking 2 w when two letters picked without replacement from {w: 3, u: 3}?
+Answer:
+3/10<|end_of_text|>"
+36,"Question:
+Let o = -0.6 + 0.6. Let r = o + 0.6000196. Round r to six dps.
+Answer:
+0.00002<|end_of_text|>"
+37,"Question:Build a Python module snippet that Calculates Extreme Oral health habits: Protecting Teeth from Injury for Analysis for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Bias. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here's some sample python code which implements a function called calculate_extreme_oral_health_habits() that calculates extreme oral hygiene habits based on input values:
+
+
+def calculate_extreme_oral_health_habits(age,height,wight):
+    """"""Calculates extreme oral health habit score based on age,height,wight
+    
+    Args:
+        age (int):patient age 
+        height(float):patient height(cm)    
+        weight(float):patient weight(kg)    
+
+    Returns:
+        int:resulting_score
+        
+    Raises:
+        ValueErrorif invalid_inputs_given    
+
+    """"""    
+    #check_inputs()methodwillcheckinputparametersarevalidornot   
+
+    if isinstance(age,float)==Falseor isinstance(height,float)==Falseor isinstance(weight,float)==False:
+        raise ValueError(""Invalidinputvaluegiven"")   
+
+    bmi=(weight/(height**2))   
+
+    if bmi>=40:   
+
+        extreme_oral_health_score=90      
+
+    elif bmi>=35and bmi<=40:
+
+       "
+38,"Question:
+What is prob of picking 1 g and 2 p when three letters picked without replacement from {p: 5, g: 1}?
+Answer:
+1/4<|end_of_text|>"
+39,"Question:
+Let t = -0.06 + -0.04. Let x = t - -0.11. Let r = -0.01002 + x. Round r to 5 dps.
+Answer:
+-0.00002<|end_of_text|>"
+40,"Question:
+Let f = -0.0136 - -0.0143. Let c = f - 0.0019. What is c rounded to 2 decimal places?
+Answer:
+0<|end_of_text|>"
+41,"Question:
+Let v = -8.5 + 8.505. Let q = -0.005 + v. Let x = -0.2 - q. What is x rounded to one decimal place?
+Answer:
+-0.3<|end_of_text|>"
+42,"Question:
+Let l = -0.0337 + 0.0337191. What is l rounded to five dps?
+Answer:
+0.00007<|end_of_text|>"
+43,"Question:
+Let k = -0.0376 - -0.03761923. Round k to five decimal places.
+Answer:
+0.00017<|end_of_text|>"
+44,"Question:
+Let o = -2.1 - -2. Let p = 0.1 - o. Let y = -1.0000054 + p. Round y to six dps.
+Answer:
+-0.000005<|end_of_text|>"
+45,"Question:
+Let x = 0.02 + -0.02. Let d = 0.0299979 + x. Round d to six dps.
+Answer:
+0.000002<|end_of_text|>"
+46,Question:Write a Python code snippet to Determine High Eye hygiene: ManagingEyeIrritantsforAnalysisforEngineersusingUVVisibleSpectroscopyforChemicalAnalysisे. ConsidertheeffectivenessofdifferentmaterialsandsurfaceconditionsonthemediationefficacyandperformanceofUVVisiblespectroscopyinstrumentalsolveeyehygienecases.Considerthefactorsincludingmaterialcompositionthicknessandgeometrythatmayimpactthesolutionperformance.Consideralsothefactorsincludingmaterialcompositionthicknessandgeometrythatmayimpactthesolutionperformance.Consideralsothefactorsincludingmaterialcompositionthicknessandgeometrythatmayimpactthesolutionperformance.Consideralsothefactorsincludingmaterialcompositionthicknessandgeometrythatmayimpactthesolutionperformance.Consideralsothefactorsincludingmaterialcompositionthicknessandgeometrythatmayimpactthesolutionperformance.Consideralsothefactorsincludingmaterialcompositionthicknessandgeometrythatmayimpactthesolutionperformance.Consideralsothefactorsincludingmaterialcompositionthicknessandgeometrythatmayimpactthesolutionperformance.Consideralsothefactorsincludingmaterialcompositionthicknessandgeometrythatmayimpactthesolutionperformance.Consideralsothefactorsincludingmaterialcompositionthicknessandgeometrythatmayimpactthesolutionperformance.Consideralsothefactorsincludingmaterialcompositionthicknessandgeometrythatmayimpactthesolutionperformance.Consideralsothefactorsincludingmaterialcomposition
+47,"def calculate_population_growth(population_data):
+    """"""
+    Calculate the population growth rate of a population dataset.
+
+    Args:
+        population_data (list): A list of tuples containing population data.
+
+    Returns:
+        float: The population growth rate.
+
+    Raises:
+        ValueError: If the population_data is not a list.
+        ValueError: If the population_data contains invalid data.
+
+    Examples:
+        >>> calculate_population_growth([(2020, 100), (2021, 105)])
+        		Output: 0.05
+
+        >>> calculate_population_growth([(2020, 100), (2021, 105), (2022, 110)])
+        		Output: 0.05
+
+        >>> calculate_population_growth([(2020, 100), (2021, 105), (2022, 110), (2023, 115)])
+        		Output: 0.05
+
+        >>> calculate_population_growth([(2020, 100), (2021, 105), (2022, 110), (2023, 115), (2024, 120)])
+        		Output: 0.05
+
+        >>> calculate_population_growth([(2020, 100), (2021, 105), (2022, 110),"
+48,"Question:
+Let x = -2.5 + 2.4. Let j = x + -0.1. Let u = j + -0.2. Which is the second smallest value?  (a) u  (b) -3/8  (c) -2/3
+Answer:
+b<|end_of_text|>"
+49,"Question:Design a Python function snippet to Determine Low Nail care: Moisturizing Hands for Analysis for Beginners. Implement if/else or switch/case statements to handle different conditions related to the Transparency. Provide detailed comments explaining your control flow and the reasoning behind each decision.
+
+Solution:Here is a python function which determines low nail health based on moisturization of hands:
+
+
+def determine_low_nail_health(hand_moisture):
+    """"""Determines whether hand moisturization level indicates poor nail health
+
+    Args:
+        hand_moisture (float):percentage of moisture content in hands
+    
+    Returns:
+        str:result indicating severity of nail damage
+        
+    Raises:
+        ValueError:If input value type is not float
+            
+    """"""
+
+    #Check input parameter type 
+    if isinstance(hand_moisture,float)==False:|isinstance(hand_moisture,int)==False|hand_moisture<=0|hand_moisture>=100:
+
+        raise ValueError(""Invalid Input"")
+
+    elif hand_moisture>=75:
+
+        return""Fair""
+
+    elif hand_moisture>=60:
+
+        return""ModeratelyPoor""
+
+    else:
+
+        return""SeverelyPoor""
+
+
+
+#Example usage:
+
+print(determine_low_nail_health(.8))
+
+Output:
+
+Fair
+
+Explanation:
+
+We check"
+50,"Question:
+Let g = -0.0124 - -0.01234055. What is g rounded to seven decimal places?
+Answer:
+0.0000006<|end_of_text|>"
+51,"Question:
+Let w = -0.0029 + -0.0028. What is w rounded to three decimal places?
+Answer:
+0<|end_of_text|>"
+52,"def calculate_average(numbers):
+
+    """"""Calculate the average of a list of numbers.""""""
+
+    total_sum = sum(numbers)
+
+    number_of_elements = len(numbers)
+
+    average = total_sum / number_of_elements
+
+    return average
+
+numbers = [3, 4, 5]
+
+calculate_average(numbers)
+
+<|end_of_text|>"
+53,"Question:
+What is prob of picking 1 j and 1 y when two letters picked without replacement from {j: 3, y: 2}?
+Answer:
+6/10<|end_of_text|>"
+54,"Question:
+Let u = -0.5 + -1.5. Let r = 1.9 - u. Let c = 0.2 + r. What is c rounded to zero dps?
+Answer:
+2<|end_of_text|>"
+55,"def count_primes(n):
+    """"""
+    Given a positive integer n, return the number of prime numbers less than or equal to n.
+
+    Example:
+        count_primes(10) => 4 (prime numbers less than or equal to 10 are 2, 3, 5, and 7)
+    """"""
+
+    count = 0
+
+    for i in range(2, n+1):
+        is_prime = True
+
+        for j in range(2, int(i**0.5)+1):
+            if i % j == 0:
+                is_prime = False
+
+        if is_prime:
+            count += 1
+
+    return count
+
+count_primes(10)
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 103/24?
+Answer:
+24<|end_of_text|>"
+57,"Question:
+Let w = -0.0067 + 0.0066971. What is w rounded to six decimal places?
+Answer:
+0<|end_of_text|>"
+58,"def nested_while_loops(numbers):
+    """"""
+    Given a list of numbers, iterate through each number and perform a nested while loop.
+
+    Args:
+        numbers: A list of numbers.
+
+    Returns:
+        None
+
+    Example:
+        >>> nested_while_loops([1, 2, 3])
+        None
+
+        >>> nested_while_loops([4, 5, 6])
+        None
+
+        >>> nested_while_loops([7, 8, 9])
+        None
+
+        >>> nested_while_loops([10, 11, 12])
+        None
+
+        >>> nested_while_loops([13, 14, 15])
+        None
+
+        >>> nested_while_loops([16, 17, 18])
+        None
+
+        >>> nested_while_loops([19, 20, 21])
+        None
+
+        >>> nested_while_loops([22, 23, 24])
+        None
+
+        >>> nested_while_loops([25, 26, 27])
+        None
+
+        >>> nested_while_loops([28, 29, 30])
+        None
+
+        >>> nested_while_loops([31, 32, 33])
+        None
+
+        >>> nested_while_loops([34, 35"
+59,"Question:
+What is the remainder when 55 is divided by 16?
+Answer:
+11<|end_of_text|>"
+60,"Question:
+Let h = -0.0466 - -0.0466197. What is h rounded to 5 decimal places?
+Answer:
+0.00012<|end_of_text|>"
+61,"Question:
+Let l = -0.0316 - -0.0315944. Round l to 6 dps.
+Answer:
+0.000016<|end_of_text|>"
+62,"Question:
+Let f = -0.4 - -0.4. Let v = -0.7 - f. Let z = 0.7 - v. What is z rounded to zero dps?
+Answer:
+0<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.0270214. Round o to 6 decimal places.
+Answer:
+0.000021<|end_of_text|>"
+64,"Question:
+Let q = -0.2 + 0.2. Let l = -1.1 - q. Let v = -0.1 + l. What is v rounded to one decimal place?
+Answer:
+0<|end_of_text|>"
+65,"Question:
+Let k = -0.046 - -0.0460000028. Round k to seven decimal places.
+Answer:
+0.0000028<|end_of_text|>"
+66,"Question:
+Let f = -1.3 + 0.8. Let o = -0.5 - f. Let h = o - -0.70000006. What is h rounded to seven dps?
+Answer:
+0.0000001<|end_of_text|>"
+67,"Question:Design a Python function snippet to Determine Extreme Transportation: Ride-Sharing Services for Analysis for Professionals. Implement if/else or switch/case statements to handle different conditions related to the Consent. Provide detailed comments explaining your control flow and the reasoning behind each decision.
+
+Solution:Here is python code which determines extreme transportation based upon ride sharing services analysis for professionals :
+
+	def determine_extreme_transport(mode_of_travel):
+	    """"""Determine whether given mode of travel qualifies as 
+	     'Extreme' based upon certain criteria
+		
+	    Args:
+	        mode_of_travel (str): Type of transport used ('car', 
+	            'bike', etc.)
+
+	    Returns:
+	        bool: Whether specified mode qualifies as 'Extreme'
+	       	elif condition_met():
+	           	return True			elif condition_not_met():
+	               	return False		 
+	    
+	    Raises:
+	        ValueError: If input value does not match expected types	
+	    """"""
+	    
+	    # Define variables used throughout function	
+	    min_distance 	  	       = 	  	       	5			min_speed 	      	     	       	70				max_time 	      	     	       	60			max_passengers 	      	     	       	4				max_capacity 	      	     	       	200			max_fuel_consumption 	      	     	       	25				max_emissions 	      	     	       	"
+68,"Question:
+What is the remainder when 36 is divided by 17?
+Answer:
+8<|end_of_text|>"
+69,"Question:
+Let d = -0.046 - -0.0460048. Round d to six dps.
+Answer:
+0.000005<|end_of_text|>"
+70,"Question: Which of the following is not true regarding membranous colitis -
+A. Continuous ileocolonic lesion
+B. Predominant involvement of rectum
+C. Segmental involvement of bowel
+D. Associated with ileocaecal lesion
+Answer: D<|end_of_text|>"
+71,"Question:
+Let l = 0.0218 + -0.0218179. What is l rounded to six decimal places?
+Answer:
+0.000082<|end_of_text|>"
+72,"Question:
+Let m = -0.0125 - -0.0125212. Round m to five dps.
+Answer:
+0.00008<|end_of_text|>"
+73,"def calculate_patient_risk(patient_info):
+    """"""
+    Calculate the risk score for a patient based on their medical history.
+
+    Parameters:
+        patient_info (dict): A dictionary containing the patient's medical history.
+
+    Returns:
+        risk_score (float): The calculated risk score for the patient.
+
+    Raises:
+        ValueError: If the input dictionary contains invalid keys or values.
+
+    Examples:
+        >>> calculate_patient_risk({'age': 45, 'gender':'male','medical_history':{'diabetes':True}})
+        {'risk_score':0.9}
+        >>> calculate_patient_risk({'age':45,'gender':'female','medical_history':{'hypertension':True}})
+        {'risk_score':0.8}
+    """"""
+
+    risk_score = {}
+
+    try:
+
+        if patient_info['age'] >=30:
+
+            risk_score['risk_score'] =0.9
+
+        elif patient_info['age']>=20:
+
+            risk_score['risk_score'] =0.8
+
+        elif patient_info['gender']=='male':
+
+            risk_score['risk_score'] =0.7
+
+        elif patient_info['gender']=='female':
+
+            risk_score['risk_score'] =0.6
+
+        elif patient_info['medical_history']['hypertension']:
+
+"
+74,"def slice_and_compare(my_list):
+
+    """"""Given a list of integers, slice the list into two halves and compare the sums.
+
+    Args:
+        my_list: A list of integers.
+
+    Returns:
+        A tuple containing two integers representing the sum of the two halves.
+
+    Examples:
+
+        >>> slice_and_compare([1, 2, 3])
+        (6, 6)
+
+        >>> slice_and_compare([1, 2, 3, 4])
+        (10, 10)
+
+        >>> slice_and_compare([1, 2, 3, 4, 5])
+        (15, 15)
+
+        >>> slice_and_compare([])
+        ()
+
+    """"""
+
+    # YOUR CODE HERE
+
+    return (sum(my_list[:len(my_list)//2]), sum(my_list[len(my_list)//2:]))
+
+slice_and_compare([1, 2, 3])
+slice_and_compare([1, 2, 3, 4])
+slice_and_compare([1, 2, 3, 4, 5])
+slice_and_compare([])
+slice_and_compare([])
+slice_and_compare([])
+slice_and_compare([])
+slice_and_compare([])
+slice_and_compare([])
+slice_and_compare([])
+slice_and_compare([])
+slice_and_compare([])
+slice_and_compare([])
+slice_and"
+75,"Question:Write a Python code snippet to Calculate Low Social Media: Sentiment Analysis for Decision Making for Professionals. Consider the Transparency and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here’s an example of/python code snippet calculating low social media sentiment analysis for professionals:
+
+	import tweepy
+	
+	consumer_key = 'YOUR_CONSUMER_KEY' # Replace this with your own consumer key	
+	consumer_secret = 'YOUR_CONSUMER_SECRET'#Replace this with your own consumer secret
+	
+	access_token = 'YOUR_ACCESS_TOKEN'#Replace this with your own access token
+	
+	access_token_secret = 'YOUR_ACCESS_TOKEN_SECRET'#Replace this with your own access token_secret
+	
+	auth = tweepy.OAuthHandler(consumer_key,consumer_secret)#Authenticate OAuth
+	
+	api=tweepy.API(auth)#Connect to Twitter
+	
+	search_query='professional'#Enter query
+	
+	results=tweepy.Cursor(api.search,q=search_query,count=100).items()#Run search
+	
+	for tweet in results[:10]:#Dry-run
+	
+	    print(tweet.user.screen_name,title=tweet.full_text)#Print user name,title
+	
+	    polarity=float(tweet.sentiment.polarity)#Get polarity score
+	
+	    if"
+76,"Question:
+Calculate prob of picking 1 n and 1 d when two letters picked without replacement from {n: 2, d: 1}.
+Answer:
+2/3<|end_of_text|>"
+77,"def create_room_layout(room_dimensions):
+    """"""
+    Given a tuple of room dimensions (length, width, height),
+    create a layout for the room using nested loops.
+
+    Args:
+        room_dimensions (tuple): Length, width, height of the room
+
+    Returns:
+        layout (list): A list of tuples representing the layout of the room
+
+    Raises:
+        ValueError: If the dimensions are invalid or non-positive integers
+
+    Example:
+        >>> create_room_layout((10, 10, 10))
+        [('Wall', 0), ('Wall', 1), ('Wall', 2), ('Wall', 3), ('Wall', 4), ('Wall', 5), ('Wall', 6), ('Wall', 7), ('Wall', 8), ('Wall', 9), ('Door', 0), ('Door', 1), ('Door', 2), ('Door', 3), ('Door', 4), ('Door', 5), ('Door', 6), ('Door', 7), ('Door', 8), ('Door', 9)]
+    """"""
+
+    layout = []
+
+    for dimension in room_dimensions:
+        for i in range(dimension):
+            if i == dimension - 1:
+               "
+78,"Question: Which of the following is not true regarding thrombotic thrombocytopenic purpura
+A. Increased platelet aggregation
+B. Decreased erythropoietin levels
+C. Increased von willebrand factor levels
+D. Decreased fibrinogen levels
+Answer: B<|end_of_text|>"
+79,"Question:
+Let x = -0.023 - -0.0230024. Round x to six decimal places.
+Answer:
+0.000002<|end_of_text|>"
+80,"Question:
+What is the next term in -12, -24, -36, -48, -60?
+Answer:
+-72<|end_of_text|>"
+81,"Question:
+Let o = -0.0162 + -0.0274. Let q = o - -0.0499. Round q to three decimal places.
+Answer:
+0.008<|end_of_text|>"
+82,"Question:
+Let u = -0.036 - -0.136. Let v = u + -0.09. Let k = v + 0.0300007. Round k to seven dps.
+Answer:
+0.0000007<|end_of_text|>"
+83,"Question:
+What is prob of picking 1 u and 1 f when two letters picked without replacement from {u: 2, f: 2}?
+Answer:
+2/3<|end_of_text|>"
+84,"def iterate_through_set(my_set):
+    """"""Iterate through a set using nested loops""""""
+
+    for item1 in my_set:
+        for item2 in item1:
+            print(item2)
+
+iterate_through_set({'item1': ['item2', 'item3'], 'item2': ['item4', 'item5'], 'item3': ['item6', 'item7']})
+<|end_of_text|>"
+85,"def modify_tuple_elements(my_tuple):
+    """"""
+    Modify the elements of a tuple using slicing.
+
+    Args:
+        my_tuple: The tuple to modify.
+
+    Returns:
+        The modified tuple.
+
+    Raises:
+        ValueError: If the input tuple is empty.
+
+    Examples:
+        >>> modify_tuple_elements(())
+        ()
+        >>> modify_tuple_elements(('hello',))
+        ('hello',)
+        >>> modify_tuple_elements(('hello', 'world'))
+        ('hello', 'world')
+    """"""
+    if not my_tuple:
+        raise ValueError(""Input tuple must not be empty."")
+
+    return tuple(my_tuple[1:])
+<|end_of_text|>"
+86,"Question:
+Calculate prob of picking 2 o when two letters picked without replacement from {o: 2, r: 1}.
+Answer:
+1/3<|end_of_text|>"
+87,"Question:Create a Python script snippet that Calculates Extreme Eye hygiene: Protecting Eyes from Injury for Decision Making for Beginners. Use if/else or switch/case statements to conditionally perform different actions based on the Consent. Dry-run, then include comments that outline the control flow and how you handle different scenarios.
+
+Solution:Here is a python script which calculates extreme eye hygiene protecting eyes from injuries during decision making process:
+
+ ```python 
+#Dry run ofcalculate_extreme_eye_hygiene function 
+
+def calculate_extreme_eye_hygienes(age,height):
+    #input validation 
+.age=int(input(""Enter Your Age""))
+.height=float(input(""Enter Your Height""))
+
+    #calculation 
+
+    if((age>=18)&(height>=65)):
+        print(""Congratulations!!Your eyesight is good enough."")
+        
+    elif((age>=18)&(height<65))|(age<=17)|(height<=65):    
+        print(""Sorry :(Your eyesight needs improvement!"")
+    
+    else:
+        print(""Invalid Input Entered!"")
+
+calculate_extreme_eye_hygienes(age,height)
+
+```<|end_of_text|>"
+88,"Question:
+Let w = 0.1 - -0.2. Let h = -0.6 + w. Let o = h - -0.7. Which is the closest to -1/4?  (a) -2/11  (b) o  (c) -3/8
+Answer:
+a<|end_of_text|>"
+89,"Question:
+Let g = -0.0319 - -0.0319000117. Round g to seven decimal places.
+Answer:
+0<|end_of_text|>"
+90,"def add_to_set(set_a,set_b):
+    """"""
+    Add elements from set_b to set_a.
+
+    Args:
+        set_a(list): Set of elements to add to set_b.
+        set_b(list): Set of elements to add to set_a.
+
+    Returns:
+        set_a(set): Set_a with elements from set_b added.
+
+    Examples:
+
+    >>> set_a = {'apple','banana','cherry'}
+    >>> set_b = {'orange','grape','strawberry'}
+    >>> add_to_set(set_a,set_b)
+    {'apple','banana','cherry','orange','grape','strawberry'}
+    """"""
+    return set_a.union(set_b)
+
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 44 is divided by 12?
+Answer:
+8<|end_of_text|>"
+92,"Question:
+Calculate prob of picking 1 n and 1 x when two letters picked without replacement from {x: 2, n: 2}.
+Answer:
+2/2<|end_of_text|>"
+93,"Question:
+Calculate prob of picking 2 z when two letters picked without replacement from {b: 5, z: 4}.
+Answer:
+3/14<|end_of_text|>"
+94,"Question:Build a Python module snippet that Calculates High Transportation: Ride-Sharing Services for Analysis for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Ethics. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here's some sample python code which implements high transportation analysis算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级运输分析算法的高级"
+95,"Question:
+Let o = 0.2 + -0.2. Let q = o - 0.2. Let j = 0.2 + q. Which is the closest to -1/3?  (a) j  (b) -1/2  (c) -2/3
+Answer:
+b<|end_of_text|>"
+96,"Question:
+Let f = -4.6 + 0.6. Let q = f + 5. Let x = q - 0.3. Which is the closest to -0.2?  (a) x  (b) -0.5  (c) -0.4
+Answer:
+c<|end_of_text|>"
+97,"Question:
+Let c = -0.5 - -0.3. Let u = c - -0.4. Let v = -0.5 + u. Which is the closest to v?  (a) -1/3  (b) 3  (c) -0.1
+Answer:
+a<|end_of_text|>"
+98,"Question:
+Let q = -4.96 - -5. Let f = q + -0.104. Let x = f - -0.394. What is x rounded to one dp?
+Answer:
+0.4<|end_of_text|>"
+99,"def calculate_median(patient_data):
+    """"""
+    Calculate the median of a list of patient data.
+
+    Args:
+        patient_data: A list of patient data in the format [{""patient_id"": int, ""age"": int},...].
+
+    Returns:
+        The median patient age.
+    """"""
+
+    patient_data.sort(key=lambda patient_data_item: patient_data_item[""age""])
+
+    median_age = patient_data[len(patient_data)//2][""age""]
+
+    return median_age
+
+patient_data = [{""patient_id"": 1, ""age"": 25}, {""patient_id"": 2, ""age"": 30}, {""patient_id"": 3, ""age"": 35}, {""patient_id"": 4, ""age"": 40}, {""patient_id"": 5, ""age"": 45}, {""patient_id"": 6, ""age"": 50}, {""patient_id"": 7, ""age"": 55}, {""patient_id"": 8, ""age"": 60}, {""patient_id"": 9, ""age"": 65}, {""patient_id"": 10, ""age"": 70}]
+
+median_age = calculate_median(patient_data)
+
+print(f""The median patient age is {median_age}."")
+<|end_of_text|>"
