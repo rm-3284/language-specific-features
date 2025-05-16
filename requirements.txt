@@ -17,3 +17,5 @@ umap-learn==0.5.7
 wandb==0.19.8
 nnsight==0.4.1
 beartype==0.20.2
+evaluate==0.4.3
+scikit-learn==1.6.1

@@ -64,14 +64,6 @@ def parse_args() -> Args:
     )
 
     parser.add_argument(
-        "--local-path",
-        help="local path to the dataset",
-        type=str,
-        default=[],
-        nargs="+",
-    )
-
-    parser.add_argument(
         "--lang",
         help="language(s) to be processed",
         type=str,

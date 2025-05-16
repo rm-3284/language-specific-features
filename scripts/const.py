@@ -319,7 +319,7 @@ prompt_templates = {
         "vie": "{sentence}",
         "jpn": "{sentence}",
         "kor": "{sentence}",
-        "cmn": "{sentence}",
+        "zho": "{sentence}",
     },
 }
 

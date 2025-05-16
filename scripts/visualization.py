@@ -763,25 +763,27 @@ def plot_combined_lape_lang_count(df_all_langs, title, out_dir):
         "7": "#7f7f7f",  # gray
         "8": "#bcbd22",  # olive
         "9": "#17becf",  # teal
-        "10": "#aec7e8", # light blue
-        "11": "#ffbb78", # light orange
-        "12": "#98df8a", # light green
-        "13": "#ff9896", # light red
-        "14": "#c5b0d5", # light purple
-        "15": "#c49c94"  # light brown
+        "10": "#aec7e8",  # light blue
+        "11": "#ffbb78",  # light orange
+        "12": "#98df8a",  # light green
+        "13": "#ff9896",  # light red
+        "14": "#c5b0d5",  # light purple
+        "15": "#c49c94",  # light brown
     }
-    
+
     # Group by Lang and sum Counts to determine sorting order
     lang_totals = df_copy.groupby("Lang")["Count"].sum().reset_index()
     lang_totals = lang_totals.sort_values("Count", ascending=True)
     sorted_langs = lang_totals["Lang"].tolist()
-    
+
     # Create a categorical column with custom order
-    df_copy["Lang"] = pd.Categorical(df_copy["Lang"], categories=sorted_langs, ordered=True)
-    
+    df_copy["Lang"] = pd.Categorical(
+        df_copy["Lang"], categories=sorted_langs, ordered=True
+    )
+
     # Sort the dataframe
     df_copy = df_copy.sort_values("Lang")
-    
+
     # Create figure with sorted x-axis
     fig = px.bar(
         df_copy,
@@ -790,7 +792,9 @@ def plot_combined_lape_lang_count(df_all_langs, title, out_dir):
         color="Layer",
         title=title,
         color_discrete_map=layer_colors,
-        category_orders={"Layer": [str(i) for i in range(16)]}  # Ensure layers are ordered from 0-15
+        category_orders={
+            "Layer": [str(i) for i in range(16)]
+        },  # Ensure layers are ordered from 0-15
     )
 
     fig.update_layout(
@@ -1094,3 +1098,63 @@ def save_image(path: Path, fig, working_dir: Path | None = None):
     fig.update_layout(title=None)
 
     fig.write_image(output_path)
+
+
+import numpy as np
+import plotly.express as px
+import plotly.graph_objects as go
+
+
+def plot_metrics(metric, output_dir: Path):
+    classes = metric["classes"]
+    precision = metric["precision"]
+    recall = metric["recall"]
+    f1 = metric["f1"]
+    confusion_matrix = np.array(metric["confusion_matrix"])
+
+    # Bar plot for per-class metrics
+    fig = go.Figure()
+    fig.add_trace(go.Bar(x=classes, y=precision, name="Precision"))
+    fig.add_trace(go.Bar(x=classes, y=recall, name="Recall"))
+    fig.add_trace(go.Bar(x=classes, y=f1, name="F1"))
+
+    fig.update_layout(
+        barmode="group",
+        title="Per-Class Precision, Recall, and F1 Score",
+        yaxis_title="Score",
+        xaxis_title="Class",
+        yaxis=dict(range=[0, 1.05]),
+    )
+
+    os.makedirs(output_dir, exist_ok=True)
+
+    output_path = output_dir / "metrics.html"
+
+    fig.write_html(
+        output_path,
+        include_plotlyjs="cdn",
+    )
+
+    save_image(output_path, fig)
+
+    # Confusion matrix heatmap
+    fig_cm = px.imshow(
+        confusion_matrix,
+        x=classes,
+        y=classes,
+        color_continuous_scale="Blues",
+        labels=dict(x="Predicted", y="True", color="Count"),
+        title="Confusion Matrix",
+        text_auto=True,
+        aspect="auto",
+    )
+    fig_cm.update_xaxes(side="top")
+
+    output_path = output_dir / "confusion_matrix.html"
+
+    fig_cm.write_html(
+        output_path,
+        include_plotlyjs="cdn",
+    )
+
+    save_image(output_path, fig_cm)

@@ -66,17 +66,25 @@ def load_dataset_specific(
 ) -> Dataset:
     end = -1 if isinf(end) else end
 
-    dataset = hg_load_dataset(
-        dataset_name,
-        config_name,
-        split=f"{split}[{start}:{end}]",
-        trust_remote_code=True,
-    )
-
     if filter_by_label:
+        dataset = hg_load_dataset(
+            dataset_name,
+            config_name,
+            split=split,
+            trust_remote_code=True,
+        )
+
         labels = dataset.features["label"].names
         label_index = labels.index(filter_by_label)
         dataset = dataset.filter(lambda row: row["label"] == label_index)
+        dataset = dataset.select(range(start, end))
+    else:
+        dataset = hg_load_dataset(
+            dataset_name,
+            config_name,
+            split=f"{split}[{start}:{end}]",
+            trust_remote_code=True,
+        )
 
     return dataset
 
