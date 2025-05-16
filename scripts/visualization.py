@@ -1034,6 +1034,11 @@ def plot_ppl_change_matrix(
 
     fig.write_html(output_path, include_plotlyjs="cdn")
 
+    fig.update_xaxes(tickfont=dict(size=16), title_text=None)
+    fig.update_yaxes(tickfont=dict(size=16), title_text=None)
+    fig.update_traces(textfont_size=6)
+    fig.update_coloraxes(showscale=False)
+
     save_image(output_path, fig)
 
 
