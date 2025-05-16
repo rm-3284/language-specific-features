@@ -10,7 +10,6 @@ from const import hookpoint_to_layer
 from delphi.clients import Offline, OpenRouter
 from delphi.config import CacheConfig, RunConfig
 from delphi.explainers import ContrastiveExplainer, DefaultExplainer
-from scripts.latent_contexts_visualization import plot_examples
 from delphi.latents import LatentCache, LatentDataset
 from delphi.latents.neighbours import NeighbourCalculator
 from delphi.log.result_analysis import log_results
