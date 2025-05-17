@@ -1,0 +1,515 @@
+seed,generated_text
+0,"Question:Write a Python code snippet to Transform Low Weather: Temperature for 0-10 °C in 10 °C. Consider the Safety in your answer. The result should be between 0 and 10. Hint: You can use the f-string to format the output.
+
+Solution:Here is a python code which will transform low temperature from -10 to 10 degree celsius. The program checks the inputted value and returns the result.<|end_of_text|>"
+1,"Question:
+Let d = 0.2 + -0.3. Let s = 0.2 + d. Let b = s - -0.6. What is b rounded to 1 dp?
+Answer:
+-0.6<|end_of_text|>"
+2,"Question:
+Let l = -3.4 - -3. Let m = 0.2 - l. Let n = m + -0.2. Which is the closest to 0?  (a) -2/5  (b) n  (c) -3
+Answer:
+a<|end_of_text|>"
+3,"Question:
+Let g = 0.4 - -0.2. Let k = g - 0.3. Let m = -0.3 + k. Which is the closest to 0.1?  (a) m  (b) -0.3  (c) 2/9
+Answer:
+c<|end_of_text|>"
+4,"Question:
+Let v = 0.02 - -1.98. Let t = 1.7 - v. Let o = t + 0.3. Which is the nearest to 2/3?  (a) -1/2  (b) o  (c) 1/5
+Answer:
+c<|end_of_text|>"
+5,Question:Develop a Python program that checks whether the given string is a palindrome. Do not use any libraries.<|end_of_text|>
+6,"def nested_ternary_slicing(my_list):
+    """"""
+    Given a list, return a new list with the first element of the list,
+    followed by the last element of the list, followed by the third element
+    of the list, followed by the first element of the list, and so on.
+    """"""
+    new_list = []
+    for i in range(0, len(my_list), 2):
+        new_list.append(my_list[i])
+    return new_list
+<|end_of_text|>"
+7,# 2.3.3.1. The 2.3.3.1.1.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.2.
+8,"Question:Develop a Python program that calculates the number of digits in a given number. For example, in the number 123, the number of digits is 3. In the number 12345, the number of digits is 5. In the number 123.123, the number of digits is 3.
+<|end_of_text|>"
+9,"Question:
+Let r = -0.2 - -0.1. Let p = 0.7 - r. Let l = p - 0.1. Which is the nearest to l?  (a) 2/9  (b) -3  (c) 0.1
+Answer:
+c<|end_of_text|>"
+10,"Question:Create a C# script fragment that will display the number of seconds since the start of the program.
+<|end_of_text|>"
+11,"Question: A 54-year-old man is admitted to the hospital after an operation. The operation was performed for a large, soft, and mobile thyroid nodule. He has had a history of lung cancer. He is in NIV. His TSH is 0.5 mU/L. His BUN is 45 mg/dl, and his creatinin is 1.1 mg/dl. His complete blood count is normal. A diagnosis of thyroplasm is made. Which of the following is the most appropriate diagnosis?
+A. Malignant
+B. Benign
+C. Parafolıcı
+D. Hilar
+Answer: A<|end_of_text|>"
+12,"Question:
+Let r = 1.5 + -0.5. Let f = 2.7 - r. Let t = -0.7 - f. Which is the nearest to 0?  (a) -1  (b) t  (c) 2
+Answer:
+b<|end_of_text|>"
+13,"Question:
+Let h = -0.1 + 0.1. Let i = 0.6 + h. Let x = 0.6 - i. Which is the closest to -1?  (a) -4  (b) x  (c) 1/3
+Answer:
+b<|end_of_text|>"
+14,"Question:Design a C# function that checks whether a given number is a palindrome. For example, for number 1235, the function should return true. For number 1234, the function should return false. For number 10, the function should return true.<|end_of_text|>"
+15,"Question:
+Let y = -0.01 - 0.31. Let m = -0.5 - y. Let r = 1.4 - m. Which is the nearest to 1?  (a) r  (b) 3/2  (c) -2/11
+Answer:
+b<|end_of_text|>"
+16,"Question:
+Let g = -0.03 + 0.3. Let b = 0.4 + g. Let l = -0.2 - b. Which is the smallest value?  (a) l  (b) -2  (c) 0.3
+Answer:
+b<|end_of_text|>"
+17,"Question:
+Let f = 0.2 - 0.2. Let h = 0.3 + 1.7. Let k = h - f. What is k rounded to 1 decimal place?
+Answer:
+1.9<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - -0.2. Let o = -2.8 + y. Let g = o - -3.9999961. Round g to 6 decimal places.
+Answer:
+-0.000004<|end_of_text|>"
+19,"Question: A 2 year old child is brought by his parents. He is found to have a 1.5 kg of extra adipose tissue in the neck, a 1.5 kg of extra adipose tissue in the upper tibia, a 1.5 kg of extra adipose tissue in the lower tibia, a 1.5 kg of extra adipose tissue in the upper tibia, a 1.5 kg of extra adipose tissue in the lower tibia. The child is found to be normal in the rest of the body. The most probable diagnosis is:
+A. Lardaceous Dermatol
+B. Fatty Nephro
+C. Lardaceous Dermal
+D. Fatty Nek
+Answer: A<|end_of_text|>"
+20,"Question: Which of the following is a feature of the H. sapiens?
+A. 2.2 x 10^6 nucleotides
+B. 3.5 x 10^5 nucleotides
+C. 3.5 x 10^5 nucleotides
+D. 2.2 x 10^6 nucleotides
+Answer: D<|end_of_text|>"
+21,"Question:
+Let g = -0.1 + -1.9. Let y = 1.9 + g. Let k = 2.3 + y. Which is the closest to 0.1?  (a) -2/5  (b) k  (c) -2
+Answer:
+a<|end_of_text|>"
+22,"Question: Which of the following is a risk factor for Acute Graft- Vincantria Dergi
+A. 6 months after transplant
+B. A 3 year old child
+C. 5 years after transplant
+D. 2 years after transplant
+Answer: A<|end_of_text|>"
+23,"Question: Which of the following is not a feature of atherosclerosis?
+A. Vascular dilation
+B. Vascular stenosis
+C. Vascular aneurysm
+D. Vascular thrombosis
+Answer: A<|end_of_text|>"
+24,"Question: The following is not a risk factor for deep venous thrombosis
+A. Prolonged aeron flight
+B. Old person
+C. A patient with a cardiac surgery
+D. Posterior or lower segment of the a e
+Answer: A<|end_of_text|>"
+25,"# Hızır, Yemişçi
+
+Hızır (also, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır, Hızır,"
+26,"Question:
+Let s = -4.9 + -5.1. Let a = 6.8 + s. Let t = -1.4 - a. What is t rounded to one dp?
+Answer:
+0.6<|end_of_text|>"
+27,"Question:Develop a Python program that checks whether a number is a multiple of 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, "
+28,"Question:
+Let t = 0.05 - 0.31. Let i = 0.2 - t. Let r = -0.3 - i. Which is the nearest to r?  (a) 2/9  (b) 1/5  (c) 1/2
+Answer:
+b<|end_of_text|>"
+29,"Question:Write a Bash code snippet to Update Low Flossing: A Dental Aesthetic Problem for Engineer. Consider the Reliability and implement appropriate if/else, switch/ case, or for/ while conditional structures. Then, test the code with different input combinations.<|end_of_text|>"
+30,"Question:
+Let y = -0.1 - -0.1. Let s = y - -0.5. Let u = s - -0.4. Which is the closest to 0?  (a) -3/2  (b) u  (c) 0.2
+Answer:
+c<|end_of_text|>"
+31,"Question:
+Let m = -1.7 - -1.8. Let i = 0.1 + m. Let o = -0.4 + i. Which is the nearest to o?  (a) 0.4  (b) 1/3  (c) 3/5
+Answer:
+b<|end_of_text|>"
+32,"Question:
+Let i = 0.002 - -0.996. Let x = 0.8 - 1. Let m = x - i. What is m rounded to two dps?
+Answer:
+-0.2<|end_of_text|>"
+33,"def nested_ternary_list_comprehension(my_list):
+    """"""
+    Return a list of elements from my_list that are not equal to 0.
+    Use nested ternary operators to check if an element is 0.
+    Use list comprehension to create a new list.
+    """"""
+    return [x for x in my_list if x!=0]
+<|end_of_text|>"
+34,"Question: Which of the following is not a feature of anaplastic le Sini
+A. Cytol
+B. Cing кровü
+C. Proliferatif
+D. Töbü
+Answer: A<|end_of_text|>"
+35,"Question:
+What is 0.2 take away -0.2?
+Answer:
+0.4<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -1.6. Let r = o + 1. Let t = r + -1.7. Which is the nearest to 0?  (a) t  (b) 1/6  (c) 3
+Answer:
+b<|end_of_text|>"
+37,"# List of 2016 television dramas
+
+The following is a list of 2016 television dramas.<|end_of_text|>"
+38,"Question:
+What is the common denominator of 33/10 and 89/10?
+Answer:
+10<|end_of_text|>"
+39,"Question:
+Let t = -0.12 + -1.88. Let k = t - -1.6. Let m = 1.7 + k. What is m rounded to 0 dps?
+Answer:
+-3<|end_of_text|>"
+40,"# 7.6: The Gini Index (A.5.3) (2.2.2)
+
+## Gini index
+
+The Gini index is a measure of the dispersion of the distribution. It is calculated by the ratio of the sum of the squares of the deviations from the mean to the total of the deviations from the mean. It is calculated as follows:
+
+Gini = (s2 / n) / (s2 / n + s2 / n-1) = (s2 / n2) / (s2 / n + s2 / n-1) = (s2 / n2) / (s2 / n2 + s2 / (n-1)2) = 1 / (1 + s2 / n2)
+
+Gini index is the ratio of the sum of the squares of the deviations from the mean to the total of the deviations from the mean. It is calculated as follows:
+
+Gini = (s2 / n) / (s2 / n + s2 / n-1) = (s2 / n2) / (s2 / n + s2 / n-1) = 1 / (1 + s2 / n2)
+
+## Gini"
+41,"Question:
+Let a = -1.1 + 1. Let t = a - -1.2. Let d = -2.9 + t. What is d rounded to 1 decimal place?
+Answer:
+-2.1<|end_of_text|>"
+42,"Question:
+Let l = 0.3 - 0.3. Let s = -0.3 + l. Let d = s - -0.4. What is d rounded to 1 dp?
+Answer:
+1<|end_of_text|>"
+43,"Question:
+Let k = -0.2 + -3.8. Let h = k + 4.00000038. Round h to 7 decimal places.
+Answer:
+0.0000004<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + 0.9. Let m = o + -1.5. Let n = -0.4 + m. Which is the nearest to n?  (a) -2/5  (b) -0.4  (c) 2/5
+Answer:
+c<|end_of_text|>"
+45,"Question: A 60-year-old man is admitted to the emergency room with a 2 day history of febrility, facial palsy, and weakness. The patient is a 60-year-old man who has a 2 day history of fever, facial palsy, and weakness. His family reports that the patient had a similar episode 2 years ago, but he recovered. He is a 60-year-old man who has a 2 day history of fever, facial palsy, and weakness. His family reports that the patient had a similar episode 2 years ago, but he recovered. His family reports that the patient had a similar episode 2 years ago, but he recovered. His family reports that the patient had a similar episode 2 years ago, but he recovered. His family reports that the patient had a similar episode 2 years ago, but he recovered. His family reports that the patient had a similar episode 2 years ago, but he recovered. His family reports that the patient had a similar episode 2 years ago, but he recovered. His family reports that the patient had a similar episode 2 years ago, but he recovered. His family reports that the patient had a similar episode 2 years ago, but he recovered. His family"
+46,"Question:Write a Python code snippet to Check High Flossing: Flossing Style for Decision Making for Professionals. Consider the Reliability and implement appropriate if/else, switch, or conditional statement. Dry run, then provide comments explaining your reasoning for each decision. Then, include a description of the final result.<|end_of_text|>"
+47,"# A 1.2 m uzunluğundaki bir kablo, bir 5 m uzunluğundaki bir kablının 3.5 kere kümesi. Nasıl hesaplanır?
+
+## A 1.2 m uzunluğundaki bir kablo, bir 5 m uzunluğundaki bir kablının 3.5 kere kümesi. Nasıl hesaplanır?
+
+## 1.2 m uzunluğundaki bir kablo, bir 5 m uzunluğundaki bir kablının 3.5 kere kümesi. Nasıl hesaplanır?<|end_of_text|>"
+48,"Question: Which of the following is not a feature of non anemic anemia?
+A. Erythroid hyperplasia
+B. Decreased RBC count
+C. Siderosis
+D. Anemia of chronic disease
+Answer: B<|end_of_text|>"
+49,Question:Design a Python function. The function should return the number of characters in the string. The function should be as short as possible.<|end_of_text|>
+50,"Question:
+Let g = 0.2 - 0.2. Let z = 0.2 + 1.8. Let l = 1.8 - z. Which is the closest to g?  (a) l  (b) -0.5  (c) 2/9
+Answer:
+c<|end_of_text|>"
+51,"Question:
+Let d = 0.0029 - -0.0028. Let m = d + -0.10000066. Round m to 6 decimal places.
+Answer:
+-0.000001<|end_of_text|>"
+52,"def create_list(numbers):
+    """"""Create a list from a given list of numbers, but only include the numbers that are divisible by 3 and 5.
+    :param numbers: A list of numbers
+    :return: A list of numbers that are divisible by 3 and 5
+    """"""
+    result = []
+    for num in numbers:
+        if num % 3 == 0 and num % 5 == 0:
+            result.append(num)
+    return result
+<|end_of_text|>"
+53,"Question:
+What is the common denominator of 3/16 and -53/4?
+Answer:
+16<|end_of_text|>"
+54,"Question: Which of the following is not a feature of a case of acute intermittent porphyrin?
+A. Pembe stools
+B. Dusun
+C. Uremia
+D. Kuru
+Answer: B<|end_of_text|>"
+55,"def count_cultures(cultures):
+    """"""Return the number of cultures in the list.""""""
+    # Your code here
+    return len(cultures)
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of 11/8 and 7/5?
+Answer:
+40<|end_of_text|>"
+57,"Question:
+Let d = -0.0547 + 0.0447. Let i = 4.5 - 4. Let f = i - d. What is f rounded to two decimal places?
+Answer:
+-0.1<|end_of_text|>"
+58,"def nested_ternary(a, b, c):
+    """"""
+    Given three integers, a, b, and c, return the result of the following expression:
+    a?b?c?d: e
+    """"""
+    return (a and b and c) or (a or b or c) or (a or b and c)
+<|end_of_text|>"
+59,"Question:
+What is the common denominator of 1/2 and 57/10?
+Answer:
+10<|end_of_text|>"
+60,"Question:Develop a Python program that calculates the total of a list of numbers. The list can have an unlimited number of elements. The program should be able to handle negative and positive numbers. The program should also be able to handle a list that has the same number of elements in the same order. The program should be able to handle a list that has an element that is not in the list.
+``` 
+# program to calculate the total of a list
+import math
+def total_list():
+    # list of integers
+    list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    # sum of the list
+    sum = 0
+    # loop to iterate through the list
+    for i in list:
+        sum += i
+    return sum
+print(""The total of the list is: "", total_list())
+
+# program to calculate the total of a list with an element not in the list
+import math
+def total_list_not_in_list():
+    # list of integers
+    list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12"
+61,"Question:
+Let l = -7.9 - -7.9. Let p = -0.3 + 0.3. Which is the third smallest value?  (a) l  (b) p  (c) -0.1
+Answer:
+a<|end_of_text|>"
+62,"Question:
+Let f = -0.4 - -0.4. Let a = f - -0.3. Let z = 0.7 - a. What is z rounded to 1 dp?
+Answer:
+0.6<|end_of_text|>"
+63,"Question:
+Let o = -1.5 + 1.5. Let r = 4.6 - 4.6. Let m = r + o. Which is the closest to 0?  (a) 2/11  (b) m  (c) 0.4
+Answer:
+a<|end_of_text|>"
+64,"Question:
+Let i = -1.6 + 1.6. Let b = -1.1 - i. Let l = -0.2 + 0.2. Which is the closest to l?  (a) 0.2  (b) 1/3  (c) b
+Answer:
+a<|end_of_text|>"
+65,"Question:
+Let k = -0.2 - -0.2. Let m = k + 0.3. Let t = -0.4 - m. What is t rounded to 1 dp?
+Answer:
+-1.1<|end_of_text|>"
+66,"Question: Which of the following is not a component of the normal afferent for the cerebrum?
+A. Dorsal afferent
+B. Anterior afferent
+C. Posterior afferent
+D. Anterior and posterior afferent
+Answer: A<|end_of_text|>"
+67,"Question:Design a Python function. The function should check if a given integer is a palindrome. If the integer is not a palindrome, the function should return ""The integer is not a palindrome"". If the integer is a palindrome, the function should return ""The integer is a palindrome"".
+<|end_of_text|>"
+68,"Question:
+What is 3.9 take away 0.2?
+Answer:
+3.7<|end_of_text|>"
+69,"Question:
+Let i = -0.1 - 0.3. Let a = 1.3 + i. Let m = -1.7 - a. What is m rounded to the nearest integer?
+Answer:
+2<|end_of_text|>"
+70,"Question: The most common cause of acute respiratory distress in a 2 year old child is
+A. Pneemalasia
+B. Laryngotriniel
+C. Trigemini
+D. Atria
+Answer: A<|end_of_text|>"
+71,"Question:
+Let a = 0.3 - 0.2. Let r = -0.3 - a. Let i = 2.4 - r. What is i rounded to 1 dp?
+Answer:
+2.7<|end_of_text|>"
+72,"Question:
+Let m = 0.4 + 0.6. Let d = 0.4 + m. Let z = -0.9 - d. What is z rounded to 1 dp?
+Answer:
+-0.9<|end_of_text|>"
+73,"def is_even(a):
+    """"""Determine if a number is even or not
+    :param a: an integer
+    :return: True if a is even, False if a is not
+    """"""
+    if a % 2 == 0:
+        return True
+    else:
+        return False
+<|end_of_text|>"
+74,"def get_oldest_age(people):
+    """"""
+    Return the oldest age of the people in the list
+    :param people: A list of dictionaries containing information about the people
+    :return: The oldest age
+    """"""
+    oldest_age = 0
+    for person in people:
+        if person[""age""] > oldest_age:
+            oldest_age = person[""age""]
+    return oldest_age
+<|end_of_text|>"
+75,"Question: A 3 year old child is having a history of 2 episodes of convulsions. On examination, he is found to be having a normal gait, normal motor movements, normal facial musculature, normal deep motor responses, and normal postural balance. His EEG is normal. Which of the following is the most appropriate diagnosis?
+A. Epilepsia Bulün
+B. Epilepsia spazm
+C. Epilepsia tardig
+D. Epilepsia clonik
+Answer: D<|end_of_text|>"
+76,"Question:
+Calculate prob of picking 1 n, 1 d, and 2 r when four letters picked without replacement from {n: 1, d: 1, r: 1, t: 2}.
+Answer:
+0<|end_of_text|>"
+77,"def create_a_tuple_from_a_list(my_list):
+    """"""Create a tuple from a list""""""
+    # Write your code here
+    return tuple(my_list)
+<|end_of_text|>"
+78,"Question: Which of the following is not a feature of the 'old' Ileum?
+A. Sessilar
+B. Aper
+C. Mucosa
+D. Graft
+Answer: C<|end_of_text|>"
+79,"Question:
+Let n = 1.7 - 1.8. Let f = 0.03 - n. Let b = f - -1.99999982. Round b to 7 dps.
+Answer:
+-0.0000002<|end_of_text|>"
+80,"Question:
+What is the next term in 5, 24, 65, 136, 237, 390, 575?
+Answer:
+808<|end_of_text|>"
+81,"Question:
+Let o = -2.6 - -2.6. Let a = 0.2 - o. Let i = -0.1 - a. Which is the nearest to i?  (a) -3/4  (b) 2/5  (c) -0.2
+Answer:
+c<|end_of_text|>"
+82,"Question:
+Let g = -0.3 - 0.1. Let v = g + 0.3. Let k = -1.4 + v. What is k rounded to one decimal place?
+Answer:
+-0.8<|end_of_text|>"
+83,"Question:
+Let x = 0.7 - 0.7. Let h = 0.2 + x. Let d = 0.3 + h. Which is the nearest to 2/3?  (a) -1/5  (b) 2/3  (c) d
+Answer:
+b<|end_of_text|>"
+84,"def update_athlete_stats(athlete, new_stats):
+    """"""
+    Update the statistics of an athlete.
+
+    :param athlete: The athlete to update
+    :param new_stats: The new statistics to update
+    :return: The updated statistics
+    """"""
+    # Update the athlete's stats
+    for key, value in new_stats.items():
+        if key == ""points"":
+            athlete.points = value
+        elif key == ""assists"":
+            athlete.assists = value
+        elif key == ""rebounds"":
+            athlete.rebounds = value
+        elif key == ""steals"":
+            athlete.steals = value
+        elif key == ""blocks"":
+            athlete.blocks = value
+        elif key == ""turnover"":
+            athlete.turnover = value
+        elif key == ""fouls"":
+            athlete.fouls = value
+        elif key == ""rebounds"":
+            athlete.rebounds = value
+        elif key == ""assts"":
+            athlete.assists = value
+        elif key == ""points"":
+            athlete.points = value
+        elif key == ""reb"":
+            athlete.reb = value
+        elif key == ""ast"":
+            athlete.ast = value
+        elif key == ""stor"":
+            athlete"
+85,"def nested_ternary_list(outer_list, inner_list, condition):
+    """"""
+    Given two lists, outer_list and inner_list, and a condition,
+    return a list of elements from the inner list, but only if the element
+    is greater than the corresponding element in the outer list.
+    """"""
+    return [element for element in inner_list if element > outer_list[inner_list.index(element)]]
+
+<|end_of_text|>"
+86,"Question: In which of the following condition, the risk of anemia is highest?
+A. Anemia of chronic disease
+B. Anemia of chronic illness
+C. Anemia of chronic disease with iron deficiency
+D. Anemia of chronic disease with iron deficiency and B.1
+Answer: B<|end_of_text|>"
+87,"Question: The most common cause of anemia in a 5 year old child is
+A. Sideroblastic anemia
+B. Graft failure
+C. Aplastic anemia
+D. Anemia of chronic disease
+Answer: D<|end_of_text|>"
+88,"Question:
+Let i = 0.1 - -0.9. Let s = -0.6 + i. Let m = 1.5 + s. What is m rounded to the nearest integer?
+Answer:
+-1<|end_of_text|>"
+89,"Question:
+Let n = -0.6 - 0.4. Let m = 0.6 - n. Let d = m - 0.3. What is d rounded to one dp?
+Answer:
+-0.2<|end_of_text|>"
+90,"def add_furniture_to_room(furniture_list, room):
+    """"""
+    Adds furniture to a room.
+
+    :param furniture_list: A list of furniture to be added to the room.
+    :param room: The room to which the furniture is to be added.
+    :return: The updated list of furniture.
+    """"""
+    # Add the furniture to the room
+    for furniture in furniture_list:
+        if furniture in room:
+            # If the furniture is already in the room, return the list
+            return furniture_list
+        else:
+            # If the furniture is not in the room, add it
+            room.add(furniture)
+            # Return the updated list
+            return furniture_list
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 44 is divided by 12?
+Answer:
+4<|end_of_text|>"
+92,"Question:
+Calculate prob of picking 1 n and 1 a when two letters picked without replacement from {n: 2, k: 2, a: 2, f: 1, i: 2}.
+Answer:
+2/15<|end_of_text|>"
+93,"Question:
+Let i = 0.2 - -1.8. Let l = 1.9 - i. Let f = -0.9 - l. Which is the closest to 1?  (a) f  (b) 2/7  (c) -3
+Answer:
+b<|end_of_text|>"
+94,"Question: The most common type of renal anastomosis for a 4.5 year old child with a 5.5 cm renal cyst is
+A. Ureteroanastom
+B. Ureter-ileostom
+C. Ureter-ureter anastom
+D. Ureter-ileo anastom
+Answer: B<|end_of_text|>"
+95,"Question:
+Let o = 0.2 + 1.8. Let b = o - 1. Let t = 2.4 + b. What is t rounded to 0 dps?
+Answer:
+-3<|end_of_text|>"
+96,"# 2023-01-29
+# https://www.hackcik.com/2023/01/29/2-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-"
+97,"Question:
+Let c = 0.5 - -0.5. Let u = c - 1. Let n = u - 1.5. Which is the nearest to -1/4?  (a) n  (b) 5  (c) -2
+Answer:
+a<|end_of_text|>"
+98,"Question:Develop a Python program that calculates the total of the given list.
+<|end_of_text|>"
+99,"def nested_ternary_slicing(my_list):
+    """"""
+    Given a list of integers, return a new list with the first and last elements of the original list, and the first and last elements of the new list.
+
+    Hint: You can use the `len` function to get the length of a list.
+    """"""
+    return [my_list[0], my_list[-1], my_list[0], my_list[-1]]
+<|end_of_text|>"

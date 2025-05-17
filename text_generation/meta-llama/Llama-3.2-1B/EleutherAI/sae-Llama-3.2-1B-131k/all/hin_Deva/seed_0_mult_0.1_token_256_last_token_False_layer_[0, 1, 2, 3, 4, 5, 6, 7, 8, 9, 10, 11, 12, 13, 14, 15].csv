@@ -1,0 +1,1114 @@
+seed,generated_text
+0,"Question:Write a Python code snippet to Display Low Weather: Temperature for Engineer for Professionals. Consider the Safety and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the overall code is structured.
+
+Solution:Here is a python program which displays low weather temperature based upon user inputted location : 
+
+```python 
+# Import required libraries 
+import requests 
+from bs4  import BeautifulSoup 
+  
+# Function to get current weather details 
+def getCurrentWeather(city_name): 
+    # API key 
+    API_KEY = ""YOUR_API_KEY"" 
+  
+    # URL 
+    url = ""https://www.example.com/api/v1/temperature"" 
+  
+    # Request 
+    r = requests.get(url, params={""city"": city_name}, auth=(API_KEY, """")) 
+  
+    # Parse HTML 
+    soup = BeautifulSoup(r.content, 'html5lib') 
+  
+    # Get temperature 
+    temp = soup.find('div', class_='temperature').text 
+    return float(temp) 
+  
+ # Main function 
+if __name__ == '__main__': 
+    city = input(""Enter City Name:"") 
+    try: 
+        temp = getCurrentWeather(city) 
+        print(""Current Temperature:"",round"
+1,"Question:
+Let d = 0.03 + -0.13. Let s = 0.02 + d. Let u = s - -0.01. What is u rounded to 2 dps?
+Answer:
+0<|end_of_text|>"
+2,"Question:
+Let l = -3 + 5. Let c = 0.03 + -0.17. Let i = l + c. Which is the closest to i?  (a) 0.4  (b) 3  (c) -3
+Answer:
+a<|end_of_text|>"
+3,"Question:
+Let g = 0.11 - -0.49. Let k = -0.04 - 0.03. Let y = k + g. Which is the closest to 0?  (a) -0.1  (b) y  (c) 3
+Answer:
+a<|end_of_text|>"
+4,"Question:
+Let v = 0.02 - -0.08. Let m = 0.17 + v. Let o = m + -0.08. Which is the nearest to 1?  (a) -1/3  (b) 0.4  (c) o
+Answer:
+b<|end_of_text|>"
+5,"Question:Develop a TypeScript program snippet to Update Extreme Foot care: Wearing Comfortable Shoes for Analysis for Beginners. Incorporate if/else or switch/case statements to handle various cases related to the Consent. Dry-run, ensure your control flow is clear and that the code renders the expected output.
+
+Solution:Here's some sample code written in Typescript which implements logic to update ""Extreme Foot Care - Wearing Comfortable Shoes"" article based on user input regarding their consent:
+
+ ```typescript 
+import { Article } from './article';
+import { Section } from './section';
+
+export function updateArticle(input: string): Article {
+  const article = new Article('Extreme Foot Care', 'Wearing Comfortable Shoes', 'Analysis for Beginners');
+
+  // Check whether user has provided valid consent
+  let consent = false;
+  if (input === 'yes') {
+    consent = true;
+  } else if (input === 'no') {
+    consent = false;
+  } else {
+    throw new Error(""Invalid input"");
+  }
+  
+  if (consent) {
+    // Add new section about wearing comfortable shoes
+    const newSection = new Section('Section 1', 'Wearing Comfortable Shoes', 'A detailed explanation of how to choose the right pair"
+6,"def count_even_numbers(numbers):
+    """"""
+    Write a function that takes a list of numbers and returns the count of even numbers.
+    Use the count() method and the enumerate() function.
+    """"""
+    count = 0
+    for i, num in enumerate(numbers):
+        if num % 2 == 0:
+            count += 1
+    return count
+<|end_of_text|>"
+7,"# 1968–69 Northampton Town F.C. season
+
+The 1968–69 season was Northampton Town's 22nd consecutive season in the Football League.
+
+| 1968–69 season |
+| Manager |  |
+| Stadium | County Ground |
+| Football League First Division | 9th |
+| FA Cup | First round |
+|  |
+
+Northampton Town
+
+## Summary
+
+Northampton Town's 22nd consecutive season in the Football League, they played 42 games, 34 in the Football League First Division, 3 in the FA Cup and 5 in the Football League Cup. They finished 9th in the First Division and 1–1–1–1 in the Football League Cup. They also played 3 matches in the FA Cup, losing 3–0 to Everton, 2–0 to Cardiff City and 2–1 to Oldham Athletic.
+
+## Football League First Division
+
+Main article: 1968–69 Football League First Division| Date | Opponent | Venue | Result | Attendance | Ref |
+| 16 August 1968 |  | Highbury | 1–0 |  |  |
+| 23 August 1968 |  | Oldham Athletic | "
+8,"Question:Develop a Python program snippet to Check High Security: Identity Verification for Engineer for Professionals. Incorporate if/else or switch/case statements to handle various cases related to the Ethics. Dry-run, ensure your control flow is clear and well-commented.
+
+Solution:Here is a python script which implements identity verification process based upon user inputted information such as name, DOB etc. It uses `if` statement to check different conditions and returns appropriate message accordingly. 
+
+```python 
+#IdentityVerification.py
+import datetime
+from dateutil import relativedelta
+
+
+def verifyIdentity(name, dob):
+    #Check Date of Birth 
+    today = datetime.date.today()
+    age = (today - datetime.date(int(dob[:4]), int(dob[5:]), int(dob[0:2]))).days
+
+    if (age >= 18) & (age <= 25):
+        return ""Eligble for Engineering Jobs""
+    
+    elif (age > 25) & (age <= 30):
+        return ""Eligble for Management Jobs""
+    
+    else:
+        return ""Not Eligble for any Job""
+
+
+print(""Enter Name:"")
+name = input()
+
+print(""Enter Date of Birth (DD/MM/YYYY):"")
+dob = input"
+9,"Question:
+Let x = -0.1 - -0.1. Let p = 0.1 - x. Let l = p - 0.1. Which is the nearest to l?  (a) 2  (b) 0.3  (c) 0.1
+Answer:
+c<|end_of_text|>"
+10,"Question:Create a Python script snippet that Determines Extreme Social Media: Social Media Marketing for Decision Making for Beginners. Use if/else or switch/case statements to conditionally perform different actions based on the Transparency. Dry-run and then provide comments explaining your decision-making process for each case.
+
+Solution:Here is some sample python code which determines extreme social media by analyzing transparency of posts : 
+
+```python 
+import tweepy
+from twitter_auth import authenticate
+from dotenv import load_dotenv
+load_dotenv()
+
+
+def get_social_media():
+    # Authenticate to Twitter API 
+    auth = authenticate()
+
+    # Get tweets from twitter 
+    tweets = tweepy.Cursor(auth.consumer_key, auth.consumer_secret, auth.access_token, auth.access_token_secret).items(10)
+    
+    # Initialize variables 
+    highest_transparency = -1
+    best_post = """"
+    worst_post = """"
+
+    # Iterate over tweets 
+    for tweet in tweets:
+        # Check transparency 
+        transparency = check_transparency(tweet.text)
+        
+        # Update maximum transparency 
+        if transparency > highest_transparency:
+            highest_transparency = transparency
+            best_post = tweet.user.screen_name
+        elif transparency == highest_transparency:
+            if len(worst_post) < len(best_post):
+                worst_post"
+11,"Question: A 25-year-old man presents to the emergency department with fever, nausea, and vomiting. He has a history of alcoholism and has been admitted to the hospital on 3 previous occasions for alcohol poisoning. His blood alcohol level is 1.3 g/dL. Which of the following is the most appropriate treatment?
+A. IV fluid
+B. Oral rehydration
+C. Oral diazepam
+D. IV diazepam
+Answer: D<|end_of_text|>"
+12,"Question:
+Let r = 0.011 + -0.071. Let f = 0.06000034 + r. What is f rounded to 7 dps?
+Answer:
+0.0000003<|end_of_text|>"
+13,"Question:
+Let h = -0.05 + 0.05. Let i = 0.07 + h. Let x = 0.007 - i. What is x rounded to 1 decimal place?
+Answer:
+0.3<|end_of_text|>"
+14,"Question:Build a Python module snippet that Transforms High Dental hygiene: Cleaning Tongue for Engineer for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Consent. Ensure your control flow is well-documented.
+Solution:Here is a python program which implements decision making based upon user input through command line interface. The program prompts the user to enter their consent regarding dental cleaning procedure and then based upon this decision takes appropriate action. 
+
+```python 
+#Program Name: Transform_High_Dental_Hygiene.py
+#Description: A simple python script which implements decision making based upon user input through command line interface
+#Date: 05/29/2023
+#Author: <NAME> 
+import argparse
+from enum import Enum
+
+
+class Consent(Enum):
+    YES = 1
+    NO = 2
+
+def main():
+    # create argument parser 
+    ap = argparse.ArgumentParser()
+    
+    # add argument for user input 
+    ap.add_argument('--consent', type=Consent, help='Enter ""yes"" or ""no""')
+    
+    args = ap.parse_args()
+    
+    # take input from user 
+    consent = args.consent
+    
+    # based upon user input decide what next step 
+   "
+15,"Question:
+Let y = -0.01 - 0.1. Let f = -0.06 - -0.1. Let s = y - f. Which is the nearest to 0?  (a) s  (b) 0  (c) 2/13
+Answer:
+b<|end_of_text|>"
+16,"Question:
+Let s = -0.03 + 0.04. Let y = 0.01 + s. Let l = -0.013 - y. What is l rounded to 3 decimal places?
+Answer:
+0.013<|end_of_text|>"
+17,"Question:
+Let u = 0.013 - 0.023. Let x = 0.02 - u. Let c = x - 0.0398. Round c to 3 decimal places.
+Answer:
+-0.0008<|end_of_text|>"
+18,"Question:
+Let y = 3.8 - 3.75. Let o = -0.15 + y. Let c = o - -0.09999969. Round c to seven decimal places.
+Answer:
+-0.0000003<|end_of_text|>"
+19,"Question:Build a Java module snippet that Checks High Social Media: Social Media Marketing for Decision Making for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Consent. Ensure your control flow is well-documented.
+Solution:Here's some sample code that implements the functionality described above written in Java:
+
+    import java.util.*;
+    public class CheckHighSocialMedia {
+        private static final List<String> ALLOWED_MEDIA = Arrays.asList(""facebook"", ""twitter"", ""instagram"");
+    
+        public void checkConsent(String consent) {
+            switch (consent) {
+                case ""allow"":
+                    System.out.println(""User has granted permission to use social media."");
+                    break;
+    
+                case ""denial"":
+                    System.out.println(""User has denied permission to use social media."");
+                    break;
+    
+                default:
+                    System.out.println(""Invalid input. Please enter 'allow' or 'denial'."");
+            }
+        }
+    
+        public void checkSocialMedia(String platform) {
+            if (ALLOWED_MEDIA.contains(platform)) {
+                System.out.println(""Social media platform "" + platform + "" is allowed."");
+            } else {
+                System.out.println(""Social media platform "" + platform + "" is not allowed."");
+            }
+        }
+   "
+20,"Question:Build a TypeScript module snippet that Transforms High Transportation: Route Planning for Decision Making for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Transparency. Ensure your control flow is well-documented with comments explaining your approach.
+
+Solution:Here is a possible implementation of such a function written in Typescript:
+```typescript
+function transformHighTransportationRoutePlanningForDecisionMaking(transparency: number): string {
+  let output = """";
+
+  // Define base output message
+  output += ""High transportation route planning can help professionals make better decisions.\n"";
+  
+  // Check transparency value and generate appropriate message
+  switch (transparency) {
+    case 0:
+      output += ""Low transparency - This type of decision making requires complete information about all factors involved."";
+      break;
+    case 1:
+      output += ""Medium transparency - Some information is available but not complete, while other details remain unclear."";
+      break;
+    case 2:
+      output += ""High transparency - Most details are known, but there may still be some uncertainty due to missing or insufficient information."";
+      break;
+    default:
+      output += ""Invalid input"";
+  }
+    
+  return output;
+}
+```
+In this implementation, we first define a"
+21,"Question:
+Let g = -0.1 + 0.3. Let y = 1.1 + g. Let k = 0.3 + y. Which is the closest to 0.1?  (a) -0.5  (b) 0.3  (c) k
+Answer:
+b<|end_of_text|>"
+22,"Question: Which of the following is a component of the anterior cranial fossa?
+A. Optic nerve
+B. Optic chiasma
+C. Optic tract
+D. Optic nerve
+Answer: C<|end_of_text|>"
+23,"Question: Which of the following is not true about the common causes of death in a patient of acute pancreatitis?
+A. Cardiac arrest
+B. Respiratory arrest
+C. Hypovolemia
+D. Hypovolemic shock
+Answer: B<|end_of_text|>"
+24,"Question:Write a C++ code snippet to Transform Low Eye hygiene: Cleaning Eyelids for Decision Making for Beginners. Consider the Ethics and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is some sample code written in C++, which implements dry run functionality before executing actual transformation:
+```c++
+#include <iostream>
+using namespace std;
+ 
+int main() {
+    // Read input from user
+    cout << ""Enter name: "";
+    string name;
+    cin >> name;
+ 
+    // Check whether input is empty
+    if (name == """") {
+        cout << ""\nError: Name cannot be blank."" << endl;
+        return 1;
+    }
+ 
+    // Perform dry run of transformation
+    cout << ""\nDry Run: Transformation of "" << name << ""'s eye lids..."" << endl;
+    cout << ""Before transformation:\n"";
+    cout << ""* Clean eyelids \\\n"";
+    cout << ""* Apply moisturizer \\\n"";
+    cout << ""* Wash face \\\n"";
+    cout << ""* Remove makeup \\\n"";
+    cout << ""\nAfter transformation:\n"";
+    cout <<"
+25,"# Héctor Manuel Rodríguez
+
+Héctor Manuel Rodríguez (born 29 May 1947) is a Mexican politician affiliated with the PRD. He is a member of the Chamber of Deputies.
+
+| Héctor Manuel Rodríguez |
+|  |
+|  |
+| Member of the Mexican Congress |
+| In office1 September 2012 – 31 August 2015 |
+|  |
+| Personal details |
+| Born |  (1947-05-29) 29 May 1947 |
+| Nationality |  Mexican |
+| Political party |  PRD |
+|  |
+
+<|end_of_text|>"
+26,"Question:
+Let s = -4.25 + 0.25. Let x = 4.8 + s. Let p = x + 0.1. What is p rounded to zero decimal places?
+Answer:
+-2<|end_of_text|>"
+27,"Question:Develop a Python program snippet to Display Low Hair care: Conditioning and Moisturization for Engineer for Beginners. Incorporate if/else or switch/case statements to handle various cases related to the Ethics. Dry-run, ensure your program properly handles edge cases and is clear and easy to understand.
+Solution:Here's some sample python code which implements low haircare conditioning and moisturization based on different factors such as ethnicity, gender etc.:
+```python 
+# Define variables
+hair_type = input(""Enter your hair type (e.g., oily, dry): "")
+ethnicity = input(""Enter your ethnicity (e.g., Indian, Chinese): "")
+gender = input(""Enter your gender (e.g., male, female): "")
+haircut = input(""What is your hairstyle? (e.g., short haircut, long hair): "")
+conditioner = input(""Do you use any conditioner? (y/n): "")
+moisturizer = input(""Do you use any moisturizer? (y/n): "")
+shampoo = input(""Do you use any shampoo? (y/n): "")
+if haircut == ""long"":
+    if conditioner == ""yes"":
+        print(""For long hair, use a volumizing shampoo and conditioner."")
+    elif moisturizer == ""yes"":
+       "
+28,"Question:
+Let t = 0.05 - 0.05. Let c = 0.2 - t. Let r = -0.3 - c. What is r rounded to 1 decimal place?
+Answer:
+-0.3<|end_of_text|>"
+29,"Question:Write a Python code snippet to Display Low Fitness: Heart Rate Monitoring for Decision Making for Professionals. Consider the Transparency and implement appropriate if/else or switch/case statements to handle different conditions. Dry-run, then provide comments explaining your decision-making process and how the control flow is structured.
+
+Solution:Here is a python program which displays low fitness based on heart rate monitoring : 
+
+```python 
+# Import required libraries 
+import fitbit 
+from datetime import timedelta 
+from math import ceil 
+ 
+ 
+ # Authenticate with FitBit API 
+client = fitbit.Fitbit(CLIENT_ID, CLIENT_SECRET, oauth2=True) 
+ 
+def get_heart_rate() : 
+    # Get current date & time 
+    now = datetime.datetime.now() 
+ 
+    # Get last 30 days of heart rate data 
+    days_ago = timedelta(days=-30) 
+    dates = [now - d for d in [days_ago]] 
+    heart_rate_data = [] 
+    for d in dates: 
+        resp = client.get_heart_rate( 
+            base_date = d, 
+            period = 'day', 
+            max_results = 1, 
+            sort_by = 'desc', 
+            detail = True 
+        ) 
+        heart_rate_data +="
+30,"Question:
+Let y = -0.02 - -0.17. Let s = y - 0.15. Let u = s - -0.0019. Round u to three decimal places.
+Answer:
+0.002<|end_of_text|>"
+31,"Question:
+Let m = -1.07 + 1. Let x = m + 0.03. Let n = 0.04 - x. Which is the nearest to -1?  (a) n  (b) 0  (c) 3
+Answer:
+b<|end_of_text|>"
+32,"Question:
+Let i = 0.002 - -0.003. Let x = 0.003 + i. Let g = x + -0.0065. What is g rounded to 2 dps?
+Answer:
+-0.01<|end_of_text|>"
+33,"def analyze_rock_sample(rock_sample):
+    """"""
+    Analyze a rock sample and determine its composition.
+    The rock sample is represented as a list of tuples, where each tuple contains
+    the name of the element and its atomic number.
+    The output should be a string that describes the composition of the rock sample.
+    """"""
+    composition = """"
+    for element, atomic_number in rock_sample:
+        if atomic_number == 0:
+            composition += ""Empty space""
+        elif atomic_number == 1:
+            composition += ""H""
+        elif atomic_number == 2:
+            composition += ""He""
+        elif atomic_number == 3:
+            composition += ""Li""
+        elif atomic_number == 4:
+            composition += ""Be""
+        elif atomic_number == 5:
+            composition += ""B""
+        elif atomic_number == 6:
+            composition += ""C""
+        elif atomic_number == 7:
+            composition += ""N""
+        elif atomic_number == 8:
+            composition += ""O""
+        elif atomic_number == 9:
+            composition += ""F""
+        elif atomic_number == 10:
+            composition += ""Ne""
+        elif atomic_number == 11:
+            composition += ""Na""
+        elif atomic_number =="
+34,"Question: Which of the following is not a feature of anorexia nervosa?
+A. Loss of sex drive
+B. Decreased appetite
+C. Weight loss
+D. Periods
+Answer: A<|end_of_text|>"
+35,"Question:
+What is 0.2 take away 0.2?
+Answer:
+0<|end_of_text|>"
+36,"Question:
+Let o = 0.6 + -0.6. Let r = 0.1 - o. Let s = -0.1 - r. What is the smallest value in 0.4, s, 1?
+Answer:
+s<|end_of_text|>"
+37,"# List of members of the 14th Lok Sabha
+
+The 14th Lok Sabha (सा�तवी�रा�ल�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�ा�"
+38,"Question:
+What is 4.8 take away 0.3?
+Answer:
+4.5<|end_of_text|>"
+39,"Question:
+Let t = -0.12 + 0.18. Let x = -0.04 + t. Let n = 0.04 + x. What is n rounded to 0 dps?
+Answer:
+0<|end_of_text|>"
+40,"# 2002–03 UEFA Champions League
+
+The 2002–03 UEFA Champions League was the 34th edition of the annual annual football competition, organised by the Union of European Football Associations (UEFA). It was contested by 16 teams, 15 from Europe and 1 from Africa, and began on 15 September 2002, and ended on 15 May 2003. The tournament was won by Bayern Munich, who defeated Juventus 1–0 in the final. Bayern Munich was the first team to win the competition after it had been won by Barcelona in 1999–2000. It was also the last season that the competition was contested by 16 teams.
+
+| 2002–03 UEFA Champions League |
+|  |
+| Tournament details |
+| Dates | 15 September 2002 – 15 May 2003 |
+| Teams | 16 |
+| Champions |  Bayern Munich |
+| Runners-up |  Juventus |
+| Tournament statistics |
+| Matches played | 51 |
+| Goals scored | 157 (3.08 per match) |
+| Top scorer(s) |  Rui Costa (4 goals) |
+| Best player |  Rui Costa |
+| |   |  |  |
+|"
+41,"Question:
+Let a = -1.1 + 0.7. Let i = -2.2 + a. Let x = i + 2.9. What is x rounded to 1 decimal place?
+Answer:
+1<|end_of_text|>"
+42,"Question:
+Let l = 0.3 - 0.1. Let s = -0.3 + l. Let n = -0.3 - s. What is the closest to 0.1 in n, 0.5, -1?
+Answer:
+0.5<|end_of_text|>"
+43,"Question:
+Let u = -0.027 + 0.27. Let w = u + -0.23. Let s = -0.0000014 + w. Round s to 6 decimal places.
+Answer:
+-0.000001<|end_of_text|>"
+44,"Question:
+Let o = 2.1 + -2. Let s = 0.1 - o. Let y = 1.4 - 0.4. Which is the second biggest value?  (a) y  (b) s  (c) -2/3
+Answer:
+a<|end_of_text|>"
+45,"Question: A 60-year-old male patient complains of severe pain in the ear. He is diagnosed with otitis externa. The treatment is:
+A. Oral antibiotics
+B. Ear irrigation
+C. Eardrum repair
+D. Eardrum repair + antibiotic
+Answer: A<|end_of_text|>"
+46,"Question:Build a Python module snippet that Transforms High Dental hygiene: Cleaning Tongue for Decision Making for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Consent. Ensure your code is well-documented with comments explaining your approach.
+
+Solution:Here is python code which implements decision making process based upon user consent : 
+
+```python 
+# Define function to check whether user wants to clean their tongue or not 
+def ask_user():
+    print(""Do you wish to clean your tongue? (y/n)"")
+    choice = input()
+
+    # Check if user entered y or Y 
+    if (choice == 'y' or choice == 'Y'):
+        return True
+    elif (choice == 'n' or choice == 'N'):
+        return False
+    else:
+        print(""Invalid Input! Please enter 'Y' or 'N'"")
+        return ask_user()
+
+
+# Main function 
+if __name__ == '__main__':
+    
+    # Take input from user 
+    consent = ask_user()
+
+    # Based on user consent take appropriate action 
+    if (consent):
+        print(""Cleaning started..."")
+        # Code to clean tongue here 
+    else:
+        print(""User declined to clean their tongue."")
+```<|end_of_text|>"
+47,"# Generated by Django 2.2.5 on 2019-10-09 10:16
+
+from django.db import migrations, models
+
+
+class Migration(migrations.Migration):
+
+    dependencies = [
+        ('mainapp', '0002_auto_20191009_1458'),
+    ]
+
+    operations = [
+        migrations.RemoveField(
+            model_name='order',
+            name='name',
+        ),
+        migrations.RemoveField(
+            model_name='order',
+            name='phone',
+        ),
+        migrations.RemoveField(
+            model_name='order',
+            name='user',
+        ),
+        migrations.AlterField(
+            model_name='order',
+            name='product',
+            field=models.CharField(max_length=100),
+        ),
+    ]
+<|end_of_text|>"
+48,"Question:Build a Python module snippet that Updates Low Weather: Precipitation for Decision Making for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Transparency. Ensure your code is properly indented and formatted as expected.
+Solution:Here is a python program which updates low weather precipitation for decision making : 
+
+```python 
+import requests
+from bs4 import BeautifulSoup
+def update_low_weather():
+    # get current date 
+    now = datetime.now()
+    
+    # create url 
+    base_url = ""https://www.example.com""
+    url = f""{base_url}/weather?date={now:%A, %B %d, %Y}""
+    
+    # send request 
+    resp = requests.get(url)
+    
+    # parse html content 
+    soup = BeautifulSoup(resp.content, 'html5lib')
+    
+    # find div element containing low weather info 
+    div = soup.find('div', class_='lowWeather')
+    
+    # extract values from div 
+    temp = div.select('.temperature')
+    humidity = div.select('.humidity')
+    precipitation = div.select('.precipitation')
+    
+    # check whether there is any precipitation 
+    if len(precipitation) > 0:
+        # get total precipitation"
+49,"Question:Create a Python script snippet that Updates Low Nail care: Moisturization for Decision Making for Beginners. Use if/else or switch/case statements to conditionally perform different actions based on the Transparency. Dry-run, then include comments that explain the code.
+Solution:Here is a python script which updates low nail care: moisturization for decision making for beginners using if else statement : 
+
+```python 
+# Define variables 
+transparency = ""Low"" # user inputted transparency value 
+action = """" # variable to store action taken 
+ 
+# Check whether transparency is low 
+if (transparency == ""Low""): 
+    print(""The nail polish color needs to be changed."") 
+    action = ""Change the nail polish colour"" 
+ 
+# Print result 
+print(""Action:"", action) 
+```<|end_of_text|>"
+50,"Question:
+Let g = 0.0124 - -0.0117. Let h = g + -0.123. Let o = h + 0.0299985. What is o rounded to 6 decimal places?
+Answer:
+-0.000002<|end_of_text|>"
+51,"Question:
+Let w = 0.002 + -0.003. Let z = -0.004 - -0.04. Let i = z + 0.06. Which is the nearest to -1?  (a) i  (b) 0.2  (c) w
+Answer:
+c<|end_of_text|>"
+52,"def create_new_list(old_list, new_element):
+    """"""
+    Create a new list with the new element added to the end of the old list.
+
+    Args:
+        old_list (list): The list to add the new element to.
+        new_element (object): The new element to add to the list.
+
+    Returns:
+        list: The new list with the new element added.
+    """"""
+    return old_list + [new_element]
+<|end_of_text|>"
+53,"Question:
+What is prob of picking 1 b and 1 y when two letters picked without replacement from {b: 3, y: 2}?
+Answer:
+2/5<|end_of_text|>"
+54,"Question:Create a Python script snippet that Transforms Low Transportation: Traffic Congestion for Decision Making for Professionals. Use if/else or switch/case statements to conditionally perform different actions based on the Transparency. Dry-run and then include comments that explain the code.
+Solution:Here is a python script which uses if else statement to check transparency of traffic congestion and take appropriate action depending upon its value. The program first reads input from user regarding the type of decision required (buy stock, sell stock etc.) After this, it asks whether they want dry run or not. If yes then it will display all possible outcomes alongwith their probabilities. 
+
+```python 
+# Import required libraries 
+import random 
+from random import randint 
+ 
+ 
+def main(): 
+    # Take input from user 
+    choice = input(""Enter your choice : "") 
+    option = input(""Do you want to do a dry run? (y/n): "") 
+ 
+    # Check if user wants to do dry run 
+    if option == ""y"": 
+        print(""\nDry Run:"") 
+        print(""--------------------------------------------------"") 
+        print(""| Decision | Probability |\n|----------|-------------|"") 
+        print(""| Buy Stock | 0.6        |"") 
+        print(""| Sell Stock"
+55,"def count_unique_elements(my_list):
+    """"""
+    Return the count of unique elements in the list.
+    """"""
+    count = 0
+    for element in my_list:
+        if element not in my_list:
+            count += 1
+    return count
+<|end_of_text|>"
+56,"Question:
+What is 0.5 take away 0.007?
+Answer:
+0.493<|end_of_text|>"
+57,"Question:
+Let w = -0.001 - 0.499. Let x = -0.51 + 0.51. Let f = -0.2 - -0.1. What is the closest to f in w, x, -3?
+Answer:
+x<|end_of_text|>"
+58,"def nested_if_ternary(a, b, c):
+    """"""
+    Given three integers a, b, and c, return the maximum of a, b, and c.
+    Use nested if-else statements and the ternary operator to solve the problem.
+    """"""
+    if a > b:
+        if a > c:
+            return a
+        else:
+            return c
+    else:
+        if b > c:
+            return b
+        else:
+            return c
+<|end_of_text|>"
+59,"Question:
+Let i = 3.8 + -0.8. Let u = 3.4 - i. Let s = 1.5 + u. Round s to 0 decimal places.
+Answer:
+3<|end_of_text|>"
+60,"Question:
+Let h = -0.05 + 0.16. Let o = -0.11 + h. Let u = o - -0.1. Which is the nearest to -1?  (a) 1  (b) u  (c) -2/7
+Answer:
+c<|end_of_text|>"
+61,"Question:
+Let l = -0.031 - -0.03099992. Round l to 6 decimal places.
+Answer:
+-0.000001<|end_of_text|>"
+62,"Question:
+Let f = -0.4 - -0.3. Let v = -0.7 + 0.7. Let j = 0.02 - -0.08. Which is the nearest to f?  (a) j  (b) 2  (c) v
+Answer:
+c<|end_of_text|>"
+63,"Question:
+Let o = -0.027 + 0.027000001. Round o to 6 decimal places.
+Answer:
+0<|end_of_text|>"
+64,"Question:
+Let i = -0.2 + 0.2. Let l = -1.1 - -1. Let v = l - 0.1. Which is the nearest to v?  (a) -0.4  (b) i  (c) 2
+Answer:
+b<|end_of_text|>"
+65,"Question:
+Let c = -0.0000012 - -0.0000012. Round c to 6 decimal places.
+Answer:
+-0.000001<|end_of_text|>"
+66,"Question:Build a Python module snippet that Displays Low Weather: Humidity for Engineer for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Consent. Ensure your control flow is well-documented.
+Solution:Here's some sample python code which displays low weather humidity information based on user consent : 
+
+```python 
+import requests
+from bs4 import BeautifulSoup
+def get_weather():
+    url = ""https://www.example.com/weather""
+    page = requests.get(url)
+    soup = BeautifulSoup(page.content, 'html5lib')
+    
+    # Get temperature 
+    temp = soup.find('div', class_=""current-temp"").text()
+    
+    # Get humidity 
+    humidity = soup.find('span', class_=""humidity"").text()
+    
+    return (temp, humidity)
+ 
+# Main function 
+if __name__ == '__main__':
+    print(""Low Weather:"")
+    temp, humidity = get_weather()
+    print(""Temperature:"", temp)
+    print(""Humidity:"", humidity)
+```<|end_of_text|>"
+67,"Question:Build a Python module snippet that Determines High Weather: Temperature in Delhi for the Month of May. Incorporate if/else or switch/case statements to handle different cases based on the Consent. Ensure your control flow is well-documented.
+Solution:Here's some sample python code which determines high weather temperature in Delhi for May : 
+
+```python 
+import requests
+from bs4 import BeautifulSoup
+def get_weather():
+    url = ""https://www.google.com/""
+    page = requests.get(url)
+    soup = BeautifulSoup(page.content, 'html5lib')
+    
+    # Find the div element containing the date 
+    date = soup.find('div', class_=""w3-container"")
+    
+    # Get the text of the date 
+    date_text = date.text
+    
+    # Extract the month name from the date 
+    month = date_text.split()[0]
+    
+    # Check whether May is present in the month name 
+    if (month == 'May'):
+        # Get the temperature details from the website 
+        url = 'https://www.google.com/search?q=weather+in+Delhi+May+2023&oq=weather+in+Delhi+May+2023'
+        page = requests.get(url)
+        soup = BeautifulSoup(page"
+68,"Question:
+What is 0.0000075 rounded to 6 decimal places?
+Answer:
+0<|end_of_text|>"
+69,"Question:
+Let i = -0.1 + 0.3. Let w = 1.3 + -1. Let x = 0.9 + w. Which is the nearest to x?  (a) 1  (b) -1  (c) i
+Answer:
+c<|end_of_text|>"
+70,"Question: Which of the following is the best contraceptive method for a 20 year old nulliparous girl?
+A. IUCD
+B. OCP
+C. Condom
+D. Misoprostol
+Answer: A<|end_of_text|>"
+71,"Question:
+Let l = 0.3 - 0.2. Let r = -0.3 - l. Let i = 0.4 - r. What is i rounded to 1 decimal place?
+Answer:
+0.4<|end_of_text|>"
+72,"Question:
+Let i = 0.4 + 0. Let n = -0.4 - i. Let l = 0.6 + n. Which is the nearest to l?  (a) -2  (b) 2  (c) 1/2
+Answer:
+c<|end_of_text|>"
+73,"def evaluate_patient_data(patient_data):
+    """"""
+    Evaluate patient data and determine if they are eligible for a particular treatment.
+    The patient data is stored in a dictionary, where the keys are the patient's medical history and the values are the patient's current condition.
+    The treatment is eligible if the patient's medical history does not include any of the conditions listed in the treatment's eligibility criteria.
+    """"""
+    treatment = {
+        ""Eligibility Criteria"": [""No history of heart disease"", ""No history of diabetes"", ""No history of cancer""],
+        ""Treatment"": ""Surgery""
+    }
+    patient_data = {
+        ""Medical History"": [""Heart disease"", ""Diabetes"", ""Cancer""],
+        ""Current Condition"": ""Stable""
+    }
+    result = True
+    for condition in treatment[""Eligibility Criteria""]:
+        if condition in patient_data[""Medical History""]:
+            result = False
+            break
+    return result
+<|end_of_text|>"
+74,"def slice_and_dice(my_list, start, stop, step):
+    """"""
+    Given a list and a range of indices, return a new list
+    containing the elements at the specified indices.
+    """"""
+    # Your code here
+    new_list = []
+    for i in range(start, stop, step):
+        new_list.append(my_list[i])
+    return new_list
+
+<|end_of_text|>"
+75,"Question:Build a Python module snippet that Updates Low Social Media: Sentiment Analysis for Decision Making for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Responsibility. Ensure your control flow is well-documented.
+Solution:Here is a python program which updates low social media sentiment analysis for decision making for beginners incorporating if else statement : 
+
+```python 
+import tweepy
+from textblob import TextBlob
+#consumer key and consumer secret 
+auth = tweepy.OAuthAuthenticator(
+    client_id='YOUR_CLIENT_ID',
+    client_secret='YOUR_CLIENT_SECRET'
+)
+#Twitter API authenticated
+api = tweepy.API(auth)
+def analyze_sentiment(tweet):
+    """"""
+    This function takes a single tweet as input 
+    and returns its polarity score
+    """"""
+    analysis = TextBlob(tweet)
+    return analysis.polarity
+def update_low_social_media():
+    # Query all tweets from Twitter 
+    public_tweets = api.search(""social media"", result_type=""recent"")
+    total_tweets = len(public_tweets)
+    print(""Total Tweets:"",total_tweets)
+    for tweet in public_tweets:
+        # Get the sentiment of the tweet 
+        sentiment = analyze_sentiment(tweet.text)
+        # Check whether the sentiment is negative 
+        if"
+76,"Question:
+Let r = 0.1 - -0.1. Let d = -0.4 + r. Let i = -1.2 + d. What is i rounded to 1 decimal place?
+Answer:
+-0.2<|end_of_text|>"
+77,"def create_tuple_from_string(string):
+    """"""
+    Given a string, create a tuple of words from it.
+    The words should be separated by a space.
+    """"""
+    # YOUR CODE HERE
+    return tuple(string.split())
+<|end_of_text|>"
+78,"Question: Which of the following is not true about hepatitis A?
+A. Causes 70% of hepatitis in India
+B. Is transmitted by food
+C. Hepatitis A is curable
+D. Is caused by hepatitis A virus
+Answer: C<|end_of_text|>"
+79,"Question:
+Let x = 0.023 - 0.033. Let f = 0.03 - 0.05. Let n = x + f. What is n rounded to 2 dps?
+Answer:
+0.01<|end_of_text|>"
+80,"Question:
+What is the next term in 12, 24, 36, 48, 60?
+Answer:
+72<|end_of_text|>"
+81,"Question:
+Let o = -0.016 - -0.056. Let x = 0.04 - o. Let p = x - 0.046. Round p to 2 decimal places.
+Answer:
+0.05<|end_of_text|>"
+82,"Question:
+Let u = -0.036 - 0.064. Let v = u + 0.09. Let k = -0.09 + v. Round k to 1 decimal place.
+Answer:
+0.1<|end_of_text|>"
+83,"Question:
+Let w = 0.017 - 0.058. Let h = 0.035 + w. Let c = 0.0000063 - h. Round c to 6 decimal places.
+Answer:
+0.000006<|end_of_text|>"
+84,"def update_athlete_stats(athlete, new_stats):
+    """"""
+    Update the athlete's stats with the new stats provided.
+    If the new stats are not valid, return None.
+    """"""
+    # Check if the new stats are valid
+    if new_stats[""speed""] < 0 or new_stats[""speed""] > 100:
+        return None
+    if new_stats[""strength""] < 0 or new_stats[""strength""] > 100:
+        return None
+    if new_stats[""speed""] > new_stats[""strength""]:
+        return None
+    # Update the athlete's stats
+    athlete[""speed""] = new_stats[""speed""]
+    athlete[""strength""] = new_stats[""strength""]
+    return athlete
+<|end_of_text|>"
+85,"def nested_ternary_operator(temperature, humidity, wind_speed):
+    """"""
+    Write a program that uses nested ternary operators to determine the weather condition based on the temperature, humidity, and wind speed.
+    The program should output ""sunny"", ""cloudy"", or ""rainy"".
+    """"""
+    return ""sunny"" if (temperature >= 25 and humidity < 50) else ""cloudy"" if (temperature < 25 and humidity >= 50) else ""rainy""
+<|end_of_text|>"
+86,"Question:Build a Python module snippet that Updates High Finance: Investment Advice for Decision Making for Professionals. Incorporate if/else or switch/case statements to handle different cases based on the Consent. Ensure your control flow is well-documented.
+Solution:Here's some sample python code which implements the functionality described above:
+
+ ```python 
+def update_highfinance(consent):
+    """"""Updates high finance investment advice for decision making for professionals.""""""
+
+    # Define variables 
+    stock_price = 100.0
+    interest_rate = 0.05
+    
+    # Determine action based on consent
+    if consent == ""allow"":
+        print(""Allowing user to invest"")
+        
+        # Calculate total investment amount 
+        total_investment = stock_price * 10000
+    
+        # Print final output 
+        print(""Total Investment Amount:"",total_investment)
+        
+    elif consent == ""deny"":
+        print(""Denying user from investing due to high risk"")
+        
+    else:
+        print(""Invalid input! Please enter 'allow' or 'deny'"")
+```<|end_of_text|>"
+87,"Question:Create a Python script snippet that Displays High Eye hygiene: Cleaning Eyelids for Analysis for Beginners. Use if/else or switch/case statements to conditionally perform different actions based on the Transparency. Dry-run, then include comments that explain the code.
+Solution:Here is a python program which displays high eye hygiene by cleaning eyelid for analysis : 
+
+```python 
+# Import necessary libraries 
+import cv2 
+from numpy import random 
+ 
+ 
+def main(): 
+    # Read image 
+    img = cv2.imread(""sample_img.png"") 
+ 
+    # Convert into grayscale 
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY) 
+ 
+    # Define contour threshold 
+    lower_thresh = np.array([0, 0, 0]) 
+    upper_thresh = np.array([255, 255, 255]) 
+ 
+    # Perform bitwise AND operation between original image and lower threshold 
+    result = cv2.bitwise_and(img, img, mask=gray) 
+ 
+    # Display output 
+    cv2.imshow('Result', result) 
+ 
+    # Wait for user input 
+    cv2.waitKey(0) 
+ 
+ 
+if __name__ == '__main__': 
+    main() 
+```<|end_of_text|>"
+88,"Question:
+Let i = 0.1 - -0.1. Let s = -0.1 + i. Let o = 0.01 - s. What is o rounded to 1 decimal place?
+Answer:
+0.1<|end_of_text|>"
+89,"Question:
+Let n = -0.031 - 0.049. Let m = 0.18 - n. Let d = 0.07 - m. Round d to 1 decimal place.
+Answer:
+0.1<|end_of_text|>"
+90,"def add_to_set(set_a, set_b):
+    """"""
+    Given two sets, add all the elements of set_b to set_a.
+    """"""
+    for element in set_b:
+        if element not in set_a:
+            set_a.add(element)
+    return set_a
+
+<|end_of_text|>"
+91,"Question:
+What is the remainder when 44 is divided by 12?
+Answer:
+4<|end_of_text|>"
+92,"Question:
+Let s = 2.2 - 2. Let g = 0.3 + -0.4. Let x = s + g. What is the smallest value in -2/7, x, 2?
+Answer:
+-2/7<|end_of_text|>"
+93,"Question:
+Let i = 0.001 - -1.999. Let l = 2.1 + i. Let f = -0.9 + 0.9. Which is the nearest to 0?  (a) l  (b) 3  (c) f
+Answer:
+c<|end_of_text|>"
+94,"Question:Build a Python module snippet that Transforms Low Fitness: Heart Rate Monitoring for Analysis for Beginners. Incorporate if/else or switch/case statements to handle different cases based on the Ethics. Ensure your control flow is well-documented.
+Solution:Here is a python program which implements heart rate monitoring for analysis for beginners. The program uses `if` and `elif` conditional blocks to determine whether the user is fit or not depending upon their heart rate value. It also provides instructions about how to improve their fitness level. 
+
+```python 
+# Import necessary modules 
+import numpy as np 
+from scipy import signal 
+ 
+ 
+def analyze_heart_rate(heart_rate): 
+    """"""
+    Analyze the given heart rate and provide feedback 
+    about its fitness level. 
+    """"""
+    
+    # Define thresholds for different fitness levels 
+    FITNESS_THRESHOLDS = [60, 70, 80] 
+    FITNESS_DESCRIPTIONS = [ ""Very Fit"", ""Fit"", ""Average"" ] 
+     
+    # Check if the heart rate is above the cutoff 
+    if heart_rate > 100: 
+        # If yes, check if it's within the allowed range 
+        if 70 <= heart_rate <= 100: 
+            return ""Your fitness"
+95,"Question:
+Let o = 0.2 + 0.4. Let b = 0.3 - o. Let j = 0.2 + b. Round j to 0 decimal places.
+Answer:
+0<|end_of_text|>"
+96,"# 2003–04 Azerbaijan Premier League
+
+The 2003–04 Azerbaijan Premier League was the 15th season of the Azerbaijan Premier League, the top tier of football in Azerbaijan. The season started on 26 July 2003 and ended on 22 May 2004. The season was won by Karvan.
+
+| Season | 2003–04 |
+| Champions | Karvan |
+| ← 2002–03 2004–05 →  |
+
+Azerbaijani Premier League
+The 2003–04 Azerbaijan Premier League was contested by 12 teams, which were divided into two groups. The first group comprised 6 teams, while the second group comprised 6 teams. The first group was won by Karvan, while the second group was won by Interbasan. The first match of the 2003–04 season was played on 26 July 2003, while the last match was played on 22 May 2004.
+
+## Teams
+
+| Team | City | Stadium | Capacity |
+| Absheron | Baku |  |  |
+| Interbasan | Baku |  |  |
+| Karvan | Baku |  |  |
+| Mashall | Baku |  | "
+97,"Question:
+Let c = 0.5 - -0.3. Let u = c + -0.8. Let x = 0.5 + u. Which is the closest to 0?  (a) 0  (b) x  (c) 0.3
+Answer:
+a<|end_of_text|>"
+98,"Question:Develop a Python program snippet to Check Low Eye hygiene: Protecting Eyes from Injury for Engineer for Professionals. Incorporate if/else or switch/case statements to handle various cases related to the Reliability. Dry-run, ensure your control flow is clear and that the code provides the expected result.
+
+Solution:Here's some sample python code which implements a simple check for low eye hygiene based on input from the user:
+
+    ```python
+    # Prompt the user for their name 
+    print(""Please enter your name:"")
+    name = input()
+    
+    # Check whether they are wearing goggles
+    print(""Are you wearing goggles?"")
+    answer = input().lower()
+    if answer == ""yes"":
+        print(""Great! Do you know how to properly wear them?"")
+        answer2 = input().lower()
+        if answer2 == ""yes"":
+            print(""Perfect! Now tell me about any injuries you've had due to poor eye hygiene."")
+            injury = input()
+            if ""eye"" in injury:
+                print(""I'm sorry to hear that. Did the incident cause any vision loss?"")
+                answer3 = input().lower()
+                if answer3 == ""yes"":
+                    print(""That's unfortunate. Is there anything else I can help you with"
+99,"def psychologist_exercise(person):
+    """"""
+    Write a function that takes in a person's name and age and returns a message based on the person's age.
+    If the person is under 18 years old, the message should be ""This person is not old enough to be a psychologist.""
+    If the person is 18 or older, the message should be ""This person is old enough to be a psychologist.""
+    """"""
+    if person.age < 18:
+        return ""This person is not old enough to be a psychologist.""
+    else:
+        return ""This person is old enough to be a psychologist.""
+<|end_of_text|>"

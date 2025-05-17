@@ -1,0 +1,572 @@
+seed,generated_text
+0,"Question:
+Let f = -6 + 6. Suppose f = -0*w + w + 64. Suppose 0 = -2*v + w + 14. What is the remainder when v is divided by (-3)/((-27)/(-56))*((-273)/(-16))/((-6)/(-120))?
+Answer:
+14<|end_of_text|>"
+1,"Question:
+Let d = 0.03 + -0.13. Let z = d + 0.1. Let u = z + -0.06399999999999999964. Round u to seven dps.
+Answer:
+0.0000006<|end_of_text|>"
+2,"Question:
+Let q = -3 + 5. Let x be (-10)/((-4)/(-8)*q). Let s be (-2)/((-4)/(-18)*x). Round s to the nearest ten thousand.
+Answer:
+10000<|end_of_text|>"
+3,"Question:
+Let g be (-14)/((-28)/(-16))*((-100)/(-6))/((-6)/(-27)). Suppose -g*i = -17*i + 40. Let m be ((-4)/10)/(i/(-35)). What is the smallest value in m, -4, -0.4?
+Answer:
+-4<|end_of_text|>"
+4,"Question:
+Let v = -11.68 + 11. Let z = v + -0.52. Let w = z + 0.35. What is the closest to w in 2/3, -2, 0?
+Answer:
+2/3<|end_of_text|>"
+5,"Question:
+Let z = -0.061 + 0.058991. Let s = z + 0.00199999999999965464. Round s to seven decimal digits.
+Answer:
+0.000006<|end_of_text|>"
+6,"def analyze_satellite_data(satellite_data):
+    """""" Analyze satellite data and determine if it represents a weather condition
+    
+    Args:
+        satellite_data (list): list containing satellite data
+    
+    Returns:
+        bool: True if represents weather condition False otherwise
+    
+    """"""
+    
+    # Define variables to store values from each column
+    temperature = satellite_data[0]
+    wind_speed = satellite_data[1]
+    direction = satellite_data[2]
+    
+    # Define variables to store condition based on temperature and wind direction
+    condition = """"
+    
+    if temperature == 100 && direction == ""North-east"":
+        condition = ""Rainstorm""
+    elif temperature == 100 && direction == ""North-west"":
+        condition = ""Rainstorm""
+    elif temperature == 100 && direction == ""South-east"":
+        condition = ""Rainstorm""
+    elif temperature == 100 && direction == ""South-west"":
+        condition = ""Rainstorm""
+    else:
+        condition = ""Cloudy""
+    
+    return condition<|end_of_text|>"
+7,"Question:
+What is the lowest common multiple of (-15)/((-180)/(-36))*(-35 + (-126)/(-21)) and 14?
+Answer:
+126<|end_of_text|>"
+8,"Question:
+Let x be (-3)/((-6)/(-20)*2). Let y be (-4)/(x/(28/(-4))). Suppose y*v = v + 60. Calculate the lowest common multiple of v and (-5)/((-60)/(-42))*(-40)/(-21).
+Answer:
+210<|end_of_text|>"
+9,"Question:
+Let x be (-2)/((-6)/((-30)/(-4))). Suppose x*z = -2*z + 4*f + 10, -4*z = f + 12. Let l be ((-6)/(-4))/((-6)/z). What is the lowest common multiple of l and (-12)/((-18)/((-270)/(-8)))?
+Answer:
+135<|end_of_text|>"
+10,"Question:
+Let k = 1.34 + -1.348996. Round k to six dps.
+Answer:
+0.000004<|end_of_text|>"
+11,"Question: A patient suffered from acute severe burn involving skin around elbow region with wound size approximately 5 cm X 5 cm X 2 mm with wound edge exposed well healed with intact skin around circumference X-rays revealed bone destruction around elbow joint with surrounding loose tissue condition generally referred to as _____
+A. Metabolic bone disease
+B. Arthritis
+C. Myogenic damage
+D. Metabolic disease
+Answer: A<|end_of_text|>"
+12,"Question:
+Let x = 0.011 + -0.063. Let f = x + 0.05299999999999999964. Round f to seven decimal digits.
+Answer:
+0.0000006<|end_of_text|>"
+13,"Question:
+Let m = -0.037 + 0.042. Let z = m + -0.035. Let x = z + -0.01199999999999999968. Round x to seven dps.
+Answer:
+0<|end_of_text|>"
+14,"Question:
+Let d = 0.016 + -0.02149999999999999996965499999999. What is d rounded to six dps?
+Answer:
+0.001999999<|end_of_text|>"
+15,"Question:
+Let y = -0.014 + 0.014346. Round y to three decimal points.
+Answer:
+0<|end_of_text|>"
+16,"Question:
+Let j = -0.03 + 0.037. Let z = 0.057 + j. Let p = z + -0.02. Which is the closest to p?  (a) -2/3  (b) -5  (c) -2
+Answer:
+a<|end_of_text|>"
+17,"Question:
+Let u = 0.013 + 0.047. Let x = u + -0.04. Let i = x + 0.039999997. What is i rounded to seven dps?
+Answer:
+0.0000002<|end_of_text|>"
+18,"Question:
+Let y = 3 + -1. Suppose 0 = y*b + 2*b + 4*d - 14, -2*d = -4*b + 18. Let i be (-2)/((-3)/(b + (-7)/(-8))). What is the lowest common multiple of i and (-2)/((-8)/(-42)*(-126)/(-42))?
+Answer:
+126<|end_of_text|>"
+19,"Question:
+Let p = 0.2 + -0.07. Let l = p + 0.13. Let m = l + -0.00144. Round m to four dps.
+Answer:
+-0.0014<|end_of_text|>"
+20,"Question: Which type of wound healing process is characterized by presence of fibrous tissue between wound margins?
+A. Type I wound healing
+B. Type II wound healing
+C. Type III wound healing
+D. Type IV wound healing
+Answer: A<|end_of_text|>"
+21,"Question:
+Let g = -0.038 + 0.044. Let u = g + -0.006. Let k = u + 0.037999999999999999663855599999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999"
+22,"Question: Which of the following drugs is used for prevention of relapse following treatment?
+A. Cyclicalามูอกยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังยูสสีลาเมาเมลังย"
+23,"Question:
+Let r be ((-1)/(-2))/(15/(-30)). Let z be (-6)/(-21)*((-168)/(-36))/((-2)/(-12)). Which is the closest to r?  (a) z  (b) -3  (c) 0.2
+Answer:
+c<|end_of_text|>"
+24,Question: The following drugs are used to treat bacterial infection associated with chronic gastrอยดีเร้าอยู่นานาเกิดจากน้ำมันหรูยังงูยองูอกลั่งลิงงูยู๋ยองูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอมรู้มัดรังงูยอม
+25,"Question:
+What is the common denominator of ((-8)/(-6))/(8/(-36)) and (-143)/(-12)*(-14)/((-168)/(-36))?
+Answer:
+168<|end_of_text|>"
+26,"Question:
+Let s = -4.25 + 0.25. Let x = s + 3. Let u = x + -0.35. Which is the closest to u?  (a) -2/7  (b) 0.1  (c) -1
+Answer:
+b<|end_of_text|>"
+27,"Question:
+Let p be (-2)/(4*(-6)/(-48)). Let f be p*(-3)/(-6)*(-6)/(-10). Suppose f = -4*i + 23 + 37. Is i composite?
+Answer:
+True<|end_of_text|>"
+28,"Question:
+Let z = 0.025 + -0.02699999999999999935999999999999765435. Let d = z + 0.026999999999999999999999999999996971. What is d rounded to seven decimal digits?
+Answer:
+0.000001<|end_of_text|>"
+29,Question:Write a Julia code snippet to Determine Extreme Weather condition Based on Weather Reportับารายว่าช้าบ้างบ้างบ้างบ้านีงูสดานะที่รบกวนไม่ให้เลือกใช้เน่าเล่นกินอยากินหอมอาลีนะคะว่าไร้ขอบอินามรับวินารารดารู้จับได้พี่นอนารมูนที่รบกวนให้เลือกเลือกทุกวันอย่างยืดเยินเท่านั้นหรือไม่หรอกับเจ้าอยู๋งยังบ้านีงูสดานะที่รบกวนไม่ให้เลือกใช้เน่าเล่นกินอยากินหอมอาลีนะคะว่าไร้ขอบอินามรับวินารารดารู้จับได้พี่นอนารมูนที่รบกวนให้เลือกเลือกทุกวันอย่างยืดเยินเท่านั้นหรือไม่อกับเจ้าอยู๋งยังบ้านีงูสดานะ
+30,"Question:
+Let y = -0.02 + 0.17. Let s = y + -0.075. Let u = s + -0.00199738. Round u to seven decimal digits.
+Answer:
+0.000002<|end_of_text|>"
+31,"Question:
+Let m = -1.65 + 1.54. Let i = m + 0.11. Let z = i + -0.089999991. Round z to seven dps.
+Answer:
+0.000000978<|end_of_text|>"
+32,"Question:
+Let i = 18.9 + -19. Let q = i + 0.099999993. What is q rounded to seven decimal digits?
+Answer:
+0<|end_of_text|>"
+33,"def analyze_waterfalls(waterfalls):
+    """"""Given a list of waterfall names, analyze their position and direction relative to each other""""""
+    waterfall_list = []
+    for waterfall in waterfall_list:
+        waterfall_list.append(waterfall.split('_')[0])
+        waterfall_list.append(waterfall.split('_')[1])
+        waterfall_list.append(waterfall.split('_')[2])
+        waterfall_list.append(waterfall.split('_')[3])
+    return waterfall_list
+<|end_of_text|>"
+34,"Question:
+Let x = -0.01999627 + 0.020001555. Let p = x + -0.001555348. Let r = p + 0.008999998. What is r rounded to seven decimal digits?
+Answer:
+0.000001<|end_of_text|>"
+35,"Question:
+What is prob of picking 2 e when two letters picked without replacement from {e: 7, k: 1, v: 4}?
+Answer:
+7/24<|end_of_text|>"
+36,"Question:
+Let u = 0.041 + -0.031. Let v = u + 0.010999999999999999651999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999"
+37,"Question:Build a Java program that takes as input two arrays containing numbers each equal to their respective value divided by two plus minus one and output the sum of both arrays if they are equal divided by two minus one if they are not equal divided by two plus minus one?
+```var arr1 = [1,2,3], arr2 = [4,5,6]; var sum = arr1.valueOf()+arr2.valueOf()/2+/-1 sum //= ((1+2+3)/(2+/-1)+ ((4+5+6)/(2+/-1)))/(2+/-1)====(2+/-1)+ ((4+5+6)/(2+/-1)))/(2+/-1)=====(2+/-1)+ ((4+5+6)/(2+/-1)))/(2+/-1)===2+/-1==================(4+5+6)/(2+/-1)==4+/-1==================(4+5+6)/(2+/-1)==4+/-1==================(4+5+6)/(2+/-1)==4+/-1==================(4+5+6)/(2+/-1)==4+/-1==================(4+5+6)/(2+/-"
+38,"Question:
+What is prob of picking 1 z and 1 p when two letters picked without replacement from {z: 5, p: 1}?
+Answer:
+5/งวงู่งู<|end_of_text|>"
+39,"Question:
+Let i = -0.028 + 0.088. Let x = i + -0.07. Let z = x + 0.03. What is the closest to z in -2/3, 0.2, -3?
+Answer:
+0.2<|end_of_text|>"
+40,"Question:
+Let i = 31 + -30. Let s be ((-15)/(-6))/(i*(-2)/(-16)). Suppose s*b = -3*w + 18, w + 3*b = -2*w + 18. List the prime factors of w.
+Answer:
+2<|end_of_text|>"
+41,"Question:
+Let v = -8.5 + 8. Let q = v + -0.499999348. Round q to seven decimal digits.
+Answer:
+0.0000006<|end_of_text|>"
+42,"Question:
+Let l = -0.026 + 0.027999991. What is l rounded to seven decimal digits?
+Answer:
+0.000000งดูงด<|end_of_text|>"
+43,"Question:
+Let k = -0.037 + 0.037664. Round k to five decimal points.
+Answer:
+0.000664<|end_of_text|>"
+44,"Question:
+Let k = -2.64 + 0.64. Let m = k + 2. Let v = m + -0.4. Which is the closest to v?  (a) 2/7  (b) -1/2  (c) -3
+Answer:
+a<|end_of_text|>"
+45,"Question:
+Let x = 0.02 + 0.38. Let d = x + -0.41. Let v = d + 0.40199837. What is v rounded to seven dps?
+Answer:
+0.000001<|end_of_text|>"
+46,"Question:
+Let z = -0.065 + 0.065345. Round z to three dps.
+Answer:
+0<|end_of_text|>"
+47,"def calculate_population_growth_rate(population_size):
+    """"""
+    Calculate the population growth rate based on population size
+    
+    Args:
+        population_size (int): The current population size
+    
+    Returns:
+        float: The population growth rate expressed as a percentage
+    
+    Note:
+        Assuming population growth rate remains constant throughout the year
+    
+    >>>calculate_population_growth_rate(100)
+    	    --> 0.01
+    >>>calculate_population_growth_rate(1000)
+	    --> 0.001<|end_of_text|>"
+48,"Question:
+Let x = -2.5 + 2. Let k = x + 0.599999651. What is k rounded to seven decimal digits?
+Answer:
+0.00000035<|end_of_text|>"
+49,"Question:Design a Java program that reads text input from the user until end-of-file occurs. Then display the text in reverse order without replacing special characters. Note: special characters are defined as follows:
+If they appear in position zero then they should appear in position n minus one plus one
+If they appear in position zero then they should appear in position n minus one plus two
+If they appear in position zero then they should appear in position n minus one plus three If they appear in position zero then they should appear in position n minus one plus four If they appear in position zero then they should appear in position n minus one plus five If they appear in position zero then they should appear in position n minus one plus six If they appear in position zero then they should appear in position n minus one plus seven If they appear in position zero then they should appear in position n minus one plus eight If they appear in position zero then they should appear in position n minus one plus nine If they appear in position zero then they should appear in position n minus one plus ten If they appear in position zero then they should appear in position n minus one plus eleven If they appear in position zero then they should appear in position n minus one plus twelve If they appear in position zero then they should appear"
+50,"Question:
+Let g = -0.028 + 0.0280008. Round g to six decimal points.
+Answer:
+0<|end_of_text|>"
+51,"Question:
+Let w = -0.017 + 0.01999999999799999964. Round w to seven decimal digits.
+Answer:
+0.000000001<|end_of_text|>"
+52,"def create_list_of_products():
+
+    """"""Create a list of products that would be displayed on a shopping list""""""
+
+    products = [
+        {""product""=>""apple"", ""price""=>20},
+        {""product""=>""banana"", ""price""=>20},
+        {""product""=>""orange"", ""price""=>20},
+        {""product""=>"" mango"", ""price""=>20}
+    ]
+
+    products_list = products[:]
+    products_list.sort()
+    products_list.reverse()
+
+    products_list.append({""product""=>""apple mango"", ""price""=>20})
+    products_list.append({""product""=>""banana mango"", ""price""=>20})
+    products_list.append({""product""=>""orange mango"", ""price""=>20})
+
+    products_list.pop()
+    products_list.pop()
+    products_list.pop()
+
+    return products_list
+
+products_list = create_list_of_products()
+
+products_list_2 = products_list[:]
+products_list_2.sort()
+products_list_2.reverse()
+
+products_list_3 = products_list[:]
+products_list_3.append({""product""=>""apple mango"", ""price""=>20})
+products_list_3.append({""product""=>""banana mango"", ""price""=>20})
+products_list_3.append({""product""=>""orange mango"", ""price""=>20})
+
+products_list_4 = products_list[:]
+products_list_4.pop()
+products_list_4.pop"
+53,"Question:
+What is prob of picking 1 y and 1 q when two letters picked without replacement from yqqyyyyyyyyyyyyyyyyyyyyyy?
+Answer:
+16/57<|end_of_text|>"
+54,"Question:
+Let u = -0.038 + 0.0364. Let w = u + 0.0016. Round w to zero dps.
+Answer:
+0<|end_of_text|>"
+55,"def getSumOfDigits(n):
+    sum=0;
+    i=0;
+    while(n!=0)
+    {
+        sum+=n%i;
+        i++
+    }
+    return sum
+  
+ 
+  
+<|end_of_text|>"
+56,"Question:
+What is the common denominator of (-4)/(-18)*((-117)/(-16))/((-9)/(-48)) and ((-115)/(-42))/(96/(-14))?
+Answer:
+168<|end_of_text|>"
+57,"Question:
+Let w = -0.01999999999999999 + 0.01999999999999962. What is w rounded to seven decimal digits?
+Answer:
+0.000000999999999<|end_of_text|>"
+58,"def marketing_promotional_offer(_):
+    """"""Promote products via marketing campaign""""""
+    products = [
+        {'product_code': '_123456789_', 'product_name': '_product_123456789_', '_price_'_: '$999'}]
+    products_order = [
+        {'product_code': '_123456789_', '_price_'_: '$999'}]
+    products_offered = [
+        {'product_code': '_123456789_', '_price_'_: '$999'}]
+    products_offered = products_offered.copy()
+    products_offered.append(_products_offered)
+    products_offered.append(products_offered)
+    products_offered.append(products_offered)
+    products_offered.append(products_offered)
+    products_offered.append(products_offered)
+    products_offered.append(products_offered)
+    products_offered.append(products_offered)
+    products_offered.append(products_offered)
+    products_offered.append(products_offered)
+    products_offered.append(products_offered)
+    products_offered.append(products_offered)
+    products_offered.append(products_offered)
+    products_offered.append(products_offered)
+    products_offered.append(products_offered)
+    products_offered.append(products_offered)
+    products_offered.append(products_offered)
+    products_offered.append"
+59,"Question:
+What is the remainder when 133 is divided by (-16)/((-768)/(-336))?
+Answer:
+31<|end_of_text|>"
+60,"Question:
+Let j = -0.087 + 0.09199868. What is j rounded to seven dps?
+Answer:
+0.000001<|end_of_text|>"
+61,"Question:
+Let l = -0.042 + 0.047999999999999999649999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999"
+62,"Question:
+Let f = -0.064 + 0.264. Let v = f + -0.2. Which is the closest to v?  (a) -0.2  (b) -0.5  (c) 2/7
+Answer:
+c<|end_of_text|>"
+63,"Question:
+Let j = -0.5 + 0.3. Let p = j + 0.2. Let u = p + -0.09999999999999968. What is u rounded to seven dps?
+Answer:
+0.000000001<|end_of_text|>"
+64,"Question:
+Let q = -0.2 + 0.09999999999999999964. What is q rounded to seven decimal digits?
+Answer:
+0.0000006<|end_of_text|>"
+65,"Question:
+Let x = -0.066 + 0.0699999968. Round x to seven decimal digits.
+Answer:
+0.000000999<|end_of_text|>"
+66,"Question:
+Let f = -1 + 1. Let p = f + 0. Suppose -5*d + 0*d + 20 = p. What is the remainder when (-2)/d*(-14 + (-2580)/(-36)) is divided by 14?
+Answer:
+12<|end_of_text|>"
+67,"Question: Which is the preferred method of identification of HIV infected individual?
+A. HIV antigีนมีระมอยด์เลิงอนามินองงูบี
+B. HIV antigีนมีระมอยด์เลิงอนามินองูบีมี
+C. HIV antigีนมีระมอยด์เลิงอนามินูบีจิ้งงูบีี
+D. HIV antigีนมีระมอยด์เลิงอนามินูบีจิงงูบี
+Answer: D<|end_of_text|>"
+68,"Question:
+What is the remainder when (-6)/((-18)/(-51))*((-147)/(-14))/(-3) is divided by 23?
+Answer:
+21<|end_of_text|>"
+69,"Question:
+Let i = -0.037 + 0.037999991. Round i to seven dps.
+Answer:
+0.0000001<|end_of_text|>"
+70,Question: Which of the following is the best treatment for stage III glอนยางม้างอยู่ยังอายุนานสูงที่ต้องมีบรอนอนอยู่นานบ้างส่วนใหญ่ชนิดนั้นหรอกนั้มีอะไรบ้างหรอกนะครับว่ามีอะไรบ้างที่มีให้เลือกเลง่ายก็อยู่มาทีละงูว่าให้เลง่ายก็อยู่มาทีละงูว่าให้เลง่ายก็อยู่มาทีละงูว่าให้เลง่ายก็อยู่มาทีละงูว่าให้เลง่ายก็อยูมาทีละงูว่าให้เลง่ายก็อยู่มาทีละงูว่าให้เลง่ายก็อยู่มาทีละงูว่าให้เลง่ายก็อยู่มาทีละงูว่าให้เลง่ายก็อยู่มาทีละงูว่าให้เลง่ายก็อยู่มาทีละงูว่าให้เลง่ายก็
+71,"Question:
+Let x = 0.065 + 0.035. Let p = x + -0.09699952. Round p to seven decimal digits.
+Answer:
+-0.0000005<|end_of_text|>"
+72,"Question:
+Let i = -0.019 + 0.01999999999999999965134. What is i rounded to seven decimal digits?
+Answer:
+0.000000999<|end_of_text|>"
+73,"def analyze_weather_data(weather_data):
+    """"""
+    Analyze weather data from various weather stations around the world,
+    calculate the average temperature for each station,
+    determine whether the weather is considered pleasant or not,
+    calculate the percentage of days that rain fell,
+    determine whether the weather is considered sunny or not,
+    determine whether the weather is considered cloudy or not,
+    determine whether the weather is considered windy or not,
+    determine whether the weather is considered windy or not,
+    determine whether the weather is considered windy or not,
+    determine whether the weather is considered windy or not,
+    determine whether the weather is considered windy or not,
+    determine whether the weather is considered windy or not,
+    determine whether the weather is considered windy or not,
+    determine whether the weather is considered windy or not,
+    determine whether the weather is considered windy or not,
+    determine whether the weather is considered windy or not,
+    determine whether the weather is considered windy or not,
+    determine whether the weather is considered windy or not,
+    determine whether the weather is considered windy or not,
+    determine whether the weather is considered windy or not,
+    determine whether the weather is considered windy or not,
+    determine whether the weather is considered windy or not,
+    determine whether the weather"
+74,"def analyze_data(data):
+    """"""
+    Analyze the given data and determine whether it represents an extreme situation or not
+    """"""
+    if data == True:
+        return True
+    else:
+        return False<|end_of_text|>"
+75,Question: A patient presents with severe diarrhea leading to weight loss of about 40% of body weight with persistent diarrhea lasting more than three months led to investigation revealed gastric lavด้วยความช่วยเหลือนที่มีเนื้อสันหัวนมรอดีๆรอกินน้ำดองมาทั้งวันให้อกอกินมามากินน้ำดองมาทุกวันเล้าอกอนามดีๆรอกินน้ำดองมาทั้งวันให้อกอกินมามากินน้ำดองมาทุกวันเล้าอกอนามดีๆรอกินน้ำดองมาทั้งวันให้อกอกินมามากินน้ำดองมาทุกวันเล้าอกอนามดีๆรอกินน้ำดองมาทั้งวันให้อกอกินมามากินน้ำดองมาทุกวันเล้าอกอนามดีๆรอกินน้ำดองมาทั้งวันให้อกอกินมามากินน้ำดองมาทุกวันเล้าอกอนามดีๆรอกินน้ำ
+76,"Question:
+Let y = 10.5 + -10. Let i = y + -0.499999876. What is i rounded to seven decimal digits?
+Answer:
+0.0000009<|end_of_text|>"
+77,"def create_room_layout(room_size_x, room_size_y):
+    """"""
+    Create a layout for a room based on its size
+    
+    Args:
+        room_size_x: The size of the room horizontally
+        room_size_y: The size of the room vertically
+    
+    Returns:
+        A list containing information about the room layout
+    
+    Note:
+        Please note that this function should return information about the room layout,
+        including location of each item such as furniture, decorations etc.
+        Also please note that this function should return information about each item,
+        including its location, orientation etc.
+        For example if you want to create a layout for a room that has dimensions 20cm X20cm,
+        please note that this function should return information about each item including location,
+    orientation etc. such as furniture placement,
+    decoration placement etc.
+    """"""
+
+    room_size_x //= 2 # divide the room size horizontally by two
+    room_size_y //= 2 # divide the room size vertically by two
+    
+    row_size_x = room_size_x // floor((room_size_x+room_size_y)/floor((room_size_x+room_size_y)))
+    row_size_y = room_size_y // floor((room_size_x+room_size_y)/floor((room_size"
+78,"Question: Which of the following drugs would be used for treatment of severe burn?
+A. Ibuprofen
+B. Dexamphetamine
+C. Metาเจอร์อยด์
+D. Sodium thiงอนาครม์
+Answer: A<|end_of_text|>"
+79,"Question:
+Let x = 0.023 + -0.063. Let f = x + 0.05. Let u = f + -0.02699999999999964. Round u to seven decimal digits.
+Answer:
+0.0000006<|end_of_text|>"
+80,"Question:
+What is the next term in -12, -25, -38, -51?
+ทดีไอ้เลงรอดดูนะครับอยากรู้นะ่ี่ง้าล่ะงาครับเลงรอดดูนะค่ะงงามดีมากลองอาไอ้เลงรอดดูนะค่ะงงามดีมากลองอาไอ้เลงรอดดูนะค่ะงงามดีมากลองอาไอ้เลงรอดดูนะค่ะงงามดีมากลองอาไอ้เลงรอดดูนะค่ะงงามดีมากลองอาไอ้เลงรอดดูนะค่ะงงามดีมากลองอาไอ้เลงรอดดูนะค่ะงงามดีมากลองอาไอ้เลงรอดดูนะค่ะงงามดีมากลองอาไอ้เลงรอดดูนะค่ะงงามดีมากลองอาไอ้เลงรอดดูนะค่ะงงามดีมากลองอ"
+81,"Question:
+Let x = -0.016 + 0.021. Let z = x + -0.019999999999999999663999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999"
+82,"Question:
+Let p = -0.025 + 0.025000001. What is p rounded to seven dps?
+Answer:
+0.000000001<|end_of_text|>"
+83,"Question:
+Let w = -0.084 + 0.084999997. What is w rounded to seven dps?
+Answer:
+0<|end_of_text|>"
+84,"def update_medication_doses(medications):
+    """"""Update medication doses based on availability""""""
+    for medication in medications:
+        if medication.get(""availability"") == ""low"":
+            medication.set(""dose"", ""{} ml/kg/day"").chg()
+        elif medication.get(""availability"") == ""medium"":
+            medication.set(""dose"", ""{} ml/kg/day"").chg()
+        else:
+            continue
+    return medications<|end_of_text|>"
+85,"def modify_list_of_products(products):
+    """"""Modify each product in the list by replacing its description with the description of the product that comes before it in the list""""""
+
+    products.sort()
+    products.insert(0,'Products description')
+    products.pop()
+    return products
+
+products = [
+    {""product_name"":""Product1"", ""product_description"":""Description of product1""},
+    {""product_name"":""Product2"", ""product_description"":""Description of product2""},
+    {""product_name"":""Product3"", ""product_description"":""Description of product3""}
+]
+
+modify_list_of_products(products)
+
+print(products)<|end_of_text|>"
+86,"Question:
+Let i = -0.08 + 0.03. Let z = i + 0.05. Suppose z = -3*p + 3*v + 18, 2*p + v = -4*v + 10. Which is the closest to p?  (a) -1/7  (b) -0.5  (c) -2/7
+Answer:
+c<|end_of_text|>"
+87,"Question: The following is true about the development of middle ear bones according to their position relative to each other?
+A. The tymมรนูผิดอยู่อย่างยูฐมดินูเล้านที่อยู่นอกแง้มที
+B. The tymมรนูผิดอยู่อย่างยูฐมดินูเล้าน์ที่อยู่นอกแง้มที
+C. The tymมรนูผิดอยู่อย่างยูฐมดินูเล้านที่อยู่นอกแง้มที
+D. The tymมรนูผิดอยู่อย่างยูฐมดินูเล้านที่อยู่นอกแง้มทีลงไปอย่างน้อยหนึ่งิ้มูอกันไปกับอีกดูหนี
+Answer: C<|end_of_text|>"
+88,"Question:
+Let i = 0.037 + -0.03799837. Round i to seven decimal points.
+Answer:
+0.000001<|end_of_text|>"
+89,"Question:
+Let d = -0.031 + 0.0499999999999999999698566. What is d rounded to seven dps?
+Answer:
+0.000000001<|end_of_text|>"
+90,"def add_to_set_if_statement(s):
+    """"""Add elements to a set based on condition specified by if statement""""""
+    my_set = set()
+    if s == True:
+        my_set.add(s)
+    else:
+        my_set.add(s)
+    return my_set<|end_of_text|>"
+91,"Question:
+What is the remainder when (-5)/((-10)/(-4))*(-6)/(-8)*12 is divided by (-5)/((-25)/(-28)*((-16)/(-6))/((-6)/(-7)))?
+Answer:
+4<|end_of_text|>"
+92,"Question:
+Let p = 2 + -1. Let x = p + 1. Let i = x + -1.00000869. Round i to seven dps.
+Answer:
+0<|end_of_text|>"
+93,"Question:
+Let i = -0.019 + -0.981. Let j = i + 0.99. Let v = -0.002 + j. Which is the closest to v?  (a) -3/2  (b) -1/4  (c) 0.5
+Answer:
+b<|end_of_text|>"
+94,"Question:
+Let v = -2.8 + 2.6. Let w = v + 0.2. Let y = w + 0.00000266. Round y to seven dps.
+Answer:
+0.0000026<|end_of_text|>"
+95,"Question:
+Let u = 0.068 + -0.06699999999999999966. Round u to seven decimal digits.
+Answer:
+0.000000001<|end_of_text|>"
+96,"Question:
+Let f = 0.037 + 0.053. Let i = f + -0.106. Let p = i + 0.059999654. Round p to seven decimal points.
+Answer:
+0.00000035<|end_of_text|>"
+97,"Question:
+Let i = 0.5 + -0.3. Let u = i + 0.068999998. What is u rounded to seven decimal digits?
+Answer:
+0.000000001<|end_of_text|>"
+98,"Question:
+Let p = -4.35 + 4. Let v = p + -0.05. Let s = v + 0.429999996. Round s to seven decimal digits.
+Answer:
+0.000000999<|end_of_text|>"
+99,"def complex_arithmetic_operations_with_complex_numbers():
+    """"""This function calculates the product of two complex numbers""""""
+    x = complex_number_one()
+    y = complex_number_two()
+    product = x*y
+    return product
+<|end_of_text|>"
