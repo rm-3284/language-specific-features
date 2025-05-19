@@ -13,6 +13,7 @@ from const import (
     dataset_choices,
     lang_choices,
     lang_choices_to_iso639_2,
+    lang_choices_to_qualified_name,
     layer_to_index,
     model_choices,
     prompt_templates,
@@ -56,18 +57,19 @@ def parse_args() -> Args:
         description="Collect activations from a dataset for particular layers and languages and transform it into SAE features."
     )
 
-    parser.add_argument(
-        "model",
-        help="model name",
-        type=str,
-        choices=model_choices,
-    )
 
     parser.add_argument(
         "dataset",
         help="dataset name",
         type=str,
         choices=dataset_choices,
+    )
+
+    parser.add_argument(
+        "--model",
+        help="model name",
+        type=str,
+        choices=model_choices,
     )
 
     parser.add_argument(
@@ -148,7 +150,7 @@ def parse_args() -> Args:
         help="classifier type",
         type=str,
         default="min-max",
-        choices=["min-max", "count"],
+        choices=["min-max", "count", "fasttext"],
     )
 
     args = parser.parse_args()
@@ -437,11 +439,93 @@ def min_max_classifier(args, llm, lape, lang):
     return output
 
 
+def fasttext_classifier(args, lape, lang):
+    import fasttext
+
+    labels = []
+    predictions = []
+    results = []
+    sentences = []
+
+    sorted_lang = lape["sorted_lang"]
+
+    try:
+        model_path = args.get("fasttext_model_path", "lid.176.bin")
+        lang_model = fasttext.load_model(model_path)
+    except:
+        logger.info("Downloading FastText language identification model")
+
+        import urllib.request
+
+        url = "https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin"
+        local_path = Path("lid.176.bin")
+
+        if not local_path.exists():
+            urllib.request.urlretrieve(url, local_path)
+
+        lang_model = fasttext.load_model(str(local_path))
+
+    dataset_config = {
+        **args["dataset"],
+        "lang": lang,
+    }
+
+    logger.info(f'Loading Dataset: {dataset_config["name"]} ({dataset_config["lang"]})')
+
+    dataset = load_dataset_specific(
+        dataset_config["name"],
+        None,
+        dataset_config["split"],
+        dataset_config["start"],
+        dataset_config["end"],
+        filter_by_label=dataset_config["lang"],
+    )
+
+    for sentence_text in tqdm(dataset["sentence"], desc="Classifying with FastText"):
+        predicted_langs, probabilities = lang_model.predict(sentence_text, k=len(sorted_lang))
+
+        result = torch.zeros(len(sorted_lang))
+
+        for pred_lang, prob in zip(predicted_langs, probabilities):
+            pred_lang_iso639_1 = pred_lang.removeprefix("__label__")
+            pred_lang_qualified = lang_choices_to_qualified_name.get(pred_lang_iso639_1, None)
+
+            if pred_lang_qualified:
+                sorted_lang_idx = sorted_lang.index(pred_lang_qualified)
+                result[sorted_lang_idx] = prob
+
+        # Add the results
+        lang_prediction_idx = torch.argmax(result).item()
+        predicted_lang = lang_choices_to_iso639_2[sorted_lang[lang_prediction_idx]]
+
+        sentences.append(sentence_text)
+        predictions.append(predicted_lang)
+        labels.append(
+            dataset.features["label"].names[
+                dataset["label"][sentences.index(sentence_text)]
+            ]
+        )
+        results.append([round(x.item(), 3) for x in result])
+
+    output = pd.DataFrame(
+        {
+            "sentences": sentences,
+            "predictions": predictions,
+            "labels": labels,
+            f"results ({sorted_lang})": results,
+        }
+    )
+
+    return output
+
+
 @torch.inference_mode()
 def main(args: Args):
     logger.info(f'Loading Model: {args["model"]}')
 
-    llm = LanguageModel(args["model"], device_map="auto", dispatch=True)
+    if args["model"]:
+        llm = LanguageModel(args["model"], device_map="auto", dispatch=True)
+
     lape = torch.load(args["lape_result_path"], weights_only=False)
 
     for lang in args["languages"]:
@@ -449,12 +533,14 @@ def main(args: Args):
             output = min_max_classifier(args, llm, lape, lang)
         elif args["classifier_type"] == "count":
             output = count_classifier(args, llm, lape, lang)
+        elif args["classifier_type"] == "fasttext":
+            output = fasttext_classifier(args, lape, lang)
 
         output_dir = (
             args["out_dir"]
             / "classification"
-            / args["model"]
-            / args["sae_model"]
+            / (args["model"] if args["model"] else "")
+            / (args["sae_model"] if args["sae_model"] else "")
             / args["dataset"]["name"]
             / args["classifier_type"]
         )
