@@ -1,0 +1,26 @@
+seed,generated_text
+52,"def create_mixed_sau_oi(mixed_sau_oi):
+    """"""Viết chương trình để tạo danh sách của 3 món ăn: cá, tôm và mực, với lượng mỗi món ăn là 100g.
+    Sắp xếp các món ăn theo thứ tự: cá, tôm, mực.
+    Viết chương trình để tính tổng lượng của 3 món ăn và xuất hóa đơn với giá trị 2000.
+    """"""
+    # Viết chương trình
+    # Tạo danh sách với 3 món ăn: cá, tôm và mực
+    mixed_sau_oi = ['Cá', 'Tôm', 'Mực']
+    # Tạo danh sách 3 món ăn với lượng 100g
+    mixed_sau_oi = [100, 100, 100]
+    # Sắp xếp các món ăn theo thứ tự: cá, tôm, mực
+    mixed_sau_oi.sort()
+    # Viết chương trình để tính tổng lượng của 3 món ăn và xuất hóa đơn với giá trị 2000
+    # Lệ toán hóa đơn
+    total = 0
+    for i in range(3):
+        total += mixed_sau_oi[i] * 100
+    # Xử lý hóa đơn
+    print(""Sản phẩm: "" + mixed_sau_oi[0] + "" - "" + mixed_sau_oi[1] + "" - "" + mixed_sau_oi[2])
+    print(""Tổng tiền: "" + str(total))
+<|end_of_text|>"
+53,"Question:
+What is 2/(-3) - (-2 - -1) - -2?
+Answer:
+-4<|end_of_text|>"
