@@ -1,0 +1,870 @@
+[
+    {
+        "sentences": "Hamilton has been the primary songwriter, guitarist, and vocalist for Brothers Past, as well as co-producer for all of their recorded releases.",
+        "predictions": "eng",
+        "features": {
+            "model.layers.0.mlp": {
+                "English": {
+                    "93066": {
+                        "interpretation": "\"Highly frequent activations on punctuation marks, especially commas and spaces, often at the start of sentences or clauses, and across multiple languages, indicating a focus on structural or delimiting tokens in multilingual text.\"",
+                        "tokens": [
+                            " has",
+                            " been",
+                            " the",
+                            ",",
+                            ",",
+                            " and",
+                            " for", 
+                            ",",
+                            " as",
+                            " well",
+                            " as",
+                            " co",
+                            " for",
+                            " all",
+                            " of"
+                        ]
+                    },
+                    "128132": {
+                        "interpretation": "\"The highlighted tokens are primarily function words (such as articles, conjunctions, prepositions, and auxiliary verbs) and common noun phrases that serve as structural anchors in sentences. These tokens often mark the boundaries of clauses, introduce or connect ideas, and are essential for grammatical cohesion and meaning flow in both narrative and informational contexts.\"",
+                        "tokens": [
+                            " has",
+                            " been",
+                            " the",
+                            ",",
+                            ",",
+                            " and",
+                            " for",
+                            ",",
+                            " as",
+                            " well",
+                            " as",
+                            " co",
+                            " for",
+                            " all",
+                            " of"
+                        ]
+                    }
+                }
+            },
+            "model.layers.2.mlp": {
+                "English": {
+                    "14207": {
+                        "interpretation": "\"The highlighted tokens are often function words, conjunctions, prepositions, or common short phrases that serve as syntactic connectors or modifiers, as well as inflectional or derivational morphemes in various languages. These tokens are crucial for sentence structure, meaning transitions, and grammatical relationships across diverse linguistic contexts.\"",
+                        "tokens": [
+                            "<|begin_of_text|>",
+                            " the",
+                            " primary",
+                            " as",
+                            " as",
+                            " co",
+                            " all"
+                        ]
+                    }
+                }
+            },
+            "model.layers.4.mlp": {
+                "English": {
+                    "34138": {
+                        "interpretation": "\"The highlighted text segments are typically multi-word phrases or clauses that convey specific actions, states, or relationships, often providing key contextual or descriptive information within a sentence. These segments frequently include verbs, objects, and modifiers, forming meaningful units that contribute to the overall narrative or informational structure of the text.\"",
+                        "tokens": [
+                            " been",
+                            " the",
+                            " primary",
+                            " songwriter",
+                            ",",
+                            " guitarist",
+                            ",",
+                            " and",
+                            " for",
+                            " as",
+                            " as",
+                            " co",
+                            "-produ",
+                            "cer",
+                            " for",
+                            " all",
+                            " of",
+                            " their",
+                            " recorded"
+                        ]
+                    }
+                }
+            },
+            "model.layers.5.mlp": {
+                "Bulgarian": {
+                    "12333": {
+                        "interpretation": "\"The highlighted tokens are predominantly suffixes, prefixes, or inflectional endings in Bulgarian (and occasionally other languages), marking grammatical features such as tense, number, gender, case, or aspect, as well as forming participles, adjectives, and nouns. These morphemes are essential for word formation and grammatical agreement in the language.\"",
+                        "tokens": [
+                            " primary"
+                        ]
+                    }
+                }
+            },
+            "model.layers.8.mlp": {
+                "English": {
+                    "123973": {
+                        "interpretation": "\"The highlighted spans often represent multi-word phrases or clauses that function as cohesive semantic units, such as prepositional phrases, idiomatic expressions, or descriptive noun phrases. These segments frequently provide contextual detail, specify relationships, or add nuance to the main clause, and are typically composed of function words combined with content words to form meaningful, context-dependent chunks.\"",
+                        "tokens": [
+                            " has",
+                            " been",
+                            " the",
+                            " primary",
+                            ","
+                        ]
+                    }
+                }
+            },
+            "model.layers.11.mlp": {
+                "Portuguese": {
+                    "19293": {
+                        "interpretation": "\"The highlighted tokens are predominantly roots, stems, or affixes within Portuguese words, often marking the beginning or internal structure of nouns, verbs, and adjectives. These segments are morphologically significant, frequently corresponding to common derivational or inflectional morphemes, and are central to word formation and meaning in the language.\"",
+                        "tokens": [
+                            " Brothers"
+                        ]
+                    }
+                },
+                "Turkish": {
+                    "37895": {
+                        "interpretation": "\"The highlighted tokens are primarily suffixes, inflections, or short function words in Turkish and German, often marking grammatical relationships such as possession, plurality, tense, or case, as well as prepositions and names in German. These tokens are crucial for the syntactic and semantic structure of sentences in agglutinative and inflectional languages.\"",
+                        "tokens": [
+                            " co",
+                            " recorded"
+                        ]
+                    }
+                }
+            },
+            "model.layers.15.mlp": {
+                "English": {
+                    "5889": {
+                        "interpretation": "\"The highlighted tokens frequently correspond to structural elements in formal or factual writing, such as numbers, dates, conjunctions, prepositions, punctuation, and proper nouns, which are often used to organize, enumerate, or specify information in lists, references, or descriptive passages.\"",
+                        "tokens": [
+                            "Hamilton",
+                            " has",
+                            " been",
+                            " the",
+                            " primary",
+                            " songwriter",
+                            ",",
+                            ",",
+                            " and",
+                            " vocalist",
+                            " for",
+                            " Brothers",
+                            ",",
+                            " as",
+                            " well",
+                            " as",
+                            "cer",
+                            " for",
+                            " all",
+                            " of",
+                            " their",
+                            " releases",
+                            "."
+                        ]
+                    },
+                    "67343": {
+                        "interpretation": "\"The text contains a wide variety of conversational and narrative fragments, including idiomatic expressions, filler words, discourse markers, and references to people, places, and actions. There is a frequent use of pronouns, conjunctions, and auxiliary verbs, as well as sequences that reflect spoken language patterns such as repetitions, hesitations, and clarifications. Many segments highlight the structure of dialogue, question-answer formats, and descriptive or explanatory statements, often focusing on actions, states, or relationships between entities.\"",
+                        "tokens": [
+                            "Hamilton",
+                            " has",
+                            " been",
+                            " the",
+                            " primary",
+                            " songwriter",
+                            ",",
+                            ",",
+                            " and",
+                            " vocalist",
+                            " for",
+                            " Brothers",
+                            ",",
+                            " as",
+                            " well",
+                            " as",
+                            "cer",
+                            " for",
+                            " all",
+                            " of",
+                            " their",
+                            " releases",
+                            "."
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    {
+        "sentences": "Olga Alexandrowna Girja (russisch \u041e\u043b\u044c\u0433\u0430 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043d\u0430 \u0413\u0438\u0440\u044f; * 4. Juni 1991 in Langepas) ist eine russische Schachspielerin und seit 2009 Gro\u00dfmeister der Frauen (WGM).",
+        "predictions": "rus",
+        "features": {
+            "model.layers.0.mlp": {
+                "Bulgarian": {
+                    "123218": {
+                        "interpretation": "\"The text highlights the frequent use of single Cyrillic letters, especially at the beginning of sentences or phrases, functioning as prepositions, conjunctions, or initials in Russian and Bulgarian, often with high activation when capitalized and sentence-initial.\"",
+                        "tokens": [
+                            " \u041e",
+                            "\u0433\u0430",
+                            "\u043d\u0430",
+                            " \u0413"
+                        ]
+                    }
+                },
+                "English": {
+                    "93066": {
+                        "interpretation": "\"Highly frequent activations on punctuation marks, especially commas and spaces, often at the start of sentences or clauses, and across multiple languages, indicating a focus on structural or delimiting tokens in multilingual text.\"",
+                        "tokens": [
+                            " (",
+                            ";",
+                            " *",
+                            " ",
+                            ".",
+                            " ",
+                            " in",
+                            ")",
+                            " und",
+                            " ",
+                            " ("
+                        ]
+                    }
+                },
+                "Turkish": {
+                    "64723": {
+                        "interpretation": "\"Suffixes such as \\\"\u0131\\\", \\\"lar\\\", \\\"ler\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"im\\\", \\\"in\\\", \\\"isi\\\", \\\"l\u0131\u011f\u0131\\\", \\\"lar\u0131\\\", \\\"leri\\\", \\\"\u0131n\u0131\\\", \\\"udur\\\", \\\"ildi\\\", \\\"\u0131m\\\", \\\"isi\\\", \\\"ar\u0131\\\", \\\"al\u0131\\\", \\\"isi\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\\\", \\\"l\u0131k\"",
+                        "tokens": [
+                            "\u0438\u0440"
+                        ]
+                    }
+                }
+            },
+            "model.layers.1.mlp": {
+                "Bulgarian": {
+                    "32578": {
+                        "interpretation": "\"The highlighted tokens are common Bulgarian suffixes used to form adjectives, nouns, and participles, indicating grammatical features such as gender, number, definiteness, and case. These suffixes are essential for word formation and inflection in Bulgarian morphology.\"",
+                        "tokens": [
+                            "na",
+                            "\u043d\u0430"
+                        ]
+                    }
+                },
+                "Turkish": {
+                    "84692": {
+                        "interpretation": "\"The highlighted tokens are predominantly prefixes, roots, or short morphemes within words, often marking the beginning or core of nouns, verbs, or adjectives across multiple languages. These segments frequently correspond to meaningful subword units, such as roots, affixes, or syllables, and are often found in proper names, technical terms, or compound words. The pattern reflects a focus on linguistically significant subword structures that contribute to word formation and meaning.\"",
+                        "tokens": [
+                            " Gir"
+                        ]
+                    }
+                }
+            },
+            "model.layers.2.mlp": {
+                "English": {
+                    "14207": {
+                        "interpretation": "\"The highlighted tokens are often function words, conjunctions, prepositions, or common short phrases that serve as syntactic connectors or modifiers, as well as inflectional or derivational morphemes in various languages. These tokens are crucial for sentence structure, meaning transitions, and grammatical relationships across diverse linguistic contexts.\"",
+                        "tokens": [
+                            "<|begin_of_text|>",
+                            " "
+                        ]
+                    }
+                },
+                "German": {
+                    "56064": {
+                        "interpretation": "\"The highlighted tokens are primarily German morphemes, word stems, or inflections, often marking noun or verb endings, compound word parts, or grammatical function words. Many are common in German-language text, including noun endings (-en, -heit, -keit, -ung), verb forms (-iert, -te, -en), and connecting words (und, von, in, der, die, das, eine). There is also frequent activation on recurring roots in compound nouns and on inflectional suffixes, reflecting the morphological structure of German.\"",
+                        "tokens": [
+                            "isch",
+                            " Juni",
+                            " Lang",
+                            " ist",
+                            "\u00df"
+                        ]
+                    }
+                },
+                "Thai": {
+                    "100192": {
+                        "interpretation": "\"The highlighted tokens are often function words, affixes, or short morphemes in various languages, including prepositions, conjunctions, pronouns, and grammatical particles, as well as some high-activation non-standard or corrupted characters. These tokens are typically important for sentence structure, meaning, or language identification.\"",
+                        "tokens": [
+                            "Ol",
+                            " \u041e"
+                        ]
+                    },
+                    "105874": {
+                        "interpretation": "\"The highlighted tokens are often morphemes, syllables, or short word fragments that serve as meaningful units in various languages, including Thai, Hindi, and others. These units frequently appear at the beginning, middle, or end of words and are important for word formation, inflection, or conveying grammatical and semantic information.\"",
+                        "tokens": [
+                            "Ol",
+                            " \u041e"
+                        ]
+                    }
+                }
+            },
+            "model.layers.3.mlp": {
+                "Bulgarian": {
+                    "98476": {
+                        "interpretation": "\"The highlighted tokens are predominantly Bulgarian suffixes, pronoun and conjunction forms, and inflectional endings that mark grammatical relationships such as gender, number, case, and verb tense, as well as function words that connect clauses or indicate possession and agency. These elements are essential for the syntactic structure and meaning in Bulgarian sentences.\"",
+                        "tokens": [
+                            " Alexand"
+                        ]
+                    }
+                },
+                "Italian": {
+                    "120200": {
+                        "interpretation": "\"The highlighted tokens are often morphemes, suffixes, or name fragments within words, especially in Italian and other Romance languages, marking comparative forms, diminutives, or parts of proper nouns and loanwords. These tokens frequently appear at word endings or within multi-syllabic names and terms.\"",
+                        "tokens": [
+                            " \u041e"
+                        ]
+                    }
+                },
+                "Spanish": {
+                    "4518": {
+                        "interpretation": "\"The highlighted tokens are often morphemes, word stems, or affixes from various languages, especially Spanish, marking grammatical or semantic units such as verb endings, noun forms, or prepositions, and sometimes appear in named entities or set phrases.\"",
+                        "tokens": [
+                            "ga"
+                        ]
+                    }
+                }
+            },
+            "model.layers.4.mlp": {
+                "Russian": {
+                    "48343": {
+                        "interpretation": "\"The highlighted tokens are primarily short morphemes, prefixes, or function words in Slavic and related languages, often marking grammatical relationships, word formation, or serving as connectors within or between words and phrases.\"",
+                        "tokens": [
+                            " Gir"
+                        ]
+                    }
+                }
+            },
+            "model.layers.5.mlp": {
+                "Bulgarian": {
+                    "12333": {
+                        "interpretation": "\"The highlighted tokens are predominantly suffixes, prefixes, or inflectional endings in Bulgarian (and occasionally other languages), marking grammatical features such as tense, number, gender, case, or aspect, as well as forming participles, adjectives, and nouns. These morphemes are essential for word formation and grammatical agreement in the language.\"",
+                        "tokens": [
+                            "ja",
+                            " *"
+                        ]
+                    },
+                    "30265": {
+                        "interpretation": "\"The highlighted tokens are predominantly suffixes, inflections, or short morphemes in Bulgarian (and some other languages), such as grammatical endings for tense, case, gender, number, or diminutives, as well as common function words and particles. These elements are crucial for the grammatical structure and meaning of words and sentences.\"",
+                        "tokens": [
+                            "ja",
+                            " *"
+                        ]
+                    }
+                },
+                "German": {
+                    "31366": {
+                        "interpretation": "\"The highlighted tokens are primarily German (and some Russian) morphemes, word stems, and inflectional endings, often marking grammatical features such as case, number, tense, or forming compound nouns and verbs. Many are parts of longer words or compounds, reflecting the agglutinative and inflectional nature of German, and are often found at the beginning, middle, or end of words.\"",
+                        "tokens": [
+                            " *",
+                            " ist"
+                        ]
+                    }
+                },
+                "Vietnamese": {
+                    "49501": {
+                        "interpretation": "\"The highlighted tokens are characteristic morphemes, suffixes, or letter clusters commonly found in Romanian and related Eastern European place names, river names, and surnames, often marking grammatical or regional features.\"",
+                        "tokens": [
+                            " Alexand"
+                        ]
+                    }
+                }
+            },
+            "model.layers.6.mlp": {
+                "Russian": {
+                    "121507": {
+                        "interpretation": "\"The highlighted tokens are predominantly morphemes, roots, prefixes, suffixes, or short function words within Russian, Bulgarian, and related Slavic texts. These segments often mark grammatical features, word formation, or serve as connectors, and are frequently found at the beginning, middle, or end of words, reflecting the agglutinative and inflectional nature of these languages.\"",
+                        "tokens": [
+                            "\u043b\u044c",
+                            "\u0433\u0430",
+                            " \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434",
+                            " \u0413"
+                        ]
+                    }
+                },
+                "Thai": {
+                    "68498": {
+                        "interpretation": "\"The highlighted tokens are morphemes or syllables at word boundaries across multiple languages, often marking inflections, derivations, or meaningful subword units. These include suffixes, prefixes, or roots that contribute to the grammatical or semantic structure of words.\"",
+                        "tokens": [
+                            "spi",
+                            " Gro"
+                        ]
+                    }
+                }
+            },
+            "model.layers.7.mlp": {
+                "Thai": {
+                    "70835": {
+                        "interpretation": "\"The highlighted tokens are primarily morphemes, syllables, or short word fragments from multiple languages, especially Thai, Russian, and Bulgarian, often marking the start or core of content words such as nouns, verbs, or adjectives. These fragments frequently appear at the beginning or within important words, indicating their role in word formation and semantic content across diverse scripts and languages.\"",
+                        "tokens": [
+                            " \u041e",
+                            "\u043b\u044c",
+                            " \u0413",
+                            "\u0438\u0440"
+                        ]
+                    }
+                }
+            },
+            "model.layers.8.mlp": {
+                "English": {
+                    "123973": {
+                        "interpretation": "\"The highlighted spans often represent multi-word phrases or clauses that function as cohesive semantic units, such as prepositional phrases, idiomatic expressions, or descriptive noun phrases. These segments frequently provide contextual detail, specify relationships, or add nuance to the main clause, and are typically composed of function words combined with content words to form meaningful, context-dependent chunks.\"",
+                        "tokens": [
+                            "ga"
+                        ]
+                    }
+                },
+                "German": {
+                    "79729": {
+                        "interpretation": "\"The highlighted tokens are primarily German function words, verb forms, noun and adjective endings, and common prefixes or suffixes, often marking grammatical relationships, tense, plurality, or case, as well as frequent collocations and set phrases. These tokens are essential for sentence structure and meaning in German text.\"",
+                        "tokens": [
+                            " Juni",
+                            " ist"
+                        ]
+                    }
+                },
+                "Russian": {
+                    "109317": {
+                        "interpretation": "\"The highlighted tokens are primarily morphemes, word stems, suffixes, and grammatical endings in Russian (and some in English), often marking case, number, tense, or forming nouns, adjectives, and verbs. There is a focus on functional elements that contribute to word formation, inflection, and syntactic structure, as well as on common connective words and phrase boundaries.\"",
+                        "tokens": [
+                            "ja"
+                        ]
+                    }
+                }
+            },
+            "model.layers.9.mlp": {
+                "German": {
+                    "9083": {
+                        "interpretation": "\"The highlighted tokens are primarily function words, verb forms, noun and adjective endings, and common collocations in German sentences, often marking grammatical structure, tense, or case, as well as frequent phrase boundaries and connectors. These tokens are crucial for sentence construction and meaning in German text.\"",
+                        "tokens": [
+                            " *",
+                            " Juni",
+                            ")",
+                            " ist",
+                            " eine",
+                            ")."
+                        ]
+                    }
+                },
+                "Portuguese": {
+                    "77250": {
+                        "interpretation": "\"The highlighted tokens are predominantly prefixes, suffixes, or stems within Portuguese words, often marking verb conjugations, noun/adjective forms, or common morphemes. These segments frequently appear at the start or end of words, reflecting morphological structure and inflectional patterns in the language.\"",
+                        "tokens": [
+                            " eine"
+                        ]
+                    }
+                },
+                "Russian": {
+                    "59767": {
+                        "interpretation": "\"The highlighted tokens are predominantly Russian word stems, prefixes, and suffixes that form the core of verbs, nouns, and adjectives, often marking grammatical or semantic roles such as actions, objects, or qualities. These morphemes are crucial for word formation and meaning in Russian, frequently appearing at the beginning or within words to indicate tense, aspect, subject, or object, and are central to the structure and interpretation of Russian sentences.\"",
+                        "tokens": [
+                            "r",
+                            " \u041e",
+                            "\u043b\u044c",
+                            "\u0433\u0430",
+                            " \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434",
+                            "\u0440\u043e\u0432",
+                            "\u043d\u0430",
+                            " \u0413",
+                            "\u0438\u0440",
+                            "\u044f"
+                        ]
+                    }
+                }
+            },
+            "model.layers.10.mlp": {
+                "Bulgarian": {
+                    "41383": {
+                        "interpretation": "\"The highlighted tokens are predominantly proper nouns, especially names of people, places, and media titles, often appearing in multiple languages and scripts. These tokens frequently occur in contexts involving legal, journalistic, or entertainment references, and are often accompanied by titles, roles, or institutional affiliations.\"",
+                        "tokens": [
+                            " Alexand",
+                            "r"
+                        ]
+                    },
+                    "43549": {
+                        "interpretation": "\"The highlighted tokens are primarily function words, pronouns, conjunctions, prepositions, and common verb forms in Bulgarian (and some in other languages), as well as frequent morphemes and endings. These elements are essential for sentence structure, grammatical relationships, and meaning, often marking tense, negation, possession, or subordination. The activations focus on the connective tissue of language that enables coherent and contextually appropriate communication.\"",
+                        "tokens": [
+                            " Alexand",
+                            "r"
+                        ]
+                    }
+                },
+                "German": {
+                    "44371": {
+                        "interpretation": "\"The highlighted spans are predominantly German multi-word expressions, noun or verb phrases, and compound words, often marking grammatical constructs, inflections, or idiomatic units. Many are functionally important for sentence structure, such as verb-final clauses, participial forms, or noun compounds, and frequently include suffixes or prefixes that signal tense, plurality, or case. These patterns reflect the morphological richness and syntactic dependencies characteristic of German text.\"",
+                        "tokens": [
+                            " ist"
+                        ]
+                    }
+                },
+                "Russian": {
+                    "56594": {
+                        "interpretation": "\"The highlighted tokens are predominantly proper nouns, technical terms, and named entities\u2014such as personal names, place names, and institutional or scientific terms\u2014often in multiple languages. These tokens frequently appear in contexts involving formal identification, attribution, or description of people, locations, organizations, or specialized concepts.\"",
+                        "tokens": [
+                            "ga",
+                            " Alexand",
+                            "row",
+                            "na",
+                            " Gir",
+                            "ja",
+                            " (",
+                            "r",
+                            "uss",
+                            "isch",
+                            " \u041e",
+                            "\u043b\u044c",
+                            "\u0433\u0430",
+                            " \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434",
+                            "\u0440\u043e\u0432",
+                            "\u043d\u0430",
+                            " \u0413",
+                            "\u0438\u0440",
+                            "\u044f",
+                            " ",
+                            " ",
+                            " in",
+                            " Lang",
+                            "as",
+                            " eine",
+                            " russ",
+                            "ach",
+                            " Gro",
+                            " der",
+                            " (",
+                            "W"
+                        ]
+                    }
+                }
+            },
+            "model.layers.11.mlp": {
+                "Bulgarian": {
+                    "52975": {
+                        "interpretation": "\"The highlighted tokens are predominantly short function words, prefixes, or single letters from various languages, often marking grammatical relationships, verb forms, or serving as conjunctions and prepositions. These tokens are crucial for sentence structure and meaning, especially in morphologically rich or agglutinative languages.\"",
+                        "tokens": [
+                            "r"
+                        ]
+                    }
+                },
+                "German": {
+                    "27401": {
+                        "interpretation": "\"The highlighted tokens are predominantly German morphemes, word stems, and grammatical endings, often marking inflections, compounds, or function words. These tokens frequently appear at the boundaries of words or phrases, indicating their importance for understanding German syntax, morphology, and sentence structure.\"",
+                        "tokens": [
+                            ";",
+                            " *",
+                            ".",
+                            " Juni",
+                            ")",
+                            " ist",
+                            " eine",
+                            "ische",
+                            "elerin",
+                            " und",
+                            " seit",
+                            "9",
+                            "ister",
+                            " Frauen",
+                            ")."
+                        ]
+                    },
+                    "52681": {
+                        "interpretation": "\"The highlighted tokens are primarily German function words, verb forms, pronouns, and common noun or adjective suffixes, especially those marking person, tense, or plurality. There is a strong focus on grammatical structures, such as verb conjugations, modal verbs, and case endings, as well as on frequently used collocations and phrasal patterns in German sentences.\"",
+                        "tokens": [
+                            ";",
+                            " *",
+                            ".",
+                            " Juni",
+                            ")",
+                            " ist",
+                            " eine",
+                            "ische",
+                            "elerin",
+                            " und",
+                            " seit",
+                            "9",
+                            "ister",
+                            " Frauen",
+                            ")."
+                        ]
+                    }
+                },
+                "Hindi": {
+                    "63085": {
+                        "interpretation": "\"The text contains frequent use of Hindi conjuncts and half-letters, especially the \\\"\u094d\\\" (virama) and combinations with \\\"\u0935\\\", \\\"\u0930\\\", \\\"\u092f\\\", and other consonants, which are characteristic of Hindi morphology and word formation, particularly in formal or technical contexts.\"",
+                        "tokens": [
+                            "ep"
+                        ]
+                    }
+                },
+                "Korean": {
+                    "102511": {
+                        "interpretation": "\"The highlighted tokens are predominantly Korean noun and suffix forms, often ending with \\\"\ud568\\\", \\\"\uac83\\\", \\\"\uc74c\\\", \\\"\ubc95\\\", \\\"\ud615\\\", \\\"\uc728\\\", \\\"\ub7c9\\\", \\\"\uad70\\\", \\\"\uac1d\\\", \\\"\uba74\\\", \\\"\uc131\\\", \\\"\uc804\\\", \\\"\ud3b8\\\", \\\"\uc2ec\\\", \\\"\ub4dd\\\", \\\"\uc0c1\\\", \\\"\uc2dc\uac04\\\", and similar morphemes. These tokens typically denote abstract concepts, objects, people, or states, and are frequently used as nominalizers or to form compound nouns, reflecting a pattern of marking key semantic units or grammatical roles in Korean text.\"",
+                        "tokens": [
+                            "\u0440\u043e\u0432"
+                        ]
+                    }
+                },
+                "Russian": {
+                    "8452": {
+                        "interpretation": "\"The highlighted tokens are predominantly Russian morphemes, words, or short phrases that serve as key semantic or syntactic units within sentences. They include verb roots, noun endings, pronouns, conjunctions, and common collocations, often marking the core meaning, grammatical structure, or transitions in the text. The activations focus on elements that define actions, states, relationships, or important contextual information, reflecting the building blocks of Russian sentence construction and meaning.\"",
+                        "tokens": [
+                            " \u041e",
+                            "\u043b\u044c",
+                            "\u0433\u0430",
+                            " \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434",
+                            "\u0440\u043e\u0432",
+                            "\u043d\u0430",
+                            " \u0413",
+                            "\u0438\u0440"
+                        ]
+                    },
+                    "74675": {
+                        "interpretation": "\"The highlighted tokens are primarily Russian morphemes, roots, and affixes that form the core semantic or grammatical structure of words, often marking verbs, nouns, or adjectives, and are crucial for conveying meaning, tense, aspect, or function within the sentence.\"",
+                        "tokens": [
+                            " \u041e",
+                            "\u043b\u044c",
+                            "\u0433\u0430",
+                            " \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434",
+                            "\u0440\u043e\u0432",
+                            "\u043d\u0430",
+                            " \u0413",
+                            "\u0438\u0440"
+                        ]
+                    }
+                },
+                "Turkish": {
+                    "37895": {
+                        "interpretation": "\"The highlighted tokens are primarily suffixes, inflections, or short function words in Turkish and German, often marking grammatical relationships such as possession, plurality, tense, or case, as well as prepositions and names in German. These tokens are crucial for the syntactic and semantic structure of sentences in agglutinative and inflectional languages.\"",
+                        "tokens": [
+                            " in",
+                            " eine",
+                            " Gro",
+                            "\u00df",
+                            "me",
+                            "W"
+                        ]
+                    }
+                }
+            },
+            "model.layers.12.mlp": {
+                "Bulgarian": {
+                    "16648": {
+                        "interpretation": "\"The highlighted tokens are predominantly suffixes or stems in Bulgarian that form adjectives, nouns, or participles, often indicating grammatical features such as gender, number, or case, and are especially common in forming complex or compound words. These morphemes frequently appear at the end of words and are central to word formation and inflection in the language.\"",
+                        "tokens": [
+                            " russ"
+                        ]
+                    }
+                },
+                "Hindi": {
+                    "13954": {
+                        "interpretation": "\"Suffixes and endings in Hindi, such as \u0947, \u0902, \u093e, \u0940, \u0948, \u094b\u0902, and \u0947\u0902, are frequently activated, reflecting their grammatical role in verb conjugation, noun/adjective inflection, and pluralization. These endings are crucial for indicating tense, number, gender, and case in Hindi sentences.\"",
+                        "tokens": [
+                            " *"
+                        ]
+                    }
+                },
+                "Russian": {
+                    "31110": {
+                        "interpretation": "\"The highlighted tokens are predominantly Russian morphemes, roots, or affixes that form the core semantic or grammatical structure of words, often marking verbs, adjectives, or nouns. These segments frequently appear at the beginning or end of words and are essential for conveying meaning, tense, aspect, or other grammatical features in Russian. The activations focus on these meaningful subword units that are central to word formation and comprehension in the language.\"",
+                        "tokens": [
+                            "\u0433\u0430",
+                            "\u0440\u043e\u0432",
+                            "\u043d\u0430",
+                            " \u0413",
+                            "\u0438\u0440"
+                        ]
+                    },
+                    "48228": {
+                        "interpretation": "\"The highlighted tokens are primarily Russian morphemes, function words, and endings that mark grammatical relationships, verb conjugations, noun/adjective declensions, and common syntactic connectors. These tokens are crucial for sentence structure, tense, case, agreement, and linking clauses, reflecting the morphological richness and syntactic dependencies of Russian language.\"",
+                        "tokens": [
+                            "\u0433\u0430",
+                            "\u0440\u043e\u0432",
+                            "\u043d\u0430",
+                            " \u0413",
+                            "\u0438\u0440"
+                        ]
+                    }
+                }
+            },
+            "model.layers.13.mlp": {
+                "Bulgarian": {
+                    "91108": {
+                        "interpretation": "\"The text highlights the importance of common Bulgarian prefixes such as \\\"\u0438\u0437\\\", \\\"\u043f\u043e\u0434\\\", \\\"\u0440\u0430\u0437\\\", \\\"\u0441\u044a\\\", \\\"\u043f\u0440\u0438\\\", and others, which frequently appear at the beginning of words to form verbs, nouns, or adjectives. These prefixes are key morphological markers that modify the meaning of root words and are highly salient in the structure and semantics of Bulgarian language.\"",
+                        "tokens": [
+                            " \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434"
+                        ]
+                    }
+                },
+                "Russian": {
+                    "29244": {
+                        "interpretation": "\"The highlighted tokens are primarily morphemes, roots, prefixes, and suffixes within Russian words, often marking word formation, inflection, or derivation. These segments frequently correspond to meaningful subword units that contribute to the grammatical or semantic structure of the word, such as case endings, diminutives, verb aspects, or noun/adjective formation.\"",
+                        "tokens": [
+                            "\u043b\u044c",
+                            "\u0433\u0430",
+                            " \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434",
+                            "\u0440\u043e\u0432",
+                            "\u043d\u0430",
+                            " \u0413",
+                            "\u0438\u0440",
+                            "\u044f"
+                        ]
+                    },
+                    "40052": {
+                        "interpretation": "\"The highlighted tokens are predominantly Russian (and some other Slavic) word endings, suffixes, and inflections that indicate grammatical case, number, gender, verb tense, or derivational morphology. These endings are crucial for understanding syntactic roles and semantic relationships in the text, as well as for identifying noun, adjective, and verb forms.\"",
+                        "tokens": [
+                            "\u043b\u044c",
+                            "\u0433\u0430",
+                            " \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434",
+                            "\u0440\u043e\u0432",
+                            "\u043d\u0430",
+                            " \u0413",
+                            "\u0438\u0440",
+                            "\u044f"
+                        ]
+                    },
+                    "97322": {
+                        "interpretation": "\"The highlighted tokens are predominantly Russian morphological suffixes, prepositions, conjunctions, and noun/adjective endings that indicate grammatical relationships, case, number, gender, and aspect. These elements are essential for syntactic structure and meaning in Russian, often marking possession, agency, time, and other core grammatical functions.\"",
+                        "tokens": [
+                            "\u043b\u044c",
+                            "\u0433\u0430",
+                            " \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434",
+                            "\u0440\u043e\u0432",
+                            "\u043d\u0430",
+                            " \u0413",
+                            "\u0438\u0440",
+                            "\u044f"
+                        ]
+                    },
+                    "115738": {
+                        "interpretation": "\"The important tokens are predominantly Russian morphemes, roots, and affixes that form the core semantic or grammatical structure of words, often marking noun, verb, or adjective stems, as well as common derivational and inflectional endings. These tokens frequently appear at the beginning or within the main body of words, highlighting the morphological building blocks essential for meaning and word formation in Russian text.\"",
+                        "tokens": [
+                            "\u043b\u044c",
+                            "\u0433\u0430",
+                            " \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434",
+                            "\u0440\u043e\u0432",
+                            "\u043d\u0430",
+                            " \u0413",
+                            "\u0438\u0440",
+                            "\u044f"
+                        ]
+                    }
+                },
+                "Spanish": {
+                    "53088": {
+                        "interpretation": "\"The highlighted tokens are primarily Spanish morphemes, suffixes, and function words, including endings for adjectives, nouns, and adverbs, as well as conjunctions, prepositions, and common connectors. There is also emphasis on punctuation and proper nouns, reflecting structural and grammatical elements essential for sentence construction and meaning in Spanish text.\"",
+                        "tokens": [
+                            ")"
+                        ]
+                    }
+                },
+                "Thai": {
+                    "40808": {
+                        "interpretation": "\"The highlighted tokens are word fragments, often suffixes or inflections, that appear at the end of words across multiple languages, indicating morphological boundaries or grammatical modifications.\"",
+                        "tokens": [
+                            "uss",
+                            " russ"
+                        ]
+                    }
+                }
+            },
+            "model.layers.14.mlp": {
+                "Bulgarian": {
+                    "14651": {
+                        "interpretation": "\"The highlighted tokens are predominantly Bulgarian morphemes, suffixes, and inflections that mark grammatical features such as tense, number, gender, case, and aspect, as well as common function words and short stems. These elements are crucial for the syntactic and semantic structure of Bulgarian sentences, often appearing at the ends of words or as short connecting words, reflecting the language's rich inflectional morphology.\"",
+                        "tokens": [
+                            "\u044f"
+                        ]
+                    }
+                },
+                "German": {
+                    "312": {
+                        "interpretation": "\"The highlighted tokens are predominantly German suffixes and word endings that form nouns, adjectives, and participles, often indicating grammatical features such as case, number, gender, or degree, as well as forming compound words and inflections.\"",
+                        "tokens": [
+                            "elerin"
+                        ]
+                    }
+                },
+                "Hindi": {
+                    "27401": {
+                        "interpretation": "\"Single uppercase letters or digraphs, often at the start of a word or name, are highlighted across multiple languages and scripts, frequently marking proper nouns, initials, or abbreviations.\"",
+                        "tokens": [
+                            " \u041e",
+                            " \u0413",
+                            ";",
+                            " *",
+                            ")"
+                        ]
+                    },
+                    "108954": {
+                        "interpretation": "\"The highlighted tokens are common Hindi suffixes and vowel diacritics, such as \\\"\u093e\\\", \\\"\u0940\\\", \\\"\u0947\\\", \\\"\u0948\\\", and \\\"\u0947\u0902\\\", which are essential for inflection, tense, plurality, and grammatical agreement in Hindi words. These suffixes frequently appear at the end of verbs, nouns, and adjectives, marking grammatical features and contributing to the overall meaning and structure of sentences.\"",
+                        "tokens": [
+                            " \u041e",
+                            " \u0413",
+                            ";",
+                            " *",
+                            ")"
+                        ]
+                    }
+                },
+                "Russian": {
+                    "44860": {
+                        "interpretation": "\"The highlighted tokens are predominantly Russian morphemes, roots, and affixes that form the core semantic or grammatical structure of words. These include verb and noun roots, derivational and inflectional suffixes, and key word segments that contribute to meaning, tense, aspect, or case. The pattern reflects a focus on the internal morphological structure of Russian words, emphasizing the parts that carry essential lexical or grammatical information.\"",
+                        "tokens": [
+                            "\u0440\u043e\u0432"
+                        ]
+                    }
+                }
+            },
+            "model.layers.15.mlp": {
+                "English": {
+                    "5889": {
+                        "interpretation": "\"The highlighted tokens frequently correspond to structural elements in formal or factual writing, such as numbers, dates, conjunctions, prepositions, punctuation, and proper nouns, which are often used to organize, enumerate, or specify information in lists, references, or descriptive passages.\"",
+                        "tokens": [
+                            "ga",
+                            "row",
+                            "na",
+                            "ja",
+                            " \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434"
+                        ]
+                    }
+                },
+                "German": {
+                    "17109": {
+                        "interpretation": "\"The highlighted tokens are primarily German morphemes, function words, and common suffixes or inflections, as well as high-frequency connectors and pronouns. These include verb and noun endings, conjunctions, prepositions, and pronouns, which are essential for sentence structure and meaning in German text. The activations also emphasize recurring grammatical patterns, such as subordinate clause markers, verb conjugations, and noun/adjective endings, reflecting the importance of syntactic and morphological elements in German language processing.\"",
+                        "tokens": [
+                            " und",
+                            " seit"
+                        ]
+                    },
+                    "75403": {
+                        "interpretation": "\"The highlighted tokens are predominantly German morphemes, function words, and common suffixes or inflections, often marking verb forms, noun endings, or grammatical particles. These tokens frequently appear at the boundaries of words or as part of compound constructions, reflecting the morphological richness and syntactic structure of German text.\"",
+                        "tokens": [
+                            " und",
+                            " seit"
+                        ]
+                    },
+                    "130833": {
+                        "interpretation": "\"The highlighted tokens are predominantly German function words, inflectional endings, and common noun or adjective suffixes, reflecting grammatical structure such as articles, pronouns, prepositions, conjunctions, and case or number markers essential for sentence construction and meaning.\"",
+                        "tokens": [
+                            " und",
+                            " seit"
+                        ]
+                    }
+                },
+                "Russian": {
+                    "56964": {
+                        "interpretation": "\"The highlighted tokens are primarily Russian morphemes, roots, and affixes that form the semantic and grammatical core of words, often marking key concepts, actions, or relationships within sentences. These include noun, verb, and adjective roots, as well as frequent derivational and inflectional suffixes, reflecting the morphological structure and meaning-bearing elements of the language.\"",
+                        "tokens": [
+                            "\u0440\u043e\u0432"
+                        ]
+                    }
+                },
+                "Thai": {
+                    "66481": {
+                        "interpretation": "\"The highlighted tokens are primarily Thai morphemes, syllables, or short words that serve as key semantic or grammatical units within sentences. These tokens often mark the beginnings or important parts of compound words, function words, or content words, and are frequently found at the start of phrases, within compound constructions, or as part of inflectional or derivational morphology. The pattern reflects the segmentation of Thai text into meaningful subword units that are crucial for understanding sentence structure and meaning.\"",
+                        "tokens": [
+                            " \u0413"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]
