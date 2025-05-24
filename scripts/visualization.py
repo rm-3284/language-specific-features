@@ -1,5 +1,7 @@
 import os
+import re
 import textwrap
+from itertools import combinations
 from pathlib import Path
 
 import numpy as np
@@ -14,7 +16,9 @@ from const import (
     language_colors,
     layer_to_index,
 )
-from loader import load_sae
+from loader import load_sae, load_task_df
+from scipy.stats import pearsonr
+from tqdm.auto import tqdm
 from utils import get_project_dir
 
 
@@ -1090,7 +1094,9 @@ def generate_ppl_change_matrix(
         )
 
 
-def save_image(path: Path, fig, working_dir: Path | None = None):
+def save_image(
+    path: Path, fig, working_dir: Path | None = None, title_keep: bool = False
+):
     project_dir = get_project_dir() if working_dir is None else working_dir
 
     relative_path = path.relative_to(project_dir)
@@ -1100,7 +1106,8 @@ def save_image(path: Path, fig, working_dir: Path | None = None):
 
     os.makedirs(output_path.parent, exist_ok=True)
 
-    fig.update_layout(title=None)
+    if not title_keep:
+        fig.update_layout(title=None)
 
     fig.write_image(output_path)
 
@@ -1163,3 +1170,528 @@ def plot_metrics(metric, output_dir: Path):
     )
 
     save_image(output_path, fig_cm)
+
+
+# Raw data from the table
+class SimilarityHeatmapGenerator:
+    def __init__(self, data):
+        self.df = pd.DataFrame(data)
+        self.unique_layers = self._get_unique_layers()
+        self.layer_boundaries = None
+
+    def _get_layer_number(self, layer_name):
+        """Extract layer number from layer name"""
+        match = re.search(r"layers\.(\d+)\.", layer_name)
+        return int(match.group(1)) if match else 0
+
+    def _get_unique_layers(self):
+        """Get unique layers sorted by layer number"""
+        layers = list(set(list(self.df["layer1"]) + list(self.df["layer2"])))
+        return sorted(layers, key=self._get_layer_number)
+
+    def _get_indices_for_layer(self, layer):
+        """Get all indices for a specific layer"""
+        indices = set()
+        mask1 = self.df["layer1"] == layer
+        mask2 = self.df["layer2"] == layer
+
+        indices.update(self.df[mask1]["index1"].tolist())
+        indices.update(self.df[mask2]["index2"].tolist())
+
+        return sorted(list(indices))
+
+    def _create_matrix_data(self, metric="iou"):
+        """Create matrix data organized by layers"""
+        # Create layer-index combinations
+        layer_indices = {}
+        for layer in self.unique_layers:
+            layer_indices[layer] = self._get_indices_for_layer(layer)
+
+        # Create flat list of all combinations, sorted by layer then index
+        all_combinations = []
+        for layer in self.unique_layers:
+            for index in layer_indices[layer]:
+                all_combinations.append({"layer": layer, "index": index})
+
+        size = len(all_combinations)
+        matrix = np.full((size, size), np.nan)
+
+        # Create labels for axes
+        labels = []
+        for combo in all_combinations:
+            layer_num = self._get_layer_number(combo["layer"])
+            labels.append(f"L{layer_num} ({combo['index']})")
+
+        # Fill diagonal with 1.0 (perfect similarity with self)
+        np.fill_diagonal(matrix, 1.0)
+
+        # Fill matrix with data
+        for _, row in self.df.iterrows():
+            # Find positions in matrix
+            source_pos = None
+            target_pos = None
+
+            for i, combo in enumerate(all_combinations):
+                if combo["layer"] == row["layer1"] and combo["index"] == row["index1"]:
+                    source_pos = i
+                if combo["layer"] == row["layer2"] and combo["index"] == row["index2"]:
+                    target_pos = i
+
+            if source_pos is not None and target_pos is not None:
+                matrix[source_pos, target_pos] = row[metric]
+                matrix[target_pos, source_pos] = row[metric]  # Make symmetric
+
+        return matrix, labels, all_combinations, layer_indices
+
+    def _get_layer_boundaries(self, layer_indices):
+        """Calculate layer boundaries for box highlights"""
+        boundaries = []
+        current_index = 0
+
+        for layer in self.unique_layers:
+            layer_size = len(layer_indices[layer])
+            boundaries.append(
+                {
+                    "layer": layer,
+                    "layer_num": self._get_layer_number(layer),
+                    "start": current_index,
+                    "end": current_index + layer_size - 1,
+                    "size": layer_size,
+                }
+            )
+            current_index += layer_size
+
+        return boundaries
+
+    def _create_layer_shapes(self, matrix_size):
+        """Create shapes for layer boundary boxes"""
+        shapes = []
+
+        for boundary in self.layer_boundaries:
+            # Rectangle outline for each layer block
+            shapes.extend(
+                [
+                    # Top horizontal line
+                    dict(
+                        type="line",
+                        x0=-0.5,
+                        x1=matrix_size - 0.5,
+                        y0=boundary["start"] - 0.5,
+                        y1=boundary["start"] - 0.5,
+                        line=dict(color="white", width=3),
+                    ),
+                    # Bottom horizontal line
+                    dict(
+                        type="line",
+                        x0=-0.5,
+                        x1=matrix_size - 0.5,
+                        y0=boundary["end"] + 0.5,
+                        y1=boundary["end"] + 0.5,
+                        line=dict(color="white", width=3),
+                    ),
+                    # Left vertical line
+                    dict(
+                        type="line",
+                        x0=boundary["start"] - 0.5,
+                        x1=boundary["start"] - 0.5,
+                        y0=-0.5,
+                        y1=matrix_size - 0.5,
+                        line=dict(color="white", width=3),
+                    ),
+                    # Right vertical line
+                    dict(
+                        type="line",
+                        x0=boundary["end"] + 0.5,
+                        x1=boundary["end"] + 0.5,
+                        y0=-0.5,
+                        y1=matrix_size - 0.5,
+                        line=dict(color="white", width=3),
+                    ),
+                ]
+            )
+
+        return shapes
+
+    def _create_heatmap_figure(
+        self,
+        matrix,
+        labels,
+        layer_indices,
+        metric,
+        title=None,
+        colorscale=None,
+        zmax=None,
+        zmin=None,
+    ):
+        """Create the base heatmap figure with appropriate styling"""
+        # Determine what values to show in the hovertemplate based on the metric
+        hover_metric_text = "IoU" if metric == "iou" else "Pearson r"
+
+        # Create heatmap
+        fig = go.Figure(
+            data=go.Heatmap(
+                z=matrix,
+                x=labels,
+                y=labels,
+                showscale=True,
+                hoverongaps=False,
+                hovertemplate="<b>%{y}</b> vs <b>%{x}</b><br>"
+                + hover_metric_text
+                + ": %{z:.4f}<extra></extra>",
+                colorscale=colorscale,
+                zmax=zmax,
+                zmin=zmin,
+            )
+        )
+
+        # Calculate layer boundaries
+        self.layer_boundaries = self._get_layer_boundaries(layer_indices)
+
+        # Add layer boundary shapes
+        shapes = self._create_layer_shapes(len(matrix))
+
+        # Set default title if none provided
+        default_title = f"Layer Similarity Heatmap - {hover_metric_text}"
+
+        # Update layout
+        fig.update_layout(
+            title={
+                "text": title or default_title,
+                "x": 0.5,
+                "font": {"size": 16},
+            },
+            xaxis=dict(
+                title="Target Layer (Index)",
+                tickangle=90,
+                side="bottom",
+                tickmode="array",
+                tickvals=list(range(len(labels))),
+                ticktext=labels,
+                showticklabels=True,
+                tickfont=dict(size=8),
+            ),
+            yaxis=dict(
+                title="Source Layer (Index)",
+                autorange="reversed",
+                tickmode="array",
+                tickvals=list(range(len(labels))),
+                ticktext=labels,
+                showticklabels=True,
+                tickfont=dict(size=8),
+            ),
+            shapes=shapes,
+            plot_bgcolor="white",
+            paper_bgcolor="white",
+            width=800,
+            height=800,
+        )
+
+        return fig
+
+    def create_iou_heatmap(self, title=None):
+        """Create a heatmap visualization for IoU similarity metric"""
+        matrix, labels, all_combinations, layer_indices = self._create_matrix_data(
+            metric="iou"
+        )
+        title = title or "Neural Network Layer Similarity - IoU"
+        return self._create_heatmap_figure(
+            matrix, labels, layer_indices, "iou", title, colorscale=["white", "green"]
+        )
+
+    def create_pearson_heatmap(self, title=None):
+        """Create a heatmap visualization for Pearson correlation similarity metric"""
+        matrix, labels, all_combinations, layer_indices = self._create_matrix_data(
+            metric="pearson_r"
+        )
+        title = title or "Neural Network Layer Similarity - Pearson Correlation"
+        return self._create_heatmap_figure(
+            matrix,
+            labels,
+            layer_indices,
+            "pearson_r",
+            title,
+            colorscale=["red", "white", "green"],
+            zmax=1,
+            zmin=-1,
+        )
+
+    def create_heatmap(self, metric="iou", title=None):
+        """Create the similarity heatmap with layer grouping (legacy method for backward compatibility)"""
+        if metric == "iou":
+            return self.create_iou_heatmap(title)
+        elif metric == "pearson_r":
+            return self.create_pearson_heatmap(title)
+        else:
+            raise ValueError(f"Unsupported metric: {metric}. Use 'iou' or 'pearson_r'")
+
+
+def compute_similarity_metrics(task_df):
+    matching_columns = [
+        col
+        for col in task_df.columns
+        if col.endswith("dataset_row_id_token_id_act_val")
+    ]
+
+    cols = [
+        "index",
+        "layer",
+        *matching_columns,
+    ]
+
+    result = []
+
+    for (index1, layer1, *dataset_row_id_token_id_act_val_list1), (
+        index2,
+        layer2,
+        *dataset_row_id_token_id_act_val_list2,
+    ) in combinations(task_df[cols].itertuples(index=False), 2):
+
+        total_intersection = 0
+        total_union = 0
+
+        act_vals1 = []
+        act_vals2 = []
+
+        for dataset_row_id_token_id_act_val1, dataset_row_id_token_id_act_val2 in zip(
+            dataset_row_id_token_id_act_val_list1, dataset_row_id_token_id_act_val_list2
+        ):
+            dataset_row_id_token_id_act_val1_set = {
+                row[:2] for row in dataset_row_id_token_id_act_val1
+            }
+            dataset_row_id_token_id_act_val2_set = {
+                row[:2] for row in dataset_row_id_token_id_act_val2
+            }
+
+            intersection = (
+                dataset_row_id_token_id_act_val1_set
+                & dataset_row_id_token_id_act_val2_set
+            )
+            union = (
+                dataset_row_id_token_id_act_val1_set
+                | dataset_row_id_token_id_act_val2_set
+            )
+
+            total_intersection += len(intersection)
+            total_union += len(union)
+
+            sorted_intersection = sorted(intersection)
+
+            if len(sorted_intersection) == 0:
+                continue
+
+            iter_sorted_intersection = iter(sorted_intersection)
+            current_example_id, current_token_id = next(
+                iter_sorted_intersection, (None, None)
+            )
+
+            for (
+                example_id1,
+                curret_token_id1,
+                act_val1,
+            ) in dataset_row_id_token_id_act_val1:
+                if current_example_id == None or current_token_id == None:
+                    break
+
+                if (
+                    example_id1 == current_example_id
+                    and curret_token_id1 == current_token_id
+                ):
+                    act_vals1.append(act_val1)
+                    current_example_id, current_token_id = next(
+                        iter_sorted_intersection, (None, None)
+                    )
+
+            iter_sorted_intersection = iter(sorted_intersection)
+            current_example_id, current_token_id = next(
+                iter_sorted_intersection, (None, None)
+            )
+
+            for (
+                example_id2,
+                curret_token_id2,
+                act_val2,
+            ) in dataset_row_id_token_id_act_val2:
+                if current_example_id == None or current_token_id == None:
+                    break
+
+                if (
+                    example_id2 == current_example_id
+                    and curret_token_id2 == current_token_id
+                ):
+                    act_vals2.append(act_val2)
+                    current_example_id, current_token_id = next(
+                        iter_sorted_intersection, (None, None)
+                    )
+
+        pearson_r, _ = pearsonr(act_vals1, act_vals2) if len(act_vals1) > 1 else (0, 0)
+
+        result.append(
+            {
+                "index1": index1,
+                "layer1": layer1,
+                "index2": index2,
+                "layer2": layer2,
+                "iou": total_intersection / total_union if total_union > 0 else 0,
+                "pearson_r": pearson_r,
+            }
+        )
+
+    final_result = pd.DataFrame(result)
+
+    return final_result
+
+
+def plot_features_similarity(
+    lape_result,
+    layers: list[str],
+    output_dir: Path,
+    task_configs: dict,
+    start_index: int = None,
+):
+    sorted_lang = lape_result["sorted_lang"]
+
+    for lang in tqdm(sorted_lang[start_index:], desc="Processing languages"):
+        lang_index = sorted_lang.index(lang)
+        task_df = load_task_df(lape_result, lang, lang_index, layers, task_configs)
+        similarity_df = compute_similarity_metrics(task_df)
+        heatmap_gen = SimilarityHeatmapGenerator(similarity_df)
+
+        # Create IoU heatmap
+        fig_iou = heatmap_gen.create_iou_heatmap(
+            title="Neural Network Layer Similarity - IoU"
+        )
+
+        output_path = output_dir / "iou" / f"{lang}.html"
+
+        os.makedirs(output_path.parent, exist_ok=True)
+
+        fig_iou.write_html(
+            output_path,
+            include_plotlyjs="cdn",
+        )
+
+        save_image(output_path, fig_iou)
+
+        # Create Pearson correlation heatmap
+        fig_pearson = heatmap_gen.create_pearson_heatmap(
+            title="Neural Network Layer Similarity - Pearson Correlation"
+        )
+        output_path = output_dir / "pearson" / f"{lang}.html"
+        os.makedirs(output_path.parent, exist_ok=True)
+        fig_pearson.write_html(
+            output_path,
+            include_plotlyjs="cdn",
+        )
+        save_image(output_path, fig_pearson)
+
+
+def calculate_correlations(df, score_col):
+    valid_data = df.dropna(subset=["entropy", score_col])
+    if len(valid_data) < 2:
+        return None, None, None, None
+
+    pearson_corr, pearson_pval = pearsonr(valid_data["entropy"], valid_data[score_col])
+
+    return pearson_corr, pearson_pval
+
+
+def create_scatter_plot(df_subset, metric, score_type, color):
+    pearson_corr, _ = calculate_correlations(df_subset, metric)
+
+    fig = go.Figure()
+    fig.add_trace(
+        go.Scatter(
+            x=df_subset["entropy"],
+            y=df_subset[metric],
+            mode="markers",
+            marker=dict(color=color, opacity=0.6, size=6),
+            name=f"{score_type.title()} Data",
+            hovertemplate=f"<b>{metric.title()}</b><br>"
+            + "Entropy: %{x}<br>"
+            + f"{metric.title()}: %{{y}}<br>"
+            + "Lang: %{customdata[0]}<br>"
+            + "Layer: %{customdata[1]}<extra></extra>",
+            customdata=df_subset[["lang", "layer"]].values,
+        )
+    )
+
+    # Add trend line if correlation exists
+    if pearson_corr is not None:
+        x_range = np.linspace(
+            df_subset["entropy"].min(), df_subset["entropy"].max(), 100
+        )
+        slope = pearson_corr * (df_subset[metric].std() / df_subset["entropy"].std())
+        intercept = df_subset[metric].mean() - slope * df_subset["entropy"].mean()
+        y_trend = slope * x_range + intercept
+
+        fig.add_trace(
+            go.Scatter(
+                x=x_range,
+                y=y_trend,
+                mode="lines",
+                line=dict(color="black", dash="dash", width=2),
+                name="Trend Line",
+                hoverinfo="skip",
+            )
+        )
+
+    # Create correlation text for annotation
+    corr_text = ""
+    if pearson_corr is not None:
+        corr_text = f"Pearson r = {pearson_corr:.3f}"
+
+    title_text = f"{metric.title()} vs Entropy - {score_type.title()} Score Type"
+    if corr_text:
+        subtitle_text = (
+            corr_text.replace("<br>", " | ").replace("<i>", "").replace("</i>", "")
+        )
+        full_title = f"{title_text}<br><sub>{subtitle_text}</sub>"
+    else:
+        full_title = title_text
+
+    fig.update_layout(
+        title=dict(
+            text=full_title,
+            x=0.5,
+            font=dict(size=16),
+        ),
+        xaxis_title="Entropy",
+        yaxis_title=metric.title(),
+        template="plotly_white",
+        showlegend=True,
+    )
+
+    return fig
+
+
+def plot_sae_features_entropy_score_correlation(sae_features_info, output_dir: Path):
+    score_metrics = ["precision", "recall", "f1_score", "accuracy"]
+    color_map = {
+        "detection": "#2194e6",
+        "fuzz": "#e42d2d",
+    }
+
+    graphs = {}
+
+    for score_type in ["detection", "fuzz"]:
+        df_filtered = sae_features_info[
+            sae_features_info["score_type"] == score_type
+        ].copy()
+
+        for metric in score_metrics:
+            fig = create_scatter_plot(
+                df_filtered, metric, score_type, color_map[score_type]
+            )
+
+            graph_key = f"{score_type}_{metric}"
+            graphs[graph_key] = fig
+
+            output_path = output_dir / score_type / f"{metric}_vs_entropy.html"
+            os.makedirs(output_path.parent, exist_ok=True)
+
+            fig.write_html(
+                output_path,
+                include_plotlyjs="cdn",
+            )
+
+            save_image(output_path, fig, title_keep=True)

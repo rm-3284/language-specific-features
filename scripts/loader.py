@@ -1,6 +1,8 @@
 import os
 import re
+from ast import literal_eval
 from collections import defaultdict
+from functools import reduce
 from math import isinf
 from pathlib import Path
 from typing import Literal
@@ -9,6 +11,9 @@ import pandas as pd
 import torch
 from bracex import expand
 from const import (
+    lang_choices_to_flores,
+    lang_choices_to_iso639_1,
+    lang_choices_to_iso639_2,
     lang_choices_to_qualified_name,
     layer_to_index,
     prompt_templates,
@@ -264,3 +269,230 @@ def load_all_interpretations(
             interpretations[f"model.{layer}"][int(feature_index)] = file.read()
 
     return interpretations
+
+
+def load_task_df(
+    lape_result,
+    lang,
+    lang_index,
+    layers,
+    task_configs,
+):
+    result = {
+        "xnli": None,
+        "paws-x": None,
+        "flores": None,
+    }
+
+    for layer in tqdm(layers, desc="Processing layers", leave=False):
+        layer_index = layer_to_index[layer]
+        lang_final_indices = lape_result["final_indice"][lang_index][
+            layer_index
+        ].tolist()
+
+        if len(lang_final_indices) == 0:
+            continue
+
+        layer = layers[layer_index]
+
+        lang_to_dataset_token_activations_xnli = load_lang_to_dataset_token_activations(
+            task_configs["xnli"]["path"],
+            layer,
+            task_configs["xnli"]["config"]["languages"],
+            lang_final_indices,
+        )
+
+        if lang_choices_to_iso639_1[lang] in lang_to_dataset_token_activations_xnli:
+            xnli_df = lang_to_dataset_token_activations_xnli[
+                lang_choices_to_iso639_1[lang]
+            ]
+            xnli_df["layer"] = layer
+
+            xnli_df["dataset_row_id_token_id_act_val"] = xnli_df[
+                "dataset_row_id_token_id_act_val"
+            ].apply(literal_eval)
+
+            result["xnli"] = pd.concat(
+                [
+                    result["xnli"],
+                    xnli_df,
+                ]
+            )
+
+        lang_to_dataset_token_activations_pawsx = (
+            load_lang_to_dataset_token_activations(
+                task_configs["paws-x"]["path"],
+                layer,
+                task_configs["paws-x"]["config"]["languages"],
+                lang_final_indices,
+            )
+        )
+
+        if lang_choices_to_iso639_2[lang] in lang_to_dataset_token_activations_pawsx:
+            pawsx_df = lang_to_dataset_token_activations_pawsx[
+                lang_choices_to_iso639_2[lang]
+            ]
+            pawsx_df["layer"] = layer
+            pawsx_df["dataset_row_id_token_id_act_val"] = pawsx_df[
+                "dataset_row_id_token_id_act_val"
+            ].apply(literal_eval)
+
+            result["paws-x"] = pd.concat(
+                [
+                    result["paws-x"],
+                    pawsx_df,
+                ]
+            )
+
+        lang_to_dataset_token_activations_flores = (
+            load_lang_to_dataset_token_activations(
+                task_configs["flores"]["path"],
+                layer,
+                task_configs["flores"]["config"]["languages"],
+                lang_final_indices,
+            )
+        )
+
+        if lang_choices_to_flores[lang] in lang_to_dataset_token_activations_flores:
+            flores_df = lang_to_dataset_token_activations_flores[
+                lang_choices_to_flores[lang]
+            ]
+            flores_df["layer"] = layer
+            flores_df["dataset_row_id_token_id_act_val"] = flores_df[
+                "dataset_row_id_token_id_act_val"
+            ].apply(literal_eval)
+            result["flores"] = pd.concat(
+                [
+                    result["flores"],
+                    flores_df,
+                ]
+            )
+
+    combined_df = []
+
+    for task, df in result.items():
+        if df is not None:
+            df.rename(
+                columns={
+                    "count": f"{task}_count",
+                    "dataset_row_id_token_id_act_val": f"{task}_dataset_row_id_token_id_act_val",
+                },
+                inplace=True,
+            )
+
+            combined_df.append(df)
+
+    final_result = reduce(
+        lambda left, right: pd.merge(left, right, on=["index", "layer"]), combined_df
+    )
+
+    return final_result
+
+
+def load_sae_features_info_df(lape_result, layers, metrics):
+    sae_feature_info_records = []
+
+    sorted_lang = lape_result["sorted_lang"]
+
+    for lang in tqdm(sorted_lang, desc="Processing languages"):
+        lang_index = sorted_lang.index(lang)
+
+        for layer in layers:
+            layer_index = layer_to_index[layer]
+            lang_final_indices = lape_result["final_indice"][lang_index][
+                layer_index
+            ].tolist()
+
+            if len(lang_final_indices) == 0:
+                continue
+
+            layer = layers[layer_index]
+            selected_probs = lape_result["features_info"][lang]["selected_probs"]
+            entropies = lape_result["features_info"][lang]["entropies"]
+
+            for feature_index in lang_final_indices:
+                arg_index = lape_result["features_info"][lang]["indicies"].index(
+                    (layer_index, feature_index)
+                )
+
+                feature_info = {
+                    "feature_index": feature_index,
+                    "layer": layer,
+                    "lang": lang,
+                    "selected_prob": round(selected_probs[arg_index].item(), ndigits=3),
+                    "entropy": round(entropies[arg_index].item(), ndigits=3),
+                    "metrics": metrics[layer][feature_index],
+                }
+
+                # Extract metrics for each score type
+                for metric in feature_info["metrics"]:
+                    record = {
+                        "entropy": feature_info["entropy"],
+                        "selected_prob": feature_info["selected_prob"],
+                        "precision": metric["precision"],
+                        "recall": metric["recall"],
+                        "f1_score": metric["f1_score"],
+                        "accuracy": metric["accuracy"],
+                        "score_type": metric["score_type"],
+                        "layer": feature_info["layer"],
+                        "lang": feature_info["lang"],
+                        "feature_index": feature_info["feature_index"],
+                    }
+                    sae_feature_info_records.append(record)
+
+    sae_features_info = pd.DataFrame(sae_feature_info_records)
+
+    return sae_features_info
+
+
+def load_lang_to_sae_features_info(
+    lape_result, layers, interpretations, metrics, extra: bool = False
+):
+    sorted_lang = lape_result["sorted_lang"]
+
+    lang_to_sae_features_info = {
+        lang: {layer: {} for layer in layers} for lang in sorted_lang
+    }
+
+    for lang in tqdm(sorted_lang, desc="Processing languages"):
+        lang_index = sorted_lang.index(lang)
+
+        for layer in layers:
+            layer_index = layer_to_index[layer]
+            lang_final_indices = lape_result["final_indice"][lang_index][
+                layer_index
+            ].tolist()
+
+            if len(lang_final_indices) == 0:
+                continue
+
+            layer = layers[layer_index]
+            selected_probs = lape_result["features_info"][lang]["selected_probs"]
+            entropies = lape_result["features_info"][lang]["entropies"]
+
+            for feature_index in lang_final_indices:
+                arg_index = lape_result["features_info"][lang]["indicies"].index(
+                    (layer_index, feature_index)
+                )
+
+                feature_info = {
+                    "Layer": layer,
+                    "Lang": lang,
+                    "Feature ID": feature_index,
+                    "Interpretation": interpretations[layer][feature_index],
+                }
+
+                if extra:
+                    feature_info.update(
+                        {
+                            "Selected Prob": round(
+                                selected_probs[arg_index].item(), ndigits=3
+                            ),
+                            "Entropy": round(entropies[arg_index].item(), ndigits=3),
+                            "Metrics": metrics[layer][feature_index],
+                        }
+                    )
+
+                lang_to_sae_features_info[lang][layer][feature_index] = feature_info
+
+    return lang_to_sae_features_info

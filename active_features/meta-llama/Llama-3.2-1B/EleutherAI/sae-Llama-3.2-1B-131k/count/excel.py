@@ -18,11 +18,11 @@ def extract_data_item(item):
                 tokens_str = ", ".join(tokens)
                 
                 rows.append({
-                    "layer": layer,
-                    "lang": lang,
-                    "feature_id": int(feature_id),
-                    "interpretation": interpretation,
-                    "tokens": tokens_str,
+                    "Layer": layer,
+                    "Lang": lang,
+                    "Feature ID": int(feature_id),
+                    "Interpretation": interpretation,
+                    "Tokens": tokens_str,
                 })
     
     return pd.DataFrame(rows)
