@@ -187,6 +187,7 @@ cython_debug/
 # SAE
 /sae/
 /sae_features_specific/
+/sae_features_shared/
 
 # MLP
 /mlp_acts_specific/

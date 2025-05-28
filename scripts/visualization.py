@@ -1,6 +1,7 @@
 import os
 import re
 import textwrap
+from collections import Counter
 from itertools import combinations
 from pathlib import Path
 
@@ -669,6 +670,7 @@ def plot_specific_lape_lang(lang, df_lang, title, out_dir):
         color="Lang",
         labels={"Layer": "Layer", "Count": "Count"},
         color_discrete_map=language_colors,
+        text="Count"  # Add this to show the values
     )
 
     fig.update_layout(
@@ -789,6 +791,9 @@ def plot_combined_lape_lang_count(df_all_langs, title, out_dir):
     df_copy = df_copy.sort_values("Lang")
 
     # Create figure with sorted x-axis
+    # Calculate sum of values for each Lang
+    df_sums = df_copy.groupby("Lang")["Count"].sum().reset_index()
+
     fig = px.bar(
         df_copy,
         x="Lang",
@@ -800,6 +805,17 @@ def plot_combined_lape_lang_count(df_all_langs, title, out_dir):
             "Layer": [str(i) for i in range(16)]
         },  # Ensure layers are ordered from 0-15
     )
+
+    # Add text annotations for the total counts
+    for i, row in df_sums.iterrows():
+        fig.add_annotation(
+            x=row["Lang"],
+            y=row["Count"],
+            text=str(int(row["Count"])),
+            showarrow=False,
+            yshift=10,
+            font=dict(size=10, color="black"),
+        )
 
     fig.update_layout(
         xaxis=dict(
@@ -1110,11 +1126,6 @@ def save_image(
         fig.update_layout(title=None)
 
     fig.write_image(output_path)
-
-
-import numpy as np
-import plotly.express as px
-import plotly.graph_objects as go
 
 
 def plot_metrics(metric, output_dir: Path):
@@ -1695,3 +1706,299 @@ def plot_sae_features_entropy_score_correlation(sae_features_info, output_dir: P
             )
 
             save_image(output_path, fig, title_keep=True)
+
+
+def plot_intersection_heatmap(lang_to_count_final_indicies, output_path: Path):
+    languages = list(lang_to_count_final_indicies.keys())
+    n_languages = len(languages)
+
+    # Create intersection matrix
+    intersection_matrix = np.zeros((n_languages, n_languages))
+
+    for i, lang1 in enumerate(languages):
+        for j, lang2 in enumerate(languages):
+            if i == j:
+                # Self-intersection is the size of the set itself
+                intersection_size = len(lang_to_count_final_indicies[lang1])
+            else:
+                shared_indices = lang_to_count_final_indicies[lang1].intersection(
+                    lang_to_count_final_indicies[lang2]
+                )
+                intersection_size = len(shared_indices)
+
+            intersection_matrix[i, j] = intersection_size
+
+    # Convert to ISO codes and sort according to x_label_sort
+    languages_labels = [lang_choices_to_iso639_1[lang] for lang in languages]
+
+    label_sort = [
+        "en",
+        "de",
+        "fr",
+        "it",
+        "pt",
+        "hi",
+        "es",
+        "th",
+        "bg",
+        "ru",
+        "tr",
+        "vi",
+        "ja",
+        "ko",
+        "zh",
+    ]
+
+    # Create sorting indices based on x_label_sort order
+    sort_indices = []
+    for target_lang in label_sort:
+        for i, lang_label in enumerate(languages_labels):
+            if lang_label == target_lang:
+                sort_indices.append(i)
+                break
+
+    # Add any remaining languages not in x_label_sort
+    for i, lang_label in enumerate(languages_labels):
+        if i not in sort_indices:
+            sort_indices.append(i)
+
+    # Reorder matrix and labels
+    sorted_matrix = intersection_matrix[np.ix_(sort_indices, sort_indices)]
+    sorted_labels = [languages_labels[i] for i in sort_indices]
+
+    # Reverse y-axis order to match label_sort from top to bottom
+    y_sorted_labels = sorted_labels[::-1]
+    sorted_matrix = np.flipud(sorted_matrix)
+
+    # Create the heatmap
+    fig = go.Figure(
+        data=go.Heatmap(
+            z=sorted_matrix,
+            x=sorted_labels,
+            y=y_sorted_labels,
+            colorscale="Blues",
+            text=sorted_matrix.astype(int),
+            texttemplate="%{text}",
+            textfont={"size": 12},
+            colorbar=dict(title="Intersection Count"),
+            hovertemplate="%{y} ∩ %{x}: %{z}<extra></extra>",
+        )
+    )
+
+    fig.update_layout(
+        title="Language-Shared Features Intersection Count Matrix",
+        title_x=0.5,
+        xaxis=dict(tickmode="linear", side="top"),  # Move x-axis labels to top
+        yaxis=dict(
+            tickmode="linear",
+        ),
+    )
+
+    fig.update_xaxes(tickfont=dict(size=16), title_text=None)
+    fig.update_yaxes(tickfont=dict(size=16), title_text=None)
+
+    os.makedirs(output_path.parent, exist_ok=True)
+
+    fig.write_html(
+        output_path,
+        include_plotlyjs="cdn",
+    )
+
+    save_image(output_path, fig)
+
+
+def plot_iou_heatmap(lang_to_count_final_indicies, output_path: Path):
+    languages = list(lang_to_count_final_indicies.keys())
+    n_languages = len(languages)
+
+    # Create Jaccard similarity matrix
+    iou_matrix = np.zeros((n_languages, n_languages))
+
+    for i, lang1 in enumerate(languages):
+        for j, lang2 in enumerate(languages):
+            if i == j:
+                iou = 1.0  # Self-similarity is 1
+            else:
+                shared_indices = lang_to_count_final_indicies[lang1].intersection(
+                    lang_to_count_final_indicies[lang2]
+                )
+                union_indices = lang_to_count_final_indicies[lang1].union(
+                    lang_to_count_final_indicies[lang2]
+                )
+                iou = (
+                    len(shared_indices) / len(union_indices)
+                    if len(union_indices) > 0
+                    else 0
+                )
+
+            iou_matrix[i, j] = iou
+
+    # Convert to ISO codes and sort according to x_label_sort
+    languages_labels = [lang_choices_to_iso639_1[lang] for lang in languages]
+
+    label_sort = [
+        "en",
+        "de",
+        "fr",
+        "it",
+        "pt",
+        "hi",
+        "es",
+        "th",
+        "bg",
+        "ru",
+        "tr",
+        "vi",
+        "ja",
+        "ko",
+        "zh",
+    ]
+
+    # Create sorting indices based on x_label_sort order
+    sort_indices = []
+    for target_lang in label_sort:
+        for i, lang_label in enumerate(languages_labels):
+            if lang_label == target_lang:
+                sort_indices.append(i)
+                break
+
+    # Add any remaining languages not in x_label_sort
+    for i, lang_label in enumerate(languages_labels):
+        if i not in sort_indices:
+            sort_indices.append(i)
+
+    # Reorder matrix and labels
+    sorted_matrix = iou_matrix[np.ix_(sort_indices, sort_indices)]
+    sorted_labels = [languages_labels[i] for i in sort_indices]
+
+    # Reverse y-axis order to match label_sort from top to bottom
+    y_sorted_labels = sorted_labels[::-1]
+    sorted_matrix = np.flipud(sorted_matrix)
+
+    # Create the heatmap
+    fig = go.Figure(
+        data=go.Heatmap(
+            z=sorted_matrix,
+            x=sorted_labels,
+            y=y_sorted_labels,
+            colorscale="Reds",
+            text=np.round(sorted_matrix, 2),
+            texttemplate="%{text}",
+            colorbar=dict(title="Jaccard Similarity"),
+            hovertemplate="%{y} ∩ %{x}: %{z:.3f}<extra></extra>",
+            zmin=0,
+            zmax=1,
+        )
+    )
+
+    fig.update_layout(
+        title="Language-Shared Features Intersection over Union Matrix",
+        title_x=0.5,
+        xaxis=dict(tickmode="linear", side="top"),  # Move x-axis labels to top
+        yaxis=dict(
+            tickmode="linear",
+        ),
+    )
+
+    fig.update_xaxes(tickfont=dict(size=16), title_text=None)
+    fig.update_yaxes(tickfont=dict(size=16), title_text=None)
+
+    os.makedirs(output_path.parent, exist_ok=True)
+
+    fig.write_html(
+        output_path,
+        include_plotlyjs="cdn",
+    )
+
+    save_image(output_path, fig)
+
+
+def plot_shared_count_bar_chart(
+    data_dict, output_path, title="Shared-Feature Distribution by Layer Index"
+):
+    if not isinstance(data_dict, dict):
+        print("Error: Input data must be a Python dictionary.")
+        return
+
+    if not data_dict:
+        print("Error: Input dictionary is empty.")
+        return
+
+    traces = []
+    # Sort shared_counts to ensure consistent trace order and legend colors
+    sorted_shared_counts = sorted(data_dict.keys())
+
+    for shared_count in sorted_shared_counts:
+        features_set = data_dict[shared_count]
+
+        if not features_set:
+            print(f"Warning: No features for shared_count {shared_count}. Skipping.")
+            continue
+
+        # Extract layer indices from the tuples
+        current_layer_indices = []
+        for item in features_set:
+            if isinstance(item, (list, tuple)) and len(item) >= 2:
+                # item[0] is the layer_index
+                current_layer_indices.append(item[0])
+            else:
+                print(
+                    f"Warning: Invalid feature item format '{item}' for shared_count {shared_count}. Skipping item."
+                )
+
+        if not current_layer_indices:
+            print(
+                f"Warning: No valid layer indices found for shared_count {shared_count}. Skipping."
+            )
+            continue
+
+        # Count occurrences of each layer index
+        layer_index_counts = Counter(current_layer_indices)
+
+        if not layer_index_counts:
+            continue  # No data to plot for this shared_count
+
+        # Sort layer indices numerically
+        sorted_layer_indices = sorted(layer_index_counts.keys())
+        y_counts = [layer_index_counts[idx] for idx in sorted_layer_indices]
+
+        traces.append(
+            go.Bar(
+                name=f"{shared_count}",
+                x=sorted_layer_indices,  # Use integers directly
+                y=y_counts,
+                hovertemplate=(
+                    f"<b>Shared Count: {shared_count}</b><br>"
+                    "Layer Index: %{x}<br>"
+                    "Feature Count: %{y}<extra></extra>"
+                ),
+            )
+        )
+
+    if not traces:
+        print("No plottable data found. No chart will be generated.")
+        return
+
+    fig = go.Figure(data=traces)
+    fig.update_layout(
+        barmode="stack",
+        title=title,
+        xaxis=dict(
+            title="Layer",
+            type="linear",
+            tickmode="linear",
+        ),
+        yaxis_title="Count",
+        legend_title_text="Shared Counts",
+        template="plotly_white",
+        showlegend=True,
+    )
+
+    os.makedirs(output_path.parent, exist_ok=True)
+
+    fig.write_html(
+        output_path,
+        include_plotlyjs="cdn",
+    )
+
+    save_image(output_path, fig)

@@ -154,6 +154,19 @@ def parse_args() -> Args:
     )
 
     parser.add_argument(
+        "--lang-shared",
+        help="Whether to find language-specific features or not.",
+        action="store_true",
+    )
+
+    parser.add_argument(
+        "--shared-count",
+        help="Count of shared features across languages.",
+        type=int,
+        default=2,
+    )
+
+    parser.add_argument(
         "--algorithm",
         help="Algorithm to use for the analysis.",
         type=str,
@@ -190,6 +203,8 @@ def parse_args() -> Args:
         "example_rate": args.example_rate,
         "entropy_threshold": args.entropy_threshold,
         "lang_specific": args.lang_specific,
+        "lang_shared": args.lang_shared,
+        "shared_count": args.shared_count,
         "algorithm": args.algorithm,
     }
 
@@ -326,6 +341,8 @@ def sae_lape(
     sorted_lang,
     entropy_threshold,
     lang_specific,
+    lang_shared,
+    shared_count,
     top_by_frequency,
 ):
     num_layers, hidden_dim, lang = over_zero_token.size()
@@ -443,28 +460,36 @@ def sae_lape(
     if lang_specific:
         mask_selected_probs[:, count_shared_indices] = False
 
+        # Check entropies for each count of shared features
+        for count in range(1, len(sorted_lang) + 1):
+            count_shared_features_indices = torch.nonzero(
+                count_shared_features == count
+            ).squeeze()
+
+            if count_shared_features_indices.numel() == 0:
+                continue
+
+            count_shared_features_indices = [
+                tuple(row.tolist())
+                for row in merged_index[count_shared_features_indices]
+            ]
+
+            row_idx, col_idx = zip(*count_shared_features_indices)
+            count_entropies = entropy[row_idx, col_idx].flatten()
+            sorted_count_entropies = count_entropies.sort().values.round(decimals=3)
+
+            logger.info(f"Shared features entropy {count}\n{sorted_count_entropies}")
+    elif lang_shared:
+        non_specific_count_indices = torch.nonzero(
+            count_shared_features != shared_count
+        ).squeeze()
+        mask_selected_probs[:, non_specific_count_indices] = False
+
+        logger.info(f"Shared features: {shared_count}")
+
     logger.info(
         f"features count: {count_shared_features.size(0)}\n\t{Counter(count_shared_features.tolist())}"
     )
-
-    # Check entropies for each count of shared features
-    for count in range(1, len(sorted_lang) + 1):
-        count_shared_features_indices = torch.nonzero(
-            count_shared_features == count
-        ).squeeze()
-
-        if count_shared_features_indices.numel() == 0:
-            continue
-
-        count_shared_features_indices = [
-            tuple(row.tolist()) for row in merged_index[count_shared_features_indices]
-        ]
-
-        row_idx, col_idx = zip(*count_shared_features_indices)
-        count_entropies = entropy[row_idx, col_idx].flatten()
-        sorted_count_entropies = count_entropies.sort().values.round(decimals=3)
-
-        logger.info(f"Shared features entropy {count}\n{sorted_count_entropies}")
 
     # Get the indices of the selected features for each language
     lang, topk_indice = torch.where(mask_selected_probs)
@@ -523,10 +548,13 @@ def sae_lape(
 
         lang_indices.sort()
 
+        if len(lang_indices) == 0:
+            continue
+
         row_idx, col_idx = zip(*lang_indices)
         entropy_values = entropy[row_idx, col_idx]
         min_entropy = entropy_values.min().item()
-        max_entropy = entropy_values.max().item() 
+        max_entropy = entropy_values.max().item()
 
         logger.info(
             f"Language {sorted_lang[i]}\n\tFeatures selected: {len(lang_indices)}\n\tTopk features: {lang_indices}\nmin_entropy: {min_entropy}\nmax_entropy: {max_entropy}"
@@ -792,6 +820,8 @@ def main(args: Args):
             sorted_lang,
             args["entropy_threshold"],
             args["lang_specific"],
+            args["lang_shared"],
+            args["shared_count"],
             args["top_by_frequency"],
         )
     elif args["algorithm"] == "lape":
