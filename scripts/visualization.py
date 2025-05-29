@@ -670,7 +670,7 @@ def plot_specific_lape_lang(lang, df_lang, title, out_dir):
         color="Lang",
         labels={"Layer": "Layer", "Count": "Count"},
         color_discrete_map=language_colors,
-        text="Count"  # Add this to show the values
+        text="Count",  # Add this to show the values
     )
 
     fig.update_layout(
@@ -1379,7 +1379,6 @@ class SimilarityHeatmapGenerator:
                 tickvals=list(range(len(labels))),
                 ticktext=labels,
                 showticklabels=True,
-                tickfont=dict(size=8),
             ),
             yaxis=dict(
                 title="Source Layer (Index)",
@@ -1388,7 +1387,6 @@ class SimilarityHeatmapGenerator:
                 tickvals=list(range(len(labels))),
                 ticktext=labels,
                 showticklabels=True,
-                tickfont=dict(size=8),
             ),
             shapes=shapes,
             plot_bgcolor="white",
@@ -1396,6 +1394,13 @@ class SimilarityHeatmapGenerator:
             width=800,
             height=800,
         )
+
+        if matrix.shape[0] > 80:
+            fig.update_xaxes(tickfont=dict(size=6))
+            fig.update_yaxes(tickfont=dict(size=6))
+        else:
+            fig.update_xaxes(tickfont=dict(size=8))
+            fig.update_yaxes(tickfont=dict(size=8))
 
         return fig
 
@@ -1558,10 +1563,11 @@ def plot_features_similarity(
     output_dir: Path,
     task_configs: dict,
     start_index: int = None,
+    end_index: int = None,
 ):
     sorted_lang = lape_result["sorted_lang"]
 
-    for lang in tqdm(sorted_lang[start_index:], desc="Processing languages"):
+    for lang in tqdm(sorted_lang[start_index:end_index], desc="Processing languages"):
         lang_index = sorted_lang.index(lang)
         task_df = load_task_df(lape_result, lang, lang_index, layers, task_configs)
         similarity_df = compute_similarity_metrics(task_df)
