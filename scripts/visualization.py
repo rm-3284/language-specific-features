@@ -1,3 +1,4 @@
+import math
 import os
 import re
 import textwrap
@@ -1023,6 +1024,27 @@ def plot_ppl_change_matrix(
             avg_diff = np.mean(intervened_ppls - normal_ppls).round(decimals=2).item()
             ppl_matrix[intervened_lang_index][lang_index] = avg_diff
 
+    # Create custom text matrix with formatted values
+    text_matrix = []
+
+    for i in range(num_langs):
+        row = []
+
+        for j in range(num_langs):
+            value = ppl_matrix[i][j].item()
+
+            if value >= 1000:
+                exponent = int(math.log10(value))
+                sign  = "-" if value < 0 else ""
+                formatted_text = f"{sign}10<sup>{exponent}</sup>"
+                pass
+            else:
+                formatted_text = f"{value:.1f}"
+
+            row.append(formatted_text)
+
+        text_matrix.append(row)
+
     iso_langs = [lang_choices_to_iso639_1[lang] for lang in langs]
 
     fig = px.imshow(
@@ -1030,12 +1052,22 @@ def plot_ppl_change_matrix(
         x=iso_langs,
         y=iso_langs,
         labels=dict(x="Impacted Language", y="Intervened Language", color="Value"),
-        text_auto=True,
         color_continuous_scale=["white", "orange"],
         zmin=0,
         zmax=1000,
         aspect="auto",
     )
+
+    # Add custom text annotations
+    for i in range(num_langs):
+        for j in range(num_langs):
+            fig.add_annotation(
+                x=j,
+                y=i,
+                text=text_matrix[i][j],
+                showarrow=False,
+                font=dict(size=10, color="black"),
+            )
 
     # Add border to diagonal cells
     for i in range(len(iso_langs)):
