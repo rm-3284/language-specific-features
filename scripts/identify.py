@@ -448,6 +448,22 @@ def sae_lape(
 
     # logger.info(f"selected probs for {target}: {selected_probs[:, index].round(decimals=2)}")
 
+    # DEBUG: check the 95th percentile of the selected probabilities
+    # flattened_probs = activation_probs.flatten()
+    # activation_bar_ratio = 0.95
+    # flattened_probs
+    # activation_bar = flattened_probs.kthvalue(
+    #     round(len(flattened_probs) * activation_bar_ratio)
+    # ).values.item()
+
+    # logger.info(f"95th percentile activation prob: {activation_bar}")
+
+    # selected_probs_95th = selected_probs >= activation_bar
+
+    # logger.info(
+    #     f"lang-features count: {Counter(selected_probs_95th.sum(dim=0).tolist())}"
+    # )
+
     # Create mask for elements >= N% of max in their column
     # True means features are considered as specific for that language
     max_selected_probs = selected_probs.max(dim=0, keepdim=True).values
