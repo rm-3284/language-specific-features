@@ -156,6 +156,7 @@ lang_choices_to_iso639_1 = {
     "jpn": "ja",
     "kor": "ko",
     "cmn": "zh",
+    "zho": "zh",
     "English": "en",
     "German": "de",
     "French": "fr",
