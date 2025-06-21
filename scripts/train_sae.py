@@ -1,7 +1,3 @@
-"""
-This file is copied from the original sparsify repository and modified to work with custom logic.
-"""
-
 import os
 from contextlib import nullcontext, redirect_stdout
 from dataclasses import dataclass
@@ -12,11 +8,16 @@ import torch
 import torch.distributed as dist
 from datasets import Dataset, load_dataset
 from safetensors.torch import load_model
-from simple_parsing import field, list_field, parse
+from simple_parsing import field, parse
 from sparsify.data import MemmapDataset, chunk_and_tokenize
 from sparsify.trainer import TrainConfig, Trainer
-from transformers import AutoModel, AutoTokenizer, BitsAndBytesConfig, PreTrainedModel
-from loader import load_from_dataset_configs
+from transformers import (
+    AutoModel,
+    AutoModelForCausalLM,
+    AutoTokenizer,
+    BitsAndBytesConfig,
+    PreTrainedModel,
+)
 
 
 @dataclass
@@ -28,7 +29,7 @@ class RunConfig(TrainConfig):
     """Name of the model to train."""
 
     dataset: str = field(
-        default="EleutherAI/fineweb-edu-dedup-10b",
+        default="EleutherAI/SmolLM2-135M-10B",
         positional=True,
     )
     """Path to the dataset to use for training."""
@@ -39,7 +40,9 @@ class RunConfig(TrainConfig):
     ctx_len: int = 2048
     """Context length to use for training."""
 
-    hf_token: str | None = None
+    # Use a dummy encoding function to prevent the token from being saved
+    # to disk in plain text
+    hf_token: str | None = field(default=None, encoding_fn=lambda _: None)
     """Huggingface API token for downloading models."""
 
     revision: str | None = None
@@ -52,13 +55,10 @@ class RunConfig(TrainConfig):
     """Maximum number of examples to use for training."""
 
     resume: bool = False
-    """Whether to try resuming from the checkpoint present at `run_name`."""
+    """Whether to try resuming from the checkpoint present at `checkpoints/run_name`."""
 
     text_column: str = "text"
     """Column name to use for text data."""
-
-    finetune: str | None = None
-    """Path to pretrained SAEs to finetune."""
 
     shuffle_seed: int = 42
     """Random seed for shuffling the dataset."""
@@ -67,25 +67,9 @@ class RunConfig(TrainConfig):
         default_factory=lambda: cpu_count() // 2,
     )
     """Number of processes to use for preprocessing data"""
-
-    # CUSTOM LOGIC
-    custom_logic: bool = False
-    """Whether to use custom logic for loading the dataset."""
-
-    dataset_configs: list[str] = list_field()
-    """
-    List of dataset configurations. Support bracex expansion.
-    Each configuration is a string with the following format:
-    "dataset_name:config_name:split_name:column1,column2:..."
-    """
-    dataset_start: int = 0
-    """
-    The starting index of the dataset configuration to use."""
-
-    dataset_end: int = 1000
-    """
-    The ending index of the dataset configuration to use.
-    """
+    
+    cache_dir: str | None = None
+    """Cache directory to use for loading datasets."""
 
 
 def load_artifacts(
@@ -98,7 +82,9 @@ def load_artifacts(
     else:
         dtype = "auto"
 
-    model = AutoModel.from_pretrained(
+    # End-to-end training requires a model with a causal LM head
+    model_cls = AutoModel if args.loss_fn == "fvu" else AutoModelForCausalLM
+    model = model_cls.from_pretrained(
         args.model,
         device_map={"": f"cuda:{rank}"},
         quantization_config=(
@@ -116,22 +102,16 @@ def load_artifacts(
         dataset = MemmapDataset(args.dataset, args.ctx_len, args.max_examples)
     else:
         # For Huggingface datasets
-        try:
-            if args.custom_logic:
-                dataset = load_from_dataset_configs(
-                    args.dataset_configs,
-                    args.dataset_start,
-                    args.dataset_end,
-                    args.text_column,
-                )
-            else:
-                dataset = load_dataset(
-                    args.dataset,
-                    split=args.split,
-                    # TODO: Maybe set this to False by default? But RPJ requires it.
-                    trust_remote_code=True,
-                )
+        print(
+            f"Loading dataset '{args.dataset}' (split '{args.split}') from cache {args.cache_dir or 'default'}..."
+        )
 
+        try:
+            dataset = load_dataset(
+                args.dataset,
+                split=args.split,
+                cache_dir=args.cache_dir,
+            )
         except ValueError as e:
             # Automatically use load_from_disk if appropriate
             if "load_from_disk" in str(e):
@@ -141,6 +121,8 @@ def load_artifacts(
 
         assert isinstance(dataset, Dataset)
         if "input_ids" not in dataset.column_names:
+            print("Tokenizing dataset...")
+
             tokenizer = AutoTokenizer.from_pretrained(args.model, token=args.hf_token)
             dataset = chunk_and_tokenize(
                 dataset,
@@ -154,6 +136,7 @@ def load_artifacts(
 
         print(f"Shuffling dataset with seed {args.shuffle_seed}")
         dataset = dataset.shuffle(args.shuffle_seed)
+
         dataset = dataset.with_format("torch")
         if limit := args.max_examples:
             dataset = dataset.select(range(limit))
@@ -189,14 +172,23 @@ def run():
             dist.barrier()
             if rank != 0:
                 model, dataset = load_artifacts(args, rank)
+
+            # Drop examples that are indivisible across processes to prevent deadlock
+            remainder_examples = len(dataset) % dist.get_world_size()
+            dataset = dataset.select(range(len(dataset) - remainder_examples))
+
             dataset = dataset.shard(dist.get_world_size(), rank)
+
+            # Drop examples that are indivisible across processes to prevent deadlock
+            remainder_examples = len(dataset) % dist.get_world_size()
+            dataset = dataset.select(range(len(dataset) - remainder_examples))
 
         print(f"Training on '{args.dataset}' (split '{args.split}')")
         print(f"Storing model weights in {model.dtype}")
 
         trainer = Trainer(args, dataset, model)
         if args.resume:
-            trainer.load_state(args.run_name or "sae-ckpts")
+            trainer.load_state(f"checkpoints/{args.run_name}" or "checkpoints/unnamed")
         elif args.finetune:
             for name, sae in trainer.saes.items():
                 load_model(

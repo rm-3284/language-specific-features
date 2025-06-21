@@ -111,42 +111,43 @@
 
 6. Train SAE
 
-   `train_sae.py` is a script to train a SAE model on a custom dataset which is based on the `sparsify` code.
+   `train_sae.py` is a script to train SAEs, which is based on the `sparsify` code.
 
    Examples:
 
    ```bash
-   python train_sae.py meta-llama/Llama-3.2-1B custom-dataset-logic \
-       --run_name ../sae \
-       --hf_token $HF_TOKEN \
-       --batch_size 2 \
-       --grad_acc_steps 4 \
-       --micro_acc_steps 1 \
-       --lr_warmup_steps 1000 \
-       --auxk_alpha 0.0 \
-       --dead_feature_threshold 10000000 \
-       --hookpoints layers.[0-9].mlp layers.1[0-5].mlp \
-       --init_seeds 0 \
-       --layer_stride 1 \
-       --transcode False \
-       --distribute_modules False \
-       --save_every 1000 \
-       --log_to_wandb False \
-       --wandb_log_frequency 1 \
-       --ctx_len 2048 \
-       --load_in_8bit False \
-       --resume False \
-       --text_column raw_content \
-       --expansion_factor 8 \
-       --normalize_decoder True \
-       --k 32 \
-       --multi_topk False \
-       --skip_connection False \
-       --shuffle_seed 42 \
-       --custom_logic True \
-       --stream_dataset False \
-       --dataset_configs facebook/xnli:{en,de,fr,hi,es,th,bg,ru,tr,vi}:train google-research-datasets/paws-x:{en,de,fr,es}:train openlanguagedata/flores_plus:{eng_Latn,deu_Latn,fra_Latn,ita_Latn,por_Latn,hin_Deva,spa_Latn,tha_Thai,bul_Cyrl,rus_Cyrl,tur_Latn,vie_Latn,jpn_Jpan,kor_Hang,cmn_Hans}:dev
+   python train_sae.py meta-llama/Llama-3.2-1B EleutherAI/rpj-v2-sample \
+        --hf_token {HF_TOKEN} \
+        --expansion_factor 64 \
+        --normalize_decoder True \
+        --k 32 \
+        --multi_topk False \
+        --skip_connection False \
+        --batch_size 4 \
+        --grad_acc_steps 2 \
+        --micro_acc_steps 1 \
+        --lr_warmup_steps 1000 \
+        --auxk_alpha 0.0 \
+        --dead_feature_threshold 10000000 \
+        --hookpoints layers.0.mlp \
+        --init_seeds 0 \
+        --layer_stride 1 \
+        --transcode False \
+        --distribute_modules False \
+        --save_every 1000 \
+        --log_to_wandb True \
+        --run_name 'sae' \
+        --wandb_log_frequency 1 \
+        --split train \
+        --ctx_len 2048 \
+        --load_in_8bit False \
+        --resume False \
+        --text_column raw_content \
+        --shuffle_seed 42 \
+        --data_preprocessing_num_proc 112
    ```
+
+   > Note: This script requires a huge amount of memory, so it is recommended to pretokenized the dataset first using the `train_sae_pretokenize.py` script.
 
 ### MLP Activations
 
