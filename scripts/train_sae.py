@@ -67,7 +67,7 @@ class RunConfig(TrainConfig):
         default_factory=lambda: cpu_count() // 2,
     )
     """Number of processes to use for preprocessing data"""
-    
+
     cache_dir: str | None = None
     """Cache directory to use for loading datasets."""
 

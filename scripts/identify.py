@@ -6,7 +6,6 @@ from collections import Counter, defaultdict
 from pathlib import Path
 from typing import TypedDict
 
-import pandas as pd
 import torch
 from bracex import expand
 from const import (
@@ -42,7 +41,7 @@ class Args(TypedDict):
 
 def parse_args() -> Args:
     parser = argparse.ArgumentParser(
-        description="Visualize sae features from a dataset for particular layers and languages."
+        description="Identify language-specific features or language-specific neurons in a model."
     )
 
     parser.add_argument(

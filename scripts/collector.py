@@ -1,16 +1,14 @@
-from logging import Logger
 from pathlib import Path
 from typing import TypedDict
 
 import torch
-from const import prompt_templates
+from datasets import Dataset
 from loader import load_sae
 from nnsight import LanguageModel
 from sparsify import Sae
 from sparsify.sparse_coder import EncoderOutput
 from tqdm.auto import tqdm
 from utils import get_device, get_nested_attr
-from datasets import Dataset
 
 
 def collect_activations(
@@ -38,7 +36,10 @@ def collect_activations(
 
 
 def sae_features_from_activations(
-    activations_list: list[torch.Tensor], sae: Sae, device: torch.device, batch: int = 100
+    activations_list: list[torch.Tensor],
+    sae: Sae,
+    device: torch.device,
+    batch: int = 100,
 ):
     activations_size = [
         activations.shape[1] for activations in activations_list

@@ -35,7 +35,7 @@ class Args(TypedDict):
 
 def parse_args() -> Args:
     parser = argparse.ArgumentParser(
-        description="Collect activations from a dataset for particular layers and languages and transform it into SAE features."
+        description="Check active language-specific features in a model given input text(s) using SAE."
     )
 
     parser.add_argument(
