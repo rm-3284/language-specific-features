@@ -29,7 +29,12 @@ from sklearn.metrics import (
     recall_score,
 )
 from tqdm.auto import tqdm
-from utils import TqdmLoggingHandler, get_project_dir, set_deterministic
+from utils import (
+    TqdmLoggingHandler,
+    get_nested_attr,
+    get_project_dir,
+    set_deterministic,
+)
 
 
 class DatasetArgs(TypedDict):
@@ -54,9 +59,8 @@ class Args(TypedDict):
 
 def parse_args() -> Args:
     parser = argparse.ArgumentParser(
-        description="Collect activations from a dataset for particular layers and languages and transform it into SAE features."
+        description="Classify languages using SAE-LAPE, neurons, or FastText."
     )
-
 
     parser.add_argument(
         "dataset",
@@ -149,8 +153,8 @@ def parse_args() -> Args:
         "--classifier-type",
         help="classifier type",
         type=str,
-        default="min-max",
-        choices=["min-max", "count", "fasttext"],
+        default="sae-min-max",
+        choices=["sae-min-max", "sae-count", "neuron-count", "fasttext"],
     )
 
     args = parser.parse_args()
@@ -211,7 +215,7 @@ def calculate_metrics(y_true, y_pred):
     }
 
 
-def count_classifier(args, llm, lape, lang):
+def sae_count_classifier(args, llm, lape, lang):
     labels = []
     predictions = []
     results = []
@@ -310,7 +314,7 @@ def count_classifier(args, llm, lape, lang):
     return output
 
 
-def min_max_classifier(args, llm, lape, lang):
+def sae_min_max_classifier(args, llm, lape, lang):
     labels = []
     predictions = []
     results = []
@@ -482,13 +486,17 @@ def fasttext_classifier(args, lape, lang):
     )
 
     for sentence_text in tqdm(dataset["sentence"], desc="Classifying with FastText"):
-        predicted_langs, probabilities = lang_model.predict(sentence_text, k=len(sorted_lang))
+        predicted_langs, probabilities = lang_model.predict(
+            sentence_text, k=len(sorted_lang)
+        )
 
         result = torch.zeros(len(sorted_lang))
 
         for pred_lang, prob in zip(predicted_langs, probabilities):
             pred_lang_iso639_1 = pred_lang.removeprefix("__label__")
-            pred_lang_qualified = lang_choices_to_qualified_name.get(pred_lang_iso639_1, None)
+            pred_lang_qualified = lang_choices_to_qualified_name.get(
+                pred_lang_iso639_1, None
+            )
 
             if pred_lang_qualified:
                 sorted_lang_idx = sorted_lang.index(pred_lang_qualified)
@@ -519,6 +527,87 @@ def fasttext_classifier(args, lape, lang):
     return output
 
 
+def neuron_count_classifier(args, llm, lape, lang):
+    labels = []
+    predictions = []
+    results = []
+    sentences = []
+
+    sorted_lang = lape["sorted_lang"]
+
+    dataset_config = {
+        **args["dataset"],
+        "lang": lang,
+    }
+
+    logger.info(f'Loading Dataset: {dataset_config["name"]} ({dataset_config["lang"]})')
+
+    dataset = load_dataset_specific(
+        dataset_config["name"],
+        None,
+        dataset_config["split"],
+        dataset_config["start"],
+        dataset_config["end"],
+        filter_by_label=dataset_config["lang"],
+    )
+
+    prompt_template = prompt_templates[dataset_config["name"]][dataset_config["lang"]]
+
+    num_examples = dataset_config["end"] - dataset_config["start"]
+    result = torch.zeros(num_examples, len(sorted_lang))
+
+    layers_modules = {layer: get_nested_attr(llm, layer) for layer in args["layers"]}
+
+    for row_idx, row in tqdm(
+        enumerate(dataset), total=len(dataset), desc="Processing Samples", leave=False
+    ):
+        prompt = prompt_template.format_map(row)
+
+        with llm.trace(prompt):
+            for layer in args["layers"]:
+                layer_module = layers_modules[layer]
+                layer_index = layer_to_index[layer]
+
+                activations = layer_module.output
+
+                for lang_idx, lang in enumerate(sorted_lang):
+                    lang_feature_layer = lape["final_indice"][lang_idx][layer_index]
+                    neuron_values = activations[:, :, lang_feature_layer]
+                    neuron_values_mask = neuron_values > 0
+
+                    result[row_idx][lang_idx] += neuron_values_mask.sum().item()
+
+    # Make predictions
+    lang_preditions = torch.argmax(result, dim=1)
+    result_rounded = [
+        [round(elem, ndigits=3) for elem in row] for row in result.tolist()
+    ]
+
+    sentences.extend(dataset["sentence"])
+    predictions.extend(
+        [
+            lang_choices_to_iso639_2[sorted_lang[lang_idx]]
+            for lang_idx in lang_preditions.tolist()
+        ]
+    )
+    labels.extend(
+        [dataset.features["label"].names[label_idx] for label_idx in dataset["label"]]
+    )
+
+    results.extend(result_rounded)
+
+    output = pd.DataFrame(
+        {
+            "sentences": sentences,
+            "predictions": predictions,
+            "labels": labels,
+            f"results ({sorted_lang})": results,
+        }
+    )
+
+    return output
+
+
 @torch.inference_mode()
 def main(args: Args):
     logger.info(f'Loading Model: {args["model"]}')
@@ -529,12 +618,14 @@ def main(args: Args):
     lape = torch.load(args["lape_result_path"], weights_only=False)
 
     for lang in args["languages"]:
-        if args["classifier_type"] == "min-max":
-            output = min_max_classifier(args, llm, lape, lang)
-        elif args["classifier_type"] == "count":
-            output = count_classifier(args, llm, lape, lang)
+        if args["classifier_type"] == "sae-min-max":
+            output = sae_min_max_classifier(args, llm, lape, lang)
+        elif args["classifier_type"] == "sae-count":
+            output = sae_count_classifier(args, llm, lape, lang)
         elif args["classifier_type"] == "fasttext":
             output = fasttext_classifier(args, lape, lang)
+        elif args["classifier_type"] == "neuron-count":
+            output = neuron_count_classifier(args, llm, lape, lang)
 
         output_dir = (
             args["out_dir"]

@@ -1,4 +1,4 @@
-from typing import TypedDict
+from typing import Literal
 
 import torch
 
@@ -48,10 +48,20 @@ def neurons_intervene_all_token(
     hidden_state: torch.Tensor,
     lape: dict[str, any],
     layer_index: int,
-    intervention_lang_index: int,
+    lang_index: int,
     value: float,
+    method: Literal["scaling", "fixed"] = "fixed",
+    lape_value_type: str = "final_indice_global_max_active",
 ):
-    neuron_indices = lape["final_indice"][intervention_lang_index][layer_index]
-    hidden_state[:, :, neuron_indices] = value
+    neuron_indices = lape["final_indice"][lang_index][layer_index]
+
+    if method == "fixed":
+        hidden_state[:, :, neuron_indices] = value
+    elif method == "scaling":
+        multiplier = value
+        lape_value = lape[lape_value_type][lang_index][layer_index]
+        neuron_values = hidden_state[:, :, neuron_indices]
+
+        hidden_state[:, :, neuron_indices] = (multiplier * lape_value) + neuron_values
 
     return hidden_state

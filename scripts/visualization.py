@@ -2043,38 +2043,35 @@ def plot_shared_count_bar_chart(
     save_image(output_path, fig)
 
 
-def metric_to_radar_fig(
-    categories, scores_1, scores_2, scores_1_name, scores_2_name, title=None
-):
-    categories_closed = categories + [categories[0]]
-    scores_1_closed = scores_1 + [scores_1[0]]
-    scores_2_closed = scores_2 + [scores_2[0]]
-
+def metric_to_radar_fig(categories, scores_dict: dict[str, list[float]], title: str):
     fig = go.Figure()
 
-    fig.add_trace(
-        go.Scatterpolar(
-            r=scores_1_closed,
-            theta=categories_closed,
-            fill="toself",
-            line_color="rgb(0, 123, 255)",
-            fillcolor="rgba(0, 123, 255, 0.1)",
-            mode="lines",
-            name=scores_1_name,
-        )
-    )
+    categories_closed = categories + [categories[0]]
 
-    fig.add_trace(
-        go.Scatterpolar(
-            r=scores_2_closed,
-            theta=categories_closed,
-            fill="toself",
-            line_color="rgb(255, 99, 71)",
-            fillcolor="rgba(255, 99, 71, 0.1)",
-            mode="lines",
-            name=scores_2_name,
+    color_options = [
+        ("rgb(0, 123, 255)", "rgba(0, 123, 255, 0.1)"),
+        ("rgb(255, 99, 71)", "rgba(255, 99, 71, 0.1)"),
+        ("rgb(60, 179, 113)", "rgba(60, 179, 113, 0.1)"),
+        ("rgb(255, 165, 0)", "rgba(255, 165, 0, 0.1)"),
+        ("rgb(75, 0, 130)", "rgba(75, 0, 130, 0.1)"),
+        ("rgb(238, 130, 238)", "rgba(238, 130, 238, 0.1)"),
+        ("rgb(255, 20, 147)", "rgba(255, 20, 147, 0.1)"),
+    ]
+
+    for (score_name, scores), (line_color, fillcolor) in zip(scores_dict.items(), color_options):
+        scores_closed = scores + [scores[0]]
+
+        fig.add_trace(
+            go.Scatterpolar(
+                r=scores_closed,
+                theta=categories_closed,
+                fill="toself",
+                line_color=line_color,
+                fillcolor=fillcolor,
+                mode="lines",
+                name=score_name,
+            )
         )
-    )
 
     fig.update_layout(
         polar=dict(
@@ -2101,32 +2098,43 @@ def metric_to_radar_fig(
 
 
 def plot_fastext_vs_sae_metrics(
-    sae_classifier_metric, fastext_classifier_metric, output_dir: Path
+    saes_classifier_metric,
+    fastext_classifier_metric,
+    neurons_classifier_metric,
+    output_dir: Path,
 ):
-    categories = [lang_choices_to_iso639_1[class_name] for class_name in fastext_classifier_metric["classes"]]
-    
+    categories = [
+        lang_choices_to_iso639_1[class_name]
+        for class_name in fastext_classifier_metric["classes"]
+    ]
+
     f1_fig = metric_to_radar_fig(
         categories,
-        fastext_classifier_metric["f1"],
-        sae_classifier_metric["f1"],
-        "FastText",
-        "SAE Classifier",
+        {
+            "FastText": fastext_classifier_metric["f1"],
+            "SAEs Classifier": saes_classifier_metric["f1"],
+            "Neurons Classifier": neurons_classifier_metric["f1"],
+        },
         "F1",
     )
+
     prec_fig = metric_to_radar_fig(
         categories,
-        fastext_classifier_metric["precision"],
-        sae_classifier_metric["precision"],
-        "FastText",
-        "SAE Classifier",
+        {
+            "FastText": fastext_classifier_metric["precision"],
+            "SAEs Classifier": saes_classifier_metric["precision"],
+            "Neurons Classifier": neurons_classifier_metric["precision"],
+        },
         "Prec.",
     )
+
     rec_fig = metric_to_radar_fig(
         categories,
-        fastext_classifier_metric["recall"],
-        sae_classifier_metric["recall"],
-        "FastText",
-        "SAE Classifier",
+        {
+            "FastText": fastext_classifier_metric["recall"],
+            "SAEs Classifier": saes_classifier_metric["recall"],
+            "Neurons Classifier": neurons_classifier_metric["recall"],
+        },
         "Rec.",
     )
 
@@ -2163,9 +2171,8 @@ def plot_fastext_vs_sae_metrics(
                 f"polar{i}": dict(
                     radialaxis=dict(
                         visible=True,
-                        range=[0.8, 1.0],
-                        tickvals=[0.8, 0.85, 0.9, 0.95, 1.0],
-                        ticktext=["0.80", "0.85", "0.90", "0.95", "1.00"],
+                        range=[0.4, 1.0],
+                        tickvals=[0.4, 0.55, 0.7, 0.85, 1.0],
                         tickfont=dict(size=11),
                         gridcolor="lightgray",
                         linecolor="black",
@@ -2189,5 +2196,5 @@ def plot_fastext_vs_sae_metrics(
     # Save the combined figure
     os.makedirs(output_dir.parent, exist_ok=True)
 
-    output_path = output_dir / "fastext_vs_sae_metrics.pdf"
+    output_path = output_dir / "classifier_comparisons.pdf"
     save_image(output_path, combined_fig)

@@ -10,8 +10,8 @@ import torch.nn.functional as F
 from bracex import expand
 from const import (
     dataset_choices,
-    lang_choices_to_qualified_name,
     lang_choices,
+    lang_choices_to_qualified_name,
     layer_to_index,
     model_choices,
     prompt_templates,
@@ -49,6 +49,7 @@ class Args(TypedDict):
     multiplier: float
     layers: list[str]
     lape_value_type: str
+    neuron_intervention_method: str
 
 
 def parse_args() -> Args:
@@ -159,6 +160,14 @@ def parse_args() -> Args:
     )
 
     parser.add_argument(
+        "--neuron-intervention-method",
+        help="neuron intervention method",
+        type=str,
+        default="fixed",
+        choices=["fixed", "scaling"],
+    )
+
+    parser.add_argument(
         "--lape-result-path",
         help="path to the lape model",
         type=Path,
@@ -173,7 +182,7 @@ def parse_args() -> Args:
             "final_indice_global_max_active",
             "final_indice_global_min_active",
             "final_indice_global_avg_active",
-        ]
+        ],
     )
 
     args = parser.parse_args()
@@ -201,6 +210,7 @@ def parse_args() -> Args:
         "multiplier": args.multiplier,
         "value": args.value,
         "lape_value_type": args.lape_value_type,
+        "neuron_intervention_method": args.neuron_intervention_method,
     }
 
 
@@ -215,6 +225,7 @@ def get_logits(
     multiplier: float | None = None,
     lape: dict | None = None,
     lape_value_type: str = "final_indice_global_max_active",
+    neuron_intervention_method: str = "fixed",
 ):
     with llm.trace(prompt):
         for layer in layers:
@@ -230,6 +241,8 @@ def get_logits(
                     layer_index,
                     intervention_lang_index,
                     value,
+                    neuron_intervention_method,
+                    lape_value_type,
                 )
             elif intervention_type == "sae-features":
                 layer_module.output = apply(
@@ -258,6 +271,7 @@ def get_logprobs(
     multiplier: float | None = None,
     lape: dict | None = None,
     lape_value_type: str = "final_indice_global_max_active",
+    neuron_intervention_method: str = "fixed",
 ):
     inputs = llm.tokenizer(prompt, return_tensors="pt")
     output_ids = inputs["input_ids"][:, 1:].to(llm.device)
@@ -273,6 +287,7 @@ def get_logprobs(
         multiplier,
         lape,
         lape_value_type,
+        neuron_intervention_method,
     )
     logprobs = torch.gather(F.log_softmax(logits, dim=2), 2, output_ids.unsqueeze(2))
 
@@ -290,6 +305,7 @@ def compute_perplexity(
     multiplier: float | None = None,
     lape: dict | None = None,
     lape_value_type: str = "final_indice_global_max_active",
+    neuron_intervention_method: str = "fixed",
 ):
     logprobs = get_logprobs(
         llm,
@@ -302,6 +318,7 @@ def compute_perplexity(
         multiplier,
         lape,
         lape_value_type,
+        neuron_intervention_method,
     )
     n_tokens = logprobs.size(1)
     nll_sum = -logprobs.sum()
@@ -368,6 +385,7 @@ def main(args: Args):
                 args["multiplier"],
                 lape,
                 args["lape_value_type"],
+                args["neuron_intervention_method"],
             )
             results[normalize_lang]["perplexities"].append(ppl)
 

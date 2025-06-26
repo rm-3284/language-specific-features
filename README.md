@@ -33,21 +33,7 @@
        --out-dir <output_directory>
    ```
 
-3. Count SAE Features
-
-   ```bash
-   python sae_features_count.py \
-       --output-type <output_type> \
-       --hidden-dim <hidden_dim> \
-       --dataset-configs <dataset_name_1:config_name_1:split_name_1> ... \
-       --layer <layer_1> ... \
-       --in-dir <input_directory> \
-       --in-path <input_path> \
-       --out-dir <output_directory> \
-       --out-path <output_path>
-   ```
-
-4. Identify Language-Specific Features
+3. Identify Language-Specific Features
 
    ```bash
    python identify.py \
@@ -70,7 +56,7 @@
        [ --top-by-frequency ]
    ```
 
-5. Interpret SAE Features
+4. Interpret SAE Features
 
    ```bash
    python interpret.py meta-llama/Llama-3.2-1B EleutherAI/sae-Llama-3.2-1B-131k \
@@ -109,7 +95,7 @@
       --scoring true
    ```
 
-6. Train SAE
+5. Train SAE
 
    `train_sae.py` is a script to train SAEs, which is based on the `sparsify` code.
 
