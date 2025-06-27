@@ -2058,7 +2058,9 @@ def metric_to_radar_fig(categories, scores_dict: dict[str, list[float]], title: 
         ("rgb(255, 20, 147)", "rgba(255, 20, 147, 0.1)"),
     ]
 
-    for (score_name, scores), (line_color, fillcolor) in zip(scores_dict.items(), color_options):
+    for (score_name, scores), (line_color, fillcolor) in zip(
+        scores_dict.items(), color_options
+    ):
         scores_closed = scores + [scores[0]]
 
         fig.add_trace(
@@ -2198,3 +2200,53 @@ def plot_fastext_vs_sae_metrics(
 
     output_path = output_dir / "classifier_comparisons.pdf"
     save_image(output_path, combined_fig)
+
+
+def plot_entropy_distribution(sae_features_info, output_dir: Path):
+    df_copy = sae_features_info.copy()
+    df_copy["lang"] = df_copy["lang"].apply(lambda x: lang_choices_to_iso639_1[x])
+
+    fig = px.histogram(
+        df_copy,
+        x="entropy",
+        nbins=30,
+        title="Distribution of Feature Entropy",
+        labels={"entropy": "Entropy", "count": "Count", "y": "Count"},
+        color="lang",
+        color_discrete_map=language_colors,
+    )
+    fig.update_layout(yaxis_title="Count")
+    fig.update_layout(
+        bargap=0.1,
+        plot_bgcolor="white",
+        xaxis=dict(
+            tickmode="linear",
+            dtick=0.2,
+        ),
+    )
+
+    fig.update_xaxes(
+        mirror=True,
+        ticks="outside",
+        showline=True,
+        linecolor="black",
+    )
+
+    fig.update_yaxes(
+        mirror=True,
+        ticks="outside",
+        showline=True,
+        linecolor="black",
+        gridcolor="lightgrey",
+    )
+
+    os.makedirs(output_dir, exist_ok=True)
+
+    output_path = output_dir / "distribution.html"
+
+    fig.write_html(
+        output_path,
+        include_plotlyjs="cdn",
+    )
+
+    save_image(output_path, fig)
