@@ -25,7 +25,7 @@
 2. Processing SAE Features
 
    ```bash
-   python statistics.py <model_name> <dataset_name> \
+   python sae_statistics.py <model_name> <dataset_name> \
        --lang <lang_1> ... \
        --layer <layer_1> ... \
        --sae-model <sae_model_name> \
@@ -51,10 +51,14 @@
        --example-rate <example_rate> \
        --entropy-threshold <entropy_threshold> \
        --algorithm "sae-lape" \
+       [ --lang-shared ] \
+       --shared-count 2 \
        [ --top-per-layer ] \
        [ --lang-specific ] \
        [ --top-by-frequency ]
    ```
+
+   > Note: `--shared-count` is the number of shared languages. If `--lang-shared` is not specified, it will be ignored.
 
 4. Interpret SAE Features
 
@@ -203,6 +207,7 @@
       --intervention-lang <intervention_lang> \
       --multiplier <multiplier> \
       --value <value> \
+      --neuron-intervention-method <type> \
       --lape-result-path <lape_result_path> \
       --lape-value-type <lape_value_type>
    ```
@@ -210,17 +215,6 @@
 3. Classification Experiment
 
    ```bash
-   python classify.py MartinThoma/wili_2018 \
-   --model meta-llama/Llama-3.2-1B \
-   --split test \
-   --lang eng deu fra ita por hin spa tha bul rus tur vie jpn kor zho \
-   --layer model.layers.{0..15}.mlp \
-   --start 0 --end 500 \
-   --sae-model EleutherAI/sae-Llama-3.2-1B-131k \
-   --batch 500 \
-   --lape-result-path 'sae_features_specific/meta-llama/Llama-3.2-1B/EleutherAI/sae-Llama-3.2-1B-131k/lape_all.pt' \
-   --classifier-type min-max
-
    python classify.py MartinThoma/wili_2018 \
       --model meta-llama/Llama-3.2-1B \
       --split test \
@@ -230,8 +224,16 @@
       --sae-model EleutherAI/sae-Llama-3.2-1B-131k \
       --batch 500 \
       --lape-result-path 'sae_features_specific/meta-llama/Llama-3.2-1B/EleutherAI/sae-Llama-3.2-1B-131k/lape_all.pt' \
-      --classifier-type count
+      --classifier-type sae-count
 
+   python classify.py MartinThoma/wili_2018 \
+      --model meta-llama/Llama-3.2-1B \
+      --split test \
+      --lang eng deu fra ita por hin spa tha bul rus tur vie jpn kor zho \
+      --layer model.layers.{0..15}.mlp.act_fn \
+      --start 0 --end 500 \
+      --lape-result-path 'mlp_acts_specific/meta-llama/Llama-3.2-1B/lape_neuron.pt' \
+      --classifier-type neuron-count
 
    python classify.py MartinThoma/wili_2018 \
       --split test \
@@ -244,11 +246,11 @@
 
    ```bash
    python check_active_features.py \
-   --model meta-llama/Llama-3.2-1B \
-   --layer model.layers.{0..15}.mlp \
-   --sae-model EleutherAI/sae-Llama-3.2-1B-131k \
-   --batch 500 \
-   --lape-result-path 'sae_features_specific/meta-llama/Llama-3.2-1B/EleutherAI/sae-Llama-3.2-1B-131k/lape_all.pt' \
-   --classifier-type count \
-   --text "Hamilton has been the primary songwriter, guitarist, and vocalist for Brothers Past, as well as co-producer for all of their recorded releases." "Olga Alexandrowna Girja (russisch Ольга Александровна Гиря; * 4. Juni 1991 in Langepas) ist eine russische Schachspielerin und seit 2009 Großmeister der Frauen (WGM)."
+      --model meta-llama/Llama-3.2-1B \
+      --layer model.layers.{0..15}.mlp \
+      --sae-model EleutherAI/sae-Llama-3.2-1B-131k \
+      --batch 500 \
+      --lape-result-path 'sae_features_specific/meta-llama/Llama-3.2-1B/EleutherAI/sae-Llama-3.2-1B-131k/lape_all.pt' \
+      --classifier-type count \
+      --text "Hamilton has been the primary songwriter, guitarist, and vocalist for Brothers Past, as well as co-producer for all of their recorded releases." "Olga Alexandrowna Girja (russisch Ольга Александровна Гиря; * 4. Juni 1991 in Langepas) ist eine russische Schachspielerin und seit 2009 Großmeister der Frauen (WGM)."
    ```
