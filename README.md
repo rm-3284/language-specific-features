@@ -1,6 +1,22 @@
 # Language-Specific Features
 
-## Commands
+This repository is the official implementation of our paper [Sparse Autoencoders Can Capture Language-Specific Concepts Across Diverse Languages](https://arxiv.org/abs/2507.11230).
+
+![Language-Specific Features](./images/Alternative%20Illustration.svg)
+
+## Language-Specific Features by SAE-LAPE
+
+We provide the identified language-specific features in Llama 3.2 1B in the `compressed` directory. The features are identified using the SAE-LAPE method, which is described in the paper.
+
+In addition, we provide the identfied langauge-specific neurons using the [LAPE](https://arxiv.org/abs/2402.16438) method in Llama 3.2 1B in the `compressed` directory for comparison. We use the code from [Language-Specific-Neurons](https://github.com/RUCAIBox/Language-Specific-Neurons) for the LAPE method and modify it to work with SAE features, which we refer to as SAE-LAPE.
+
+## Visualization
+
+All visualizations can be accessed interactively at <https://lyzanderandrylie.github.io/language-specific-features/> and are also available in the `images` directory.
+
+## Scripts
+
+We provide several scripts to collect, process, and analyze language-specific features in the `scripts` directory. We also provide shell scripts to run the scripts in the `shell` directory.
 
 ### Sparse Autoencoder (SAE)
 
@@ -254,3 +270,17 @@
       --classifier-type count \
       --text "Hamilton has been the primary songwriter, guitarist, and vocalist for Brothers Past, as well as co-producer for all of their recorded releases." "Olga Alexandrowna Girja (russisch Ольга Александровна Гиря; * 4. Juni 1991 in Langepas) ist eine russische Schachspielerin und seit 2009 Großmeister der Frauen (WGM)."
    ```
+
+## Citation
+
+```bibtex
+@misc{andrylie2025sparseautoencoderscapturelanguagespecific,
+      title={Sparse Autoencoders Can Capture Language-Specific Concepts Across Diverse Languages}, 
+      author={Lyzander Marciano Andrylie and Inaya Rahmanisa and Mahardika Krisna Ihsani and Alfan Farizki Wicaksono and Haryo Akbarianto Wibowo and Alham Fikri Aji},
+      year={2025},
+      eprint={2507.11230},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2507.11230}, 
+}
+```
