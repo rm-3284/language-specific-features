@@ -2100,9 +2100,9 @@ def metric_to_radar_fig(categories, scores_dict: dict[str, list[float]], title: 
 
 
 def plot_fastext_vs_sae_metrics(
-    saes_classifier_metric,
+    saes_based_lid_metric,
     fastext_classifier_metric,
-    neurons_classifier_metric,
+    neurons_based_lid_metric,
     output_dir: Path,
 ):
     categories = [
@@ -2114,8 +2114,8 @@ def plot_fastext_vs_sae_metrics(
         categories,
         {
             "FastText": fastext_classifier_metric["f1"],
-            "SAEs Classifier": saes_classifier_metric["f1"],
-            "Neurons Classifier": neurons_classifier_metric["f1"],
+            "SAE-Based LID": saes_based_lid_metric["f1"],
+            "Neuron-Based LID": neurons_based_lid_metric["f1"],
         },
         "F1",
     )
@@ -2124,8 +2124,8 @@ def plot_fastext_vs_sae_metrics(
         categories,
         {
             "FastText": fastext_classifier_metric["precision"],
-            "SAEs Classifier": saes_classifier_metric["precision"],
-            "Neurons Classifier": neurons_classifier_metric["precision"],
+            "SAE-Based LID": saes_based_lid_metric["precision"],
+            "Neuron-Based LID": neurons_based_lid_metric["precision"],
         },
         "Prec.",
     )
@@ -2134,8 +2134,8 @@ def plot_fastext_vs_sae_metrics(
         categories,
         {
             "FastText": fastext_classifier_metric["recall"],
-            "SAEs Classifier": saes_classifier_metric["recall"],
-            "Neurons Classifier": neurons_classifier_metric["recall"],
+            "SAE-Based LID": saes_based_lid_metric["recall"],
+            "Neuron-Based LID": neurons_based_lid_metric["recall"],
         },
         "Rec.",
     )
