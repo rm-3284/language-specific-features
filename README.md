@@ -49,7 +49,21 @@ We provide several scripts to collect, process, and analyze language-specific fe
        --out-dir <output_directory>
    ```
 
-3. Identify Language-Specific Features
+3. Count SAE Features
+
+   ```bash
+   python sae_features_count.py \
+      --output-type <output_type> \
+      --hidden-dim <hidden_dim> \
+      --dataset-configs <dataset_name:config_name> ... \
+      --layer <layer_1> ... \
+      --in-dir <input_directory> \
+      --in-path <input_path> \
+      --out-dir <output_directory> \
+      --out-path <output_path>
+   ```
+
+4. Identify Language-Specific Features
 
    ```bash
    python identify.py \
@@ -76,7 +90,7 @@ We provide several scripts to collect, process, and analyze language-specific fe
 
    > Note: `--shared-count` is the number of shared languages. If `--lang-shared` is not specified, it will be ignored.
 
-4. Interpret SAE Features
+5. Interpret SAE Features
 
    ```bash
    python interpret.py meta-llama/Llama-3.2-1B EleutherAI/sae-Llama-3.2-1B-131k \
@@ -115,7 +129,7 @@ We provide several scripts to collect, process, and analyze language-specific fe
       --scoring true
    ```
 
-5. Train SAE
+6. Train SAE
 
    `train_sae.py` is a script to train SAEs, which is based on the `sparsify` code.
 
