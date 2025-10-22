@@ -93,7 +93,7 @@ def parse_args() -> Args:
         "--end",
         help="sample end index",
         type=int,
-        default=inf,
+        default=100,
     )
 
     parser.add_argument(
