@@ -60,7 +60,7 @@ def sae_features_from_activations(
         sae.eval() 
         input_activation = chunk.squeeze(0).to(device)
         with torch.no_grad():
-            feature_acts = sae.encoder(input_activation) 
+            feature_acts = sae.encode(input_activation) 
             K = 32
             flat_acts = feature_acts.flatten(start_dim=0) 
             top_values, top_indices_batch = torch.topk(flat_acts, k=K, dim=-1)
