@@ -320,6 +320,8 @@ language_colors = {
 
 model_choices = [
     "meta-llama/Llama-3.2-1B",
+    "google/gemma-2-2b",
+    "google/gemma-2-9b",
 ]
 
 dataset_choices = [
@@ -390,6 +392,18 @@ prompt_templates = {
 sae_model_choices = [
     "EleutherAI/sae-Llama-3.2-1B-131k",
     "EleutherAI/sae",  # Local SAE
+    "google/gemma-scope-2b-pt-res",
+    "google/gemma-scope-2b-pt-res-canonical",
+    "google/gemma-scope-2b-pt-mlp",
+    "google/gemma-scope-2b-pt-mlp-canonical",
+    "google/gemma-scope-2b-pt-att",
+    "google/gemma-scope-9b-pt-att-canonical",
+    "google/gemma-scope-9b-pt-res",
+    "google/gemma-scope-9b-pt-res-canonical",
+    "google/gemma-scope-9b-pt-mlp",
+    "google/gemma-scope-9b-pt-mlp-canonical",
+    "google/gemma-scope-9b-pt-att",
+    "google/gemma-scope-9b-pt-att-canonical",
 ]
 
 sae_model_layer_to_hookpoint = {
