@@ -21,8 +21,8 @@ from const import (
 )
 from datasets import Dataset, get_dataset_config_names
 from datasets import load_dataset as hg_load_dataset
-from sparsify import Sae
-from sparsify.sparse_coder import EncoderOutput
+#from sparsify.sparse_coder import EncoderOutput
+from sae_lens import SAE
 from tqdm.auto import tqdm
 
 
@@ -110,7 +110,7 @@ def load_dataset_specific_rows(
 
 
 def load_activations(input_dir: Path, layer: str, logger=None):
-    torch.serialization.add_safe_globals([EncoderOutput])
+    #torch.serialization.add_safe_globals([EncoderOutput])
 
     layer_files = sorted(list(input_dir.glob(f"{layer}*.pt")), key=extract_range)
 
@@ -143,6 +143,7 @@ def load_sae(
     model_name: str, sae_model_name: str, layer: str, local_sae_dir: Path | None = None
 ):
     if sae_model_name.startswith("EleutherAI/"):
+        from sparsify import Sae
         if sae_model_name.endswith("/sae"):
             file_dir = (
                 local_sae_dir
@@ -155,6 +156,9 @@ def load_sae(
                 sae_model_layer_to_hookpoint[model_name][sae_model_name][layer],
             )
 
+        return sae
+    elif sae_model_name.startswith("google/gemma-scope"):
+        sae = SAE.from_pretrained(sae_model_name, layer)[0]
         return sae
 
 

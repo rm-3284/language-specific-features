@@ -73,7 +73,7 @@ def parse_args() -> Args:
         nargs="+",
         choices=lang_choices,
     )
-
+    # sae_id = "layer_{l}/width_16k/average_l0_canonical"
     parser.add_argument(
         "--layer",
         help="layer(s) to be processed. The values should be the path to the layer in the model. Support bracex expansion",
@@ -100,7 +100,7 @@ def parse_args() -> Args:
         "--sae-model",
         help="sae model name",
         type=str,
-        default="google/gemma-scope-2b-pt-mlp",
+        default="google/gemma-scope-2b-pt-mlp-canonical",
         choices=sae_model_choices,
     )
 

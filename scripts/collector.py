@@ -5,8 +5,9 @@ import torch
 from datasets import Dataset
 from loader import load_sae
 from nnsight import LanguageModel
-from sparsify import Sae
-from sparsify.sparse_coder import EncoderOutput
+#from sparsify import Sae
+#from sparsify.sparse_coder import EncoderOutput
+from sae_lens import SAE
 from tqdm.auto import tqdm
 from utils import get_device, get_nested_attr
 
@@ -37,7 +38,7 @@ def collect_activations(
 
 def sae_features_from_activations(
     activations_list: list[torch.Tensor],
-    sae: Sae,
+    sae: SAE,
     device: torch.device,
     batch: int = 100,
 ):
@@ -52,9 +53,18 @@ def sae_features_from_activations(
     chunks = torch.split(activations_list, batch, dim=1)
 
     for chunk in chunks:
-        sae_features = sae.encode(chunk.squeeze(0).to(device))
-        top_acts.append(sae_features.top_acts.unsqueeze(0).cpu())
-        top_indices.append(sae_features.top_indices.unsqueeze(0).cpu())
+        #sae_features = sae.encode(chunk.squeeze(0).to(device))
+        #top_acts.append(sae_features.top_acts.unsqueeze(0).cpu())
+        #top_indices.append(sae_features.top_indices.unsqueeze(0).cpu())
+        sae.eval() 
+        input_activation = chunk.squeeze(0).to(device)
+        with torch.no_grad():
+            feature_acts = sae.encoder(input_activation) 
+            K = 32
+            flat_acts = feature_acts.flatten(start_dim=0) 
+            top_values, top_indices_batch = torch.topk(flat_acts, k=K, dim=-1)
+        top_acts.append(top_values.unsqueeze(0).cpu())
+        top_indices.append(top_indices_batch.unsqueeze(0).cpu())
 
     top_acts = torch.cat(top_acts, dim=1)
     top_acts = torch.split(top_acts, activations_size, dim=1)
@@ -65,7 +75,7 @@ def sae_features_from_activations(
     all_sae_features = []
 
     for top_acts, top_indices in zip(top_acts, top_indices):
-        all_sae_features.append(EncoderOutput(top_acts, top_indices, None))
+        all_sae_features.append((top_acts, top_indices, None))
 
     return all_sae_features
 
