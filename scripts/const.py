@@ -446,6 +446,36 @@ sae_model_layer_to_hookpoint = {
             "model.layers.15.mlp": "layers.15.mlp",
         },
     },
+    "google/gemma-2-2b": {
+        "google/gemma-scope-2b-pt-mlp-canonical": {
+            "model.layers.0.mlp": "layer_0/width_16k/canonical",
+            "model.layers.1.mlp": "layer_1/width_16k/canonical",
+            "model.layers.2.mlp": "layer_2/width_16k/canonical",
+            "model.layers.3.mlp": "layer_3/width_16k/canonical",
+            "model.layers.4.mlp": "layer_4/width_16k/canonical",
+            "model.layers.5.mlp": "layer_5/width_16k/canonical",
+            "model.layers.6.mlp": "layer_6/width_16k/canonical",
+            "model.layers.7.mlp": "layer_7/width_16k/canonical",
+            "model.layers.8.mlp": "layer_8/width_16k/canonical",
+            "model.layers.9.mlp": "layer_9/width_16k/canonical",
+            "model.layers.10.mlp": "layer_10/width_16k/canonical",
+            "model.layers.11.mlp": "layer_11/width_16k/canonical",
+            "model.layers.12.mlp": "layer_12/width_16k/canonical",
+            "model.layers.13.mlp": "layer_13/width_16k/canonical",
+            "model.layers.14.mlp": "layer_14/width_16k/canonical",
+            "model.layers.15.mlp": "layer_15/width_16k/canonical",
+            "model.layers.16.mlp": "layer_16/width_16k/canonical",
+            "model.layers.17.mlp": "layer_17/width_16k/canonical",
+            "model.layers.18.mlp": "layer_18/width_16k/canonical",
+            "model.layers.19.mlp": "layer_19/width_16k/canonical",
+            "model.layers.20.mlp": "layer_20/width_16k/canonical",
+            "model.layers.21.mlp": "layer_21/width_16k/canonical",
+            "model.layers.22.mlp": "layer_22/width_16k/canonical",
+            "model.layers.23.mlp": "layer_23/width_16k/canonical",
+            "model.layers.24.mlp": "layer_24/width_16k/canonical",
+            "model.layers.25.mlp": "layer_25/width_16k/canonical",
+        }
+    }
 }
 
 hookpoint_to_layer = {
