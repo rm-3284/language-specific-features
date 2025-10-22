@@ -22,6 +22,7 @@ from const import (
 from datasets import Dataset, get_dataset_config_names
 from datasets import load_dataset as hg_load_dataset
 #from sparsify.sparse_coder import EncoderOutput
+from depricated_classes import EncoderOutput
 from sae_lens import SAE
 from tqdm.auto import tqdm
 
@@ -110,7 +111,7 @@ def load_dataset_specific_rows(
 
 
 def load_activations(input_dir: Path, layer: str, logger=None):
-    #torch.serialization.add_safe_globals([EncoderOutput])
+    torch.serialization.add_safe_globals([EncoderOutput])
 
     layer_files = sorted(list(input_dir.glob(f"{layer}*.pt")), key=extract_range)
 

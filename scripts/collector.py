@@ -7,6 +7,7 @@ from loader import load_sae
 from nnsight import LanguageModel
 #from sparsify import Sae
 #from sparsify.sparse_coder import EncoderOutput
+from depricated_classes import EncoderOutput
 from sae_lens import SAE
 from tqdm.auto import tqdm
 from utils import get_device, get_nested_attr
@@ -75,7 +76,7 @@ def sae_features_from_activations(
     all_sae_features = []
 
     for top_acts, top_indices in zip(top_acts, top_indices):
-        all_sae_features.append((top_acts, top_indices, None))
+        all_sae_features.append(EncoderOutput(top_acts, top_indices, None))
 
     return all_sae_features
 

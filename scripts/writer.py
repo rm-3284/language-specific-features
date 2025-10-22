@@ -2,8 +2,8 @@ import os
 from pathlib import Path
 
 import torch
-from sparsify.sparse_coder import EncoderOutput
-
+#from sparsify.sparse_coder import EncoderOutput
+from depricated_classes import EncoderOutput
 
 def save_activations(
     output_dir: Path,
