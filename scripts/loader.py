@@ -158,7 +158,7 @@ def load_sae(
             )
 
         return sae
-    elif sae_model_name.startswith("google/gemma-scope"):
+    elif sae_model_name.startswith("gemma-scope"):
         sae = SAE.from_pretrained(sae_model_name, sae_model_layer_to_hookpoint[model_name][sae_model_name][layer])[0]
         return sae
 

@@ -447,7 +447,7 @@ sae_model_layer_to_hookpoint = {
         },
     },
     "google/gemma-2-2b": {
-        "google/gemma-scope-2b-pt-mlp-canonical": {
+        "gemma-scope-2b-pt-mlp-canonical": {
             "model.layers.0.mlp": "layer_0/width_16k/canonical",
             "model.layers.1.mlp": "layer_1/width_16k/canonical",
             "model.layers.2.mlp": "layer_2/width_16k/canonical",

@@ -107,7 +107,7 @@ def parse_args() -> Args:
         "--sae-model",
         help="sae model name",
         type=str,
-        default="google/gemma-scope-2b-pt-mlp-canonical",
+        default="gemma-scope-2b-pt-mlp-canonical",
         choices=sae_model_choices,
     )
 
