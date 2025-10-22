@@ -71,6 +71,7 @@ def sae_features_from_activations(
             top_values, top_indices_batch = torch.topk(flat_acts, k=K, dim=-1)
         top_acts.append(top_values.unsqueeze(0).cpu())
         top_indices.append(top_indices_batch.unsqueeze(0).cpu())
+        print(top_values.shape)
     
     top_acts = torch.cat(top_acts, dim=1)
     print(top_acts.shape)
