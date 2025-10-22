@@ -47,7 +47,7 @@ def sae_features_from_activations(
         activations.shape[1] for activations in activations_list
     ]  # [a, b, ...]
     activations_list = torch.cat(activations_list, dim=1)  # tensor(1, a+b+..., 2048)
-    print(activations_size)
+
     top_acts = []
     top_indices = []
     # list[tensor(1, batch, 2048), ...]
@@ -57,10 +57,11 @@ def sae_features_from_activations(
         #sae_features = sae.encode(chunk.squeeze(0).to(device))
         #top_acts.append(sae_features.top_acts.unsqueeze(0).cpu())
         #top_indices.append(sae_features.top_indices.unsqueeze(0).cpu())
-        sae.eval() 
+        sae.eval()
         input_activation = chunk.squeeze(0).to(device)
         with torch.no_grad():
             feature_acts = sae.encode(input_activation) 
+            print(feature_acts.shape)
             K = 32
             flat_acts = feature_acts.flatten(start_dim=0) 
             top_values, top_indices_batch = torch.topk(flat_acts, k=K, dim=-1)
