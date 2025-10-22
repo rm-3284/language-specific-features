@@ -85,7 +85,7 @@ def parse_args() -> Args:
         "--layer",
         help="layer(s) to be processed. The values should be the path to the layer in the model. Support bracex expansion",
         type=str,
-        default=layer_lists,
+        default=["model.layers.{0..26}.mlp"],
         nargs="+",
     )
 
