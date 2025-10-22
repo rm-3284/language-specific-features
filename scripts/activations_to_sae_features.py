@@ -46,6 +46,7 @@ def parse_args() -> Args:
         "model",
         help="model name",
         type=str,
+        default="google/gemma-2-2b",
         choices=model_choices,
     )
 
@@ -53,6 +54,7 @@ def parse_args() -> Args:
         "dataset",
         help="dataset name",
         type=str,
+        default="facebook/xnli",
         choices=dataset_choices,
     )
 
@@ -67,7 +69,7 @@ def parse_args() -> Args:
         "--lang",
         help="language(s) to be processed",
         type=str,
-        default=[],
+        default=['bg','zh','en','fr','de','hi','it','ja','ko','pt','ru','es','th','tr','vi',],
         nargs="+",
         choices=lang_choices,
     )
@@ -76,7 +78,7 @@ def parse_args() -> Args:
         "--layer",
         help="layer(s) to be processed. The values should be the path to the layer in the model. Support bracex expansion",
         type=str,
-        default=[],
+        default=["model.layers.{0..26}.mlp"],
         nargs="+",
     )
 
@@ -98,7 +100,7 @@ def parse_args() -> Args:
         "--sae-model",
         help="sae model name",
         type=str,
-        default=None,
+        default="google/gemma-scope-2b-pt-mlp",
         choices=sae_model_choices,
     )
 
@@ -162,14 +164,17 @@ def main(args: Args):
         logger.info(
             f'Loading Dataset: {dataset_config["name"]} ({dataset_config["lang"]})'
         )
-
-        dataset = load_dataset_specific(
-            dataset_config["name"],
-            dataset_config["lang"],
-            dataset_config["split"],
-            dataset_config["start"],
-            dataset_config["end"],
-        )
+        try:
+            dataset = load_dataset_specific(
+                dataset_config["name"],
+                dataset_config["lang"],
+                dataset_config["split"],
+                dataset_config["start"],
+                dataset_config["end"],
+            )
+        except ValueError:
+            print(f"{lang} is not in the list of languages available")
+            continue
 
         prompt_template = prompt_templates[dataset_config["name"]][
             dataset_config["lang"]
