@@ -73,12 +73,19 @@ def parse_args() -> Args:
         nargs="+",
         choices=lang_choices,
     )
+
     # sae_id = "layer_{l}/width_16k/average_l0_canonical"
+    base = "layer_{l}/width_16k/average_l0_canonical"
+    layer_lists = []
+    for i in range(26):
+        layer = base.format(l=i)
+        layer_lists.append(layer)
+
     parser.add_argument(
         "--layer",
         help="layer(s) to be processed. The values should be the path to the layer in the model. Support bracex expansion",
         type=str,
-        default=["model.layers.{0..26}.mlp"],
+        default=layer_lists,
         nargs="+",
     )
 
