@@ -58,7 +58,7 @@ def sae_features_from_activations(
     #for seq_len in activations_size:
     #    chunk = activations_list[:, split_start_idx:split_start_idx + seq_len, :]
     #    split_start_idx += seq_len
-    for i, chunk in enumerate(chunks):
+    for chunk in chunks:
         #sae_features = sae.encode(chunk.squeeze(0).to(device))
         #top_acts.append(sae_features.top_acts.unsqueeze(0).cpu())
         #top_indices.append(sae_features.top_indices.unsqueeze(0).cpu())
@@ -67,7 +67,7 @@ def sae_features_from_activations(
         with torch.no_grad():
             feature_acts = sae.encode(input_activation) 
             
-            K = activations_size[i]
+            K = chunk.shape[1]
             flat_acts = feature_acts.flatten(start_dim=0) 
             top_values, top_indices_batch = torch.topk(flat_acts, k=K, dim=-1)
         top_acts.append(top_values.unsqueeze(0).cpu())
