@@ -32,6 +32,7 @@ def parse_args() -> Args:
         "model",
         help="model name",
         type=str,
+        default="google/gemma-2-2b",
         choices=model_choices,
     )
 
@@ -39,6 +40,7 @@ def parse_args() -> Args:
         "dataset",
         help="dataset name",
         type=str,
+        default="facebook/xnli",
         choices=dataset_choices,
     )
 
@@ -46,7 +48,7 @@ def parse_args() -> Args:
         "--lang",
         help="language(s) to be processed",
         type=str,
-        default=[],
+        default=['bg','zh','en','fr','de','hi','it','ja','ko','pt','ru','es','th','tr','vi',],
         nargs="+",
         choices=lang_choices,
     )
@@ -55,7 +57,7 @@ def parse_args() -> Args:
         "--layer",
         help="layer(s) to be processed. The values should be the path to the layer in the model. Support bracex expansion",
         type=str,
-        default=[],
+        default=["model.layers.{0..25}.mlp"],
         nargs="+",
     )
 
@@ -63,7 +65,7 @@ def parse_args() -> Args:
         "--sae-model",
         help="sae model name",
         type=str,
-        default=None,
+        default="gemma-scope-2b-pt-mlp-canonical",
         choices=sae_model_choices,
     )
 
@@ -101,6 +103,8 @@ def parse_args() -> Args:
 
 def extract_features(sae_model: str, sae_features: any):
     if sae_model.startswith("EleutherAI/"):
+        return sae_features.top_acts, sae_features.top_indices
+    elif sae_model.startswith("google/gemma-scope"):
         return sae_features.top_acts, sae_features.top_indices
 
 
