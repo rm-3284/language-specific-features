@@ -104,7 +104,7 @@ def parse_args() -> Args:
 def extract_features(sae_model: str, sae_features: any):
     if sae_model.startswith("EleutherAI/"):
         return sae_features.top_acts, sae_features.top_indices
-    elif sae_model.startswith("google/gemma-scope"):
+    elif sae_model.startswith("gemma-scope"):
         return sae_features.top_acts, sae_features.top_indices
 
 
