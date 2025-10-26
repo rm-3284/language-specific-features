@@ -114,7 +114,7 @@ def load_activations(input_dir: Path, layer: str, logger=None):
     torch.serialization.add_safe_globals([EncoderOutput])
 
     layer_files = sorted(list(input_dir.glob(f"{layer}*.pt")), key=extract_range)
-
+    print(layer_files)
     if logger:
         logger.info(
             f"Loading activations from {input_dir}: {[layer_file.name for layer_file in layer_files]}"
