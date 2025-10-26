@@ -182,10 +182,13 @@ def main(args: Args):
         except ValueError:
             print(f"{lang} is not in the list of languages available")
             continue
-
-        prompt_template = prompt_templates[dataset_config["name"]][
-            dataset_config["lang"]
-        ]
+        
+        try:
+            prompt_template = prompt_templates[dataset_config["name"]][
+                dataset_config["lang"]
+            ]
+        except KeyError:
+            print(f"no template for {dataset_config["name"]}, {dataset_config["lang"]}")
 
         all_activations = collect_all_activations(
             llm,
