@@ -124,9 +124,9 @@ def process_sae_features(
 
         for token_index, (top_act, top_index) in enumerate(top_act_index_per_token):
             top_act, top_index = top_act.tolist(), top_index.tolist()
-            if isinstance(top_act, float):
+            if isinstance(top_act, float) or isinstance(top_act, int):
                 top_act = [top_act]
-            if isinstance(top_index, float):
+            if isinstance(top_index, float) or isinstance(top_index, int):
                 top_index = [top_index]
             for act_val, feature_index in zip(top_act, top_index):
                 sae_feature_index_to_activations[feature_index].append(act_val)
