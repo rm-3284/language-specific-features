@@ -123,7 +123,12 @@ def process_sae_features(
         top_act_index_per_token = zip(top_acts.squeeze(0), top_indices.squeeze(0))
 
         for token_index, (top_act, top_index) in enumerate(top_act_index_per_token):
-            for act_val, feature_index in zip(top_act.tolist(), top_index.tolist()):
+            if isinstance(top_act, float):
+                top_act = [top_act]
+                top_index = [top_index]
+            else:
+                top_act, top_index = top_act.tolist(), top_index.tolist()
+            for act_val, feature_index in zip(top_act, top_index):
                 sae_feature_index_to_activations[feature_index].append(act_val)
                 dataset_id_token_id_act_val = (
                     dataset_row_index,
