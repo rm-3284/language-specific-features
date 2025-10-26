@@ -209,7 +209,7 @@ def main(args: Args):
                 / args["dataset"]
                 / lang
             )
-
+            print(layer)
             sae_features = load_activations(input_dir, layer, logger)
             df_statistics, df_dataset_token_activations = process_sae_features(
                 sae_features, args["sae_model"], layer, lang
