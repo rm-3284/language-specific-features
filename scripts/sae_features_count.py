@@ -32,6 +32,7 @@ def parse_args() -> Args:
         "--output-type",
         help="Output type of the loaded file",
         type=str,
+        default="EncoderOutput",
         choices=[
             "EncoderOutput",
         ],
@@ -41,13 +42,14 @@ def parse_args() -> Args:
         "--hidden-dim",
         help="hidden dimension of the model",
         type=int,
+        default=2304, # gemma-2-2b
     )
 
     parser.add_argument(
         "--layer",
         help="layer(s) to be processed. The values should be the path to the layer in the model. Support bracex expansion",
         type=str,
-        default=[],
+        default=["model.layers.{0..25}.mlp"],
         nargs="+",
     )
 
@@ -55,7 +57,7 @@ def parse_args() -> Args:
         "--dataset-configs",
         help='dataset configurations "dataset_name:config_name". Support bracex expansion',
         type=str,
-        default=[],
+        default=["facebook/xnli:{bg,en,es,fr,de,hi,ru,zh,th,tr,vi}"],
         nargs="+",
     )
 
