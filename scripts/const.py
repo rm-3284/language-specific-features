@@ -343,6 +343,7 @@ prompt_templates = {
         "ru": "{premise} {hypothesis}",
         "tr": "{premise} {hypothesis}",
         "vi": "{premise} {hypothesis}",
+        "zh": "{premise} {hypothesis}",
     },
     "google-research-datasets/paws-x": {
         "en": "{sentence1}",
