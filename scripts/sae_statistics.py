@@ -123,6 +123,7 @@ def process_sae_features(
         top_act_index_per_token = zip(top_acts.squeeze(0), top_indices.squeeze(0))
 
         for token_index, (top_act, top_index) in enumerate(top_act_index_per_token):
+            print(type(top_act), type(top_index))
             if isinstance(top_act, float):
                 top_act = [top_act]
                 top_index = [top_index]
