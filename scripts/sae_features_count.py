@@ -136,6 +136,7 @@ def count_sae_features(
             flat_top_acts = top_acts.flatten()
 
             unique_feature_indices = torch.unique(flat_top_indices)
+            print(unique_feature_indices)
             over_zero_example[layer_index, unique_feature_indices] += 1
 
             ones = torch.ones_like(flat_top_indices, dtype=over_zero_token.dtype)
