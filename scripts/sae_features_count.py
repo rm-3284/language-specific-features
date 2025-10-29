@@ -42,7 +42,7 @@ def parse_args() -> Args:
         "--hidden-dim",
         help="hidden dimension of the model",
         type=int,
-        default=2304, # gemma-2-2b
+        default=16384, # gemma-2-2b
     )
 
     parser.add_argument(
