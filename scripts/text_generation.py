@@ -63,13 +63,14 @@ def parse_args() -> Args:
         "--in-dir",
         help="input directory",
         type=Path,
-        default=get_project_dir(),
+        default="/export/home/rmitsuhashi/CLT_output_language_features/src/data/sae_features",
     )
 
     parser.add_argument(
         "--in-path",
         help="input path",
         type=Path,
+        default="result.pt"
     )
 
     parser.add_argument(
@@ -83,6 +84,7 @@ def parse_args() -> Args:
         "--out-path",
         help="output path",
         type=Path,
+        default="text_generation/google/gemma-2-2b/gemma-scope-2b-pt-mlp-canonical/all"
     )
 
     parser.add_argument(
