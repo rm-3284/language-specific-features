@@ -496,6 +496,16 @@ hookpoint_to_layer = {
     "layers.13.mlp": 13,
     "layers.14.mlp": 14,
     "layers.15.mlp": 15,
+    "layers.16.mlp": 16,
+    "layers.17.mlp": 17,
+    "layers.18.mlp": 18,
+    "layers.19.mlp": 19,
+    "layers.20.mlp": 20,
+    "layers.21.mlp": 21,
+    "layers.22.mlp": 22,
+    "layers.23.mlp": 23,
+    "layers.24.mlp": 24,
+    "layers.25.mlp": 25,
 }
 
 mlp_to_index = {
@@ -515,6 +525,16 @@ mlp_to_index = {
     "model.layers.13.mlp": 13,
     "model.layers.14.mlp": 14,
     "model.layers.15.mlp": 15,
+    "model.layers.16.mlp": 16,
+    "model.layers.17.mlp": 17,
+    "model.layers.18.mlp": 18,
+    "model.layers.19.mlp": 19,
+    "model.layers.20.mlp": 20,
+    "model.layers.21.mlp": 21,
+    "model.layers.22.mlp": 22,
+    "model.layers.23.mlp": 23,
+    "model.layers.24.mlp": 24,
+    "model.layers.25.mlp": 25,
 }
 
 mlp_acts_to_index = {
@@ -534,6 +554,16 @@ mlp_acts_to_index = {
     "model.layers.13.mlp.act_fn": 13,
     "model.layers.14.mlp.act_fn": 14,
     "model.layers.15.mlp.act_fn": 15,
+    "model.layers.16.mlp.act_fn": 16,
+    "model.layers.17.mlp.act_fn": 17,
+    "model.layers.18.mlp.act_fn": 18,
+    "model.layers.19.mlp.act_fn": 19,
+    "model.layers.20.mlp.act_fn": 20,
+    "model.layers.21.mlp.act_fn": 21,
+    "model.layers.22.mlp.act_fn": 22,
+    "model.layers.23.mlp.act_fn": 23,
+    "model.layers.24.mlp.act_fn": 24,
+    "model.layers.25.mlp.act_fn": 25,
 }
 
 layer_to_index = {
