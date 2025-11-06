@@ -309,6 +309,7 @@ def main(args: Args):
     device = get_device()
     lape = torch.load(file_path, weights_only=False, map_location=device)
     sorted_lang = lape["sorted_lang"]
+    print(sorted_lang)
 
     # Generate texts for each language
     for lang in args["lang"]:
