@@ -70,7 +70,7 @@ def parse_args() -> Args:
         "--in-path",
         help="input path",
         type=Path,
-        default="result.pt"
+        default="result_largest.pt"
     )
 
     parser.add_argument(
